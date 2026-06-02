@@ -2,30 +2,35 @@
 
 import { ClientSnapshot } from "@/lib/types";
 
-const statusStyles: Record<string, string> = {
-  Complete: "bg-emerald-100 text-emerald-700",
-  "In progress": "bg-blue-100 text-blue-700",
-  "Not started": "bg-zinc-100 text-zinc-500",
+const statusConfig: Record<string, { bg: string; dot: string }> = {
+  Complete: { bg: "bg-emerald-50", dot: "bg-emerald-500" },
+  "In progress": { bg: "bg-blue-50", dot: "bg-blue-500" },
+  "Not started": { bg: "bg-zinc-50", dot: "bg-zinc-300" },
 };
 
 export function Roadmap({ snapshot }: { snapshot: ClientSnapshot }) {
   return (
-    <section className="mb-10">
-      <h2 className="text-lg font-bold text-zinc-900 mb-4">Roadmap</h2>
-      <div className="space-y-2">
-        {snapshot.roadmap.map((item, i) => (
-          <div
-            key={i}
-            className="flex items-center justify-between rounded-xl border border-zinc-200 bg-white px-5 py-3.5 shadow-sm"
-          >
-            <span className="text-sm text-zinc-700">{item.phase}</span>
-            <span
-              className={`text-xs font-medium px-2.5 py-1 rounded-full ${statusStyles[item.status] ?? statusStyles["Not started"]}`}
+    <section>
+      <h2 className="text-sm font-semibold text-zinc-900 mb-3">Roadmap</h2>
+      <div className="rounded-xl border border-zinc-200 bg-white shadow-sm overflow-hidden">
+        {snapshot.roadmap.map((item, i) => {
+          const cfg = statusConfig[item.status] ?? statusConfig["Not started"];
+          return (
+            <div
+              key={i}
+              className={`flex items-center gap-3 px-4 py-3 ${i !== snapshot.roadmap.length - 1 ? "border-b border-zinc-100" : ""}`}
             >
-              {item.status}
-            </span>
-          </div>
-        ))}
+              <div className={`h-2 w-2 rounded-full flex-shrink-0 ${cfg.dot}`} />
+              <span className="text-xs text-zinc-700 flex-1">{item.phase}</span>
+              <span className={`text-[10px] font-semibold px-2 py-0.5 rounded-full ${cfg.bg} ${
+                item.status === "Complete" ? "text-emerald-700" :
+                item.status === "In progress" ? "text-blue-700" : "text-zinc-500"
+              }`}>
+                {item.status}
+              </span>
+            </div>
+          );
+        })}
       </div>
     </section>
   );

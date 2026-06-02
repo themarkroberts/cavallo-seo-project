@@ -47,26 +47,34 @@ export function PerformanceChart({
   }));
 
   return (
-    <div className={small ? "mt-6" : "mt-0"}>
-      <h3 className={`font-semibold text-zinc-900 ${small ? "text-sm" : "text-base"}`}>{title}</h3>
-      {subtitle && <p className="text-xs text-zinc-400 mt-0.5">{subtitle}</p>}
-      <div className={small ? "h-48 mt-3" : "h-64 mt-3"}>
+    <div>
+      <div className="flex items-baseline gap-2 mb-2">
+        <h3 className={`font-semibold text-zinc-800 ${small ? "text-xs" : "text-sm"}`}>{title}</h3>
+        {subtitle && (
+          <span className="text-[10px] text-zinc-400">{subtitle}</span>
+        )}
+      </div>
+      <div className={`rounded-xl border border-zinc-200 bg-white p-3 shadow-sm ${small ? "h-44" : "h-56"}`}>
         <ResponsiveContainer width="100%" height="100%">
-          <ComposedChart data={merged} margin={{ top: 5, right: 10, left: 0, bottom: 5 }}>
+          <ComposedChart data={merged} margin={{ top: 5, right: 5, left: -10, bottom: 0 }}>
             <CartesianGrid strokeDasharray="3 3" stroke="#f4f4f5" />
             <XAxis
               dataKey="month"
-              tick={{ fontSize: 10, fill: "#a1a1aa" }}
+              tick={{ fontSize: 9, fill: "#a1a1aa" }}
               tickFormatter={(v) => {
                 const [y, m] = v.split("-");
                 return `${m}/${y.slice(2)}`;
               }}
-              interval={2}
+              interval={3}
+              axisLine={{ stroke: "#e4e4e7" }}
+              tickLine={false}
             />
             <YAxis
-              tick={{ fontSize: 10, fill: "#a1a1aa" }}
+              tick={{ fontSize: 9, fill: "#a1a1aa" }}
               tickFormatter={(v) => format(v)}
-              width={55}
+              width={50}
+              axisLine={false}
+              tickLine={false}
             />
             <Tooltip
               formatter={(value, name) => [
@@ -77,19 +85,25 @@ export function PerformanceChart({
                 const [y, m] = label.split("-");
                 return `${m}/${y}`;
               }}
-              contentStyle={{ fontSize: 12, borderRadius: 8, border: "1px solid #e4e4e7" }}
+              contentStyle={{
+                fontSize: 11,
+                borderRadius: 8,
+                border: "1px solid #e4e4e7",
+                boxShadow: "0 2px 8px rgba(0,0,0,0.06)",
+              }}
             />
             <Legend
-              wrapperStyle={{ fontSize: 11 }}
+              wrapperStyle={{ fontSize: 10, paddingTop: 4 }}
               formatter={(value) =>
                 value === "actual" ? "Actual" : value === "expected" ? "Expected trend" : "Prior year"
               }
+              iconSize={8}
             />
             <ReferenceLine
               x={projectStartMonth}
               stroke="#a855f7"
               strokeDasharray="4 4"
-              label={{ value: "Project start", fontSize: 10, fill: "#a855f7", position: "top" }}
+              strokeWidth={1}
             />
             <Area
               type="monotone"
@@ -99,21 +113,22 @@ export function PerformanceChart({
               strokeDasharray="6 3"
               dot={false}
               isAnimationActive={false}
+              strokeWidth={1}
             />
             <Line
               type="monotone"
               dataKey="yoy"
-              stroke="#a1a1aa"
+              stroke="#d4d4d8"
               strokeDasharray="3 3"
               dot={false}
-              strokeWidth={1.5}
+              strokeWidth={1}
               isAnimationActive={false}
             />
             <Line
               type="monotone"
               dataKey="actual"
               stroke={color}
-              strokeWidth={2.5}
+              strokeWidth={2}
               dot={false}
               isAnimationActive={false}
             />

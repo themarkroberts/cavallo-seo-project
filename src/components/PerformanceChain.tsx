@@ -11,32 +11,32 @@ export function PerformanceChain({
   projectStart: string;
 }) {
   return (
-    <section className="mb-10">
-      <h2 className="text-lg font-bold text-zinc-900 mb-1">Performance</h2>
-      <p className="text-xs text-zinc-500 mb-6">
-        The site begins from a multi-year declining base. Arresting the decline is the early goal — the shaded gap between actual and the expected trend shows the project&apos;s effect.
+    <section>
+      <h2 className="text-sm font-semibold text-zinc-900 mb-1">Performance</h2>
+      <p className="text-xs text-zinc-400 mb-5">
+        The site starts from a declining base. The gap between actual and the expected trend line shows the project&apos;s impact.
       </p>
 
-      <div className="space-y-8">
+      <div className="space-y-6">
         <PerformanceChart
-          title="Organic Visibility (Ahrefs)"
-          subtitle="Leading indicator — moves first"
+          title="Organic Visibility"
+          subtitle="Leading indicator"
           data={snapshot.visibility}
           projectStart={projectStart}
           color="#8b5cf6"
         />
 
         <PerformanceChart
-          title="Organic Sessions (GA4)"
-          subtitle="Mid-funnel — follows visibility with ~2 month lag"
+          title="Organic Sessions"
+          subtitle="Mid-funnel"
           data={snapshot.sessions}
           projectStart={projectStart}
           color="#3b82f6"
         />
 
         <PerformanceChart
-          title="Organic Revenue (GA4)"
-          subtitle="Lagging indicator — shown for context, not as a primary measure"
+          title="Organic Revenue"
+          subtitle="Lagging indicator"
           data={snapshot.revenue}
           projectStart={projectStart}
           color="#10b981"
