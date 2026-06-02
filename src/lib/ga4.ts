@@ -1,20 +1,7 @@
 import { google } from "googleapis";
 import type { ClientConfig } from "./clients";
 import type { MonthPoint } from "./types";
-
-function getAuth() {
-  const raw = process.env.GOOGLE_SERVICE_ACCOUNT_JSON;
-  if (!raw) return null;
-
-  const credentials = JSON.parse(
-    raw.includes("{") ? raw : Buffer.from(raw, "base64").toString("utf-8")
-  );
-
-  return new google.auth.GoogleAuth({
-    credentials,
-    scopes: ["https://www.googleapis.com/auth/analytics.readonly"],
-  });
-}
+import { getOAuth2Client } from "./google-auth";
 
 type GA4Result = {
   sessions: MonthPoint[];
@@ -22,9 +9,9 @@ type GA4Result = {
 };
 
 export async function fetchGA4Data(config: ClientConfig): Promise<GA4Result | null> {
-  const auth = getAuth();
+  const auth = getOAuth2Client();
   if (!auth) {
-    console.warn("GOOGLE_SERVICE_ACCOUNT_JSON not set — skipping GA4 fetch");
+    console.warn("Google OAuth credentials not set — skipping GA4 fetch");
     return null;
   }
 

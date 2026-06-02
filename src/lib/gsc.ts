@@ -1,19 +1,6 @@
 import { google } from "googleapis";
 import type { ClientConfig } from "./clients";
-
-function getAuth() {
-  const raw = process.env.GOOGLE_SERVICE_ACCOUNT_JSON;
-  if (!raw) return null;
-
-  const credentials = JSON.parse(
-    raw.includes("{") ? raw : Buffer.from(raw, "base64").toString("utf-8")
-  );
-
-  return new google.auth.GoogleAuth({
-    credentials,
-    scopes: ["https://www.googleapis.com/auth/webmasters.readonly"],
-  });
-}
+import { getOAuth2Client } from "./google-auth";
 
 type GSCPageMetrics = {
   page: string;
@@ -25,9 +12,9 @@ type GSCPageMetrics = {
 export async function fetchGSCPillarPages(
   config: ClientConfig
 ): Promise<GSCPageMetrics[] | null> {
-  const auth = getAuth();
+  const auth = getOAuth2Client();
   if (!auth) {
-    console.warn("GOOGLE_SERVICE_ACCOUNT_JSON not set — skipping GSC fetch");
+    console.warn("Google OAuth credentials not set — skipping GSC fetch");
     return null;
   }
 
