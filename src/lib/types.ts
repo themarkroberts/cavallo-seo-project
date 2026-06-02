@@ -6,7 +6,7 @@ export type ClientSnapshot = {
   sessions: MonthPoint[];
   revenue: MonthPoint[];
   targetKeywords: { keyword: string; position: number | null; prev: number | null }[];
-  competitor: { label: string; ourTraffic: number; theirTraffic: number };
+  competitors: { label: string; traffic: number }[];
   tasks: { name: string; status: string; due: string | null }[];
   roadmap: { phase: string; status: string }[];
   documents: { label: string; url: string }[];

@@ -66,27 +66,28 @@ export async function fetchAhrefsKeywords(
   }));
 }
 
-export async function fetchAhrefsCompetitor(
+export async function fetchAhrefsCompetitors(
   config: ClientConfig
-): Promise<{ label: string; ourTraffic: number; theirTraffic: number } | null> {
+): Promise<{ label: string; traffic: number }[] | null> {
   if (!process.env.AHREFS_API_TOKEN) return null;
 
-  const [ours, theirs] = await Promise.all([
-    ahrefsFetch("/site-explorer/metrics", {
-      target: config.ahrefs.target,
-      mode: config.ahrefs.mode,
-    }),
-    ahrefsFetch("/site-explorer/metrics", {
-      target: config.competitor.target,
-      mode: config.competitor.mode,
-    }),
-  ]);
+  const fetches = [
+    { label: config.name, target: config.ahrefs.target, mode: config.ahrefs.mode },
+    ...config.competitors.map((c) => ({ label: c.label, target: c.target, mode: c.mode })),
+  ];
 
-  if (!ours?.metrics || !theirs?.metrics) return null;
+  const results = await Promise.all(
+    fetches.map(async (f) => {
+      const data = await ahrefsFetch("/site-explorer/metrics", {
+        target: f.target,
+        mode: f.mode,
+      });
+      return {
+        label: f.label,
+        traffic: data?.metrics?.org_traffic ?? 0,
+      };
+    })
+  );
 
-  return {
-    label: config.competitor.label,
-    ourTraffic: ours.metrics.org_traffic ?? 0,
-    theirTraffic: theirs.metrics.org_traffic ?? 0,
-  };
+  return results.some((r) => r.traffic > 0) ? results : null;
 }

@@ -111,7 +111,13 @@ export const seedSnapshot = {
     { keyword: "endurance hoof boots", position: 20, prev: null },
     { keyword: "cavallo trek boots", position: 5, prev: 6 },
   ],
-  competitor: { label: "Scoot Boots", ourTraffic: 3414, theirTraffic: 5200 },
+  competitors: [
+    { label: "Cavallo Inc.", traffic: 3414 },
+    { label: "Scoot Boots", traffic: 4315 },
+    { label: "Renegade Hoof Boots", traffic: 1029 },
+    { label: "EasyCare", traffic: 2864 },
+    { label: "Softride Boots", traffic: 762 },
+  ],
   tasks: [
     { name: "Pillar page: Hoof Boot Sizing Guide", status: "In progress", due: "2026-06-15" },
     { name: "Technical audit fixes (round 1)", status: "Complete", due: "2026-06-01" },
