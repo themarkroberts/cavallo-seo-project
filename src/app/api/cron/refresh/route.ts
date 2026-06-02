@@ -2,6 +2,8 @@ import { NextRequest, NextResponse } from "next/server";
 import { getClient } from "@/lib/clients";
 import { getSnapshotFromKV, writeSnapshotToKV } from "@/lib/kv";
 import { fetchNotionTasks } from "@/lib/notion";
+import { fetchGA4Data } from "@/lib/ga4";
+import { fetchAhrefsVisibility, fetchAhrefsKeywords, fetchAhrefsCompetitor } from "@/lib/ahrefs";
 import { seedSnapshot } from "../../../../../data/cavallo-history";
 import type { ClientSnapshot } from "@/lib/types";
 
@@ -23,16 +25,34 @@ export async function GET(request: NextRequest) {
   const existing = await getSnapshotFromKV(clientSlug);
   const base = existing ?? (seedSnapshot as ClientSnapshot);
 
-  const tasks = await fetchNotionTasks(config);
+  const [tasks, ga4, visibility, competitor] = await Promise.all([
+    fetchNotionTasks(config),
+    fetchGA4Data(config),
+    fetchAhrefsVisibility(config),
+    fetchAhrefsCompetitor(config),
+  ]);
 
-  // TODO: Phase 3 — fetch GA4 sessions + revenue
-  // TODO: Phase 4 — fetch Ahrefs visibility + keywords + competitor
-  // TODO: Phase 5 — fetch GSC pillar-page data
+  const currentKeywords = base.targetKeywords.map((k) => k.keyword);
+  const keywords = await fetchAhrefsKeywords(config, currentKeywords);
+
+  const mergedKeywords = keywords
+    ? base.targetKeywords.map((existing) => {
+        const fresh = keywords.find((k) => k.keyword === existing.keyword);
+        return fresh
+          ? { ...fresh, prev: existing.position }
+          : existing;
+      })
+    : base.targetKeywords;
 
   const snapshot: ClientSnapshot = {
     ...base,
     lastUpdated: new Date().toISOString(),
     tasks: tasks.length > 0 ? tasks : base.tasks,
+    sessions: ga4?.sessions ?? base.sessions,
+    revenue: ga4?.revenue ?? base.revenue,
+    visibility: visibility ?? base.visibility,
+    targetKeywords: mergedKeywords,
+    competitor: competitor ?? base.competitor,
   };
 
   await writeSnapshotToKV(clientSlug, snapshot);
@@ -40,7 +60,13 @@ export async function GET(request: NextRequest) {
   return NextResponse.json({
     ok: true,
     client: clientSlug,
-    tasksUpdated: tasks.length,
     lastUpdated: snapshot.lastUpdated,
+    sources: {
+      notion: tasks.length > 0,
+      ga4: ga4 !== null,
+      ahrefs: visibility !== null,
+      keywords: keywords !== null,
+      competitor: competitor !== null,
+    },
   });
 }
