@@ -3,7 +3,7 @@ import { getClient } from "@/lib/clients";
 import { getSnapshotFromKV, writeSnapshotToKV } from "@/lib/kv";
 import { fetchNotionTasks } from "@/lib/notion";
 import { fetchGA4Data } from "@/lib/ga4";
-import { fetchAhrefsVisibility, fetchAhrefsKeywords, fetchAhrefsCompetitor } from "@/lib/ahrefs";
+import { fetchAhrefsVisibility, fetchAhrefsKeywords, fetchAhrefsCompetitors } from "@/lib/ahrefs";
 import { seedSnapshot } from "../../../../../data/cavallo-history";
 import type { ClientSnapshot } from "@/lib/types";
 
@@ -25,11 +25,11 @@ export async function GET(request: NextRequest) {
   const existing = await getSnapshotFromKV(clientSlug);
   const base = existing ?? (seedSnapshot as ClientSnapshot);
 
-  const [tasks, ga4, visibility, competitor] = await Promise.all([
+  const [tasks, ga4, visibility, competitors] = await Promise.all([
     fetchNotionTasks(config),
     fetchGA4Data(config),
     fetchAhrefsVisibility(config),
-    fetchAhrefsCompetitor(config),
+    fetchAhrefsCompetitors(config),
   ]);
 
   const currentKeywords = base.targetKeywords.map((k) => k.keyword);
@@ -52,7 +52,7 @@ export async function GET(request: NextRequest) {
     revenue: ga4?.revenue ?? base.revenue,
     visibility: visibility ?? base.visibility,
     targetKeywords: mergedKeywords,
-    competitor: competitor ?? base.competitor,
+    competitors: competitors ?? base.competitors,
   };
 
   await writeSnapshotToKV(clientSlug, snapshot);
@@ -66,7 +66,7 @@ export async function GET(request: NextRequest) {
       ga4: ga4 !== null,
       ahrefs: visibility !== null,
       keywords: keywords !== null,
-      competitor: competitor !== null,
+      competitors: competitors !== null,
     },
   });
 }

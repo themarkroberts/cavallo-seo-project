@@ -5,7 +5,7 @@ export type ClientConfig = {
   ga4PropertyId: string;
   gscSiteUrl: string;
   ahrefs: { target: string; mode: string };
-  competitor: { target: string; mode: string; label: string };
+  competitors: { target: string; mode: string; label: string }[];
   notion: {
     tasksDataSourceId: string;
     clientPageId: string;
@@ -26,7 +26,12 @@ export const clients: Record<string, ClientConfig> = {
     ga4PropertyId: "319655127",
     gscSiteUrl: "sc-domain:cavallo-inc.com",
     ahrefs: { target: "cavallo-inc.com", mode: "subdomains" },
-    competitor: { target: "scootboots.com", mode: "subdomains", label: "Scoot Boots" },
+    competitors: [
+      { target: "scootboots.com", mode: "subdomains", label: "Scoot Boots" },
+      { target: "renegadehoofboots.com", mode: "subdomains", label: "Renegade Hoof Boots" },
+      { target: "easycareinc.com", mode: "subdomains", label: "EasyCare" },
+      { target: "softrideboots.com", mode: "subdomains", label: "Softride Boots" },
+    ],
     notion: {
       tasksDataSourceId: "f786c417-f5cd-4c4f-bbfb-89a5a88edb7a",
       clientPageId: "326bed7c-ca7b-812e-b0a7-c7b7de8175f2",
