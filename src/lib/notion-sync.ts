@@ -48,9 +48,9 @@ export async function syncSnapshotToNotion(
 }
 
 const PILLAR_MAP: Record<string, string> = {
-  "pillar-hoof-boot-guide": "Hoof Boot Guide",
-  "pillar-hoof-health": "Hoof Health & Conditions",
-  "pillar-barefoot-care": "Barefoot Horse Care",
+  "pillar-1": "Hoof Boot Guide",
+  "pillar-2": "Hoof Health & Conditions",
+  "pillar-3": "Barefoot Horse Care",
 };
 
 async function syncKeywords(
@@ -66,7 +66,13 @@ async function syncKeywords(
   for (const kw of keywords) {
     const pageId = existingByTitle.get(kw.keyword);
     const pillar = kw.pillarId ? PILLAR_MAP[kw.pillarId] ?? null : null;
-    const status = kw.position ? "Ranking" : "Not Ranking";
+    const status = kw.position === null
+      ? "Not Ranking"
+      : kw.position <= 10
+        ? "Top 10"
+        : kw.position <= 30
+          ? "Striking Distance (11-30)"
+          : "Low Visibility (31-100)";
     const priority = kw.volume >= 1000 ? "High" : kw.volume >= 300 ? "Medium" : "Low";
 
     const properties: PageProperties = {
