@@ -51,7 +51,7 @@ export async function fetchAhrefsVisibility(
 export async function fetchAhrefsKeywords(
   config: ClientConfig,
   keywords: string[]
-): Promise<{ keyword: string; position: number | null; prev: number | null }[] | null> {
+): Promise<{ keyword: string; position: number | null; prev: number | null; rankingUrl: string | null }[] | null> {
   if (!process.env.AHREFS_API_TOKEN) return null;
 
   const whereFilter = JSON.stringify({
@@ -80,9 +80,18 @@ export async function fetchAhrefsKeywords(
   }));
 }
 
+export type CompetitorData = {
+  label: string;
+  traffic: number;
+  dr: number | null;
+  keywords: number | null;
+  top3: number | null;
+  trafficValue: number | null;
+};
+
 export async function fetchAhrefsCompetitors(
   config: ClientConfig
-): Promise<{ label: string; traffic: number }[] | null> {
+): Promise<CompetitorData[] | null> {
   if (!process.env.AHREFS_API_TOKEN) return null;
 
   const fetches = [
@@ -92,14 +101,24 @@ export async function fetchAhrefsCompetitors(
 
   const results = await Promise.all(
     fetches.map(async (f) => {
-      const data = await ahrefsFetch("/site-explorer/metrics", {
-        target: f.target,
-        mode: f.mode,
-        date: todayDate(),
-      });
+      const [metrics, drData] = await Promise.all([
+        ahrefsFetch("/site-explorer/metrics", {
+          target: f.target,
+          mode: f.mode,
+          date: todayDate(),
+        }),
+        ahrefsFetch("/site-explorer/domain-rating", {
+          target: f.target,
+          date: todayDate(),
+        }),
+      ]);
       return {
         label: f.label,
-        traffic: data?.metrics?.org_traffic ?? 0,
+        traffic: metrics?.metrics?.org_traffic ?? 0,
+        dr: drData?.domain_rating?.domain_rating ?? null,
+        keywords: metrics?.metrics?.org_keywords ?? null,
+        top3: metrics?.metrics?.org_keywords_1_3 ?? null,
+        trafficValue: metrics?.metrics?.org_cost != null ? Math.round(metrics.metrics.org_cost / 100) : null,
       };
     })
   );
