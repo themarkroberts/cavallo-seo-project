@@ -7,8 +7,14 @@ export type ClientConfig = {
   ahrefs: { target: string; mode: string };
   competitors: { target: string; mode: string; label: string }[];
   notion: {
-    tasksDataSourceId: string;
-    clientPageId: string;
+    dataSources?: {
+      tasks: string;
+      keywordTracking: string;
+      organicVisibility: string;
+      ga4Sessions: string;
+      ga4Revenue: string;
+      competitorTraffic: string;
+    };
   };
   baseline: {
     dr: number;
@@ -33,8 +39,14 @@ export const clients: Record<string, ClientConfig> = {
       { target: "softrideboots.com", mode: "subdomains", label: "Softride Boots" },
     ],
     notion: {
-      tasksDataSourceId: "f786c417-f5cd-4c4f-bbfb-89a5a88edb7a",
-      clientPageId: "326bed7c-ca7b-812e-b0a7-c7b7de8175f2",
+      dataSources: {
+        tasks: "ff3ec7b0-97d8-42a0-b323-5eb8badc3a1e",
+        keywordTracking: "ea4a93e0-42de-83ee-b480-07db102b5c76",
+        organicVisibility: "d33a93e0-42de-8390-b51b-87a4f969e86c",
+        ga4Sessions: "aeba93e0-42de-833d-8d16-0756b2693337",
+        ga4Revenue: "67fa93e0-42de-8252-9faf-07cd1f6a78ed",
+        competitorTraffic: "b7da93e0-42de-838e-bcc3-0769aa1d4492",
+      },
     },
     baseline: { dr: 48, orgKeywords: 236, refDomains: 573, backlinks: 6199 },
   },

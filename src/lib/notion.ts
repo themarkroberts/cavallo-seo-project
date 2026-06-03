@@ -14,17 +14,13 @@ export async function fetchNotionTasks(config: ClientConfig): Promise<NotionTask
     return [];
   }
 
+  const dataSourceId = config.notion.dataSources?.tasks;
+  if (!dataSourceId) return [];
+
   const notion = new Client({ auth: token });
-  const { tasksDataSourceId, clientPageId } = config.notion;
 
   const response = await notion.dataSources.query({
-    data_source_id: tasksDataSourceId,
-    filter: {
-      property: "Client",
-      relation: {
-        contains: clientPageId,
-      },
-    },
+    data_source_id: dataSourceId,
     sorts: [
       { property: "Due Date", direction: "ascending" },
     ],
