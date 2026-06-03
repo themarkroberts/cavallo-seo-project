@@ -40,7 +40,7 @@ export async function GET(request: NextRequest) {
     ? base.targetKeywords.map((existing) => {
         const fresh = keywords.find((k) => k.keyword === existing.keyword);
         return fresh
-          ? { ...existing, prev: existing.position, position: fresh.position }
+          ? { ...existing, prev: existing.position, position: fresh.position, currentRankingUrl: fresh.rankingUrl ?? existing.currentRankingUrl }
           : existing;
       })
     : base.targetKeywords;
