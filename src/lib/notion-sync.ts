@@ -68,23 +68,12 @@ async function syncKeywords(
     const pillar = kw.pillarId ? PILLAR_MAP[kw.pillarId] ?? null : null;
     const priority = kw.volume >= 1000 ? "High" : kw.volume >= 300 ? "Medium" : "Low";
 
-    const rankingStatus = !kw.position
-      ? "Not Ranked"
-      : kw.prev && kw.position < kw.prev
-        ? "Improved"
-        : kw.prev && kw.position > kw.prev
-          ? "Declined"
-          : kw.prev
-            ? "Ranked"
-            : "New";
-
     const properties: PageProperties = {
       Volume: { number: kw.volume },
       KD: { number: kw.kd },
       Position: kw.position ? { number: kw.position } : { number: null },
       "Prev Position": kw.prev ? { number: kw.prev } : { number: null },
       Priority: { select: { name: priority } },
-      "Ranking Status": { select: { name: rankingStatus } },
       "Ranking URL": kw.currentRankingUrl ? { url: kw.currentRankingUrl } : { url: null },
     };
 
