@@ -46,7 +46,7 @@ export type ClientSnapshot = {
   sessions: MonthPoint[];
   revenue: MonthPoint[];
   targetKeywords: KeywordDetail[];
-  competitors: { label: string; traffic: number }[];
+  competitors: { label: string; traffic: number; dr?: number | null; keywords?: number | null; top3?: number | null; trafficValue?: number | null }[];
   phases: PhaseDetail[];
   pillarPages: PillarPage[];
   documents: { label: string; url: string; category: string }[];

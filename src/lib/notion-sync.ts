@@ -138,7 +138,7 @@ async function syncTimeSeries(
 async function syncCompetitors(
   notion: Client,
   dataSourceId: string,
-  competitors: { label: string; traffic: number }[]
+  competitors: { label: string; traffic: number; dr?: number | null; keywords?: number | null; top3?: number | null; trafficValue?: number | null }[]
 ): Promise<boolean> {
   const existing = await queryAllPages(notion, dataSourceId);
   const existingByTitle = new Map(
@@ -150,6 +150,10 @@ async function syncCompetitors(
 
     const properties: PageProperties = {
       "Organic Traffic": { number: comp.traffic },
+      ...(comp.dr != null && { DR: { number: comp.dr } }),
+      ...(comp.keywords != null && { Keywords: { number: comp.keywords } }),
+      ...(comp.top3 != null && { "Top 3": { number: comp.top3 } }),
+      ...(comp.trafficValue != null && { "Traffic Value": { number: comp.trafficValue } }),
     };
 
     if (pageId) {
