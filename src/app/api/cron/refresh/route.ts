@@ -4,6 +4,7 @@ import { getSnapshotFromKV, writeSnapshotToKV } from "@/lib/kv";
 import { fetchNotionTasks } from "@/lib/notion";
 import { fetchGA4Data } from "@/lib/ga4";
 import { fetchAhrefsVisibility, fetchAhrefsKeywords, fetchAhrefsCompetitors } from "@/lib/ahrefs";
+import { syncSnapshotToNotion } from "@/lib/notion-sync";
 import { seedSnapshot } from "../../../../../data/cavallo-history";
 import type { ClientSnapshot } from "@/lib/types";
 
@@ -67,6 +68,8 @@ export async function GET(request: NextRequest) {
 
   await writeSnapshotToKV(clientSlug, snapshot);
 
+  const notionSync = await syncSnapshotToNotion(config, snapshot);
+
   return NextResponse.json({
     ok: true,
     client: clientSlug,
@@ -78,5 +81,6 @@ export async function GET(request: NextRequest) {
       keywords: keywords !== null,
       competitors: competitors !== null,
     },
+    notionSync,
   });
 }

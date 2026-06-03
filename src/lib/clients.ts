@@ -9,6 +9,13 @@ export type ClientConfig = {
   notion: {
     tasksDataSourceId: string;
     clientPageId: string;
+    dataSources?: {
+      keywordTracking: string;
+      organicVisibility: string;
+      ga4Sessions: string;
+      ga4Revenue: string;
+      competitorTraffic: string;
+    };
   };
   baseline: {
     dr: number;
@@ -35,6 +42,13 @@ export const clients: Record<string, ClientConfig> = {
     notion: {
       tasksDataSourceId: "f786c417-f5cd-4c4f-bbfb-89a5a88edb7a",
       clientPageId: "326bed7c-ca7b-812e-b0a7-c7b7de8175f2",
+      dataSources: {
+        keywordTracking: "ea4a93e0-42de-83ee-b480-07db102b5c76",
+        organicVisibility: "d33a93e0-42de-8390-b51b-87a4f969e86c",
+        ga4Sessions: "aeba93e0-42de-833d-8d16-0756b2693337",
+        ga4Revenue: "67fa93e0-42de-8252-9faf-07cd1f6a78ed",
+        competitorTraffic: "b7da93e0-42de-838e-bcc3-0769aa1d4492",
+      },
     },
     baseline: { dr: 48, orgKeywords: 236, refDomains: 573, backlinks: 6199 },
   },
