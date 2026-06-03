@@ -29,5 +29,9 @@ export async function writeSnapshotToKV(clientSlug: string, snapshot: ClientSnap
     return;
   }
 
-  await kv.set(`snapshot:${clientSlug}`, snapshot);
+  try {
+    await kv.set(`snapshot:${clientSlug}`, snapshot);
+  } catch (e) {
+    console.warn("KV write failed — snapshot not persisted:", e);
+  }
 }

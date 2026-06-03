@@ -3,6 +3,10 @@ import type { MonthPoint } from "./types";
 
 const API_BASE = "https://api.ahrefs.com/v3";
 
+function todayDate(): string {
+  return new Date().toISOString().slice(0, 10);
+}
+
 async function ahrefsFetch(path: string, params: Record<string, string>) {
   const token = process.env.AHREFS_API_TOKEN;
   if (!token) return null;
@@ -17,7 +21,8 @@ async function ahrefsFetch(path: string, params: Record<string, string>) {
   });
 
   if (!res.ok) {
-    console.error(`Ahrefs API error: ${res.status} ${res.statusText}`);
+    const body = await res.text().catch(() => "");
+    console.error(`Ahrefs API error: ${res.status} ${res.statusText} — ${body}`);
     return null;
   }
 
@@ -49,20 +54,29 @@ export async function fetchAhrefsKeywords(
 ): Promise<{ keyword: string; position: number | null; prev: number | null }[] | null> {
   if (!process.env.AHREFS_API_TOKEN) return null;
 
+  const whereFilter = JSON.stringify({
+    or: keywords.map((k) => ({
+      field: "keyword",
+      is: ["eq", k],
+    })),
+  });
+
   const data = await ahrefsFetch("/site-explorer/organic-keywords", {
     target: config.ahrefs.target,
     mode: config.ahrefs.mode,
-    select: "keyword,position",
+    select: "keyword,best_position,best_position_url",
     limit: "1000",
-    where: `keyword IN (${keywords.map((k) => `"${k}"`).join(",")})`,
+    date: todayDate(),
+    where: whereFilter,
   });
 
   if (!data?.keywords) return null;
 
-  return data.keywords.map((row: { keyword: string; position: number }) => ({
+  return data.keywords.map((row: { keyword: string; best_position: number | null; best_position_url: string | null }) => ({
     keyword: row.keyword,
-    position: row.position,
+    position: row.best_position ?? null,
     prev: null,
+    rankingUrl: row.best_position_url ?? null,
   }));
 }
 
@@ -81,6 +95,7 @@ export async function fetchAhrefsCompetitors(
       const data = await ahrefsFetch("/site-explorer/metrics", {
         target: f.target,
         mode: f.mode,
+        date: todayDate(),
       });
       return {
         label: f.label,
