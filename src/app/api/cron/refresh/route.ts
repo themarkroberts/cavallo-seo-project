@@ -25,7 +25,7 @@ export async function GET(request: NextRequest) {
   const existing = await getSnapshotFromKV(clientSlug);
   const base = existing ?? (seedSnapshot as ClientSnapshot);
 
-  const [tasks, ga4, visibility, competitors] = await Promise.all([
+  const [notionTasks, ga4, visibility, competitors] = await Promise.all([
     fetchNotionTasks(config),
     fetchGA4Data(config),
     fetchAhrefsVisibility(config),
@@ -39,15 +39,25 @@ export async function GET(request: NextRequest) {
     ? base.targetKeywords.map((existing) => {
         const fresh = keywords.find((k) => k.keyword === existing.keyword);
         return fresh
-          ? { ...fresh, prev: existing.position }
+          ? { ...existing, prev: existing.position, position: fresh.position }
           : existing;
       })
     : base.targetKeywords;
 
+  const updatedPhases = notionTasks.length > 0
+    ? base.phases.map((phase) => ({
+        ...phase,
+        tasks: phase.tasks.map((task) => {
+          const match = notionTasks.find((nt) => nt.name === task.name);
+          return match ? { ...task, status: match.status, due: match.due ?? task.due } : task;
+        }),
+      }))
+    : base.phases;
+
   const snapshot: ClientSnapshot = {
     ...base,
     lastUpdated: new Date().toISOString(),
-    tasks: tasks.length > 0 ? tasks : base.tasks,
+    phases: updatedPhases,
     sessions: ga4?.sessions ?? base.sessions,
     revenue: ga4?.revenue ?? base.revenue,
     visibility: visibility ?? base.visibility,
@@ -62,7 +72,7 @@ export async function GET(request: NextRequest) {
     client: clientSlug,
     lastUpdated: snapshot.lastUpdated,
     sources: {
-      notion: tasks.length > 0,
+      notion: notionTasks.length > 0,
       ga4: ga4 !== null,
       ahrefs: visibility !== null,
       keywords: keywords !== null,
