@@ -1,4 +1,5 @@
 import { MonthPoint } from "@/lib/types";
+import type { ClientSnapshot } from "@/lib/types";
 
 export const ga4Sessions: MonthPoint[] = [
   { month: "2024-01", value: 8104 },
@@ -96,20 +97,210 @@ export const ahrefsVisibility: MonthPoint[] = [
   { month: "2026-05", value: 3414 },
 ];
 
-export const seedSnapshot = {
-  lastUpdated: "2026-06-01T00:00:00Z",
+export const seedSnapshot: ClientSnapshot = {
+  lastUpdated: "2026-06-03T00:00:00Z",
   visibility: ahrefsVisibility,
   sessions: ga4Sessions,
   revenue: ga4Revenue,
   targetKeywords: [
-    { keyword: "hoof boots", position: 18, prev: 22 },
-    { keyword: "horse hoof boots", position: 12, prev: 15 },
-    { keyword: "cavallo horse boots", position: 3, prev: 4 },
-    { keyword: "trail riding hoof boots", position: 24, prev: null },
-    { keyword: "hoof boot sizing", position: 8, prev: 11 },
-    { keyword: "bare hoof horse boots", position: 15, prev: 19 },
-    { keyword: "endurance hoof boots", position: 20, prev: null },
-    { keyword: "cavallo trek boots", position: 5, prev: 6 },
+    {
+      id: "kw-1",
+      keyword: "hoof boots",
+      volume: 1100,
+      kd: 5,
+      position: 18,
+      prev: 22,
+      pillarId: "pillar-1",
+      currentRankingUrl: "/collections/horse-hoof-boots",
+      history: [
+        { month: "2026-01", position: 25 },
+        { month: "2026-02", position: 24 },
+        { month: "2026-03", position: 22 },
+        { month: "2026-04", position: 22 },
+        { month: "2026-05", position: 22 },
+        { month: "2026-06", position: 18 },
+      ],
+    },
+    {
+      id: "kw-2",
+      keyword: "horse hoof boots",
+      volume: 900,
+      kd: 2,
+      position: 12,
+      prev: 15,
+      pillarId: "pillar-1",
+      currentRankingUrl: "/collections/horse-hoof-boots",
+      history: [
+        { month: "2026-01", position: 19 },
+        { month: "2026-02", position: 18 },
+        { month: "2026-03", position: 16 },
+        { month: "2026-04", position: 15 },
+        { month: "2026-05", position: 15 },
+        { month: "2026-06", position: 12 },
+      ],
+    },
+    {
+      id: "kw-3",
+      keyword: "hoof boots for horses",
+      volume: 500,
+      kd: 12,
+      position: null,
+      prev: null,
+      pillarId: "pillar-1",
+      currentRankingUrl: null,
+      history: [
+        { month: "2026-01", position: null },
+        { month: "2026-02", position: null },
+        { month: "2026-03", position: null },
+        { month: "2026-04", position: null },
+        { month: "2026-05", position: null },
+        { month: "2026-06", position: null },
+      ],
+    },
+    {
+      id: "kw-4",
+      keyword: "cavallo hoof boots",
+      volume: 500,
+      kd: 0,
+      position: 3,
+      prev: 4,
+      pillarId: "pillar-1",
+      currentRankingUrl: "/",
+      history: [
+        { month: "2026-01", position: 5 },
+        { month: "2026-02", position: 5 },
+        { month: "2026-03", position: 4 },
+        { month: "2026-04", position: 4 },
+        { month: "2026-05", position: 4 },
+        { month: "2026-06", position: 3 },
+      ],
+    },
+    {
+      id: "kw-5",
+      keyword: "hoof boot sizing",
+      volume: 100,
+      kd: 5,
+      position: 8,
+      prev: 11,
+      pillarId: "pillar-1",
+      currentRankingUrl: "/pages/sizing-chart",
+      history: [
+        { month: "2026-01", position: 14 },
+        { month: "2026-02", position: 13 },
+        { month: "2026-03", position: 12 },
+        { month: "2026-04", position: 11 },
+        { month: "2026-05", position: 11 },
+        { month: "2026-06", position: 8 },
+      ],
+    },
+    {
+      id: "kw-6",
+      keyword: "laminitis in horses",
+      volume: 4500,
+      kd: 11,
+      position: null,
+      prev: null,
+      pillarId: "pillar-2",
+      currentRankingUrl: null,
+      history: [
+        { month: "2026-01", position: null },
+        { month: "2026-02", position: null },
+        { month: "2026-03", position: null },
+        { month: "2026-04", position: null },
+        { month: "2026-05", position: null },
+        { month: "2026-06", position: null },
+      ],
+    },
+    {
+      id: "kw-7",
+      keyword: "horse hoof anatomy",
+      volume: 2500,
+      kd: 8,
+      position: null,
+      prev: null,
+      pillarId: "pillar-2",
+      currentRankingUrl: null,
+      history: [
+        { month: "2026-01", position: null },
+        { month: "2026-02", position: null },
+        { month: "2026-03", position: null },
+        { month: "2026-04", position: null },
+        { month: "2026-05", position: null },
+        { month: "2026-06", position: null },
+      ],
+    },
+    {
+      id: "kw-8",
+      keyword: "horse boots for laminitis",
+      volume: 100,
+      kd: 0,
+      position: 24,
+      prev: null,
+      pillarId: "pillar-2",
+      currentRankingUrl: "/product/cavallo-clb-cute-little-boot",
+      history: [
+        { month: "2026-01", position: null },
+        { month: "2026-02", position: null },
+        { month: "2026-03", position: 30 },
+        { month: "2026-04", position: 28 },
+        { month: "2026-05", position: null },
+        { month: "2026-06", position: 24 },
+      ],
+    },
+    {
+      id: "kw-9",
+      keyword: "how do wild horses maintain their hooves",
+      volume: 700,
+      kd: 5,
+      position: null,
+      prev: null,
+      pillarId: "pillar-3",
+      currentRankingUrl: null,
+      history: [
+        { month: "2026-01", position: null },
+        { month: "2026-02", position: null },
+        { month: "2026-03", position: null },
+        { month: "2026-04", position: null },
+        { month: "2026-05", position: null },
+        { month: "2026-06", position: null },
+      ],
+    },
+    {
+      id: "kw-10",
+      keyword: "barefoot horse trim",
+      volume: 80,
+      kd: 0,
+      position: null,
+      prev: null,
+      pillarId: "pillar-3",
+      currentRankingUrl: null,
+      history: [
+        { month: "2026-01", position: null },
+        { month: "2026-02", position: null },
+        { month: "2026-03", position: null },
+        { month: "2026-04", position: null },
+        { month: "2026-05", position: null },
+        { month: "2026-06", position: null },
+      ],
+    },
+    {
+      id: "kw-11",
+      keyword: "cavallo trek boots",
+      volume: 200,
+      kd: 0,
+      position: 5,
+      prev: 6,
+      pillarId: "pillar-1",
+      currentRankingUrl: "/product/trek-regular-sole-hoof-boot",
+      history: [
+        { month: "2026-01", position: 8 },
+        { month: "2026-02", position: 7 },
+        { month: "2026-03", position: 7 },
+        { month: "2026-04", position: 6 },
+        { month: "2026-05", position: 6 },
+        { month: "2026-06", position: 5 },
+      ],
+    },
   ],
   competitors: [
     { label: "Cavallo Inc.", traffic: 3414 },
@@ -118,31 +309,336 @@ export const seedSnapshot = {
     { label: "EasyCare", traffic: 2864 },
     { label: "Softride Boots", traffic: 762 },
   ],
-  tasks: [
-    { name: "Pillar page: Hoof Boot Sizing Guide", status: "In progress", due: "2026-06-15" },
-    { name: "Technical audit fixes (round 1)", status: "Complete", due: "2026-06-01" },
-    { name: "Internal linking restructure", status: "In progress", due: "2026-06-20" },
-    { name: "Collection page optimisation", status: "Not started", due: "2026-06-30" },
-    { name: "Blog content calendar (Q3)", status: "In progress", due: "2026-06-10" },
+  phases: [
+    {
+      id: "phase-1",
+      title: "Foundation",
+      month: "June 2026",
+      status: "In progress",
+      description:
+        "The foundation phase establishes the architecture everything else builds on. Three pillar pages go live — each researched through Ahrefs keyword data and written to capture both traditional search and AI-generated answers. The internal linking framework ensures every page on the site connects logically. A full content audit identifies which of the 300+ existing pages can be repurposed vs. need to be created from scratch.",
+      outcome:
+        "Site out of holding pattern. Team can resume publishing into the new content architecture.",
+      teamRole:
+        "Review pillar copy, supply customer service and FAQ themes, prepare Carole’s Laminitis draft for Phase 2.",
+      tasks: [
+        {
+          name: "Ahrefs keyword research — 3 pillars",
+          status: "Complete",
+          due: "2026-06-13",
+          description:
+            "86 keywords mapped across three pillars with volume, KD, and intent tags",
+        },
+        {
+          name: "Capture pre-project baseline",
+          status: "Complete",
+          due: "2026-06-03",
+          description:
+            "Fixed benchmark from Ahrefs, GSC, and GA4 — the Phase 6 report measures against this",
+        },
+        {
+          name: "Write Pillar 1: Hoof Boot Guide",
+          status: "In progress",
+          due: "2026-06-20",
+          description:
+            "The commercial spine — targets ‘hoof boots’ (1,100/mo), ‘horse hoof boots’ (900/mo), and related terms",
+        },
+        {
+          name: "Write Pillar 2: Hoof Health & Conditions",
+          status: "In progress",
+          due: "2026-06-25",
+          description:
+            "Highest-volume pillar targeting ‘laminitis’ (5,500/mo), ‘horse hoof anatomy’ (2,500/mo), and condition spokes",
+        },
+        {
+          name: "Write Pillar 3: Barefoot Horse Care",
+          status: "Not started",
+          due: "2026-06-28",
+          description:
+            "Credibility pillar anchored on ‘how do wild horses maintain their hooves’ (700/mo)",
+        },
+        {
+          name: "Internal linking framework",
+          status: "Not started",
+          due: "2026-06-30",
+          description:
+            "Design and document how pillar pages, spokes, product pages, and collection pages link to each other",
+        },
+        {
+          name: "Content audit + repurposing map",
+          status: "Not started",
+          due: "2026-06-30",
+          description:
+            "Audit all 300+ existing pages — tag for keep/update/merge/redirect/delete",
+        },
+        {
+          name: "FAQ schema on pillar pages",
+          status: "Not started",
+          due: "2026-06-30",
+          description:
+            "Structured data for AI-generated answer citations",
+        },
+      ],
+    },
+    {
+      id: "phase-2",
+      title: "Laminitis Guide + Categories Locked",
+      month: "July 2026",
+      status: "Not started",
+      description:
+        "Carole’s existing laminitis draft gets SEO-optimised and connected into the Hoof Health pillar. This is the highest-volume single topic (laminitis cluster = ~10,000 monthly US searches) and almost every SERP has an AI Overview — well-structured answers win citations. Simultaneously, the shop category scheme gets finalised, which gates the Phase 3 navigation rebuild.",
+      outcome:
+        "Laminitis guide live and ranking. Shop categories locked and ready for the nav funnel build.",
+      teamRole:
+        "Review the optimised laminitis guide, work category edge cases, sign off acute-laminitis positioning, draft category descriptions.",
+      tasks: [
+        {
+          name: "Optimise Carole’s laminitis guide",
+          status: "Not started",
+          due: "2026-07-15",
+          description:
+            "SEO-optimise into the Hoof Health pillar with schema and internal links",
+        },
+        {
+          name: "Finalise shop category scheme",
+          status: "Not started",
+          due: "2026-07-20",
+          description:
+            "Lock the 5 categories: donkey, mini, draft, horse, acute laminitis",
+        },
+        {
+          name: "Lock acute-laminitis positioning",
+          status: "Not started",
+          due: "2026-07-25",
+          description:
+            "Confirm floating-toe boot positioning and category copy",
+        },
+        {
+          name: "Draft category descriptions",
+          status: "Not started",
+          due: "2026-07-31",
+        },
+      ],
+    },
+    {
+      id: "phase-3",
+      title: "Shop Nav Funnel Live",
+      month: "August 2026",
+      status: "Not started",
+      description:
+        "The shop navigation gets rebuilt around how customers actually think — by animal type and by condition, not by product name. Five category landing pages go live with full SEO. The old shop page redirects to the new structure. This is the biggest single workstream (28 hours estimated) and the change most visible to customers.",
+      outcome:
+        "Need-based shop entry live. Old shop page redirected. Mobile-optimised funnel tested.",
+      teamRole:
+        "Finalise category descriptions, confirm product-to-category mapping, test the funnel, plan newsletter feature, identify boot-to-accessory pairings.",
+      tasks: [
+        {
+          name: "Build need-based shop entry",
+          status: "Not started",
+          due: "2026-08-10",
+          description:
+            "Entry by animal type (horse, donkey, mini, draft) and by condition (laminitis, trail, turnout)",
+        },
+        {
+          name: "5 category landing pages with SEO",
+          status: "Not started",
+          due: "2026-08-20",
+        },
+        {
+          name: "Redirect old shop page",
+          status: "Not started",
+          due: "2026-08-22",
+        },
+        {
+          name: "Update internal links to new structure",
+          status: "Not started",
+          due: "2026-08-25",
+        },
+        {
+          name: "Mobile optimisation pass",
+          status: "Not started",
+          due: "2026-08-31",
+        },
+      ],
+    },
+    {
+      id: "phase-4",
+      title: "Product Page Overhaul",
+      month: "September 2026",
+      status: "Not started",
+      description:
+        "Product pages get reworked for conversion. Cross-sell recommendations flip from competing boots (which confuses buyers) to companion accessories. Functional copy gets corrected — soles are identical across regular sizes, but the current pages don’t explain this clearly. The acute-laminitis boot gets properly differentiated with its patented floating-toe design.",
+      outcome:
+        "Product pages convert better. Cross-sell drives accessory revenue. Acute-laminitis boot properly positioned.",
+      teamRole:
+        "Review product descriptions, train customer service on updated copy, refresh ad and affiliate creative, supply FAQ themes.",
+      tasks: [
+        {
+          name: "Flip cross-sell to companion accessories",
+          status: "Not started",
+          due: "2026-09-10",
+        },
+        {
+          name: "Correct functional copy (sole facts)",
+          status: "Not started",
+          due: "2026-09-15",
+        },
+        {
+          name: "Differentiate acute-laminitis boot",
+          status: "Not started",
+          due: "2026-09-20",
+        },
+        {
+          name: "Product-page SEO cleanup",
+          status: "Not started",
+          due: "2026-09-25",
+        },
+        {
+          name: "Schema markup on product pages",
+          status: "Not started",
+          due: "2026-09-30",
+        },
+      ],
+    },
+    {
+      id: "phase-5",
+      title: "Hoof Health Spokes",
+      month: "October 2026",
+      status: "Not started",
+      description:
+        "The Cavallo team writes 5–6 spoke articles for the Hoof Health pillar from keyword briefs Mark supplies. Each spoke targets a specific condition (DSLD, thrush, white line disease, navicular, etc.) and links back to the pillar page and relevant products. Mark does an SEO-optimisation pass on each before publication. A mid-project measurement check compares against the June baseline.",
+      outcome:
+        "Hoof Health hub populated with authoritative spoke content. Mid-project metrics visible.",
+      teamRole:
+        "Write spoke articles at usual cadence, run content and social push around the hub.",
+      tasks: [
+        {
+          name: "Supply keyword briefs for spokes",
+          status: "Not started",
+          due: "2026-10-05",
+        },
+        {
+          name: "Team writes 5-6 spoke articles",
+          status: "Not started",
+          due: "2026-10-20",
+        },
+        {
+          name: "SEO optimisation pass on each spoke",
+          status: "Not started",
+          due: "2026-10-25",
+        },
+        {
+          name: "Mid-project measurement check",
+          status: "Not started",
+          due: "2026-10-31",
+        },
+      ],
+    },
+    {
+      id: "phase-6",
+      title: "Remaining Spokes + Measurement",
+      month: "November 2026",
+      status: "Not started",
+      description:
+        "The final sprint publishes the Hoof Boot Guide and Barefoot Horse Care spoke sets, completes a full internal-linking pass across all content, and delivers the measurement report comparing current metrics against the June baseline. Architecture and linking rules get documented so the team can maintain the structure independently after the project ends.",
+      outcome:
+        "All spoke content live. Full measurement report delivered. Team has documentation to maintain independently.",
+      teamRole:
+        "Continue publishing at cadence. Review measurement report with Mark.",
+      tasks: [
+        {
+          name: "Publish remaining spoke sets",
+          status: "Not started",
+          due: "2026-11-10",
+        },
+        {
+          name: "Full internal-linking pass",
+          status: "Not started",
+          due: "2026-11-15",
+        },
+        {
+          name: "Measurement report vs baseline",
+          status: "Not started",
+          due: "2026-11-25",
+        },
+        {
+          name: "Document architecture and linking rules",
+          status: "Not started",
+          due: "2026-11-30",
+        },
+      ],
+    },
   ],
-  roadmap: [
-    { phase: "Phase 1: Foundation & Technical Audit", status: "Complete" },
-    { phase: "Phase 2: Content Strategy & Pillar Pages", status: "In progress" },
-    { phase: "Phase 3: On-Page Optimisation", status: "Not started" },
-    { phase: "Phase 4: Link Building & Authority", status: "Not started" },
-    { phase: "Phase 5: Conversion Optimisation", status: "Not started" },
-    { phase: "Phase 6: Scale & Maintain", status: "Not started" },
+  pillarPages: [
+    {
+      id: "pillar-1",
+      title: "The Hoof Boot Guide",
+      url: null,
+      status: "In progress",
+      description:
+        "The commercial spine of the content strategy. This comprehensive guide targets the highest-intent search terms — people actively looking for hoof boots. It covers what they are, types and use cases, sizing, and comparisons. Every product page links back here, and this page routes to the shop.",
+      intent: "Commercial-informational hub",
+      keywordIds: ["kw-1", "kw-2", "kw-3", "kw-4", "kw-5"],
+    },
+    {
+      id: "pillar-2",
+      title: "Hoof Health & Conditions",
+      url: null,
+      status: "In progress",
+      description:
+        "The highest-volume pillar and the trust engine. This page establishes Cavallo as an authority on hoof health — not just a boot seller. It targets the massive laminitis search cluster (10,000+ monthly searches) and bridges to the patented acute-laminitis boot that competitors can’t match.",
+      intent: "Authority + AI-answer pillar",
+      keywordIds: ["kw-6", "kw-7", "kw-8"],
+    },
+    {
+      id: "pillar-3",
+      title: "Barefoot Horse Care",
+      url: null,
+      status: "Planned",
+      description:
+        "The credibility pillar, anchored on the wild-horse self-trimming model. Scoot Boots’ single biggest content winner is ‘how do wild horses maintain their hooves’ — this is a direct content gap for Cavallo to take. Bridges to the boot range as protection for barefoot horses on rough terrain.",
+      intent: "Credibility + AI-answer pillar",
+      keywordIds: ["kw-9", "kw-10", "kw-11"],
+    },
   ],
   documents: [
-    { label: "SEO Strategy Document", url: "#" },
-    { label: "Technical Audit Report", url: "#" },
-    { label: "Keyword Research", url: "#" },
-    { label: "Content Calendar", url: "#" },
+    { label: "SEO Strategy Document", url: "#", category: "Strategy" },
+    { label: "Keyword Research — 3 Pillars", url: "#", category: "Research" },
+    { label: "Content Audit Report", url: "#", category: "Audit" },
+    { label: "Technical Audit Report", url: "#", category: "Audit" },
+    { label: "Meta Ads Audit", url: "#", category: "Audit" },
+    { label: "Content Calendar", url: "#", category: "Planning" },
+    { label: "Pillar Keyword Map (CSV)", url: "#", category: "Research" },
+    { label: "Project Hub (Notion)", url: "#", category: "Planning" },
   ],
   nextSteps: [
-    "Complete hoof boot sizing pillar page and publish",
-    "Finish internal linking restructure across collection pages",
-    "Begin on-page optimisation for top 10 collection pages",
-    "Prepare link-building outreach list for equestrian publications",
+    "Complete and publish the Hoof Boot Guide pillar page (Pillar 1)",
+    "Complete and publish the Hoof Health & Conditions pillar page (Pillar 2)",
+    "Begin writing the Barefoot Horse Care pillar page (Pillar 3)",
+    "Design and document the internal linking framework",
+    "Complete the content audit across all 300+ existing pages",
   ],
+  projectContext: {
+    summary:
+      "A six-month SEO and shop restructure project to reverse Cavallo’s organic traffic decline, build topical authority through pillar content, and restructure the shop navigation to convert visitors into buyers. The site starts from a multi-year decline in organic visibility — arresting and reversing that decline is the early goal.",
+    goals: [
+      "Build topical authority with three pillar pages targeting 22,000+ monthly US searches in hoof health topics",
+      "Restructure shop navigation with a need-based entry funnel (by animal type, by condition)",
+      "Overhaul product pages with proper cross-selling, functional copy, and schema markup",
+      "Capture organic traffic that competitor Scoot Boots currently wins through educational content",
+      "Establish Cavallo as the authoritative voice in hoof care — not just a boot seller",
+    ],
+    approach:
+      "The strategy follows a pillar-and-spoke content model, validated by competitor analysis. Scoot Boots (comparable Domain Rating) drives most of its organic traffic through educational blog content, not product pages. Cavallo’s advantage is a product range Scoot can’t match: the donkey boot, the draft/BFB, and the patented acute-laminitis floating-toe boot. Three pillar pages route traffic to these exclusives.",
+    timeline: "June–November 2026 (6 months), one phase per month",
+    baseline: {
+      dr: 48,
+      orgKeywords: 236,
+      orgTraffic: 3069,
+      refDomains: 573,
+      backlinks: 6199,
+      monthlyRevenue: 31981,
+      monthlySessions: 5565,
+    },
+  },
 };
