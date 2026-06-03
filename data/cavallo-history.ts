@@ -386,21 +386,21 @@ export const seedSnapshot: ClientSnapshot = {
       month: "July 2026",
       status: "Not started",
       description:
-        "Carole’s existing laminitis draft gets SEO-optimised and connected into the Hoof Health pillar. This is the highest-volume single topic (laminitis cluster = ~10,000 monthly US searches) and almost every SERP has an AI Overview — well-structured answers win citations. Simultaneously, the shop category scheme gets finalised, which gates the Phase 3 navigation rebuild.",
+        "Carole’s existing laminitis draft gets SEO-optimized and connected into the Hoof Health pillar. This is the highest-volume single topic (laminitis cluster = ~10,000 monthly US searches) and almost every SERP has an AI Overview — well-structured answers win citations. Simultaneously, the shop category scheme gets finalized, which gates the Phase 3 navigation rebuild.",
       outcome:
         "Laminitis guide live and ranking. Shop categories locked and ready for the nav funnel build.",
       teamRole:
-        "Review the optimised laminitis guide, work category edge cases, sign off acute-laminitis positioning, draft category descriptions.",
+        "Review the optimized laminitis guide, work category edge cases, sign off acute-laminitis positioning, draft category descriptions.",
       tasks: [
         {
-          name: "Optimise Carole’s laminitis guide",
+          name: "Optimize Carole’s laminitis guide",
           status: "Not started",
           due: "2026-07-15",
           description:
-            "SEO-optimise into the Hoof Health pillar with schema and internal links",
+            "SEO-optimize into the Hoof Health pillar with schema and internal links",
         },
         {
-          name: "Finalise shop category scheme",
+          name: "Finalize shop category scheme",
           status: "Not started",
           due: "2026-07-20",
           description:
@@ -428,9 +428,9 @@ export const seedSnapshot: ClientSnapshot = {
       description:
         "The shop navigation gets rebuilt around how customers actually think — by animal type and by condition, not by product name. Five category landing pages go live with full SEO. The old shop page redirects to the new structure. This is the biggest single workstream (28 hours estimated) and the change most visible to customers.",
       outcome:
-        "Need-based shop entry live. Old shop page redirected. Mobile-optimised funnel tested.",
+        "Need-based shop entry live. Old shop page redirected. Mobile-optimized funnel tested.",
       teamRole:
-        "Finalise category descriptions, confirm product-to-category mapping, test the funnel, plan newsletter feature, identify boot-to-accessory pairings.",
+        "Finalize category descriptions, confirm product-to-category mapping, test the funnel, plan newsletter feature, identify boot-to-accessory pairings.",
       tasks: [
         {
           name: "Build need-based shop entry",
@@ -455,7 +455,7 @@ export const seedSnapshot: ClientSnapshot = {
           due: "2026-08-25",
         },
         {
-          name: "Mobile optimisation pass",
+          name: "Mobile optimization pass",
           status: "Not started",
           due: "2026-08-31",
         },
@@ -506,7 +506,7 @@ export const seedSnapshot: ClientSnapshot = {
       month: "October 2026",
       status: "Not started",
       description:
-        "The Cavallo team writes 5–6 spoke articles for the Hoof Health pillar from keyword briefs Mark supplies. Each spoke targets a specific condition (DSLD, thrush, white line disease, navicular, etc.) and links back to the pillar page and relevant products. Mark does an SEO-optimisation pass on each before publication. A mid-project measurement check compares against the June baseline.",
+        "The Cavallo team writes 5–6 spoke articles for the Hoof Health pillar from keyword briefs Mark supplies. Each spoke targets a specific condition (DSLD, thrush, white line disease, navicular, etc.) and links back to the pillar page and relevant products. Mark does an SEO-optimization pass on each before publication. A mid-project measurement check compares against the June baseline.",
       outcome:
         "Hoof Health hub populated with authoritative spoke content. Mid-project metrics visible.",
       teamRole:
@@ -523,7 +523,7 @@ export const seedSnapshot: ClientSnapshot = {
           due: "2026-10-20",
         },
         {
-          name: "SEO optimisation pass on each spoke",
+          name: "SEO optimization pass on each spoke",
           status: "Not started",
           due: "2026-10-25",
         },

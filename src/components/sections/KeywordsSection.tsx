@@ -245,7 +245,7 @@ export function KeywordsSection({ snapshot }: { snapshot: ClientSnapshot }) {
       <div>
         <h2 className="text-2xl font-bold text-gray-900">Keywords &amp; Content Strategy</h2>
         <p className="mt-2 text-sm text-gray-600 max-w-3xl leading-relaxed">
-          Our content is organised around three pillar pages. Each pillar targets a cluster of
+          Our content is organized around three pillar pages. Each pillar targets a cluster of
           related keywords. As pillar pages publish and mature, we expect to see these keywords
           climb in search rankings.
         </p>
