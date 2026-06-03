@@ -66,13 +66,6 @@ async function syncKeywords(
   for (const kw of keywords) {
     const pageId = existingByTitle.get(kw.keyword);
     const pillar = kw.pillarId ? PILLAR_MAP[kw.pillarId] ?? null : null;
-    const status = kw.position === null
-      ? "Not Ranking"
-      : kw.position <= 10
-        ? "Top 10"
-        : kw.position <= 30
-          ? "Striking Distance (11-30)"
-          : "Low Visibility (31-100)";
     const priority = kw.volume >= 1000 ? "High" : kw.volume >= 300 ? "Medium" : "Low";
 
     const properties: PageProperties = {
@@ -80,7 +73,6 @@ async function syncKeywords(
       KD: { number: kw.kd },
       Position: kw.position ? { number: kw.position } : { number: null },
       "Prev Position": kw.prev ? { number: kw.prev } : { number: null },
-      Status: { select: { name: status } },
       Priority: { select: { name: priority } },
       "Ranking URL": kw.currentRankingUrl ? { url: kw.currentRankingUrl } : { url: null },
     };
