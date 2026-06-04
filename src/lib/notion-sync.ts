@@ -126,6 +126,7 @@ async function syncTimeSeries(
     const properties: PageProperties = {
       [valueProperty]: { number: point.value },
       Year: { select: { name: yearStr } },
+      Date: { date: { start: `${yearStr}-${monthNum}-01` } },
     };
 
     if (pageId) {
