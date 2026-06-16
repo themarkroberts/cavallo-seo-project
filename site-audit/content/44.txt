@@ -1,0 +1,265 @@
+<!-- wp:group {"style":{"background":{"backgroundImage":{"url":"http://cavallo.local/wp-content/uploads/2024/09/image-29.gif","id":760,"source":"file","title":"image 29"},"backgroundPosition":"100% 50%"},"spacing":{"margin":{"top":"0","bottom":"0"},"padding":{"top":"40px","bottom":"40px"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group" style="margin-top:0;margin-bottom:0;padding-top:40px;padding-bottom:40px"><!-- wp:heading {"textAlign":"center","level":1,"style":{"elements":{"link":{"color":{"text":"var:preset|color|white"}}}},"textColor":"white"} -->
+<h1 class="wp-block-heading has-text-align-center has-white-color has-text-color has-link-color">How To Measure for Cavallo Hoof Boots</h1>
+<!-- /wp:heading --></div>
+<!-- /wp:group -->
+
+<!-- wp:acf/text-images {"name":"acf/text-images","data":{"subtitle":"","_subtitle":"field_66fa5af90252e","cta":"","_cta":"field_66fa5b280252f","background":"transparent","_background":"field_66fa5b7f02532","image_side":"left","_image_side":"field_66fa5c4202533","text":"\u003ch3\u003eYour Guide to Cavallo\r\
+Boot Measuring \u0026amp; Fitting\u003c/h3\u003e\r\
+Welcome to your ultimate resource for Cavallo Hoof Boots! Here, you'll discover everything you need to measure, select and fit the ideal boots for your horse.\r\
+\r\
+From detailed measurements to ensure the perfect fit for various hoof types, to expert tips on breaking in new boots, and advice on choosing the appropriate style for your horse's specific needs—our goal is to help you secure optimal comfort and performance for your equine companion.","_text":"field_66fa5b4402530","items":["3848","3849","3847"],"_items":"field_66fa5b5402531","html_anchor":"","_html_anchor":"field_672f5663be83a"},"mode":"preview"} /-->
+
+<!-- wp:acf/banner-cta {"name":"acf/banner-cta","data":{"text":"\u003ch3 style=\u0022text-align: center;\u0022\u003eFree Sizing Service: Let Us Do the Work\u003c/h3\u003e\r\
+\u003cp style=\u0022text-align: center;\u0022\u003e\u003cspan style=\u0022font-size: 20px;\u0022\u003eFor Best Results, Send Us Your Photos for a FREE Expert Sizing Recommendation:\u003c/span\u003e\u003c/p\u003e","_text":"field_66f10c7106c07","cta":{"title":"Upload Your Photos","url":"#","target":""},"_cta":"field_66f10c9706c08","upload_modal":"1","_upload_modal":"field_66f11861256ea","cta_2":"","_cta_2":"field_6874db98b4e1e","html_anchor":"","_html_anchor":"field_672f5663be83a"},"mode":"preview"} /-->
+
+<!-- wp:acf/tabs {"name":"acf/tabs","data":{"title":"Step-by-Step Boot Measurement Guide","_title":"field_6679781ef23af","items_0_text":"Prepare the Hoofs","_items_0_text":"field_66797d669985e","items_1_text":"Taking Measurement Photos","_items_1_text":"field_66797d669985e","items_2_text":"Measure the Length","_items_2_text":"field_66797d669985e","items_3_text":"Measure the Width","_items_3_text":"field_66797d669985e","items_4_text":"Send in\u2028Your Photos","_items_4_text":"field_66797d669985e","items":5,"_items":"field_66797878f23b0","items_2_0_image":203827,"_items_2_0_image":"field_66797bc1f23b8","items_2_0_step":"STEP 1","_items_2_0_step":"field_66797c2ef23bb","items_2_0_cta":"","_items_2_0_cta":"field_66f166317b672","items_2_0_trigger_upload_form":"0","_items_2_0_trigger_upload_form":"field_66f1665d7b673","items_2_0_content":"\u003cul\u003e\r\
+ \	\u003cli\u003eBrush and clean the hoof carefully so that the entire foot is clearly visible.\u003c/li\u003e\r\
+ \	\u003cli\u003eMake sure to use a measuring device with highly visible, contrasting numbers that will be easy to read and will show up well in photos.\u003c/li\u003e\r\
+\u003c/ul\u003e","_items_2_0_content":"field_66797c3ef23bc","items_2_0_note":"\u003cstrong\u003e\u003cspan style=\u0022font-size: 16px; color: #c8102e;\u0022\u003eFor accurate sizing, take your measurements after a fresh trim.\u003c/span\u003e\u003c/strong\u003e\r\
+\r\
+\u003cstrong\u003eFuture growth is already factored into each size range.\u003c/strong\u003e","_items_2_0_note":"field_66f1407680108","items_2_1_image":204810,"_items_2_1_image":"field_66797bc1f23b8","items_2_1_step":"STEP 2","_items_2_1_step":"field_66797c2ef23bb","items_2_1_cta":"","_items_2_1_cta":"field_66f166317b672","items_2_1_trigger_upload_form":"0","_items_2_1_trigger_upload_form":"field_66f1665d7b673","items_2_1_content":"\u003cstrong\u003e\u003cspan style=\u0022color: #c8102e;\u0022\u003eWe highly recommend submitting photos to use our FREE sizing service. Your horse’s size will be determined by our skilled experts.\u003c/span\u003e\u003c/strong\u003e\r\
+\r\
+Please make sure you are in a well-lit area and that the entire cleaned hoof is visible in your photos. Make sure to measure right after a fresh trim. Position the camera squarely towards the hoof – not on an upwards or downwards angle. Make sure the measuring device is placed flat on the hoof. Please see Steps 3 and 4 for examples\r\
+\r\
+\u003cstrong\u003eTIP: Proper photos are more easily achieved with the help of a second person to hold the hoof and tape measure.\u003c/strong\u003e","_items_2_1_content":"field_66797c3ef23bc","items_2_1_note":"","_items_2_1_note":"field_66f1407680108","items_2_2_image":347530,"_items_2_2_image":"field_66797bc1f23b8","items_2_2_step":"STEP 3","_items_2_2_step":"field_66797c2ef23bb","items_2_2_cta":"","_items_2_2_cta":"field_66f166317b672","items_2_2_trigger_upload_form":"0","_items_2_2_trigger_upload_form":"field_66f1665d7b673","items_2_2_content":"It is important to place the “0” of your measuring device securely against the tip of the toe. Run the measuring device straight down the center of the hoof toward the heel. Locate your equine’s hard points of the heel (the buttresses) and measure to where these two emerge. Do not include the heel bulbs. Record the length measurement or submit a photo.\r\
+\r\
+\u003cstrong\u003e*\u003c/strong\u003e \u003cstrong\u003eFor a donkey hoof, measure the FULL length of  hoof, including the bulbs.\u003c/strong\u003e\r\
+\r\
+\u003cstrong\u003e* The weight-bearing LENGTH\u003c/strong\u003e most often indicates the size necessary.","_items_2_2_content":"field_66797c3ef23bc","items_2_2_note":"\u003cstrong\u003e\u003cspan style=\u0022font-size: 15px; color: #c8102e;\u0022\u003eDON'T: Do not hold your measuring device at an angle. Do not leave any part of the measuring device extended over the edge of the toe. Don't measure by tracing the hoof - your boot sizing will NOT be accurate.\u003c/span\u003e\u003c/strong\u003e","_items_2_2_note":"field_66f1407680108","items_2_3_image":204825,"_items_2_3_image":"field_66797bc1f23b8","items_2_3_step":"STEP 4","_items_2_3_step":"field_66797c2ef23bb","items_2_3_cta":"","_items_2_3_cta":"field_66f166317b672","items_2_3_trigger_upload_form":"0","_items_2_3_trigger_upload_form":"field_66f1665d7b673","items_2_3_content":"Place the “0” of your measuring device at the edge of your horse’s hoof and run it straight and level across the widest part. Make sure the measuring device is snug against the hoof. Record the width measurement or take a photo.\r\
+\r\
+\u003cstrong\u003e* If your horse’s hoof width measurement is the same as the length, choose the Regular sole shape. When the sole width measurement is less than the length (indicating a narrower hoof), select a Slim Sole. If the width is two or more sizes narrower than the length, please consult \u003ca href=\u0022http://cavallo.local/ask-an-expert/\u0022 target=\u0022_blank\u0022 rel=\u0022noopener\u0022\u003eCustomer Service.\u003c/a\u003e\u003c/strong\u003e","_items_2_3_content":"field_66797c3ef23bc","items_2_3_note":"","_items_2_3_note":"field_66f1407680108","items_2_4_image":204828,"_items_2_4_image":"field_66797bc1f23b8","items_2_4_step":"STEP 5","_items_2_4_step":"field_66797c2ef23bb","items_2_4_cta":{"title":"Upload photos","url":"#","target":""},"_items_2_4_cta":"field_66f166317b672","items_2_4_trigger_upload_form":"1","_items_2_4_trigger_upload_form":"field_66f1665d7b673","items_2_4_content":"You can use this form to upload photos so that one of our experts can help you choose the perfect hoof boot size. Please click the button to upload your hoof measurement photos directly to us for an expert sizing recommendation:","_items_2_4_content":"field_66797c3ef23bc","items_2_4_note":"","_items_2_4_note":"field_66f1407680108","items_2":5,"_items_2":"field_66797bb5f23b7","html_anchor":"","_html_anchor":"field_672f5663be83a"},"mode":"edit"} /-->
+
+<!-- wp:group {"className":"video\u002d\u002dfull-mobile padding-bottom\u002d\u002dmobile-none","style":{"spacing":{"padding":{"top":"var:preset|spacing|xxl","bottom":"var:preset|spacing|xxl"},"margin":{"top":"0","bottom":"0"}},"elements":{"link":{"color":{"text":"var:preset|color|white"}}}},"textColor":"white","gradient":"radial-black","layout":{"type":"constrained","contentSize":"1196px"}} -->
+<div class="wp-block-group video--full-mobile padding-bottom--mobile-none has-white-color has-radial-black-gradient-background has-text-color has-background has-link-color" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--xxl);padding-bottom:var(--wp--preset--spacing--xxl)"><!-- wp:group {"style":{"spacing":{"padding":{"top":"0","bottom":"0","left":"0","right":"0"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:columns {"verticalAlignment":"center"} -->
+<div class="wp-block-columns are-vertically-aligned-center"><!-- wp:column {"verticalAlignment":"center","width":"","style":{"spacing":{"padding":{"right":"0","left":"0","top":"0","bottom":"0"}}},"layout":{"type":"constrained","contentSize":"412px","justifyContent":"left"}} -->
+<div class="wp-block-column is-vertically-aligned-center" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:columns {"style":{"spacing":{"blockGap":{"left":"var:preset|spacing|sm"}}}} -->
+<div class="wp-block-columns"><!-- wp:column {"verticalAlignment":"center","width":"70px","className":"wide-line","style":{"spacing":{"padding":{"top":"0","bottom":"0","left":"0","right":"0"}}},"layout":{"type":"constrained","justifyContent":"left","contentSize":"70px"}} -->
+<div class="wp-block-column is-vertically-aligned-center wide-line" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;flex-basis:70px"><!-- wp:separator {"style":{"spacing":{"margin":{"top":"0px","bottom":"0px"}}},"backgroundColor":"gray-1"} -->
+<hr class="wp-block-separator has-text-color has-gray-1-color has-alpha-channel-opacity has-gray-1-background-color has-background" style="margin-top:0px;margin-bottom:0px"/>
+<!-- /wp:separator --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":""} -->
+<div class="wp-block-column"><!-- wp:paragraph {"style":{"typography":{"fontStyle":"normal","fontWeight":"900","letterSpacing":"0.1em","textTransform":"uppercase","lineHeight":"1.31"},"elements":{"link":{"color":{"text":"var:preset|color|gray-1"}}}},"textColor":"gray-1"} -->
+<p class="has-gray-1-color has-text-color has-link-color" style="font-style:normal;font-weight:900;letter-spacing:0.1em;line-height:1.31;text-transform:uppercase">Measuring video</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Cavallo Boots are SIMPLE to MEASURE.</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"16px","bottom":"0px"}},"elements":{"link":{"color":{"text":"var:preset|color|gray-2"}}}},"textColor":"gray-2"} -->
+<p class="has-gray-2-color has-text-color has-link-color" style="margin-top:16px;margin-bottom:0px">Learn How to Measure and Fit your Cavallos with this Easy Video!</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"center","width":"58%","style":{"spacing":{"padding":{"right":"0","left":"0","top":"0","bottom":"0"}}},"layout":{"type":"constrained","contentSize":"58%","justifyContent":"right","wideSize":""}} -->
+<div class="wp-block-column is-vertically-aligned-center" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;flex-basis:58%"><!-- wp:video {"id":203773,"align":"full"} -->
+<figure class="wp-block-video alignfull"><video autoplay muted src="http://cavallo.local/wp-content/uploads/2025/06/2025-NEW-Cavallo-Hoof-Boots-Measuring-Video-7.mp4"></video></figure>
+<!-- /wp:video --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:acf/banner-cta {"name":"acf/banner-cta","data":{"text":"\u003ch4 style=\u0022text-align: center;\u0022\u003eYour Cavallo Measuring Charts Show the Full Range of Sizes Offered... From Minis to Drafts, \u0026amp; Donkeys, Too!\u003c/h4\u003e","_text":"field_66f10c7106c07","cta":{"title":"View Measuring Chart","url":"http://cavallo.local/wp-content/uploads/2025/04/measure-guide-1536x768-1.jpg","target":"_blank"},"_cta":"field_66f10c9706c08","download_file":"","_download_file":"field_66f10cc706c09","upload_modal":"0","_upload_modal":"field_66f11861256ea","cta_2":{"title":"View Donkey Size Chart","url":"http://cavallo.local/wp-content/uploads/2025/09/Cavallo-LEB-size-chart-7-sizes-Donkey-hoof-boot-2025-Low-res.jpg","target":"_blank"},"_cta_2":"field_6874db98b4e1e","html_anchor":"","_html_anchor":"field_672f5663be83a"},"mode":"preview"} /-->
+
+<!-- wp:group {"className":"video\u002d\u002dfull-mobile reverse-order\u002d\u002dmobile padding-bottom\u002d\u002dmobile-none text-refactor\u002d\u002dcenter-mobile","style":{"spacing":{"padding":{"top":"var:preset|spacing|xxl","bottom":"var:preset|spacing|xxl"},"margin":{"top":"0","bottom":"0"}}},"backgroundColor":"light-red-1","layout":{"type":"constrained","contentSize":""}} -->
+<div class="wp-block-group video--full-mobile reverse-order--mobile padding-bottom--mobile-none text-refactor--center-mobile has-light-red-1-background-color has-background" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--xxl);padding-bottom:var(--wp--preset--spacing--xxl)"><!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:image {"id":204807,"sizeSlug":"full","linkDestination":"none","align":"center","style":{"border":{"radius":"14px"}}} -->
+<figure class="wp-block-image aligncenter size-full has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2025/08/STOP-do-not-move-your-horse-when-trying-on-Cavallo-Hoof-Boots.jpg" alt="" class="wp-image-204807" style="border-radius:14px"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:group -->
+
+<!-- wp:columns {"verticalAlignment":"top"} -->
+<div class="wp-block-columns are-vertically-aligned-top"><!-- wp:column {"verticalAlignment":"top","width":"","style":{"spacing":{"padding":{"right":"0","left":"0","top":"0","bottom":"0"}}},"layout":{"type":"constrained","contentSize":"585px","justifyContent":"left","wideSize":""}} -->
+<div class="wp-block-column is-vertically-aligned-top" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:video {"id":202272,"align":"center"} -->
+<figure class="wp-block-video aligncenter"><video controls src="http://cavallo.local/wp-content/uploads/2025/04/2024-Cavallo-Hoof-Boot-Fit-test-Video.mp4"></video></figure>
+<!-- /wp:video --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"top","width":"44.48%"} -->
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis:44.48%"><!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">How to Test the Fit of Your Cavallo Hoof Boots</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"32px","bottom":"0"}}},"fontSize":"large"} -->
+<p class="has-large-font-size" style="margin-top:32px;margin-bottom:0">Cavallo Hoof Boots are Easy to Fit!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"typography":{"fontStyle":"normal","fontWeight":"600"},"spacing":{"margin":{"top":"8px","bottom":"32px"}}}} -->
+<p style="margin-top:8px;margin-bottom:32px;font-style:normal;font-weight:600">Simply insert the hoof into the boot. Secure Velcro® closures, and then secure outside closure(s) on the boot.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"0","bottom":"0"}}},"fontSize":"large"} -->
+<p class="has-large-font-size" style="margin-top:0;margin-bottom:0">Important Tips on Fitting</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list {"style":{"spacing":{"margin":{"top":"8px"}}}} -->
+<ul style="margin-top:8px" class="wp-block-list"><!-- wp:list-item {"style":{"typography":{"fontStyle":"normal","fontWeight":"600"}}} -->
+<li style="font-style:normal;font-weight:600">You should not have to force the boot on the horse’s hoof in any way. If you have to force the boot on, it is too small.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item {"style":{"typography":{"fontStyle":"normal","fontWeight":"600"}}} -->
+<li style="font-style:normal;font-weight:600">If the boot is rotating independently from the horse’s hoof, it is too big. A wiggle is okay because the hoof expands in weight bearing and even further in movement.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|red"}}},"typography":{"fontStyle":"normal","fontWeight":"900"},"spacing":{"margin":{"top":"35px"}}},"textColor":"red"} -->
+<p class="has-red-color has-text-color has-link-color" style="margin-top:35px;font-style:normal;font-weight:900"><strong><em>Only new, UNUSED boots can be exchanged. To keep the boot clean, we suggest covering the hoof with thin plastic and checking the fit on a non-scuff (not gravel), clean, dry surface.</em></strong></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"video\u002d\u002dfull-mobile reverse-order\u002d\u002dmobile text-refactor\u002d\u002dcenter-mobile","style":{"spacing":{"padding":{"top":"var:preset|spacing|xl","bottom":"var:preset|spacing|xl"},"margin":{"top":"0","bottom":"0"}}},"backgroundColor":"white","layout":{"type":"constrained","contentSize":"","justifyContent":"center"}} -->
+<div class="wp-block-group video--full-mobile reverse-order--mobile text-refactor--center-mobile has-white-background-color has-background" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--xl);padding-bottom:var(--wp--preset--spacing--xl)"><!-- wp:columns {"verticalAlignment":"top","isStackedOnMobile":false} -->
+<div class="wp-block-columns are-vertically-aligned-top is-not-stacked-on-mobile"><!-- wp:column {"verticalAlignment":"top","width":"60%"} -->
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis:60%"><!-- wp:image {"id":204948,"width":"362px","height":"auto","scale":"cover","sizeSlug":"full","linkDestination":"none","align":"center","style":{"border":{"radius":"14px"}}} -->
+<figure class="wp-block-image aligncenter size-full is-resized has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2025/08/Perfect-fit-cross-section-of-hoof-in-Cavallo-Hoof-Boot-web-1.gif" alt="" class="wp-image-204948" style="border-radius:14px;object-fit:cover;width:362px;height:auto"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"top","width":"","style":{"spacing":{"padding":{"right":"0","left":"0","top":"0","bottom":"0"}}},"layout":{"type":"constrained","contentSize":"585px","justifyContent":"left","wideSize":""}} -->
+<div class="wp-block-column is-vertically-aligned-top" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">How Should Your Horse's Hoof Fit Into a Cavallo Boot?</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Here you can see how the hoof sole fits into the length of the boot, and the heel bulbs fit into the padded heel area at the back of the boot.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"align":"full","className":"video\u002d\u002dfull-mobile padding-bottom\u002d\u002dmobile-none reverse-order\u002d\u002dmobile overflow-hidden","style":{"spacing":{"padding":{"top":"var:preset|spacing|xxl","bottom":"var:preset|spacing|xxl","left":"var:preset|spacing|gutter","right":"var:preset|spacing|gutter"},"margin":{"top":"0","bottom":"0"}},"elements":{"link":{"color":{"text":"var:preset|color|white"}}}},"textColor":"white","gradient":"radial-black","layout":{"type":"flex","orientation":"vertical","justifyContent":"center"}} -->
+<div class="wp-block-group alignfull video--full-mobile padding-bottom--mobile-none reverse-order--mobile overflow-hidden has-white-color has-radial-black-gradient-background has-text-color has-background has-link-color" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--xxl);padding-right:var(--wp--preset--spacing--gutter);padding-bottom:var(--wp--preset--spacing--xxl);padding-left:var(--wp--preset--spacing--gutter)"><!-- wp:columns {"verticalAlignment":"top"} -->
+<div class="wp-block-columns are-vertically-aligned-top"><!-- wp:column {"verticalAlignment":"top","width":"59%","style":{"spacing":{"padding":{"right":"0","left":"0","top":"0","bottom":"0"}}},"layout":{"type":"constrained","contentSize":"59%","justifyContent":"left","wideSize":""}} -->
+<div class="wp-block-column is-vertically-aligned-top" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;flex-basis:59%"><!-- wp:video {"id":4001,"align":"full"} -->
+<figure class="wp-block-video alignfull"><video src="http://cavallo.local/wp-content/uploads/2024/10/Breaking-in-your-Cavallo-Hoof-Boots-is-EASY.mp4"></video></figure>
+<!-- /wp:video --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"top","width":"","style":{"spacing":{"padding":{"right":"0","left":"0","top":"0","bottom":"0"}}},"layout":{"type":"constrained","contentSize":"412px","justifyContent":"right"}} -->
+<div class="wp-block-column is-vertically-aligned-top" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:columns {"style":{"spacing":{"blockGap":{"left":"var:preset|spacing|sm"}}}} -->
+<div class="wp-block-columns"><!-- wp:column {"verticalAlignment":"center","width":"70px","className":"wide-line","style":{"spacing":{"padding":{"top":"0","bottom":"0","left":"0","right":"0"}}},"layout":{"type":"constrained","justifyContent":"left","contentSize":"70px"}} -->
+<div class="wp-block-column is-vertically-aligned-center wide-line" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;flex-basis:70px"><!-- wp:separator {"style":{"spacing":{"margin":{"top":"0px","bottom":"0px"}}},"backgroundColor":"gray-1"} -->
+<hr class="wp-block-separator has-text-color has-gray-1-color has-alpha-channel-opacity has-gray-1-background-color has-background" style="margin-top:0px;margin-bottom:0px"/>
+<!-- /wp:separator --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":""} -->
+<div class="wp-block-column"><!-- wp:paragraph {"style":{"typography":{"fontStyle":"normal","fontWeight":"900","letterSpacing":"0.1em","textTransform":"uppercase","lineHeight":"1.31"},"elements":{"link":{"color":{"text":"var:preset|color|gray-1"}}}},"textColor":"gray-1"} -->
+<p class="has-gray-1-color has-text-color has-link-color" style="font-style:normal;font-weight:900;letter-spacing:0.1em;line-height:1.31;text-transform:uppercase">Boot Break-In Guide</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Breaking In your New Boots</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"16px","bottom":"0px"}}}} -->
+<p style="margin-top:16px;margin-bottom:0px">Horse owners should allow their horses to ‘break in’ their boots gradually, starting with 15 – 20 minutes per day and increasing from there, while monitoring for comfort. Using Cavallos in water or applying a leather conditioner to “work” the leather at the heel bulb will hasten the softening progress. Cavallo Comfort Sleeves or Pastern Wraps can be used to help prevent any chaffing during the break-in period, and are especially helpful for horses using Cavallo Boots for therapy or rehabilitation when there isn’t time for a gradual break-in.<br><br>This helpful video by Carole shows how Cavallos adapt to your horse’s individual hoof and bulb area during the break-in period, offering your horse a custom fit.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:acf/text-with-vertical-image {"name":"acf/text-with-vertical-image","data":{"image1":204008,"_image1":"field_667e754d53557","image2":204010,"_image2":"field_667e7e4853558","text":"\u003ch3\u003eFitting a Finer-Boned Horse\u003c/h3\u003e\r\
+The Trek and ELB (Entry Level Boots) are the best choices for finer-boned horses.\r\
+\r\
+Both styles have a unique front-closure system that allows for an highly customized fit on the upper portion of the boot – creating a very secure fit. Wrap the Velcro closures from back to front drawing to the front on a downward angle to create a “V” shape in the center to tighten the fit.\r\
+\r\
+Fastening your Cavallos snugly creates a natural cone shape—just like your horse’s hoof—so when combined with the industrial-strength Velcro® closures and correct boot sizing, you get a secure fit that won’t come off in any terrain!","_text":"field_667e7e5253559","html_anchor":"","_html_anchor":"field_672f5663be83a"},"mode":"preview"} /-->
+
+<!-- wp:group {"className":"video\u002d\u002dfull-mobile reverse-order\u002d\u002dmobile text-refactor\u002d\u002dcenter-mobile","style":{"spacing":{"padding":{"top":"var:preset|spacing|xxl","bottom":"var:preset|spacing|xxl"},"margin":{"top":"0","bottom":"0"}}},"backgroundColor":"light-red-1","layout":{"type":"constrained","contentSize":""}} -->
+<div class="wp-block-group video--full-mobile reverse-order--mobile text-refactor--center-mobile has-light-red-1-background-color has-background" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--xxl);padding-bottom:var(--wp--preset--spacing--xxl)"><!-- wp:columns {"verticalAlignment":"top"} -->
+<div class="wp-block-columns are-vertically-aligned-top"><!-- wp:column {"verticalAlignment":"top","width":"","style":{"spacing":{"padding":{"right":"0","left":"0","top":"0","bottom":"0"}}},"layout":{"type":"constrained","contentSize":"585px","justifyContent":"left","wideSize":""}} -->
+<div class="wp-block-column is-vertically-aligned-top" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:image {"id":204018,"scale":"cover","sizeSlug":"full","linkDestination":"none","style":{"border":{"radius":"14px"}}} -->
+<figure class="wp-block-image size-full has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2025/07/Cavallo-hoof-boots-on-a-shod-horse-over-metal-horseshoes-1.jpg" alt="" class="wp-image-204018" style="border-radius:14px;object-fit:cover"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"top","width":"44.48%"} -->
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis:44.48%"><!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Using Cavallo Boots Over Metal Horseshoes</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Great results are obtained with Cavallos over metal, as the TPU (thermoplastic urethane) sole absorbs the shock, which causes vibration up the horse’s structure. Cavallos also prevent sole tenderness, heel and sole bruising, chipping, pulling shoes off and injuries to the coronet band and other areas.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Cavallos are also used for shod horses during hoof rehabilitation and to provide increased comfort and protection during riding, training, transport, and turnout. <a href="http://cavallo.local/product/high-tenacity-protection-pads/" target="_blank" rel="noreferrer noopener">Cavallo High Tenacity Protection Pads</a> should be used in Cavallo Boots when a horse is wearing metal horseshoes to protect the boot's sole</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Measuring is easy—simply measure the length and width of the metal horseshoe itself. </p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:acf/tips {"name":"acf/tips","data":{"title":"Easy Fitting Tips","_title":"field_66ec134dc317f","note":"PLEASE NOTE: Boots cannot be exchanged unless they are in AS NEW condition. Be sure boots are the correct size BEFORE using them or altering them in any way.","_note":"field_66ec140bc3180","tips_0_title":"Too Small","_tips_0_title":"field_66ec172944c93","tips_0_text":"If the boot is difficult to put on, it may be too small. A proper fit should allow the boot to “pop” neatly onto the hoof. Always double-check your measurements against the chart above.","_tips_0_text":"field_66ec177044c94","tips_1_title":"Sole Fit","_tips_1_title":"field_66ec172944c93","tips_1_text":"The hoof sole should sit fully inside the boot sole. Make sure the entire weight-bearing wall—from the toe to the heel buttress—rests securely within the boot.","_tips_1_text":"field_66ec177044c94","tips_2_title":"Hoof on the Ground","_tips_2_title":"field_66ec172944c93","tips_2_text":"When fastening, place your horse’s hoof firmly on the ground. Push the tongue of the boot snugly against the hoof, then pull the outer flaps firmly from back to front. Press the Velcro flaps onto the tongue, keeping tension even and aligning both top and bottom. This secures the boot. Outside straps or buckles add extra stability.","_tips_2_text":"field_66ec177044c94","tips_3_title":"Too Big","_tips_3_title":"field_66ec172944c93","tips_3_text":"Lift the hoof. If the boot twists or rotates too easily, it may be too large, or the outer cover may not be tightened enough. A little wiggle room is fine. The hoof is smallest when non-weight-bearing but expands under load and often fills the boot comfortably.","_tips_3_text":"field_66ec177044c94","tips_4_title":"Cavall Hoof Boot Pads","_tips_4_title":"field_66ec172944c93","tips_4_text":"Cavallo Hoof Boot Pads can help snug up your boot fit if needed—very handy if your boots are a bit roomier right after after a trim.","_tips_4_text":"field_66ec177044c94","tips_5_title":"Cavallo Pastern Wraps and Comfort Sleeves","_tips_5_title":"field_66ec172944c93","tips_5_text":"May be used to assist in the breaking-in process or during injury to prevent chafing.","_tips_5_text":"field_66ec177044c94","tips_6_title":"Simple Boots Only:","_tips_6_title":"field_66ec172944c93","tips_6_text":"Once a Simple Hoof Boot is fitted, if the strap extends beyond the nylon keeper, then you can cut the strap to the preferred length, leaving a line of stitching to prevent unravelling. ","_tips_6_text":"field_66ec177044c94","tips":7,"_tips":"field_66ec170c44c92","html_anchor":"","_html_anchor":"field_672f5663be83a"},"mode":"preview"} /-->
+
+<!-- wp:acf/banner-cta {"name":"acf/banner-cta","data":{"text":"\u003ch3 style=\u0022text-align: center;\u0022\u003eFree Sizing Service: Let Us Do the Work\u003c/h3\u003e\r\
+\u003cp style=\u0022text-align: center;\u0022\u003e\u003cspan style=\u0022font-size: 20px;\u0022\u003eFor Best Results, Send Us Your Photos for a FREE Expert Sizing Recommendation:\u003c/span\u003e\u003c/p\u003e","_text":"field_66f10c7106c07","cta":{"title":"Upload Your Photos","url":"#","target":""},"_cta":"field_66f10c9706c08","upload_modal":"1","_upload_modal":"field_66f11861256ea","cta_2":"","_cta_2":"field_6874db98b4e1e","html_anchor":"","_html_anchor":"field_672f5663be83a"},"mode":"preview"} /-->
+
+<!-- wp:acf/faq {"name":"acf/faq","data":{"title":"\u003ch2 style=\u0022text-align: center;\u0022\u003eFrequently Asked Questions\u003c/h2\u003e","_title":"field_669604e63a6ae"},"mode":"preview"} /-->
+
+<!-- wp:block {"ref":203713} /-->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|xxl","bottom":"var:preset|spacing|xxl"},"margin":{"top":"0","bottom":"0"}},"elements":{"link":{"color":{"text":"var:preset|color|white"}}}},"textColor":"white","gradient":"radial-black","layout":{"type":"constrained","contentSize":"951px"}} -->
+<div class="wp-block-group has-white-color has-radial-black-gradient-background has-text-color has-background has-link-color" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--xxl);padding-bottom:var(--wp--preset--spacing--xxl)"><!-- wp:group {"style":{"spacing":{"padding":{"top":"0","bottom":"0","left":"0","right":"0"},"margin":{"top":"0","bottom":"0"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group" style="margin-top:0;margin-bottom:0;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column {"verticalAlignment":"center","width":"","style":{"spacing":{"padding":{"right":"0","left":"0","top":"0","bottom":"0"}}},"layout":{"type":"constrained","contentSize":"412px","justifyContent":"left"}} -->
+<div class="wp-block-column is-vertically-aligned-center" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:columns {"style":{"spacing":{"blockGap":{"left":"var:preset|spacing|sm"}}}} -->
+<div class="wp-block-columns"><!-- wp:column {"verticalAlignment":"center","width":"70px","className":"wide-line","style":{"spacing":{"padding":{"top":"0","bottom":"0","left":"0","right":"0"}}},"layout":{"type":"constrained","justifyContent":"left","contentSize":"70px"}} -->
+<div class="wp-block-column is-vertically-aligned-center wide-line" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;flex-basis:70px"><!-- wp:separator {"style":{"spacing":{"margin":{"top":"0px","bottom":"0px"}}},"backgroundColor":"gray-1"} -->
+<hr class="wp-block-separator has-text-color has-gray-1-color has-alpha-channel-opacity has-gray-1-background-color has-background" style="margin-top:0px;margin-bottom:0px"/>
+<!-- /wp:separator --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":""} -->
+<div class="wp-block-column"><!-- wp:paragraph {"style":{"typography":{"fontStyle":"normal","fontWeight":"900","letterSpacing":"0.1em","textTransform":"uppercase","lineHeight":"1.31"},"elements":{"link":{"color":{"text":"var:preset|color|gray-1"}}}},"textColor":"gray-1"} -->
+<p class="has-gray-1-color has-text-color has-link-color" style="font-style:normal;font-weight:900;letter-spacing:0.1em;line-height:1.31;text-transform:uppercase">Cavallo Hoof Boots</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Which Cavallo Boot Style Will You Choose?</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"16px","bottom":"0px"}},"elements":{"link":{"color":{"text":"var:preset|color|gray-2"}}}},"textColor":"gray-2"} -->
+<p class="has-gray-2-color has-text-color has-link-color" style="margin-top:16px;margin-bottom:0px">Which&nbsp;Cavallo Boot&nbsp;is just right for Your Horse? The beauty of it is – there’s no wrong answer! Cavallo Hoof Boot CEO, Greg Giles. explains the evolution of Cavallo’s hoof boot styles and sole widths, to meet the varied needs of the horses they’re designed for – all the way from miniature horses to big draft-sized horses.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons {"style":{"spacing":{"margin":{"top":"32px"}}},"layout":{"type":"flex","justifyContent":"left"}} -->
+<div class="wp-block-buttons" style="margin-top:32px"><!-- wp:button {"backgroundColor":"red","style":{"border":{"radius":"30px"},"spacing":{"padding":{"left":"var:preset|spacing|xl","right":"var:preset|spacing|xl"}}}} -->
+<div class="wp-block-button"><a class="wp-block-button__link has-red-background-color has-background wp-element-button" href="http://cavallo.local/product-category/hoof-boot/" style="border-radius:30px;padding-right:var(--wp--preset--spacing--xl);padding-left:var(--wp--preset--spacing--xl)">Shop Hoof Boots</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"center","width":"49%","style":{"spacing":{"padding":{"right":"0","left":"0","top":"0","bottom":"0"}}},"layout":{"type":"constrained","contentSize":"49%","justifyContent":"right","wideSize":""}} -->
+<div class="wp-block-column is-vertically-aligned-center" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;flex-basis:49%"><!-- wp:video {"id":4000,"align":"full","className":"aspect-ration\u002d\u002dtall-portrait"} -->
+<figure class="wp-block-video alignfull aspect-ration--tall-portrait"><video src="http://cavallo.local/wp-content/uploads/2024/10/Cavallo-Hoof-Boot-Measuring-and-Fitting.mp4"></video></figure>
+<!-- /wp:video --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:spacer {"height":"43px"} -->
+<div style="height:43px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->

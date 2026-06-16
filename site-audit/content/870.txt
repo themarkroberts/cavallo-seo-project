@@ -1,0 +1,11 @@
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"width":"431px","height":"auto","sizeSlug":"large","align":"left"} -->
+<figure class="wp-block-image alignleft size-large is-resized"><img src="http://cavallo.local/wp-content/uploads/2024/09/MG_5242.jpg" alt="" style="width:431px;height:auto"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>My horse Toby is an Australian Brumby. He was caught in the wild up in the Australian Alpine Ranges Near Benambara to the Victorian and New South Wales border. I live in a semi-rural area and I keep all my horses barefoot. Toby was getting tender in his front feet on the hard and stoney surfaces around here, so I did a little research and lashed out on a pair of Cavallo Simple Boots for him. They appeared to me to be the simplest boots to use on the market. Toby will now lift his feet on his own for me to his Simple boots on! Over Easter I took Toby back up to the high country with some Brumby runners and the boots performed perfectly. Toby was able to cover all of the territory up there better than any of the shod horses - through swamps, bogs, and up and down mountain ridges. The Cavallo Simple boots stayed on and in place through the bogs and swamps. In the rocky areas Toby was able to cover the ground without any soreness. We even jumped over fallen trees in the boots with no hesitation. I am more than happy to recommend the Cavallo Simple boots to anyone considering buying boots for their horse. They are simple to use and do the job they are designed for well!</p>
+<!-- /wp:paragraph -->

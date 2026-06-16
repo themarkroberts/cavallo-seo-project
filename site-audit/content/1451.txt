@@ -1,0 +1,43 @@
+<!-- wp:paragraph -->
+<p>By Carole Herder</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Looking for something good to sink your teeth into? I’m not talking about a slice of chocolate cake!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>I’ve mentioned before that knowledge is power, and the best way to gain this is through reading, talking and experiencing. It’s often hard to know what books to buy or magazines to subscribe to or even which people to talk to! I used to be quite tentative about who I spoke to as I was afraid controversial subjects would trigger an argument. Of course now, I am so confident in my beliefs that I don’t care who I speak to about them!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":5149,"linkDestination":"custom","align":"center"} -->
+<figure class="wp-block-image aligncenter"><a href="//cavallo.local/wp-content/uploads/2014/11/Blog76.gif"><img src="//cavallo.local/wp-content/uploads/2014/11/Blog76.gif" alt="Blog76" class="wp-image-5149"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>There is still always more to learn though. One of our associates is Liberated Horsemanship, founded by Dr. Bruce Nock – a renowned scientist, author, rider and teacher. Riding, training and hoof care are the main focuses of this organization. Their services and educational programs are devoted to improving horse welfare.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>There is a wealth of free and reliable knowledge on their website written by a variety of authors. From wild horse preservation to characteristics of the natural hoof to horses’ ecological balance, there is definitely something new in there for everyone:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="http://liberatedhorsemanship.com/Free_Articles.html" target="_blank" rel="noopener">http://liberatedhorsemanship.com/Free_Articles.html</a>.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Make notes, take what you want from the recommendations, use different approaches and you will find things that work for you, your lifestyle and your horses. And remember, “In vain have you acquired knowledge if you have not imparted it to others” (Deuteronomy Rubbah). Happy reading!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:spacer {"height":"40px"} -->
+<div style="height:40px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->

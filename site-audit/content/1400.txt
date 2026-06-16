@@ -1,0 +1,23 @@
+<!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="http://cavallo.local/wp-content/uploads/2024/09/WhyILoveMyHorse1.jpg" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>By Carole Herder</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>People often ask me why I love horses so much. After all these years, I still find it a tricky question to answer. I think horses are incredibly noble and I have huge respect for them, but there is so much more to it than that. The exemplary set of characteristics that exude from them still overwhelms me when I think about it: their nobility, their pride, their beauty, their power, their grace, their personality, their patience, their sensitivity, their curiosity, their energy, and their willingness to accept us as partners not just on the ground but on their backs.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>All this nature, all this power, all this beauty are just a few of the reasons why I now disagree with the use of shoes so much. Even now it amazes me that creatures so full of instinct (notwithstanding all the years of domesticity) will still allow us to work and ride them. Hunting, jumping, dressage, polo, driving, games, racing, to name but a few of the tasks we put our horses to. They are prey animals, social beings, built for eating, running and breeding and we ask so much more of them. The least we can do is give them as natural a life as possible, and the avoidance of shoes should be first on your list.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>What is it that makes your horse so special? Why is there such joy in watching them gallop across a field, bucking, rearing, and playing? Perhaps it is their spirit. Perhaps it is the fact that if they are treated compassionately, they can be willing teammates in a lifetime partnership. Perhaps it is the way they are so forgiving of the many mistakes we humans make. Or perhaps it is their natural innate magnificence, no matter the breed, and when they stand tall in the field with head up and ears forward and muscles tense, to me, there is nothing more beautiful to look at. So make sure you can do all you can to keep that beauty and don’t interfere with nature.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:spacer {"height":"40px"} -->
+<div style="height:40px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->

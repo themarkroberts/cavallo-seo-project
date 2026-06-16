@@ -1,0 +1,39 @@
+<!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="http://cavallo.local/wp-content/uploads/2024/09/riding.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>By Carole Herder</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Most of us are very fond of our trail riding and pleasure riding, a few of us might participate in some endurance riding and there may be a handful that go hunting, but did you know about the many other mounted cross-country sports you can do? Here is a list of some of them and I certainly have my eye on one or two I would like to try out!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Competitive Mounted Orienteering: sounds like a fun but challenging way of experiencing the outdoors! It almost resembles a treasure hunt whereby the rider searches for particular landmarks, not necessarily on the map, and then triangulates the location of the control point, to which they must take the most direct and efficient route to. Phew.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Competitive Trail Riding: the terrain is similar to endurance riding but this pace race is shorter and the goal is not to finish in the least time. Competitors are judged on physical condition, campsite and horse management. The horses are graded on performance, manners and recovery ability. Horsemanship is also taken into account and obstacles are set up along the trail. Horse and rider as a team is really where the emphasis lies.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Cross Country Jumping: outdoors jumping! Can include logs, ditches and natural obstacles.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Hunter Pacing: a sport that covers a few miles and is usually done at a canter or gallop. The idea is to ride closest to the perfect time where a speed is set based on the ideal conditions for the horse. Horsemanship, management skills and veterinarian checks are all part of this discipline.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Ride and Tie: similar to endurance riding but there are two humans (who take it in turns to ride or run) and one horse.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Steeplechase: a horse race with fences and ditches to jump. Did you know that its name comes from early races where the course was defined by riders heading towards a church steeple, and jumping whatever was in between!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>And guess what is perfect for your barefoot horse if you are trying a new discipline on unknown terrain?? Why, Cavallo Hoof Boots of course!</p>
+<!-- /wp:paragraph -->

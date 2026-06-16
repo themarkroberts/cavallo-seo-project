@@ -1,0 +1,59 @@
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:media-text {"mediaPosition":"right","mediaId":6525,"mediaLink":"http://cavallo.local/pat-parelli-cavallo-hoof-boots-keeping-it-natural/book-1-qq5jjj9exgzkjrp0tlyacno5jjcney7nxqyrb3p2fs/","mediaType":"image","mediaWidth":30} -->
+<div class="wp-block-media-text has-media-on-the-right is-stacked-on-mobile" style="grid-template-columns:auto 30%"><div class="wp-block-media-text__content"><!-- wp:heading {"textAlign":"right","level":1} -->
+<h1 class="wp-block-heading has-text-align-right">There are No Horseshoes in Heaven<br></h1>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"textAlign":"right"} -->
+<h2 class="wp-block-heading has-text-align-right">By Carole Herder</h2>
+<!-- /wp:heading --></div><figure class="wp-block-media-text__media"><img src="http://cavallo.local/wp-content/uploads/2024/12/book-1-qq5jjj9exgzkjrp0tlyacno5jjcney7nxqyrb3p2fs.jpg" alt="Carole Herder - No Horseshoes in Heaven" class="wp-image-6525 size-full"/></figure></div>
+<!-- /wp:media-text --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:paragraph -->
+<p><strong>Escape the Limits of Tradition and Harness the Power to Effectively Manage Your Horse’s Well-Being … Naturally.</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>What would it be like to know what you need to keep your horse healthy and sound? What can you do every day to make the most of your experience with your horse? There Are No Horseshoes in Heaven offers a profound and passionate exploration of past patterns, guiding you through an entertaining and thought-provoking invitation to make alternative choices. Protect your horse from pain and discomfort, maximize your riding experience and gain insight into the ‘hot spots’ for horses, through scientific evidence and real-life stories.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>There Are No Horseshoes in Heaven exposes the passé ways of thinking that have impacted our horses. This book examines horses’ natural way of being and shows how small changes in our husbandry can yield big results. It calls us to apply the philosophy of empowerment with a healthy dose of curiosity and move forward into interesting new times.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Wishing you many happy trails,</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":6589,"width":"auto","height":"75px","sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full is-resized"><img src="http://cavallo.local/wp-content/uploads/2024/12/Carole-sig-small.png" alt="Carole Herder's signature" class="wp-image-6589" style="width:auto;height:75px"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:html -->
+<div class="klaviyo-form-UMvq8Y"></div>
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p><strong>Praise for There are no Horseshoes in Heaven:</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>“A beautifully-written true story of a kindred spirit’s journey through life, discovering ways to leave the world a better place for horses and people, too.” —<em> Monty Roberts</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>“Carole and I share a deeply rooted passion for horses and their welfare. I applaud her ground-breaking research and her courage to think for herself and to follow her heart. This is a compelling read with pertinent thought-provoking insights.” <em>— Julie Goodnight</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>“This lovely book is a must read. It’s all about never ending improvement – not only for the sake of our four-legged partners, but for ourselves!” <em>— Pat Parelli</em></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->

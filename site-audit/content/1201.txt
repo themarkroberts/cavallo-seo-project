@@ -1,0 +1,23 @@
+<!-- wp:image {"id":1202,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="http://cavallo.local/wp-content/uploads/2024/09/merl.png" alt="" class="wp-image-1202"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph {"align":"left"} -->
+<p class="has-text-align-left">By Carole Herder</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>So you have the horses, you have your schedule; you have your tack and accessories. Now you have the weather. No putting it off, just get out there and do it.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Riding every day should be easy. Horses are your passion. They are not just part of your life, they are your life. For most horse owners they consume you. You eat, breathe and dream about horses (I was dreaming about hay last night!). You love the smell (though your partner may complain) and you are quite happy with muck and dirt and manure. So sort out your schedule and make pleasure riding part of your daily life. Riding is a routine activity, like paying your bills or doing the shopping (but much more enjoyable!). So there should be no questions asked: get up, make breakfast, drop the kids off, go riding, make lunch, run some errands, pick the kids up, make dinner…….just part of the daily routine.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>One way to ensure you fulfill your commitment to this daily activity is to inform your family, co-workers and friends that this is a priority for you. Once this is made clear, you HAVE to live up to their expectation of you! You can’t disappoint them so simply get up and get out there. Keep living your dream and ensure everyone knows it!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":"MsoNormal"} -->
+<p class="MsoNormal"><span lang="EN-CA">To make it easier for yourself, why not prepare the night before? Get your tack in order, throw a lightweight rug on your friend to ensure minimal grooming the next day, even put your Cavallo Hoof Boots on overnight so you just have to hop on – rise, pee, ride. Life is Simple.</span></p>
+<!-- /wp:paragraph -->

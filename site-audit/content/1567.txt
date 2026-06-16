@@ -1,0 +1,35 @@
+<!-- wp:paragraph -->
+<p><span lang="en-US">I recently blogged about an idyllic holiday ranch in Spain offering a more natural experience with horses in Andalucia: Barefoot and bitless riding.</span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":6320,"linkDestination":"custom","align":"left"} -->
+<figure class="wp-block-image alignleft"><a href="//cavallo.local/wp-content/uploads/2016/01/rainforest.png"><img src="//cavallo.local/wp-content/uploads/2016/01/rainforest.png" alt="rainforest" class="wp-image-6320"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><span lang="en-US">I have now discovered another place that also sounds out of this world. They were awarded the ‘Trip Advisor Hall of Fame Award' for receiving the 5-star certificate of excellence 5 times!</span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><span lang="en-US">Discovery Horse Tours in Jaco, Costa Rica, offers unforgettable trips through rainforests, on the beaches or into the mountains. Small groups are catered for on a stunning 1500 acre private rainforest reserve, where the trails are shared with none but the wildlife. Secret waterfalls, deserted beaches, remote villages, pristine rivers and private mud baths are just some of the luxury destinations that are on offer. You might even get to ride bareback in the Pacific Ocean!</span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><span lang="en-US">Most of the horses are rescued and retrained using Natural Horsemanship, and all are barefoot and bitless. The owners, Chris and Andrea Wady, are renowned for caring more about their horses than profits, and their attention detail, knowledge, and expertise are only second to their friendliness, professionalism, and customer care.</span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><span lang="en-US">There are daily tours, weekend packages or weekly vacations on offer, one of which combines yoga to ensure a completely relaxing holiday. ‘A picture tells a thousand words’ and this is very true of the stunning scenery and smiling faces in the gallery on the website: <a href="http://www.horseridecostarica.com/index.php">http://www.horseridecostarica.com/index.php</a>. I might see you there for a glorious adventure in the season coming, Cavallo style of course!</span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":5795,"linkDestination":"custom","align":"left"} -->
+<figure class="wp-block-image alignleft"><a href="//cavallo.local/wp-content/uploads/2015/06/Caroles.png"><img src="//cavallo.local/wp-content/uploads/2015/06/Caroles.png" alt="horse hoof boots" class="wp-image-5795"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->

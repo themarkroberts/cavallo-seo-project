@@ -1,0 +1,86 @@
+[
+  {
+    "id": "1451",
+    "content_format": "Standard article (text + images)",
+    "summary": "Carole Herder blog post recommending Liberated Horsemanship (founded by Dr. Bruce Nock) as a free resource for hoof care, riding, and horse welfare education.",
+    "key_components": [],
+    "primary_cta": "Read more"
+  },
+  {
+    "id": "1453",
+    "content_format": "Standard article (text + images)",
+    "summary": "Carole Herder blog post on equine-assisted therapy for veterans with PTSD/TBI, citing Cavallo's sponsorship of PATH and a recovery story of veteran Aaron Heliker.",
+    "key_components": [],
+    "primary_cta": "None"
+  },
+  {
+    "id": "1455",
+    "content_format": "Standard article (text + images)",
+    "summary": "Customer testimonial about a barefoot Appaloosa gelding named Max who thrives wearing Cavallo Simple Boots on gravel and frozen ground.",
+    "key_components": ["Testimonials"],
+    "primary_cta": "None"
+  },
+  {
+    "id": "1457",
+    "content_format": "Standard article (text + images)",
+    "summary": "Customer testimonial from German endurance rider Nina who has used Cavallo boots for over six years across thousands of miles of endurance riding and trekking.",
+    "key_components": ["Testimonials"],
+    "primary_cta": "None"
+  },
+  {
+    "id": "1458",
+    "content_format": "Standard article (text + images)",
+    "summary": "Carole Herder blog post arguing horses prefer scratching over patting, with bonding and behavioral reasoning and a linked study from TheHorse.com.",
+    "key_components": [],
+    "primary_cta": "Read more"
+  },
+  {
+    "id": "1460",
+    "content_format": "Standard article (text + images)",
+    "summary": "Carole Herder announcement welcoming new Cavallo team member Jennifer (Jenny) Mundell, with contact details and product mentions.",
+    "key_components": [],
+    "primary_cta": "Contact us"
+  },
+  {
+    "id": "1461",
+    "content_format": "Standard article (text + images)",
+    "summary": "Carole Herder blog post on safe winter riding, explaining how metal shoes trap snow/ice and why barefoot hooves plus Cavallo boots and studs improve traction and comfort.",
+    "key_components": [],
+    "primary_cta": "Shop hoof boots"
+  },
+  {
+    "id": "1463",
+    "content_format": "Standard article (text + images)",
+    "summary": "Carole Herder reflective blog post comparing how stress shows in human and horse faces, noting horses display pain and anxiety through facial expression.",
+    "key_components": [],
+    "primary_cta": "None"
+  },
+  {
+    "id": "1465",
+    "content_format": "Standard article (text + images)",
+    "summary": "Carole Herder blog post on adapting training to a horse's unique personality, referencing the Parelli horsenality system and managing trainer emotions.",
+    "key_components": [],
+    "primary_cta": "None"
+  },
+  {
+    "id": "1467",
+    "content_format": "Standard article (text + images)",
+    "summary": "Carole Herder blog post on hoof moisture balance, explaining that 90% of hoof moisture comes from within and why most hoof conditioners and oils are ineffective or harmful.",
+    "key_components": [],
+    "primary_cta": "None"
+  },
+  {
+    "id": "1469",
+    "content_format": "Standard article (text + images)",
+    "summary": "Carole Herder blog post on hoof nerves and blood flow, citing Dr. Robert Bowker on the hoof as a neurosensory organ and the importance of heel-first landing.",
+    "key_components": [],
+    "primary_cta": "None"
+  },
+  {
+    "id": "1471",
+    "content_format": "Standard article (text + images)",
+    "summary": "Carole Herder blog post detailing types of hoof cracks (grass, sand, heel, bar, toe, quarter), their causes, and how to manage them as the crack grows out.",
+    "key_components": ["Bulleted list"],
+    "primary_cta": "None"
+  }
+]

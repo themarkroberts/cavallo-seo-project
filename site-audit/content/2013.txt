@@ -1,0 +1,233 @@
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Happy Mother’s Day to all you dedicated and nurturing horse Moms out there!</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">We know that raising those thousand-pound babies is no easy task! And it takes a special kind of dedication and nurturing to do it well. That's why we're offering you this special gift this Mother's Month!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center"><strong>Download your new FREE set of books - written by me from the heart!</strong> ❤️</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">I packed these books full of valuable information on hoof care, nutrition, and horse care (physical and emotional). These three books are a must-read for any loving horse Mama who wants to give her horse the best possible care.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center"><b>These three books are normally&nbsp;$54.85 USD, but they are yours to have as a gift from me. </b>❤️</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"align":"center"} -->
+<figure class="wp-block-image aligncenter"><img src="http://cavallo.local/wp-content/uploads/2024/05/horseshoes-1-1-768x796.jpg" alt="Carole Herder's book, No Horseshoes in Heaven"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><a href="http://cavallo.local/wp-content/uploads/2022/05/Hoof-Prints-on-the-Journey-FINAL-V9-color.pdf" target="_blank" rel="noopener"><br> </a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading">There Are No Horseshoes in Heaven</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">My international best-seller exposes the passé and outdated ways of thinking that have impacted our horses over centuries.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">This book examines a horse's natural way of being and shows how small changes in your daily horse care habits can yield HUGE results.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"width":"623px","height":"auto","align":"left"} -->
+<figure class="wp-block-image alignleft is-resized"><img src="http://cavallo.local/wp-content/uploads/2024/05/Hoof-Prints-768x796.jpg" alt="Hoof Prints on the Journey - book about Laminitis by Carole Herder" style="width:623px;height:auto"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:buttons {"style":{"spacing":{"padding":{"top":"var:preset|spacing|md","bottom":"var:preset|spacing|md"}}},"layout":{"type":"flex","justifyContent":"center"}} -->
+<div class="wp-block-buttons" style="padding-top:var(--wp--preset--spacing--md);padding-bottom:var(--wp--preset--spacing--md)"><!-- wp:button {"backgroundColor":"red","width":100,"style":{"border":{"radius":"50px"}}} -->
+<div class="wp-block-button has-custom-width wp-block-button__width-100"><a class="wp-block-button__link has-red-background-color has-background wp-element-button" href="http://cavallo.local/wp-content/uploads/2024/10/No-Horseshoes-in-Heaven-Full-Book-Download.pdf" style="border-radius:50px" target="_blank" rel="noreferrer noopener">Download No Horseshoes</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading">Hoof Prints on the Journey</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">My bestselling book is dedicated to YOU - the courageous horse owner!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">You are committed to gathering the knowledge and understanding of natural methods to elevate the health of your horse and effectively help them heal from any hoof ailment, if a situation ever arises...</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"width":"634px","height":"auto","align":"left"} -->
+<figure class="wp-block-image alignleft is-resized"><img src="http://cavallo.local/wp-content/uploads/2024/05/trim-768x796.jpg" alt="The Cavallo Hoof Boots Barefoot Trim Manual" style="width:634px;height:auto"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:buttons {"style":{"spacing":{"padding":{"top":"var:preset|spacing|md","bottom":"var:preset|spacing|md"}}}} -->
+<div class="wp-block-buttons" style="padding-top:var(--wp--preset--spacing--md);padding-bottom:var(--wp--preset--spacing--md)"><!-- wp:button {"backgroundColor":"red","width":100,"style":{"border":{"radius":"50px"}}} -->
+<div class="wp-block-button has-custom-width wp-block-button__width-100"><a class="wp-block-button__link has-red-background-color has-background wp-element-button" href="http://cavallo.local/wp-content/uploads/2024/10/HoofPrintsontheJourney.pdf" style="border-radius:50px" target="_blank" rel="noreferrer noopener">Download Hoof Prints</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading">The Cavallo Barefoot Trim Guide</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">A comprehensive guide is a must-have&nbsp; for you and your trimmer to keeping your horse in their natural barefoot state.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">I wrote this book with veteran farrier turned expert barefoot trimmer, Lynn Seeley.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons {"style":{"spacing":{"padding":{"top":"var:preset|spacing|md","bottom":"var:preset|spacing|md"}}}} -->
+<div class="wp-block-buttons" style="padding-top:var(--wp--preset--spacing--md);padding-bottom:var(--wp--preset--spacing--md)"><!-- wp:button {"backgroundColor":"red","width":100,"style":{"border":{"radius":"50px"}}} -->
+<div class="wp-block-button has-custom-width wp-block-button__width-100"><a class="wp-block-button__link has-red-background-color has-background wp-element-button" href="http://cavallo.local/wp-content/uploads/2025/06/Cavallo-Trim-Manual-PDF-Format.pdf" style="border-radius:50px" target="_blank" rel="noreferrer noopener">Download Trim Manual</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons -->
+
+<!-- wp:paragraph -->
+<p><a href="http://cavallo.local/wp-content/uploads/2022/05/Cavallo-Trim-Manual-PDF-Format.pdf" target="_blank" rel="noopener"><br></a><br><a href="http://cavallo.local/barefoot-trim-video/" target="_blank" rel="noreferrer noopener"><br>Watch Barefoot Trim Video<br></a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Dr. Tomas Teskey Reviews <i>Hoof Prints on the Journey</i></h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Dr. Tomas Teskey DVM of&nbsp;Insight to Equus&nbsp;is one of America's top barefoot hoof care experts and voices. So a review from his really warms the heart!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><em>"I found some perfect hoof prints! Thank you to Carole and Cavallo Hoof Boots for sound integrity and dedication to horses and their people. </em><em>When you find fellow humans that speak the truth of the horses, hang on to them.</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><em>And by the way, this book is such a gem...easy, beautiful read with OMG case studies--I devoured it eagerly and all at once."!&nbsp;</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>- Dr. Tomas Teskey, DVM</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:spacer {"height":"1px"} -->
+<div style="height:1px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:image {"align":"center"} -->
+<figure class="wp-block-image aligncenter"><img src="http://cavallo.local/wp-content/uploads/2024/04/Tomas-Teskey-with-Carole-Herders-Book-Hoofprints-book-Hoof-Prints-on-the-Journey.jpg" alt="Tomas Teskey with Carole Herder's Book Hoofprints book Hoof Prints on the Journey" title="Tomas Teskey with Carole Herder’s Book Hoofprints book Hoof Prints on the Journey"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"textAlign":"center","level":3} -->
+<h3 class="wp-block-heading has-text-align-center">Reviews for <i>There Are No Horseshoes in Heaven</i></h3>
+<!-- /wp:heading -->
+
+<!-- wp:image {"align":"center"} -->
+<figure class="wp-block-image aligncenter"><img src="http://cavallo.local/wp-content/uploads/2023/12/carol-emonty.jpg" alt="Carole Herder with Monty Roberts"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":5} -->
+<h5 class="wp-block-heading">What Monty Has to Say:</h5>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><em>“A beautifully-written true story of a kindred spirit's journey through life, discovering ways to leave the world a better place for horses and people, too.”</em>&nbsp; &nbsp;- Monty Roberts</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"align":"center"} -->
+<figure class="wp-block-image aligncenter"><img src="http://cavallo.local/wp-content/uploads/2024/05/pat-parreli.jpg" alt="Pat Parelli reviews Carole Herder's book, No Horseshoes in Heaven"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":5} -->
+<h5 class="wp-block-heading">There Are No Horseshoes in Heaven</h5>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><em>"This lovely book is a must-read. It’s all about never-ending improvement – not only for the sake of our four-legged partners, but for ourselves!”</em>&nbsp; &nbsp; - Pat Parelli</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Why Add these Books to Your Horse Care Library?</h3>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":5} -->
+<h5 class="wp-block-heading">Protect Your Horse</h5>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>My books emphasize protecting your horse from pain and discomfort, while encouraging alternative approaches to traditional practices, such as considering barefoot and booted hoof care, instead of metal shoes.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":5} -->
+<h5 class="wp-block-heading">Maximize Your Riding Experience</h5>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Explore new ways to enhance your riding experience and connection with your horse. By understanding your horse’s natural way of being, you can be more present and make decisions that benefit both you and your equine companion.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":5} -->
+<h5 class="wp-block-heading">Hot Spots for Horses</h5>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Gain insights into what the ‘hot spots’ may be for your horse, backed by scientific evidence and real-life stories. Understanding these areas can help you manage your horse’s well-being more effectively.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":5} -->
+<h5 class="wp-block-heading">Challenge Past Patterns</h5>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Challenge past ways of thinking that have impacted your horse. It's never too late... Let your curiosity lead you to explore new ideas that will flow through to positive change.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":5} -->
+<h5 class="wp-block-heading">See Your Whole Horse</h5>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>I take a holistic approach to understanding and caring for horses. Every aspect of a horse’s health and life is interconnected. In my books, I address not only the physical well-being of horses but also their mental health. When considering your care plan, consider your horse’s anatomy, physiology, exercise, and overall lifestyle.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>If you’re passionate about your horse, these books are definitely worth exploring!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><em>Wishing you many happy trails,</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="http://cavallo.local/wp-content/uploads/2024/05/carole-signature-transparent-background.jpg" alt="carole signature transparent background" title="carole signature transparent background"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><em>Carole Herder is the author of the number-one International Bestseller books There Are No Horseshoes in Heaven and Hoof Prints on the Journey. Herder has been involved in horse health since 1993. Her company, Cavallo Horse &amp; Rider Inc., develops, manufactures, and distributes horse products in 26 countries worldwide. Herder designed and developed Cavallo Hoof Boots and Total Comfort System Saddle Pads. Providing comfort for horses is her passion. She presents educational training worldwide on the benefits of keeping horses in their natural state. Herder is an honored award recipient of the Royal Bank of Canada Woman Entrepreneur of the Year, British Columbia's Businesswoman of The Year, and North America Enterprising Woman of The Year and a certified Chopra University yoga instructor, meditation instructor, and Ayurvedic Teacher. She is a trailblazer and a proud member of the Women Presidents Organization, supporting female entrepreneurs in every industry.</em></p>
+<!-- /wp:paragraph -->

@@ -1,0 +1,55 @@
+<!-- wp:heading {"level":1} -->
+<h1 class="wp-block-heading">Nailing metal to your horse's feet?</h1>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading">HISTORY LESSON</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Horses were first shod with metal shoes 1500 hundred years ago, when horses were captured for use in battle. The confined horse’s hoof was weakened by a fetid environment and lack of movement. Limited movement meant restricted blood circulation and significant loss of nutrient supply to the hoof. The hoof began to rot. Metal shoes were intended to elevate the hoof out of the manure and urinesaturated ground where the horse was tied. The premise was that the elevation would stop the hoof decay. Not surprisingly, the rot worked its way between the metal plate and the hoof. Cutting out the middle of the metal plate and leaving the rim, was thought to allow some breathability and air circulation: hence originated the current shape of the metal horse shoe. Nothing much has change. It wasn’t the best solution but horses were becoming valuable as war vehicles and stomping on the enemy with a metal shoe was considered a good weapon.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":8573,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="http://cavallo.local/wp-content/uploads/2017/04/Carole-speaking-1.jpg" alt="Cavallo Carole Herder Presentation" class="wp-image-8573"/><figcaption class="wp-element-caption">Cavallo President Carole Herder Speaking at Equestrian Event</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|red"}}}},"textColor":"red"} -->
+<p class="has-red-color has-text-color has-link-color"><strong><a href="http://cavallo.local/horse-hoof-problems-solved-horse-boots/">WATCH CAROLE EXPLAIN WHY BAREFOOT HOOF CARE IS SO IMPORTANT HERE!</a></strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>WHAT’S HAPPENING NOW</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>When asked why horse owners nail metal into horses’ feet; survey results indicate that it is thought to protect the hoof. The second response is simply because it has always been done and the third, most honest response is that they don’t know. What we do know is that the experience of lameness is not unfamiliar. As horse owners, we seem destined to endure problems with our horse’s hoofs from time to time. It could be anything from a simple abscess to an intense injury or navicular diagnosis.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>5 HEARTS &amp; HOOF MECHANISM</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>You may have heard it said that a horse has 5 hearts; four on the ground and one in the chest. This refers to the frog’s blood-pumping function, circulating blood down through the extremities and back again. The frog spreads the heel apart, drawing the sole flat and inviting the bone structure of the leg to descend into the hoof. This is how shock is absorbed in the hoof capsule. If you can accept that circulation is imperative to the distribution of nutrients throughout the system and that healthy blood flow aids in prevention and facilitates healing, it follows that limiting blood flow will lead to degeneration. If the frog cannot make ground contact and function as it should, then shock cannot be properly absorbed and blood cannot freely flow. When metal is nailed in all around and the hoof is clamped in its smallest most contracted position, both proper blood circulation and shock absorption are dangerously impeded. Then when the hoof lands on a hard surface, shock is referred up the legs.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Take a metal shoe and bang it against a hard surface. You will feel the tremors vibrate up your arm. Try it. In fact, even the nails cause vibration which will compromise the integrity and break down hoof structure. And if you still think that metal shoes provide protection, please consider that the outside walls of the hoof are already hard and that the softer more vulnerable middle sole area is the more vulnerable.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>An excellent alternative is to use hoof boots so that your horses’ hoofs can function unrestricted, expand and contract to absorb shock and circulate blood and oxygen<br>naturally. Good hoof boots allow you to ride over any terrain at any speed with safety and protection.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Cavallo Hoof Boots</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Cavallo Hoof Boots. Simple on. Stay on over any terrain at any speed.<br><a href="/product-category/hoof-boot/"><br>Choose your style! </a></p>
+<!-- /wp:paragraph -->

@@ -1,0 +1,39 @@
+<!-- wp:paragraph -->
+<p>By Carole Herder</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The rain paused briefly as the Hunt in Roberts Creek kicked off today. Careening through the countryside with 30 horses and riders at top speed is a pretty exciting pastime. Riders from 12 to 80 years old set off bounding along our trails, ponies and drafts, every colour combination imaginable and all complete with the wagging eager hounds.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Even though there were several barefoot horses, the majority was shod with metal. So, as always I ponder my biggest bewilderment - WHY metal shoes?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":6164,"linkDestination":"custom","align":"left"} -->
+<figure class="wp-block-image alignleft"><a href="//cavallo.local/wp-content/uploads/2015/11/hunt-15.jpg"><img src="//cavallo.local/wp-content/uploads/2015/11/hunt-15-300x300.jpg" alt="Horse Hoof Boots" class="wp-image-6164"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><br>Last week The British Columbia Veterinarians Association banned the practice of cropping dog’s ears and docking their tails. They say it is inhumane and unnecessary. The practice continued for historical reasons, because that’s what they did, because that’s the tradition and certain breeds just look like that. In fact, some were not allowed to compete UNLESS they looked like that. And in further fact, there is no hard scientific evidence to support that the now outmoded practice was not in reality, detrimental to the animal.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Do you see where I am going with this? Metal is nailed into horse’s feet because that’s what we are accustomed to. History, custom and tradition make horse owners cling to this as normal practice. It’s like the wake driving the boat or more appropriately perhaps – the tail wagging the dog.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>I don’t know of any scientific evidence that could reasonably claim that the practice is NOT harmful to horses; however I am aware of evidence that exposes horseshoeing as potentially destructive and damaging.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>So, what do we do? It’s simple. Pull off those metal shoes and use <a href="http://cavallo.local/" target="_blank" rel="noopener">Cavallo Hoof Boots</a> when you ride!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":5795,"linkDestination":"custom","align":"left"} -->
+<figure class="wp-block-image alignleft"><a href="//cavallo.local/wp-content/uploads/2015/06/Caroles.png"><img src="//cavallo.local/wp-content/uploads/2015/06/Caroles.png" alt="horse hoof boots" class="wp-image-5795"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:spacer {"height":"40px"} -->
+<div style="height:40px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->

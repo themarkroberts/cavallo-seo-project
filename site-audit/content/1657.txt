@@ -1,0 +1,35 @@
+<!-- wp:image {"id":8771,"width":"353px","height":"auto","align":"left"} -->
+<figure class="wp-block-image alignleft is-resized"><img src="//www.cavallo.local/wp-content/uploads/2017/05/english1.jpg" alt="Image of two girls on a ride." class="wp-image-8771" style="width:353px;height:auto"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>This month, we are featuring the <a href="http://www.pegasustr.org/" target="_blank" rel="noopener">Pegasus Therapeutic Riding</a> center. Pegasus is a <a href="http://www.pathintl.org/" target="_blank" rel="noopener">Professional Association of Therapeutic Horsemanship International (PATH Intl.) </a>This Premier Accredited Center serves more to make an incredible difference by catering to individuals with special needs, disadvantaged youth, trauma survivors, individuals at risk, and adults with development disabilities. Pegasus offers therapeutic horseback riding and unmounted equine-assisted activities. Students get to learn the importance of horsemanship while progressing through a sequence of activities adapted to their abilities. The therapeutic riding portion works towards improving mobility, balance, posture, coordination, language development, behaviour control, and concentration. Being apart of a special community like this, brings a sense of inclusion and community to an otherwise potentially outcast individual. Developing through communion with their equine companion and fellow classmates is a truly transforming &nbsp;journey,</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":8751,"align":"right"} -->
+<figure class="wp-block-image alignright"><img src="//www.cavallo.local/wp-content/uploads/2017/05/PATH-Intl.jpe" alt="Image of PATH Intl. Logo" class="wp-image-8751"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>Here at Cavallo, we're honoured to partner with the amazing people at PATH International. The dedication, commitment and gracious generosity offered to those in need is an inspiration to anyone coming in contact with this group. These types of centers provide yet another vocation for our equine pals - the healing&nbsp;power of horses. Offering our&nbsp;assistance to this worthy cause, Cavallo provides sponsorship, <a href="https://goo.gl/ndzIXg" target="_blank" rel="noopener">Cavallo Hoof Boots</a> and <a href="https://goo.gl/koBla3" target="_blank" rel="noopener">Total Comfort Saddle Pads</a> keeping our valuable horse 'therapists' comfortable.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;<a href="http://www.pathintl.org/path-intl-centers/path-intl-centers?utm_source=PATH%20Blog%20April%202017&amp;utm_medium=PATH%20Blog%20April%202017&amp;utm_campaign=PATH%20Blog%20April%202017&amp;utm_term=PATH%20Blog%20April%202017&amp;utm_content=PATH%20Blog%20April%202017" target="_blank" rel="noopener">Find a PATH Center near you!</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>In 2016, at the PATH Intl. Conference and Annual Meeting Awards Banquet, Pegasus Therapeutic Riding Inc. took home 4 awards. For Region 1, Once in a Blue Moon, aka Mr. Blue, took home&nbsp;the Equine of the Year Award. Elizabeth Fortes received the Certified Professional of the Year Award, and the Volunteer of the Year Award was accepted by Suzanne McGraw. For Region 2, Dr. Jennifer Buchholz received the Veterinarian of the Year Award. Wow, so gratifying to hear about these amazing individuals!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Happy Trails,</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":8639,"align":"left"} -->
+<figure class="wp-block-image alignleft"><img src="//www.cavallo.local/wp-content/uploads/2017/05/Caroles-signiture-image.png" alt="Image of Cavallo President, Carole Herder" class="wp-image-8639"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->

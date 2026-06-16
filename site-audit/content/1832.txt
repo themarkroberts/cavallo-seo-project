@@ -1,0 +1,75 @@
+<!-- wp:heading {"level":5} -->
+<h5 class="wp-block-heading">Western Kentucky University Research Recommends Cavallo Trek Hoof Boots for Hoof Protection, Traction, and Reduced Pressure.</h5>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.wku.edu/agriculture/staff/jennifer_gill" target="_blank" rel="noopener">Dr. Jennifer Gill</a> and Gabriella Lynn of the <a href="https://www.wku.edu/agriculture/equestrianteam.php" target="_blank" rel="noopener">Western Kentucky University Equine Science Department</a> have just completed the first independent university study comparing hoof boots to traditional metal shoes. They chose their preferred boots, <a href="http://cavallo.local/product-category/hoof-boot/" target="_blank" rel="noopener">Cavallos,</a> for this study. Results confirmed what we in the horse community have been witnessing since 2006. <a href="http://cavallo.local/product-category/hoof-boot/trek-hoof-boots/" target="_blank" rel="noopener">Cavallo Trek Hoof Boots</a> benefit horses – provide comfort, protection and minimize any potential hoof damage.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="http://cavallo.local/wp-content/uploads/2020/04/Jennifer-Gill-Photo-speaking-Western-Kentucky-University-Equine-Sciences-2.jpg" alt="Jennifer Gill Photo - speaking - Western Kentucky University Equine Sciences"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":5} -->
+<h5 class="wp-block-heading">Jennifer Gill Discusses the Results of the WKU Hoof Boot Study:</h5>
+<!-- /wp:heading -->
+
+<!-- wp:embed {"url":"https://www.youtube.com/watch?v=wY7DYZTNSPs\u0026t=9s","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://www.youtube.com/watch?v=wY7DYZTNSPs&amp;t=9s
+</div></figure>
+<!-- /wp:embed -->
+
+<!-- wp:paragraph -->
+<p>The study focused on surface area, force, and pressure exerted on horse’s hooves while traveling on the hard surface of asphalt. The Scientists used <a href="https://www.fujifilm.com/products/prescale/prescalefilm/" target="_blank" rel="noopener">FujiFilm imaging</a> to determine the amount of pressure felt in the horse’s hooves. This film procedure allowed the scientists to see dynamic pressure through color mapping.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>“The Cavallo Hoof Boots protected the entire hoof itself, which we thought was very beneficial, especially over some other types of hoof protection, such as horseshoes,” Gill said. “We also found that the tread of the Cavallo Trek Hoof Boots was thicker and would provide more space to contact with the ground than a metal horseshoe.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>To read the published study in the <b>Journal of Equine Veterinary Science,</b>&nbsp;<a style="font-size: 16px; background-color: #ffffff;" href="https://www.sciencedirect.com/science/article/abs/pii/S0737080619303119" target="_blank" rel="noopener"><b>CLICK HERE.</b></a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading">Results in our Favour</h4>
+<!-- /wp:heading -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="http://cavallo.local/wp-content/uploads/2020/04/Western-Kentucky-University-Hoof-Boot-Study-Cavallo-2-1.jpg" alt="Western Kentucky University Hoof Boot Study - Cavallo (2)"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>“We found that the Cavallo Trek Hoof Boots was significantly lower in pressure than the other two treatments,” Gill said. “And this is what we expected from our data. We would have expected that the Cavallo Trek Hoof Boots would have been lower —especially with a hard terrain. This was good news for what we were expecting to see."</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>“The contacting surface area with the Cavallo Trek Hoof Boots was significantly higher than the other two treatments,” Gill continued. There was more tread that was in contact with the ground than would be with the steel horseshoe and the steel horseshoe with Equi-Pak.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>“Based on this result, we would say that horses would have better traction in the Cavallo Trek Hoof Boots and be better able to dissipate those forces and pressure because of the increases in surface area,” Gill said.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":5} -->
+<h5 class="wp-block-heading">Gabriella and Jennifer describe why Cavallo Hoof Boots were chosen for the study over any other brand:</h5>
+<!-- /wp:heading -->
+
+<!-- wp:embed {"url":"https://www.youtube.com/watch?v=FRD2rBGVn5Q\u0026t=81s","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://www.youtube.com/watch?v=FRD2rBGVn5Q&amp;t=81s
+</div></figure>
+<!-- /wp:embed -->
+
+<!-- wp:paragraph -->
+<p>Wishing you many happy trails full of valuable equine knowledge,</p>
+<!-- /wp:paragraph -->

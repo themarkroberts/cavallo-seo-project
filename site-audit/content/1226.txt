@@ -1,0 +1,27 @@
+<!-- wp:image {"id":5087,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="http://cavallo.local/wp-content/uploads/2013/08/drinking2.webp" alt="" class="wp-image-5087"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>By Carole Herder</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>When I have a glass of wine or a cocktail I don’t think about whether it’s good for me. I am either celebrating, relaxing or just enjoying the weather. Sure it may not be the best drink on the planet, but my body can take it occasionally. Water, on the other hand is required daily. It nourishes. It is the fundamental life force of hydration that we can’t live without. Right now in the hot summer, our horses are drinking more water than usual. They are not drinking to celebrate or wind down after a hard day; they are simply hot and thirsty.<br>We know about metal toxicity, arsenic and biological waste in the water supply and now here’s the rub. The US government recommends that empty containers and unused pharmaceuticals be disposed of in your trash bin. They suggest you don’t flush them in the toilet as residues end up in water supply. Findings are that water supplies contain drugs from both animal and human waste that leaches from sewage plants, septic systems and runoff into the groundwater. In addition these toxins are now entering drinking water supplies from other sources. The trash is not the answer because trash is not permanently sealed so the drugs you toss in your bin can contaminate the surrounding environment. The leach rate into our water system is ever increasing as people administer more drugs. Causing potential risk to us and our livestock are tiny amounts of pain killers, antidepressants, birth control pills, high blood pressure, high cholesterol, anti-inflammatories, and antibiotics etc., all found in the landfill water of several states. Your basic water source could be a concoction of a dangerous brew.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":1583,"align":"center"} -->
+<figure class="wp-block-image aligncenter"><img src="//cavallo.local/wp-content/uploads/2013/08/drinking.png" alt="" class="wp-image-1583" title="horse hoof boots"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center"></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>A new bill is being considered in the state of Maine that would require drug manufacturers to develop and pay for a program to collect residents’ unused prescription and over-the-counter drugs and safely dispose of them. This would be the first of its kind and would make the drug companies responsible for their impact. For the most part, they are not too happy but I personally think they could easily afford it!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Your part to avert some of the damage caused from toxic water may consist of cutting down on the drugs you’re taking yourself and/or giving to your horses. Remember that almost everything in the environment has a cause and effect. Some vets and doctors really over prescribe and some people take a pill for this and a pill for that without really considering the consequences. There are increasingly more sources available for feed and food supply that are free of growth hormones, antibiotics and other drugs. I suggest you seek out these responsible producers so that you are not adding to the problem and if your water is in question then get yourself a good filter for the water in your house and of course, your barn.</p>
+<!-- /wp:paragraph -->

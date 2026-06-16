@@ -1,0 +1,15 @@
+<!-- wp:image {"sizeSlug":"large","align":"left"} -->
+<figure class="wp-block-image alignleft size-large"><img src="http://cavallo.local/wp-content/uploads/2024/09/RHonolulu-PD.gif" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>Aloha,</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Thank you for your wonderful Total Comfort System saddle pads; what a difference they make on daily patrol.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>I get an even sweat on my horse and no sore back. Keep up the good work.</p>
+<!-- /wp:paragraph -->

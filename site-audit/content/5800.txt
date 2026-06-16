@@ -1,0 +1,63 @@
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"level":1} -->
+<h1 class="wp-block-heading">Exchange &amp; Return Policy</h1>
+<!-- /wp:heading -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Arranging an Exchange</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>All returns/exchanges must be arranged with the original place of purchase.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>For products purchased directly from Cavallo Horse &amp; Rider (www.cavallo.local), please contact us by phone or email to arrange your return/exchange.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>ALL exchanges/returns must first be&nbsp;<strong>PRE-AUTHORIZED and a return authorization number must be obtained.</strong>&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">IMPORTANT – When Arranging a Sizing Exchange, Please Note the Following:</h3>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>Call Cavallo toll-free at 1-877-818-0037 or email krystle@cavallo.local).&nbsp;</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Provide your original order number and the quantity, style, colour and size of the boots you will be exchanging. Please indicate why an exchange is needed (i.e. boots are too large, too small, etc.) and indicate what size you will be needing or if you need our help finding your replacement size(s).&nbsp;</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Cavallo does not cover costs for return shipping but does cover the cost of shipping any new items to the customer in exchange.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>When sending your returned item(s) back to Cavallo, please take care to insure your parcel against damage and/or loss and obtain a receipt with the tracking number. Cavallo can not accept responsibility for returned packages that are lost or damaged in transit.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading">All Returned Items Must be in As-New Condition:</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Boots sent back without first arranging an exchange and obtaining a return authorization number will be returned at the sender’s expense.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>There will be a 10% restocking charge for all orders that are returned in their entirety OR if items are in need of cleaning. If items are not able to be cleaned and restored to new resalable condition they will be refused and returned to you without exchange or refund applied.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>All products returned must be in new, resalable condition, including packaging and any promotional items originally included.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Refunds and exchanges can only be given up to 60 days after initial purchase date.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->

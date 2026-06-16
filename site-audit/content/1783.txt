@@ -1,0 +1,81 @@
+<!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading"><strong><em><span style="color: #000000;">Want to give your horse a treat while trailering?</span></em></strong></h4>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading"><strong><span style="color: #000000;">Travel Well, Travel Safe, Travel Protected.&nbsp; </span></strong></h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><span style="color: #000000;">Did you know that more than 50% of the injuries horses sustain in transportation are to the lower limbs? Ranging in severity, from treatable surface wounds to irreparable impairment, the main causes are scrambling, loss of balance, and conflict with other horses.</span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading"><span style="color: #000000;">Why Risk It?</span></h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><span style="color: #000000;">You can easily protect your horse’s feet with <a href="http://cavallo.local/product-category/hoof-boot/" target="_blank" rel="noopener noreferrer">any of our Cavallo Hoof Boot styles.</a> They ensure proper traction to prevent scrambling and minimize the impact of any incident.</span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading"><span style="color: #000000;">Are you Grinding your Horse's Gears?</span></h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><span style="color: #000000;">The vibration of travel can aggravate your horses’ joints, muscular and skeletal structure, making your horse sore and stiff. Just pop on your Cavallos for overall protection, increased traction, and shock absorption.&nbsp; Prevent metal shoes from being pulled off or causing damage to legs or your trailer!</span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading"><span style="color: #000000;"><strong>Your horse will be so happy...he won’t want to leave the trailer!</strong></span></h4>
+<!-- /wp:heading -->
+
+<!-- wp:embed {"url":"https://youtu.be/58tsVpC-rTw","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-4-3 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://youtu.be/58tsVpC-rTw
+</div></figure>
+<!-- /wp:embed -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><em><span style="color: #000000;">* Special thanks to</span> <a href="http://www.equivibes.com/" target="_blank" rel="noopener noreferrer">Sue Grice</a> <span style="color: #000000;">for sending in this sweet video of her horse clearly LOVING Transport Air!&nbsp;&nbsp;</span></em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><span style="color: #000000;">Wishing you many happy trails and road trips,</span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":11988,"linkDestination":"custom","align":"left"} -->
+<figure class="wp-block-image alignleft"><a href="https://www.amazon.com/There-Are-Horseshoes-Heaven-Tradition-ebook/dp/B01BMYYRZ6"><img src="http://cavallo.local/wp-content/uploads/2018/08/Caroles-signature-with-click-here-452x261.jpg" alt="Carole Herder's book - There are no Horseshoes in Heaven" class="wp-image-11988"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph -->

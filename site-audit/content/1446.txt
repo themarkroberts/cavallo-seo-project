@@ -1,0 +1,79 @@
+<!-- wp:paragraph -->
+<p>By Carole Herder</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>I came across two very different backs on horses recently. The first was an old gentleman who had lived a rough life being ridden three times a week for many years, had worn shoes all his life and probably an ill-fitting saddle too. He stood at 17hh (68cm) but did not look that large – his withers stood high above the rest of his body. Muscle atrophy had completely re-arranged his body posture and his spine protruded the whole way along his back.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":5101,"width":"269px","height":"auto","linkDestination":"custom","align":"left"} -->
+<figure class="wp-block-image alignleft is-resized"><a href="//cavallo.local/wp-content/uploads/2014/11/Blog-75-Sway.jpg"><img src="//cavallo.local/wp-content/uploads/2014/11/Blog-75-Sway.jpg" alt="Horse Hoof Boots" class="wp-image-5101" style="width:269px;height:auto"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>I then met a young little horse of only six years. He had the most beautiful flat back with low withers. He was so strong and sturdy looking you could’ve eaten your lunch off his back! He was a sweetheart and coming up to the prime of his life.<br>I smiled to myself as I remembered our saddle pads and why I love them so much, precisely because of all this versatility out there.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Here’s a few pointers on them:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>• Memory foam technology</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>• Promotes even weight distribution</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>• Allows room for horse’s scapula to move properly</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":5102,"linkDestination":"custom","align":"left"} -->
+<figure class="wp-block-image alignleft"><a href="//cavallo.local/wp-content/uploads/2014/11/BLog-75.jpg"><img src="//cavallo.local/wp-content/uploads/2014/11/BLog-75.jpg" alt="Horse Hoof Boots" class="wp-image-5102"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>• Promotes blood circulation</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>• Cutback allows wither relief</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>• Allows one saddle to be used on multiple horses</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>• Compensates for the changing horses back</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>• 3 different material densities create a thinner pad with excellent shock absorbency</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>• Soft, lightweight, water-absorption-free, insulating, cushioning, durable, abrasion resistant, breathable</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>• Comes in six different styles</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Check out our web pages for more information, videos, testimonials, shop and endorsements from the likes of Monty Roberts &nbsp;himself: <a href="http://cavallo.local/our-saddle-pad-technology/" target="_blank" rel="noopener">http://cavallo.local/our-saddle-pad-technology/</a>.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:spacer {"height":"40px"} -->
+<div style="height:40px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->

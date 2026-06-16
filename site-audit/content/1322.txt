@@ -1,0 +1,51 @@
+<!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="http://cavallo.local/wp-content/uploads/2024/09/CH1.jpg" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>The first installment in a series of five articles about you and your horse.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>By Carole Herder</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>They say you shouldn’t judge a book by its cover. But isn’t that something we all do? Our first impression of what we observe on the outside – both the physical and the behavioral – can give us important information about what may be happening on the inside of that being, be he a horse or a human. We form a snap judgment. However, with practice and self-awareness, that judgment can be based more accurately on intuition rather than stereotypes true both for humans and horses.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>It is difficult to observe from an intuitive place if your mind is full of chatter. To accurately view your horse, it’s a good idea to stop for a moment when you walk into the barn, stand still …..just stand there and take a deep breath or two. Stand there for a few moments and breathe. This allows you to get to a place where you lose the preoccupations of your day outside the barn – the business, family, the to-do list – and be present with and for your horses. Deep breathing is a way to move to a place of stillness and become more aware of what is around you. If you want to cultivate a symbiotic relationship with your horses and get a sense of who they are, their personalities and needs, it is important that you release everything else going on in your world and truly be with them. After all, we ask a lot of our horses, especially show animals. They deserve our undivided attention and to be tended to during your time together.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Even though we often anthropomorphize and bestow human characteristics to our horses, the reality is they are not humans and can’t talk to us. They communicate, but they can’t talk. So we have to use our senses to build a relationship with them and understand what they are saying and showing us. It is also through our senses that we will detect and understand any physical issues or needs. It seems obvious that we use our senses to get closer to our horses, yet if you aren’t actively paying attention you’ll miss something and lose out on that closeness. You would think it would be effortless, but it takes a lot of practice. Most of your interaction with your horse is action – moving around your horse, patting him, tacking him up and riding him. You can do it sort of mindlessly, like when you drive somewhere and you arrive but have no real recollection of how you got there, the route you took, the observations made on the way etc. Being present is a way to truly know yourself and your horse. This is the most rewarding way to experience the relationship.<br>You may primarily use body language and words to direct your horse. But a two way conversation includes the communication tools of four of the five senses: sight, touch, hearing, and smell. (Cleary we’re not using the fifth sense and tasting our horse.) Also, you certainly can’t underestimate the power of intuition, the sixth sense.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>So what can you expect in sensory communication? What should you look for and how should you decipher what you’re sensing?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The next 4 articles will provide insight to the four elements of sight, sound, hearing and touch affording building blocks for a better relationship with your horse.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">********</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Carole Herder has been involved in horse health since 1994. She speaks publicly on the benefits of keeping horses barefoot and in their natural state. Her Company Cavallo Horse &amp; Rider Inc. develops, manufactures and distributes horse products in 25 countries worldwide. Carole and her partner Greg Giles designed and patented both the Cavallo Simple and Sport Hoof Boots. They work rigorously to develop quality hoof boots that provide comfort and protection for both horse and rider.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Cavallo - the Official Hoof Boots:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":1948,"align":"center"} -->
+<figure class="wp-block-image aligncenter"><img src="//cavallo.local/wp-content/uploads/2014/02/OFFICIALweb-1024x228.jpg" alt="" class="wp-image-1948" title="horse hoof boots"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->

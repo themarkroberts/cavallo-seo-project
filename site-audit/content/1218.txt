@@ -1,0 +1,15 @@
+<!-- wp:image {"id":1219,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="http://cavallo.local/wp-content/uploads/2024/09/bubble-wrap.jpg" alt="" class="wp-image-1219"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>By Carole Herder</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>When I think about physical protection for my horses I consider how they need a safe, adequately spacious, clean and dry shelter for protection. We can easily get caught up in the glamour of building these big, plush, beautiful stables with all the bells and whistles. They can be even more posh and well equipped than some homes for humans. However, I am quite sure all my horse really needs is cover from the rain and shelter from the wind, a 10 x 10 shelter with clean, dry hay. I really don’t like locking horses in stalls. People can think they look nice and that’s a place to store their horse. That actually seems cruel. And to illustrate, I recommend that they go into their bathroom, lock the door and imagine what it would be like to stand there all day. Not too much fun - boring at the very least and absolutely is unnerving over time.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>This is how a horse feels when kept in a stall for too long. Horses need interaction, socialization, movement, grazing, play, pecking order and other equine activities we don’t always understand. But for sure they are herd animals. It’s OK for them to have a little nip from another horse, a couple of bumps or bruises. They’re horses, not porcelain dolls.</p>
+<!-- /wp:paragraph -->

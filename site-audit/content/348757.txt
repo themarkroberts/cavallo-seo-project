@@ -1,0 +1,453 @@
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:image {"id":349038,"sizeSlug":"full","linkDestination":"none","style":{"spacing":{"margin":{"right":"0","left":"0","top":"0"}},"border":{"radius":{"topLeft":"10px","topRight":"10px","bottomLeft":"10px","bottomRight":"10px"}}},"UAGHideMob":true,"UAGHideTab":true,"UAGResponsiveConditions":true} -->
+<figure class="wp-block-image size-full has-custom-border uag-hide-tab uag-hide-mob" style="margin-top:0;margin-right:0;margin-left:0"><img src="http://cavallo.local/wp-content/uploads/2026/04/Copy-of-LEB-Donkey-Boots-Now-Back-in-Stock-desktop-layout.jpg" alt="LEB Donkey Boots Now Back in Stock desktop layout!" class="wp-image-349038" style="border-top-left-radius:10px;border-top-right-radius:10px;border-bottom-left-radius:10px;border-bottom-right-radius:10px"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:image {"id":349038,"sizeSlug":"full","linkDestination":"none","style":{"spacing":{"margin":{"top":"0","right":"0","left":"0"}},"border":{"radius":{"topLeft":"10px","topRight":"10px","bottomLeft":"10px","bottomRight":"10px"}}},"UAGHideDesktop":true,"UAGResponsiveConditions":true} -->
+<figure class="wp-block-image size-full has-custom-border uag-hide-desktop" style="margin-top:0;margin-right:0;margin-left:0"><img src="http://cavallo.local/wp-content/uploads/2026/04/Copy-of-LEB-Donkey-Boots-Now-Back-in-Stock-desktop-layout.jpg" alt="LEB Donkey Boots Now Back in Stock desktop layout!" class="wp-image-349038" style="border-top-left-radius:10px;border-top-right-radius:10px;border-bottom-left-radius:10px;border-bottom-right-radius:10px"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"textAlign":"center"} -->
+<h2 class="wp-block-heading has-text-align-center">They’re finally here... The only hoof boots designed specifically for donkeys!</h2>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"textAlign":"center","level":5,"style":{"spacing":{"padding":{"top":"var:preset|spacing|xs","bottom":"var:preset|spacing|xs"}}}} -->
+<h5 class="wp-block-heading has-text-align-center" style="padding-top:var(--wp--preset--spacing--xs);padding-bottom:var(--wp--preset--spacing--xs)">After the first shipment selling out, the Cavallo LEB (Long Ear Boot) is back in stock—just in time for trail season, rehab, and everyday protection.</h5>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":6,"style":{"spacing":{"padding":{"right":"var:preset|spacing|xl","left":"var:preset|spacing|xl","top":"var:preset|spacing|xs","bottom":"var:preset|spacing|xs"}}}} -->
+<h6 class="wp-block-heading" style="padding-top:var(--wp--preset--spacing--xs);padding-right:var(--wp--preset--spacing--xl);padding-bottom:var(--wp--preset--spacing--xs);padding-left:var(--wp--preset--spacing--xl)">✔ Designed for donkey hooves (not modified horse boots)<br>✔ Proven on rocky terrain, rescues, and working donkeys worldwide<br>✔ Secure fit that stays on—even in tough conditions</h6>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":6,"style":{"spacing":{"padding":{"right":"var:preset|spacing|xl","left":"var:preset|spacing|xl","top":"var:preset|spacing|xs","bottom":"var:preset|spacing|xs"}}}} -->
+<h6 class="wp-block-heading" style="padding-top:var(--wp--preset--spacing--xs);padding-right:var(--wp--preset--spacing--xl);padding-bottom:var(--wp--preset--spacing--xs);padding-left:var(--wp--preset--spacing--xl)">? Shop Now Before This Shipment Sells Out!</h6>
+<!-- /wp:heading --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"textAlign":"center"} -->
+<h2 class="wp-block-heading has-text-align-center"><strong>Why Donkeys Need Different Boots:</strong></h2>
+<!-- /wp:heading --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|lg","bottom":"var:preset|spacing|lg"}},"border":{"radius":{"topLeft":"15px","topRight":"15px","bottomLeft":"15px","bottomRight":"15px"}}},"backgroundColor":"gray-2","layout":{"type":"constrained"}} -->
+<div class="wp-block-group has-gray-2-background-color has-background" style="border-top-left-radius:15px;border-top-right-radius:15px;border-bottom-left-radius:15px;border-bottom-right-radius:15px;padding-top:var(--wp--preset--spacing--lg);padding-bottom:var(--wp--preset--spacing--lg)"><!-- wp:heading {"textAlign":"center","level":4} -->
+<h4 class="wp-block-heading has-text-align-center"><strong>Donkeys are not just “small horses"...</strong></h4>
+<!-- /wp:heading -->
+
+<!-- wp:columns {"verticalAlignment":"top"} -->
+<div class="wp-block-columns are-vertically-aligned-top"><!-- wp:column {"verticalAlignment":"top","style":{"spacing":{"padding":{"right":"0","left":"0"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-column is-vertically-aligned-top" style="padding-right:0;padding-left:0"><!-- wp:image {"id":204784,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="http://cavallo.local/wp-content/uploads/2025/08/DSC00489.jpg" alt="Cavallo LEB Long Ear Boots for Donkeys" class="wp-image-204784"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"top"} -->
+<div class="wp-block-column is-vertically-aligned-top"><!-- wp:paragraph -->
+<p><strong>Their hooves are:</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>Narrower and more upright</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Built with stronger frogs</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Higher heel bulbs</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>That’s why traditional hoof boots often rub, twist, or fall off.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>The Cavallo LEB was built from the ground up to match donkey anatomy—supporting natural hoof movement, balance, and long-term soundness!</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"textAlign":"center"} -->
+<h2 class="wp-block-heading has-text-align-center"><strong>PLUS: Introducing LEB Hoof Boot Pads - Make Every Step Feel a Little Easier for Them</strong></h2>
+<!-- /wp:heading --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column {"layout":{"type":"constrained"}} -->
+<div class="wp-block-column"><!-- wp:image {"id":348810,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="http://cavallo.local/wp-content/uploads/2026/04/Cavallo-LEB-donkey-hoof-boot-pad-new-1-1.png" alt="" class="wp-image-348810"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:paragraph -->
+<p><a href="http://cavallo.local/product/leb-cushion-pads" target="_blank" rel="noreferrer noopener">Cavallo LEB Donkey Hoof Boot Pads</a> provide added comfort, protection, and shock absorption for donkeys who need extra support.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Donkey hooves are living, dynamic structures that can become sore, sensitive, or stressed due to terrain, workload, health conditions, or environmental factors. These pads help reduce concussion, protect sensitive soles, and improve overall comfort in a wide range of situations.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading">Product Features:</h4>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>Shock &amp; concussion-absorbing cushioned insole</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Durable, flexible, and easy to clean</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Removable, for extra cushion and comfort</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Can be cut to fit all Cavallo LEB Boot sizes</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Add to your LEB Hoof Boots to tighten/improve boot fit between trims</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Stimulates blood circulation during hoof therapy/rehabilitation, Laminitis, hoof injury, during turnout, transport or on trails</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>5 mm thickness - made of  specially formulated microcellular foam compound </li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Ideal to give comfort and relief to donkeys recovering from or managing: Laminitis, Founder, White line disease, Hoof abscesses, Bruising, Sole sensitivity, Post-trim tenderness, General hoof stenderness </li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|md","padding":{"bottom":"var:preset|spacing|gap","top":"var:preset|spacing|xl"}},"border":{"radius":{"topLeft":"9px","topRight":"9px","bottomLeft":"9px","bottomRight":"9px"}}},"backgroundColor":"light-red-1","layout":{"type":"constrained","justifyContent":"center"}} -->
+<div class="wp-block-group has-light-red-1-background-color has-background" style="border-top-left-radius:9px;border-top-right-radius:9px;border-bottom-left-radius:9px;border-bottom-right-radius:9px;padding-top:var(--wp--preset--spacing--xl);padding-bottom:var(--wp--preset--spacing--gap)"><!-- wp:heading {"textAlign":"center","level":3} -->
+<h3 class="wp-block-heading has-text-align-center"><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-dark-red-color">Meet the NEW LEB Hoof Boot Pad Here:</mark></h3>
+<!-- /wp:heading -->
+
+<!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"}} -->
+<div class="wp-block-buttons"><!-- wp:button {"backgroundColor":"red","style":{"border":{"radius":"50px"}}} -->
+<div class="wp-block-button"><a class="wp-block-button__link has-red-background-color has-background wp-element-button" href="http://cavallo.local/product/leb-cushion-pads" style="border-radius:50px" target="_blank" rel="noreferrer noopener">Find Comfort &gt;&gt;</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"0"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group" style="padding-top:0"><!-- wp:heading {"textAlign":"center"} -->
+<h2 class="wp-block-heading has-text-align-center"><strong>What Makes LEB Different?</strong></h2>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"textAlign":"center","level":4} -->
+<h4 class="wp-block-heading has-text-align-center">The First Hoof Boot Designed Exclusively for Donkeys.</h4>
+<!-- /wp:heading --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|md","bottom":"var:preset|spacing|md"}},"border":{"radius":{"topLeft":"10px","topRight":"10px","bottomLeft":"10px","bottomRight":"10px"}}},"backgroundColor":"light-red-1","layout":{"type":"constrained"}} -->
+<div class="wp-block-group has-light-red-1-background-color has-background" style="border-top-left-radius:10px;border-top-right-radius:10px;border-bottom-left-radius:10px;border-bottom-right-radius:10px;padding-top:var(--wp--preset--spacing--md);padding-bottom:var(--wp--preset--spacing--md)"><!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column {"layout":{"type":"constrained"}} -->
+<div class="wp-block-column"><!-- wp:image {"id":331117,"sizeSlug":"full","linkDestination":"none","style":{"border":{"radius":{"topLeft":"15px","topRight":"15px","bottomLeft":"15px","bottomRight":"15px"}},"spacing":{"margin":{"right":"0","left":"0"}}}} -->
+<figure class="wp-block-image size-full has-custom-border" style="margin-right:0;margin-left:0"><img src="http://cavallo.local/wp-content/uploads/2025/10/LEB-and-CLB-soles-together-11.jpg" alt="LEB and CLB soles together (11)" class="wp-image-331117" style="border-top-left-radius:15px;border-top-right-radius:15px;border-bottom-left-radius:15px;border-bottom-right-radius:15px"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:paragraph -->
+<p>The Cavallo LEB is the first and only hoof boot created specifically for donkeys, developed with leading trimmers, farriers, and donkey experts. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Built for Real Life (Not Just the Arena!)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Use your LEB donkey hoof boots for:</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>Trail riding &amp; packing</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Barefoot transition</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Rehabilitation &amp; sore hooves</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Turnout &amp; transport</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Mud, snow, and rocky terrain</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p><strong>Features That Matter:</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>Anatomically correct donkey fit</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Durable 1680D industrial-grade upper</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Soft foam collar for comfort</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Secure Velcro closure system</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Built-in drainage for wet conditions</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Protection without restricting natural movement</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"textAlign":"center"} -->
+<h2 class="wp-block-heading has-text-align-center"><strong>Donkey Expert Brays from the Rooftops!</strong></h2>
+<!-- /wp:heading --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column {"verticalAlignment":"top","layout":{"type":"constrained"}} -->
+<div class="wp-block-column is-vertically-aligned-top"><!-- wp:image {"id":271456,"width":"500px","sizeSlug":"full","linkDestination":"none","align":"center","style":{"border":{"radius":{"topLeft":"15px","topRight":"15px","bottomLeft":"15px","bottomRight":"15px"}},"spacing":{"margin":{"right":"0","left":"0"}}}} -->
+<figure class="wp-block-image aligncenter size-full is-resized has-custom-border" style="margin-right:0;margin-left:0"><img src="http://cavallo.local/wp-content/uploads/2025/09/black_leb_donkey_hoof_boots_on_walter_-_megan_hensley_720.jpg" alt="Walter the Mammoth Donkey Tries Out the New Cavallo LEB Hoof Boot" class="wp-image-271456" style="border-top-left-radius:15px;border-top-right-radius:15px;border-bottom-left-radius:15px;border-bottom-right-radius:15px;width:500px"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"center"} -->
+<div class="wp-block-column is-vertically-aligned-center"><!-- wp:paragraph -->
+<p><strong>Added Comfort Found for Walter's Second Back Country Trip:</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Megan Hensley, also known as The Donkey Farrier, is widely recognized for her fair, compassionate, and intuitive approach to donkey trimming.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Recently, Megan had the chance to fit a pair of LEB Hoof Boots on a client’s mammoth donkey named Walter. Here’s what she shared about the experience:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>“I’m very excited about the new LEBs – and had a wonderful time sharing them with a new mammoth donkey client. At our first meeting, I learned that he had gone out to the backcountry a month prior and was a bit uncomfortable in some spots. His owner was concerned as they wanted to return to the Trinity Alps this weekend.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>My eyes lit up, and I said I have just the thing! I’ve got a brand-new pair of LEBs. Let’s see if they fit! And sure enough, they did!"</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>✔ Tested on real donkeys, not prototypes<br>✔ Trusted by rescues, professionals, and trail riders<br>✔ Designed with input from leading donkey experts</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"textAlign":"center"} -->
+<h2 class="wp-block-heading has-text-align-center"><strong>Not sure about sizing? We’ve got you.</strong></h2>
+<!-- /wp:heading --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|lg","bottom":"var:preset|spacing|lg"}},"border":{"radius":{"topLeft":"15px","topRight":"15px","bottomLeft":"15px","bottomRight":"15px"}}},"backgroundColor":"dark-gray","layout":{"type":"constrained"}} -->
+<div class="wp-block-group has-dark-gray-background-color has-background" style="border-top-left-radius:15px;border-top-right-radius:15px;border-bottom-left-radius:15px;border-bottom-right-radius:15px;padding-top:var(--wp--preset--spacing--lg);padding-bottom:var(--wp--preset--spacing--lg)"><!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column {"style":{"spacing":{"padding":{"right":"0","left":"0"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-column" style="padding-right:0;padding-left:0"><!-- wp:heading {"level":5,"style":{"elements":{"link":{"color":{"text":"var:preset|color|white"}}},"border":{"radius":{"topLeft":"15px","topRight":"15px","bottomLeft":"15px","bottomRight":"15px"}},"spacing":{"padding":{"right":"var:preset|spacing|gutter","left":"var:preset|spacing|gutter"}}},"backgroundColor":"dark-gray","textColor":"white"} -->
+<h5 class="wp-block-heading has-white-color has-dark-gray-background-color has-text-color has-background has-link-color" style="border-top-left-radius:15px;border-top-right-radius:15px;border-bottom-left-radius:15px;border-bottom-right-radius:15px;padding-right:var(--wp--preset--spacing--gutter);padding-left:var(--wp--preset--spacing--gutter)">Order now before your size is gone again! Give your donkey the comfort, protection, and performance they deserve — without compromise.<br><br>✔ Order now<br>✔ Upload photos after purchase<br>✔ Our experts confirm your size before shipping!<br><br>? It's that easy… Zero guesswork. Perfect fit guaranteed!</h5>
+<!-- /wp:heading --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":"700px","style":{"spacing":{"padding":{"right":"0","left":"0"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-column" style="padding-right:0;padding-left:0;flex-basis:700px"><!-- wp:heading {"textAlign":"left","level":4,"style":{"elements":{"link":{"color":{"text":"var:preset|color|white"}}}},"textColor":"white"} -->
+<h4 class="wp-block-heading has-text-align-left has-white-color has-text-color has-link-color"><strong>Here's how:</strong></h4>
+<!-- /wp:heading -->
+
+<!-- wp:video {"id":349015,"style":{"spacing":{"padding":{"right":"0","left":"0"},"margin":{"right":"0","left":"0"}}}} -->
+<figure style="margin-right:0;margin-left:0;padding-right:0;padding-left:0" class="wp-block-video"><video controls src="http://cavallo.local/wp-content/uploads/2026/04/Order-with-size-to-be-determined.mp4"></video></figure>
+<!-- /wp:video --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:spacer {"height":"23px"} -->
+<div style="height:23px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:image {"id":331173,"sizeSlug":"full","linkDestination":"none","align":"center","style":{"border":{"radius":{"topLeft":"15px","topRight":"15px","bottomLeft":"15px","bottomRight":"15px"}}}} -->
+<figure class="wp-block-image aligncenter size-full has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2025/10/Cavallo-LEB-Donkey-Hoof-Boots-Sizing-Chart-for-product-page.jpg" alt="Cavallo LEB Long Ear Boot Donkey Hoof Boots Sizing Chart" class="wp-image-331173" style="border-top-left-radius:15px;border-top-right-radius:15px;border-bottom-left-radius:15px;border-bottom-right-radius:15px"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"textAlign":"center"} -->
+<h2 class="wp-block-heading has-text-align-center"><strong>Donkey Hoof Boot FAQs Answered!</strong></h2>
+<!-- /wp:heading --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|md","bottom":"var:preset|spacing|md"}},"border":{"radius":{"topLeft":"15px","topRight":"15px","bottomLeft":"15px","bottomRight":"15px"}}},"backgroundColor":"gray-2","layout":{"type":"constrained"}} -->
+<div class="wp-block-group has-gray-2-background-color has-background" style="border-top-left-radius:15px;border-top-right-radius:15px;border-bottom-left-radius:15px;border-bottom-right-radius:15px;padding-top:var(--wp--preset--spacing--md);padding-bottom:var(--wp--preset--spacing--md)"><!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading"><strong>Q: What are the best hoof boots for donkeys?</strong></h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Answer: The Cavallo LEB is the only hoof boot designed specifically for donkey hoof shape, providing a secure fit, comfort, and natural movement. It's the first and best!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading"><strong>Q: Can donkeys wear horse hoof boots?</strong></h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Answer: Sometimes, but most horse boots don’t fit properly, due to the donkey having a narrower hoof and higher bulbs. Donkeys need a narrower, more upright design like the LEB.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading"><strong>Q:</strong> <strong>What are donkey hoof boots used for?</strong></h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Answer: Cavallo LEB donkey hoof boots are used for trail riding, rocky terrain, hoof protection, rehabilitation, transport, protecting therapy donkeys on slick, indoor floors and transitioning from horseshoes to barefoot.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading"><strong>Q:</strong> <strong>Do I need pads inside my LEB Hoof Boots?</strong></h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Answer: Not always—but pads like LEB Cushion Pads are ideal if your donkey has thin soles, is recovering from soreness, or needs extra shock absorption. They can noticeably improve comfort on hard or uneven terrain.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"right":"var:preset|spacing|xxl","left":"var:preset|spacing|xxl"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group" style="padding-right:var(--wp--preset--spacing--xxl);padding-left:var(--wp--preset--spacing--xxl)"><!-- wp:heading {"textAlign":"center","level":3} -->
+<h3 class="wp-block-heading has-text-align-center"><strong>Give Your Donkey the Fit They Deserve!</strong></h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>No slipping. No rubbing. No guessing.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Just secure, comfortable, purpose-built protection.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>? Shop Cavallo LEB Donkey Hoof Boots Now!</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|md","padding":{"top":"var:preset|spacing|lg","bottom":"var:preset|spacing|xl","right":"var:preset|spacing|md","left":"var:preset|spacing|md"}},"border":{"radius":{"topLeft":"10px","topRight":"10px","bottomLeft":"10px","bottomRight":"10px"}}},"backgroundColor":"light-red-1","layout":{"type":"constrained","justifyContent":"center"}} -->
+<div class="wp-block-group has-light-red-1-background-color has-background" style="border-top-left-radius:10px;border-top-right-radius:10px;border-bottom-left-radius:10px;border-bottom-right-radius:10px;padding-top:var(--wp--preset--spacing--lg);padding-right:var(--wp--preset--spacing--md);padding-bottom:var(--wp--preset--spacing--xl);padding-left:var(--wp--preset--spacing--md)"><!-- wp:heading {"textAlign":"center","level":3} -->
+<h3 class="wp-block-heading has-text-align-center"><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-dark-red-color">Here's a special discount ONLY for donkey lovers! Use code <strong>HOTLEB</strong> to get <strong>15% OFF</strong> your LEB Donkey Hoof Boots now</mark>!</h3>
+<!-- /wp:heading -->
+
+<!-- wp:buttons {"style":{"border":{"radius":{"topLeft":"9px","topRight":"9px","bottomLeft":"9px","bottomRight":"9px"}}},"layout":{"type":"flex","justifyContent":"center"}} -->
+<div class="wp-block-buttons" style="border-top-left-radius:9px;border-top-right-radius:9px;border-bottom-left-radius:9px;border-bottom-right-radius:9px"><!-- wp:button {"backgroundColor":"red","style":{"border":{"radius":"50px"}}} -->
+<div class="wp-block-button"><a class="wp-block-button__link has-red-background-color has-background wp-element-button" href="http://cavallo.local/product-category/leb-long-ear-hoof-boots-for-donkeys/" style="border-radius:50px" target="_blank" rel="noreferrer noopener">Get LEB Here! &gt;&gt;</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons -->
+
+<!-- wp:heading {"textAlign":"center","level":6,"style":{"spacing":{"padding":{"top":"var:preset|spacing|sm"}}}} -->
+<h6 class="wp-block-heading has-text-align-center" style="padding-top:var(--wp--preset--spacing--sm)">(<mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-dark-red-color">Hurry - this won’t last forever!)</mark></h6>
+<!-- /wp:heading --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"textAlign":"center"} -->
+<h2 class="wp-block-heading has-text-align-center"><strong>A Quick Heads-up About your LEB Packaging:</strong></h2>
+<!-- /wp:heading --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|lg","bottom":"var:preset|spacing|lg"}},"border":{"radius":{"topLeft":"15px","topRight":"15px","bottomLeft":"15px","bottomRight":"15px"}}},"backgroundColor":"gray-2","layout":{"type":"constrained"}} -->
+<div class="wp-block-group has-gray-2-background-color has-background" style="border-top-left-radius:15px;border-top-right-radius:15px;border-bottom-left-radius:15px;border-bottom-right-radius:15px;padding-top:var(--wp--preset--spacing--lg);padding-bottom:var(--wp--preset--spacing--lg)"><!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column {"verticalAlignment":"top","width":"450px","layout":{"type":"default"}} -->
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis:450px"><!-- wp:image {"id":331098,"sizeSlug":"full","linkDestination":"none","align":"center","style":{"border":{"radius":{"topLeft":"15px","topRight":"15px","bottomLeft":"15px","bottomRight":"15px"}}}} -->
+<figure class="wp-block-image aligncenter size-full has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2022/06/Cavallo-donkey-in-new-recyclable-LEB-Hoof-Boot-box.jpg" alt="Cavallo donkey in new recyclable LEB Hoof Boot box" class="wp-image-331098" style="border-top-left-radius:15px;border-top-right-radius:15px;border-bottom-left-radius:15px;border-bottom-right-radius:15px"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"top"} -->
+<div class="wp-block-column is-vertically-aligned-top"><!-- wp:spacer {"height":"36px"} -->
+<div style="height:36px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:paragraph -->
+<p>Your Long Ear Boots will arrive in one simple brown box—no extra graphics or glossy finish. That’s by design.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>As part of developing this donkey-specific boot, we chose to reduce excess packaging, ink, and materials—keeping our environmental footprint lighter while focusing resources where they matter most: creating a durable, high-performance boot designed specifically for the unique shape and needs of donkey hooves.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>It may not be fancy on the outside—but what’s inside is built to perform!</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|md","padding":{"top":"var:preset|spacing|xl","bottom":"var:preset|spacing|gap"}}},"backgroundColor":"light-red-1","layout":{"type":"constrained","justifyContent":"center"}} -->
+<div class="wp-block-group has-light-red-1-background-color has-background" style="padding-top:var(--wp--preset--spacing--xl);padding-bottom:var(--wp--preset--spacing--gap)"><!-- wp:heading {"textAlign":"center","level":3} -->
+<h3 class="wp-block-heading has-text-align-center"><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-dark-red-color"><strong>Get to know LEB with your in-depth Cavallo LEB User Manual:</strong></mark></h3>
+<!-- /wp:heading -->
+
+<!-- wp:buttons {"style":{"border":{"radius":{"topLeft":"10px","topRight":"10px","bottomLeft":"10px","bottomRight":"10px"}}},"layout":{"type":"flex","justifyContent":"center"}} -->
+<div class="wp-block-buttons" style="border-top-left-radius:10px;border-top-right-radius:10px;border-bottom-left-radius:10px;border-bottom-right-radius:10px"><!-- wp:button {"backgroundColor":"red","style":{"border":{"radius":"50px"}}} -->
+<div class="wp-block-button"><a class="wp-block-button__link has-red-background-color has-background wp-element-button" href="http://cavallo.local/leb-user-manual/" style="border-radius:50px" target="_blank" rel="noreferrer noopener">Get LEB Manual &gt;&gt;</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:image {"id":348882,"sizeSlug":"full","linkDestination":"none","align":"center","style":{"border":{"radius":{"topLeft":"15px","topRight":"15px","bottomLeft":"15px","bottomRight":"15px"}}},"UAGHideDesktop":true,"UAGHideTab":true,"UAGResponsiveConditions":true} -->
+<figure class="wp-block-image aligncenter size-full has-custom-border uag-hide-desktop uag-hide-tab"><img src="http://cavallo.local/wp-content/uploads/2026/04/Cavallo-Black-Turquoise-LEB-and-long-boot-sole-2.jpg" alt="" class="wp-image-348882" style="border-top-left-radius:15px;border-top-right-radius:15px;border-bottom-left-radius:15px;border-bottom-right-radius:15px"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:image {"id":348881,"sizeSlug":"full","linkDestination":"none","align":"center","style":{"border":{"radius":{"topLeft":"15px","topRight":"15px","bottomLeft":"15px","bottomRight":"15px"}}},"UAGHideMob":true,"UAGResponsiveConditions":true} -->
+<figure class="wp-block-image aligncenter size-full has-custom-border uag-hide-mob"><img src="http://cavallo.local/wp-content/uploads/2026/04/Cavallo-Black-Turquoise-LEB-and-long-boot-sole.jpg" alt="" class="wp-image-348881" style="border-top-left-radius:15px;border-top-right-radius:15px;border-bottom-left-radius:15px;border-bottom-right-radius:15px"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:group -->
+
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center"><em>Promo Details: Free shipping included ~ Available Canada &amp; USA only ~ No backorders or rainchecks - promo only valid while stock lasts ~ Cannot be combined with any other offer or promotion ~ For reasonable personal use only ~ Hurry! Promo ends soon!</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:block {"ref":348454} /--></div>
+<!-- /wp:group -->

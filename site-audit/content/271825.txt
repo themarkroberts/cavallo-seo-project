@@ -1,0 +1,416 @@
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:image {"id":4011,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="http://cavallo.local/wp-content/uploads/2024/10/news-banner.jpg" alt="Cavallo Hoof Boots newsletter banner" class="wp-image-4011"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:group -->
+
+<!-- wp:heading {"textAlign":"center","level":1,"style":{"border":{"width":"0px","style":"none"},"spacing":{"margin":{"top":"0","bottom":"0"}}},"fontSize":"large"} -->
+<h1 class="wp-block-heading has-text-align-center has-large-font-size" style="border-style:none;border-width:0px;margin-top:0;margin-bottom:0">Enjoy Your Latest Cavallo News - Full of Hoof-Saving Hacks &amp; Tips to Keep your Horse Brilliantly Booted!</h1>
+<!-- /wp:heading -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:image {"id":331143,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="http://cavallo.local/wp-content/uploads/2025/10/Cavallo-Hoof-Boots-on-Spooky-Halloween-Haunted-ride.gif" alt="Cavallo Hoof Boots on Spooky Halloween Haunted ride" class="wp-image-331143"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:group -->
+
+<!-- wp:heading {"textAlign":"center","style":{"spacing":{"margin":{"top":"-5px","bottom":"-5px"}}}} -->
+<h2 class="wp-block-heading has-text-align-center" style="margin-top:-5px;margin-bottom:-5px">Happy 'Hoof-o-ween' from Cavallo!????</h2>
+<!-- /wp:heading -->
+
+<!-- wp:spacer {"height":"99px"} -->
+<div style="height:99px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading {"textAlign":"center","level":3} -->
+<h3 class="wp-block-heading has-text-align-center">From Pain to Progress: Supporting Equines on Their Laminitis Journey</h3>
+<!-- /wp:heading -->
+
+<!-- wp:spacer {"height":"6px"} -->
+<div style="height:6px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:group {"style":{"spacing":{"margin":{"top":"0","bottom":"0"},"padding":{"top":"var:preset|spacing|md","bottom":"var:preset|spacing|md"}}},"backgroundColor":"light-red-1","layout":{"type":"constrained","contentSize":""}} -->
+<div class="wp-block-group has-light-red-1-background-color has-background" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--md);padding-bottom:var(--wp--preset--spacing--md)"><!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column {"verticalAlignment":"center","width":"","style":{"spacing":{"padding":{"right":"0","left":"0","top":"0","bottom":"0"}}},"layout":{"type":"constrained","contentSize":"450px","justifyContent":"left","wideSize":"450px"}} -->
+<div class="wp-block-column is-vertically-aligned-center" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:embed {"url":"https://www.youtube.com/shorts/m2MkznNBrjk?feature=sharecontrols=0","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-9-16 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-9-16 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://www.youtube.com/shorts/m2MkznNBrjk?feature=sharecontrols=0
+</div></figure>
+<!-- /wp:embed --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"top","width":"60%"} -->
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis:60%"><!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:paragraph -->
+<p>Laminitis affects a significant number of equines worldwide… It's possible that as many as one in ten horses will experience an episode during their lifetime. This painful inflammation within the hoof can make even small movements difficult… Yet gentle, supported movement is one of the most effective ways to aid recovery.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>This video demonstrates how well-fitted Cavallos can make a dramatic difference in comfort and healing. For barefoot and shod horses and donkeys (and even zebras!), Cavallos provide cushioning, protection, and support that help horses stay mobile while minimizing concussion to the hoof. Continued movement encourages healthy circulation, allowing blood and essential nutrients to reach the damaged laminae — an important factor in recovery.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Encouraging your horse or donkey to stay comfortably active under veterinary and farrier guidance can help promote natural healing and improve overall hoof health, giving your horse the best chance for a successful recovery.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|dark-10"}}}},"textColor":"dark-10"} -->
+<p class="has-dark-10-color has-text-color has-link-color"><em>(Footage sent to us by Sonja at Cavallo Hoof Boots Europe)</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|dark-10"}}}},"textColor":"dark-10"} -->
+<p class="has-dark-10-color has-text-color has-link-color"></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"textColor":"red","className":"is-style-fill c-button\u002d\u002dsimple","style":{"elements":{"link":{"color":{"text":"var:preset|color|red"}}},"spacing":{"padding":{"left":"0","right":"0","top":"0","bottom":"0"}},"color":{"background":"#ffffff00"}}} -->
+<div class="wp-block-button is-style-fill c-button--simple"><a class="wp-block-button__link has-red-color has-text-color has-background has-link-color wp-element-button" href="http://cavallo.local/your-cavallo-laminitis-healing-plan/" style="background-color:#ffffff00;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0" target="_blank" rel="noreferrer noopener">Find Out More <svg xmlns="http://www.w3.org/2000/svg" width="16" height="17">
+    <path d="m9.356 3.644 4.5 4.5a.512.512 0 0 1 0 .712l-4.5 4.5a.507.507 0 0 1-.712-.712L12.294 9H2.5a.5.5 0 1 1 0-1h9.794l-3.65-3.644a.506.506 0 0 1 .712-.712Z"></path>
+</svg>
+</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons -->
+
+<!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|dark-10"}}}},"textColor":"dark-10"} -->
+<p class="has-dark-10-color has-text-color has-link-color"></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|dark-10"}}}},"textColor":"dark-10"} -->
+<p class="has-dark-10-color has-text-color has-link-color"><br></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:spacer {"height":"15px"} -->
+<div style="height:15px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|xxl","bottom":"var:preset|spacing|xxl"},"margin":{"top":"0","bottom":"0"}}},"backgroundColor":"white","layout":{"type":"constrained","contentSize":""}} -->
+<div class="wp-block-group has-white-background-color has-background" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--xxl);padding-bottom:var(--wp--preset--spacing--xxl)"><!-- wp:heading {"textAlign":"center","level":3} -->
+<h3 class="wp-block-heading has-text-align-center">Hoof Health in Good Hands at The Humble Hoof Podiatry Clinic</h3>
+<!-- /wp:heading -->
+
+<!-- wp:spacer {"height":"11px"} -->
+<div style="height:11px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:columns {"verticalAlignment":"center"} -->
+<div class="wp-block-columns are-vertically-aligned-center"><!-- wp:column {"verticalAlignment":"center","width":"","style":{"spacing":{"padding":{"right":"0","left":"0","top":"0","bottom":"0"}}},"layout":{"type":"constrained","contentSize":"585px","justifyContent":"left","wideSize":""}} -->
+<div class="wp-block-column is-vertically-aligned-center" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:image {"id":331111,"scale":"cover","sizeSlug":"full","linkDestination":"none","style":{"color":{"duotone":"unset"},"border":{"width":"0px","style":"none","radius":"10px"}}} -->
+<figure class="wp-block-image size-full has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2025/10/Deanna-Stoppler-and-friends-at-2025-Humble-Hoof-Podiatry-Clinic.jpg" alt="" class="wp-image-331111" style="border-style:none;border-width:0px;border-radius:10px;object-fit:cover"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"center","width":"44.48%"} -->
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis:44.48%"><!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:paragraph {"align":"center","fontSize":"normal"} -->
+<p class="has-text-align-center has-normal-font-size"><strong>Stepping Into the Future of Hoof Health!</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Cavallo Hoof Boots was proud to be part of the Humble Hoof Podiatry Clinic in Amesbury, MA, last weekend. This two-day clinic brought together some of the brightest minds in equine podiatry to share insights into balanced movement, soundness, and long-term hoof health! </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Representing Cavallo with her trademark warmth and expertise, the Dynamic Deanna Stoppler connected with horse owners and professionals alike, showcasing how Cavallo’s innovative hoof boots (both existing and about-to-be-released styles) support natural movement, promote comfort, and help every horse perform and feel their best - no matter the discipline or hoof health situation.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:spacer {"height":"15px"} -->
+<div style="height:15px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:paragraph {"align":"center","fontSize":"normal"} -->
+<p class="has-text-align-center has-normal-font-size"><strong>Deanna’s Humble Hoof Highlights</strong>:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"typography":{"textDecoration":"none"}}} -->
+<p style="text-decoration:none"><strong>From Cavallo's Deanna:</strong><em> "What an exciting experience at the Humble Hoof Equine Podiatry Clinic! Speakers included Dr. Jenny Hagen, Celeste Lazaris, Ula Krzanowska, and Pat Reilly. The event focused on equine biomechanics, hoof health, conformation, and how the upper body affects hooves and movement.</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"typography":{"textDecoration":"none"}}} -->
+<p style="text-decoration:none"><em>The weather was quite chilly, and with it the reminder that Winter is near! Luckily, Cavallo offers stud kits to keep their hoof boots solidly on the ground during slippery conditions! Studs can be used with all Cavallo boot styles and are easy to apply (and remove when summer rolls back around). The most popular boot this weekend was the upcoming Cavallo EquiFloat Laminitis Hoof Boot! It features a changeable pad/plate shaped to float the horse's toe, relieving pressure in that area, reducing sole pressure and offering immediate relief to the horse. We can look forward to the EquiFloat becoming available in 2026!"</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:spacer {"height":"11px"} -->
+<div style="height:11px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:separator {"className":"is-style-default"} -->
+<hr class="wp-block-separator has-alpha-channel-opacity is-style-default"/>
+<!-- /wp:separator -->
+
+<!-- wp:spacer {"height":"33px"} -->
+<div style="height:33px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading {"textAlign":"center","level":4} -->
+<h4 class="wp-block-heading has-text-align-center">Humble Hoof Podiatry Clinic Organizer Knows Boots Work for Healing:</h4>
+<!-- /wp:heading -->
+
+<!-- wp:spacer {"height":"11px"} -->
+<div style="height:11px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:columns {"verticalAlignment":"center","backgroundColor":"light-red-1"} -->
+<div class="wp-block-columns are-vertically-aligned-center has-light-red-1-background-color has-background"><!-- wp:column {"verticalAlignment":"center","width":"","style":{"spacing":{"padding":{"right":"0","left":"0","top":"0","bottom":"0"}}},"layout":{"type":"constrained","contentSize":"585px","justifyContent":"left","wideSize":""}} -->
+<div class="wp-block-column is-vertically-aligned-center" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:image {"id":331113,"width":"585px","height":"auto","scale":"cover","sizeSlug":"full","linkDestination":"none","style":{"color":{"duotone":"unset"},"border":{"width":"0px","style":"none","radius":"10px"}}} -->
+<figure class="wp-block-image size-full is-resized has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2025/10/Putting-on-a-Cavalo-Trek-Boot-easily-for-Laminitis.jpg" alt="" class="wp-image-331113" style="border-style:none;border-width:0px;border-radius:10px;object-fit:cover;width:585px;height:auto"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"center","width":"44.48%"} -->
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis:44.48%"><!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"level":4,"fontSize":"small"} -->
+<h4 class="wp-block-heading has-small-font-size">Better Movement for Better Hooves</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><br><strong>From Alicia Harlov: </strong><br><br><em>"A huge thank you to Cavallo Hoof Boots for sponsoring our SOLD OUT 2025 Podiatry Clinic!</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><em>Having a hoof rehab facility, we see how various things affect hoof health, comfort and soundness.<br></em><br><em>Something I've seen time and again is how much movement affects hooves. Healthy hooves depend on movement. The more the horses here move, especially over various surfaces, the healthier the frogs, digital cushion, and the overall hoof becomes.</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><br><br></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:paragraph {"style":{"border":{"radius":"0px","width":"0px","style":"none"}},"backgroundColor":"light-red-1"} -->
+<p class="has-light-red-1-background-color has-background" style="border-style:none;border-width:0px;border-radius:0px">"<em>Another thing we have noticed - sore horses won’t move much, or at the very least, won't move correctly. For our property, that’s where boots and pads come in for new rehab horses. We use them to bridge the gap in their hoof health until the diet and track system movement can kick in to grow a healthier laminae connection and healthier wall and sole. I’ve seen horses who could barely walk on hard ground suddenly step out confidently once their feet were supported, and, in turn, their entire bodies became less tense, required less compensation, and ended up more comfortable overall.</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"backgroundColor":"light-red-1"} -->
+<p class="has-light-red-1-background-color has-background">"<em>The great part is, once the horses here start moving better and more comfortably, we are able to increase their time out of boots until they are barefoot. And once barefoot and fairly comfortable, their frogs can get even more stimulation, which often leads to decontraction of the heels, a bulkier digital cushion, a more balanced hairline, and so much more.</em>"</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:spacer {"height":"4px"} -->
+<div style="height:4px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:spacer {"height":"64px"} -->
+<div style="height:64px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading {"textAlign":"center","level":3} -->
+<h3 class="wp-block-heading has-text-align-center">Celebrating the Difference: How CLB and LEB Boots Are Built With Attention to Nuance</h3>
+<!-- /wp:heading -->
+
+<!-- wp:spacer {"height":"15px"} -->
+<div style="height:15px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column {"width":"","style":{"spacing":{"padding":{"right":"0","left":"0","top":"0","bottom":"0"}}},"layout":{"type":"constrained","contentSize":"585px","justifyContent":"left","wideSize":""}} -->
+<div class="wp-block-column" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:image {"id":331118,"width":"585px","height":"auto","scale":"cover","sizeSlug":"full","linkDestination":"none","style":{"color":{"duotone":"unset"},"border":{"width":"0px","style":"none","radius":"10px"}}} -->
+<figure class="wp-block-image size-full is-resized has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2025/10/LEB-and-CLB-soles-together-11-1.jpg" alt="" class="wp-image-331118" style="border-style:none;border-width:0px;border-radius:10px;object-fit:cover;width:585px;height:auto"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"top","width":"44.48%"} -->
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis:44.48%"><!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:paragraph -->
+<p>When it comes to hoof boots for donkeys, the shape and fit are crucial for comfort and performance. Our CLB (Cute Little Boots) fit many donkeys, but some need a more specially shaped boot.<br><br>Here's where the LEB (Long Ear Boot) comes in! The new LEB (Long Ear Boots) are made especially for donkey feet and feature a longer sole with a narrower, more tapered toe design (and a higher heel bulb area)!<br><br>Interested in trying LEB for your long-eared friend? <a href="http://cavallo.local/meet-the-leb-long-ear-donkey-hoof-boot/" target="_blank" rel="noreferrer noopener"><strong>SIGN UP NOW</strong> </a>to be the first!</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:spacer {"height":"11px"} -->
+<div style="height:11px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:spacer {"height":"26px"} -->
+<div style="height:26px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading {"textAlign":"center","level":3} -->
+<h3 class="wp-block-heading has-text-align-center">Gaited Horse Goals with Ivy!</h3>
+<!-- /wp:heading -->
+
+<!-- wp:spacer {"height":"19px"} -->
+<div style="height:19px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|md","bottom":"var:preset|spacing|md"},"margin":{"top":"0","bottom":"0"}}},"backgroundColor":"light-red-1","layout":{"type":"constrained","contentSize":""}} -->
+<div class="wp-block-group has-light-red-1-background-color has-background" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--md);padding-bottom:var(--wp--preset--spacing--md)"><!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:columns {"verticalAlignment":"top"} -->
+<div class="wp-block-columns are-vertically-aligned-top"><!-- wp:column {"verticalAlignment":"top","width":"","style":{"spacing":{"padding":{"right":"0","left":"0","top":"0","bottom":"0"}}},"layout":{"type":"constrained","contentSize":"500px","justifyContent":"left","wideSize":"500px"}} -->
+<div class="wp-block-column is-vertically-aligned-top" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:embed {"url":"https://www.youtube.com/shorts/4vBNS8s0pho?rel=0 ","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-9-16 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-9-16 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://www.youtube.com/shorts/4vBNS8s0pho?rel=0 
+</div></figure>
+<!-- /wp:embed --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"top","width":"50%"} -->
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis:50%"><!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:paragraph -->
+<p>When <a href="http://ivyshorses.com" target="_blank" rel="noreferrer noopener">gait-specialist Ivy Starnes</a> steps into the saddle, you immediately see why so many gaited-horse owners turn to her expertise. With over fifteen years of helping horses find their best stride, Ivy knows exactly how to encourage a smooth, balanced gait and an equine athlete that’s relaxed yet engaged.<br><br>In the video, you can spot how, along with the snug, precise fit of the Cavallo Trek Boots, the horse’s movement appears effortless — the boots aren’t an add-on, they’re practically an extension of the hoof, moving in perfect harmony with each step.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>You'll forget the boots are there, but your horse will remember! Especially when they're feeling relief on a gravel road that they know would have caused pain before the boots went on.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>A Tip From Ivy: Reduce Pain to Improve Gait:</strong><br><br><em>If your horse is struggling to gait on any kind of rock/gravel road, please protect the hooves! At clinics, on the second and third days when we start to ride the horses outside on the driveway, most horses are sore riding on the rocks. This applies to horses that are barefoot and shod.<br><br>It's amazing to me how many horses are sore on the rocks even with metal shoes! Partly because many of those horses have deep sulcus thrush (yes, thrush even in dry areas), but also because rocks still touch and hurt a horse's sole, even with shoes.<br><br>When horses are worried about the pain in their feet, they don't gait well or at all! I've seen it happen so many times now since I've started using boots at clinics! Now I'm quick to put on my Cavallo boots if I even think the horse might be slightly sore.</em><br></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column {"layout":{"type":"constrained"}} -->
+<div class="wp-block-column"><!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:paragraph {"style":{"border":{"width":"0px","style":"none"}}} -->
+<p style="border-style:none;border-width:0px"><em>I travel with a duffel bag full of Cavallo boots that I'll put on the horses. I love Cavallo boots for how easy they are to put on and take off and that I can put them on right over a horse's shoes! Many times a horse is gaiting in the arena, but struggles once we go outside. I'm finding that it is often because the rocks are causing enough pain to make the horse step more gingerly, affecting the movement.<br><br>Please, make sure your horse isn't in pain! Please check all hooves for sulcus thrush and treat right away. Help your horse's feet feel good and see how much easier it is to get gait!!!<br><br>-Ivy Starnes</em></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:spacer {"height":"11px"} -->
+<div style="height:11px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"textAlign":"center","level":3} -->
+<h3 class="wp-block-heading has-text-align-center">In Every Email, There's a Story — and Carole’s Listening</h3>
+<!-- /wp:heading -->
+
+<!-- wp:spacer {"height":"4px"} -->
+<div style="height:4px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:paragraph -->
+<p>Every message matters to Carole Herder, our Cavallo Hoof Boots President and Founder. She personally reads and replies to the emails that reach her inbox — from heartfelt thank-yous to touching stories of horses finding new comfort and freedom. For Carole, these conversations aren’t just customer messages; they’re reminders of the real connections and shared love for horses that inspire everything Cavallo does. Here's a recent email exchange:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:columns {"verticalAlignment":"top"} -->
+<div class="wp-block-columns are-vertically-aligned-top"><!-- wp:column {"verticalAlignment":"top","width":"","style":{"spacing":{"padding":{"right":"0","left":"0","top":"0","bottom":"0"}}},"layout":{"type":"constrained","contentSize":"585px","justifyContent":"left","wideSize":""}} -->
+<div class="wp-block-column is-vertically-aligned-top" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:image {"id":331121,"scale":"cover","sizeSlug":"full","linkDestination":"none","style":{"color":{"duotone":"unset"},"border":{"width":"0px","style":"none","radius":"10px"}}} -->
+<figure class="wp-block-image size-full has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2025/10/Letters-to-Carole-gif-for-newsletter-1.gif" alt="Carole Herder answers letters to Cavallo Hoof Boots" class="wp-image-331121" style="border-style:none;border-width:0px;border-radius:10px;object-fit:cover"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"top","width":"44.48%"} -->
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis:44.48%"><!-- wp:paragraph {"placeholder":"Content…"} -->
+<p><strong>From Nancy:</strong><br><br><em>"Good Morning - I truly appreciate the timely responses and answers to my questions on these boots. I am excited to get them tomorrow and expect that they will help my mare recover.</em><br><br><em>Too often these days, there is no client service from organizations, only bots and AI. It is important to me to be able to speak with a person who can help.</em><br><em>Kudos and keep up the good work."</em><br><br>-Nancy Janosi<br><br><strong>From Carole:</strong><br><br><em>Dear Nancy, what a joy to read your note! Thank you for taking the time to share such kind words. Our team pours their hearts into making sure horses (and their humans!) feel supported, so hearing that it matters to you is the best reward we could ask for.</em><br><br>Not everyone pauses to say, “Well done,” so right back at you, Nancy. You’ve brightened our day, and I’ve shared your message with the team so they can feel it too.<br><br>With appreciation,<br>Carole<br><br>Do you have a personal message for Carole? You can email her <strong><a href="http://cavallo.local/contact-us/" target="_blank" rel="noreferrer noopener">HERE!</a></strong></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:spacer {"height":"34px"} -->
+<div style="height:34px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading {"textAlign":"center","level":3} -->
+<h3 class="wp-block-heading has-text-align-center">Soaking &amp; Poultice Hacks from Your Cavallo Hoof Crew!</h3>
+<!-- /wp:heading -->
+
+<!-- wp:spacer {"height":"45px"} -->
+<div style="height:45px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|xxl","bottom":"var:preset|spacing|xxl"},"margin":{"top":"0","bottom":"0"}}},"backgroundColor":"light-red-1","layout":{"type":"constrained","contentSize":""}} -->
+<div class="wp-block-group has-light-red-1-background-color has-background" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--xxl);padding-bottom:var(--wp--preset--spacing--xxl)"><!-- wp:columns {"verticalAlignment":"top"} -->
+<div class="wp-block-columns are-vertically-aligned-top"><!-- wp:column {"verticalAlignment":"top","width":"","style":{"spacing":{"padding":{"right":"0","left":"0","top":"0","bottom":"0"}}},"layout":{"type":"constrained","contentSize":"500px","justifyContent":"left","wideSize":"500px"}} -->
+<div class="wp-block-column is-vertically-aligned-top" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:image {"id":331119,"sizeSlug":"full","linkDestination":"none","style":{"border":{"radius":"10px"}}} -->
+<figure class="wp-block-image size-full has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2025/10/Black-Trek-Boot-with-diaper-wrap-hoof-rehab-therapy-3.jpg" alt="" class="wp-image-331119" style="border-radius:10px"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"top","width":"50%"} -->
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis:50%"><!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:paragraph -->
+<p>Your equine won't put up with you soaking their hoof in a tub? A Cavallo Boot can create a great workaround! Simply seal your Cavallo boot's drainage slots side and rear drainage slots with duct tape, fill the boot with your soaking solution and soak for 15-20 minutes!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>After a good soak, that same Cavallo Boot and a disposable diaper will make a dynamic team to hold a poultice in place. Once the hoof is dried, apply your poultice and place the diaper over top, with the "wings" facing toward the back of the hoof. Then secure the diaper with duct tape to keep it in place. (Size matters: use a newborn or preemie-sized diaper!) Now pop on your Cavallo Boot for extra protection!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Tips for success: Change poultice daily, or as directed by your veterinarian. Consult a professional (always consult a veterinarian to determine the best treatment plan for your horse). KEEP YOUR OLD BOOTS! They may seem worn, but they will become gold to you again if you ever need them for this purpose! Even if soaking just one hoof, use a Cavallo Boot on the opposing hoof, so as not to create an imbalance. <em>(Also, if possible, use a boot that is larger than what your horse would normally wear to fit the diaper!)</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"textColor":"red","className":"is-style-fill c-button\u002d\u002dsimple","style":{"elements":{"link":{"color":{"text":"var:preset|color|red"}}},"spacing":{"padding":{"left":"0","right":"0","top":"0","bottom":"0"}},"color":{"background":"#ffffff00"}}} -->
+<div class="wp-block-button is-style-fill c-button--simple"><a class="wp-block-button__link has-red-color has-text-color has-background has-link-color wp-element-button" href="https://www.youtube.com/watch?v=CgFA5KAmy-o" style="background-color:#ffffff00;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0" target="_blank" rel="noreferrer noopener">Watch a Demo! <svg xmlns="http://www.w3.org/2000/svg" width="16" height="17"></svg><br>    <path d="m9.356 3.644 4.5 4.5a.512.512 0 0 1 0 .712l-4.5 4.5a.507.507 0 0 1-.712-.712L12.294 9H2.5a.5.5 0 1 1 0-1h9.794l-3.65-3.644a.506.506 0 0 1 .712-.712Z"></path><br></a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:spacer {"height":"15px"} -->
+<div style="height:15px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator --></div>
+<!-- /wp:group -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:image {"id":309574,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="http://cavallo.local/wp-content/uploads/2022/11/carole-signature-transparent-background-1024x524.jpg" alt="Cavallo Hoof Boots president Carole Herder signature" class="wp-image-309574"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:group -->

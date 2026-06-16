@@ -1,0 +1,329 @@
+<!-- wp:image {"id":349385,"sizeSlug":"full","linkDestination":"none","align":"center","UAGHideMob":true,"UAGResponsiveConditions":true} -->
+<figure class="wp-block-image aligncenter size-full uag-hide-mob"><img src="http://cavallo.local/wp-content/uploads/2026/05/NEW-Cavallo-Hoof-Boots-Newsletter-image-desktop.jpg" alt="NEW Cavallo Hoof Boots Newsletter image - desktop" class="wp-image-349385"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":349386,"sizeSlug":"full","linkDestination":"none","align":"center","UAGHideDesktop":true,"UAGHideTab":true,"UAGResponsiveConditions":true} -->
+<figure class="wp-block-image aligncenter size-full uag-hide-desktop uag-hide-tab"><img src="http://cavallo.local/wp-content/uploads/2026/05/NEW-Cavallo-Hoof-Boots-Newsletter-Image-2026.jpg" alt="NEW - Cavallo Hoof Boots Newsletter Image 2026" class="wp-image-349386"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"textAlign":"center","level":4,"className":"wp-block-heading"} -->
+<h4 class="wp-block-heading has-text-align-center"><em><strong>"No two hooves are created equal… and that truth continues to guide everything we do at Cavallo." </strong></em><strong><em>- Carole</em></strong></h4>
+<!-- /wp:heading --></div>
+<!-- /wp:group -->
+
+<!-- wp:uagb/separator {"block_id":"4cc440ae","separatorWidth":92,"separatorBorderHeight":2,"separatorColor":"#bbb8b8","blockBottomPadding":28,"blockTopMargin":-29,"blockRightMargin":0,"blockLeftMargin":0,"blockBottomMargin":0} -->
+<div class="wp-block-uagb-separator uagb-block-4cc440ae"><div class="uagb-separator-spacing-wrapper"><div class="wp-block-uagb-separator__inner" style="--my-background-image:"></div></div></div>
+<!-- /wp:uagb/separator -->
+
+<!-- wp:group {"style":{"spacing":{"margin":{"bottom":"var:preset|spacing|md"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group" style="margin-bottom:var(--wp--preset--spacing--md)"><!-- wp:heading {"textAlign":"center"} -->
+<h2 class="wp-block-heading has-text-align-center">From Worn-Down Hooves to Hope: A Donkey Trapped in a Canal - And What Saved his Feet</h2>
+<!-- /wp:heading --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|md","bottom":"var:preset|spacing|md"}}},"backgroundColor":"light-red-1","layout":{"type":"constrained"}} -->
+<div class="wp-block-group has-light-red-1-background-color has-background" style="padding-top:var(--wp--preset--spacing--md);padding-bottom:var(--wp--preset--spacing--md)"><!-- wp:heading {"textAlign":"center","level":4} -->
+<h4 class="wp-block-heading has-text-align-center">This month, we want to show you something real.</h4>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"textAlign":"center","level":5} -->
+<h5 class="wp-block-heading has-text-align-center">A donkey was rescued after struggling to escape a concrete canal. His hooves were worn down and he was in pain, unable to move comfortably. Within moments of wearing Cavallo boots, he was walking again.<br><br>Here’s why this matters for your equine…</h5>
+<!-- /wp:heading -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column {"layout":{"type":"constrained"}} -->
+<div class="wp-block-column"><!-- wp:image {"id":349256,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="http://cavallo.local/wp-content/uploads/2026/04/Aquaman-Donkey-Rescued-from-Canal-w-LEB-Hoof-Boots-with-boy.jpg" alt="" class="wp-image-349256"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"layout":{"type":"constrained"}} -->
+<div class="wp-block-column"><!-- wp:heading {"textAlign":"left","level":6} -->
+<h6 class="wp-block-heading has-text-align-left">After being abandoned and let down by a string of owners, Aquaman was seen wandering for a week, scared and alone, before he fell into a canal...</h6>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.youtube.com/watch?v=SAt7df4fa3c" target="_blank" rel="noreferrer noopener">This poor donkey found himself trapped in the cold, rushing water of an Arizona canal,</a> with walls too steep to climb and footing too slick. He fought so hard to free himself! He tried again and again to climb and haul himself out against the unforgiving concrete walls. His hooves scraped, slid, and wore down, each desperate attempt leaving him weaker than before. When rescuers arrived, they found him struggling, still trying, refusing to give up even as exhaustion set in...</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>He didn’t understand why he couldn’t escape - only that he had to keep trying. Firefighters worked carefully, using ropes and vehicles to guide him out, their experience with livestock turning a dangerous situation into a fragile chance at survival. And finally, he was pulled to solid ground, trembling but alive!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>But the rescue was only the beginning. The damage had been done. His feet were painfully worn down. That’s where compassion stepped in. A kind woman named Haley Edington of HNE Horsemanship took him home. She reached out to us at Cavallo and asked for some of our LEB Donkey Boots, to give him the protection he needed to stand and move without pain - to leave the stall behind and walk again!</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:embed {"url":"https://www.youtube.com/watch?v=em-r9L3qKVo","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://www.youtube.com/watch?v=em-r9L3qKVo
+</div></figure>
+<!-- /wp:embed -->
+
+<!-- wp:heading {"level":5} -->
+<h5 class="wp-block-heading">? Why this story is important:</h5>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>If your horse or donkey is sensitive on hard ground → Cavallos can prevent damage</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>If you’re transitioning to barefoot → Cavallo Boots provide protection and ease discomfort during healing</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>If your horse is recovering from a hoof issue → Cavallos can support movement and comfort!</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"textAlign":"center"} -->
+<h2 class="wp-block-heading has-text-align-center">What we learned at Equine Affaire 2026 (And How it Helps your Horse):</h2>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":5} -->
+<h5 class="wp-block-heading">After speaking with trainers, farriers, and riders, four things were clear:</h5>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>Horses need better shock absorption on modern terrain</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Riders are moving toward barefoot + protection, with proper hoof support</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Hoof balance is being prioritized more than ever </li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>There's a growing emphasis on communication and connection in training and the importance of rider biomechanics</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading {"level":5} -->
+<h5 class="wp-block-heading">? Quick takeaways for you:</h5>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>✔ If your horse is uncomfortable, there’s a growing shift toward flexible protection—not rigid solutions<br>✔ There are hoof care options beyond metal shoes<br>✔ Protection can be temporary, not permanent</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Cavallo was proud to be the leader in hoof boots at Equine Affaire, connecting with industry experts and passionate horse people across all disciplines. We met some incredible individuals - meet two of them who share their insights in these video clips below:</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"bottom":"var:preset|spacing|md"},"margin":{"bottom":"0"}}},"backgroundColor":"light-red-1","layout":{"type":"constrained"}} -->
+<div class="wp-block-group has-light-red-1-background-color has-background" style="margin-bottom:0;padding-bottom:var(--wp--preset--spacing--md)"><!-- wp:heading {"textAlign":"center","level":4,"style":{"spacing":{"padding":{"top":"var:preset|spacing|md","bottom":"var:preset|spacing|md"}}}} -->
+<h4 class="wp-block-heading has-text-align-center" style="padding-top:var(--wp--preset--spacing--md);padding-bottom:var(--wp--preset--spacing--md)">Ohio Farrier Mark Sentzer Uses Cavallos to Bridge the Gap Between Barefoot Hoof Care and Full Protection</h4>
+<!-- /wp:heading -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column {"width":"","layout":{"type":"constrained"}} -->
+<div class="wp-block-column"><!-- wp:embed {"url":"https://youtube.com/shorts/2obsVVr8UME?feature=share","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-9-16 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-9-16 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://youtube.com/shorts/2obsVVr8UME?feature=share
+</div></figure>
+<!-- /wp:embed --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":"800px","layout":{"type":"constrained"}} -->
+<div class="wp-block-column" style="flex-basis:800px"><!-- wp:paragraph -->
+<p>There’s a certain tone you hear when a seasoned farrier speaks. No ego, no salesmanship, just solid confidence and experience coming through.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>You'll notice this when Mark Sentzer talks about using Cavallo Hoof Boots. Standing there, chatting with Carole at Equine Affaire, he doesn’t oversell it—he explains it. From a professional who spends his days under horses, balancing hoof health, performance, and practicality, his message is clear: these boots work. Not as a gimmick, but as a tool, and one that fills a real gap between traditional shoeing and barefoot management.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>We think you will agree… What stands out most about Mark is his respect for the horse. Here, Mark speaks about comfort, transition, and giving horses options, especially those that can’t tolerate rigid solutions or need support while healing. You can hear it in how he describes the fit, the ease of application, and the way Cavallo boots allow movement without compromising protection. This isn't theory, it’s hands-on experience earned through years of trimming, shoeing, and solving problems horse owners bring to him every day.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Farriers like Mark Sentzer represent the backbone of the equine industry - skilled tradespeople who blend tradition with evolving tools. Through clinics, demonstrations, and continued education at events like Equine Affaire, professionals like Mark bridge the gap between old-school knowledge and modern innovation. And in his words, Cavallo Hoof Boots aren’t replacing good farriery…they’re ENHANCING it. Giving horses another chance at comfort, and giving owners another option they can trust.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Thanks again, Mark!</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"bottom":"var:preset|spacing|md"},"margin":{"top":"0"}}},"backgroundColor":"light-red-1","layout":{"type":"constrained"}} -->
+<div class="wp-block-group has-light-red-1-background-color has-background" style="margin-top:0;padding-bottom:var(--wp--preset--spacing--md)"><!-- wp:heading {"textAlign":"center","level":4,"style":{"spacing":{"padding":{"top":"var:preset|spacing|md","bottom":"var:preset|spacing|md"}}}} -->
+<h4 class="wp-block-heading has-text-align-center" style="padding-top:var(--wp--preset--spacing--md);padding-bottom:var(--wp--preset--spacing--md)">Georgiana Jarvis Makes a Difficult Choice to Help Her Horse Through Lyme &amp; Laminitis</h4>
+<!-- /wp:heading -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column {"width":"","layout":{"type":"constrained"}} -->
+<div class="wp-block-column"><!-- wp:embed {"url":"https://youtube.com/shorts/5FHAK1ou2xY","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-9-16 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-9-16 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://youtube.com/shorts/5FHAK1ou2xY
+</div></figure>
+<!-- /wp:embed --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":"800px","layout":{"type":"constrained"}} -->
+<div class="wp-block-column" style="flex-basis:800px"><!-- wp:paragraph -->
+<p>Listen closely to Georgiana tell the story of her beloved horse's illness…and tell us what you notice most. Did you catch the point in the video when her voice cracks with the emotion of recounting how she saw her horse suffer and felt like nothing was working? We did. :(</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Georgiana's horse had contracted Lyme disease, and things escalated to the point of laminitis/founder, which is every horse owner’s nightmare. She did what you’re supposed to do: brought in vets, followed recommendations, tried to stay on track with the plan.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>But despite all of that, her horse wasn’t improving. And that’s where things got really hard.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>On paper, she was doing everything right! But in reality, she was watching her horse struggle, and she felt helpless.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>You could tell that she didn’t take that lightly. It wasn’t about dismissing professional advice; it was more that she found the confidence to start listening to her instinct a bit more. Paying closer attention, questioning things, and eventually making some very different choices for her horse.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>And it turned things right around.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Her horse came through it, and you can tell how much that whole experience shaped her. Not just relief, but a deeper trust in her own judgment as a horse owner. Georgiana reminded us that sometimes, even when you have guidance, you still have to stay tuned in to what your animal is asking of you.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"textAlign":"center"} -->
+<h2 class="wp-block-heading has-text-align-center">Greg Steals the Spotlight: </h2>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"textAlign":"center","level":4} -->
+<h4 class="wp-block-heading has-text-align-center">How Continental Discovered Cavallo and Sparked the Consteed Smart Horse Sneaker Revolution!</h4>
+<!-- /wp:heading --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column {"layout":{"type":"constrained"}} -->
+<div class="wp-block-column"><!-- wp:image {"lightbox":{"enabled":false},"id":349268,"sizeSlug":"full","linkDestination":"custom","style":{"border":{"radius":{"topLeft":"15px","topRight":"15px","bottomLeft":"15px","bottomRight":"15px"}}}} -->
+<figure class="wp-block-image size-full has-custom-border"><a href="https://www.youtube.com/watch?v=SAt7df4fa3c" target="_blank" rel=" noreferrer noopener"><img src="http://cavallo.local/wp-content/uploads/2026/04/Greg-Giles-on-Horse-Radio-Network.jpg" alt="" class="wp-image-349268" style="border-top-left-radius:15px;border-top-right-radius:15px;border-bottom-left-radius:15px;border-bottom-right-radius:15px"/></a></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"layout":{"type":"constrained"}} -->
+<div class="wp-block-column"><!-- wp:paragraph -->
+<p>Hold onto your reins tight - because this episode pulls back the curtain on the future of horse care in a big way! </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Listen to our Greg Giles trot up to the Horse Radio Network microphone with an insider story of innovation...unpacking how a game-changing smart hoof boot (built on the Cavallo Trek Boot!) is reshaping how we understand equine movement and soundness.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>From a high-level partnership to cutting-edge sensor tech and the world of performance horses being simply revolutionized, this is the kind of behind-the-scenes scoop you don’t usually hear on the airwaves. <br><br>Throw in some Kentucky Derby buzz, a dash of equine history, and even a bit of derby trivia, and you’ve got one fast galloping radio ride you won’t want to miss!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons {"style":{"spacing":{"margin":{"top":"32px"}}},"layout":{"type":"flex","justifyContent":"center"}} -->
+<div class="wp-block-buttons" style="margin-top:32px"><!-- wp:button {"backgroundColor":"red","className":"has-red-color","style":{"border":{"radius":"100px"},"spacing":{"padding":{"left":"65px","right":"65px","top":"12px","bottom":"12px"}},"typography":{"fontStyle":"normal","fontWeight":"800","lineHeight":"1.25"}}} -->
+<div class="wp-block-button has-red-color"><a class="wp-block-button__link has-red-background-color has-background wp-element-button" href="https://player.captivate.fm/episode/d874e3e7-c670-4c26-abd0-648d54433446" style="border-radius:100px;padding-top:12px;padding-right:65px;padding-bottom:12px;padding-left:65px;font-style:normal;font-weight:800;line-height:1.25" target="_blank" rel="noreferrer noopener">Listen to Greg's Story!</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:heading {"level":5} -->
+<h5 class="wp-block-heading">? Quick takeaways for you:</h5>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>✔ Smart hoof tech from Consteed is giving you earlier, clearer insight into soundness<br>✔ Advanced sensors placed in Cavallo Trek Boots are already changing how top horses are managed<br>✔ Watch for our email updates to get the insider edge on what’s shaping the future of care!</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"textAlign":"center"} -->
+<h2 class="wp-block-heading has-text-align-center">Cavallo - The Biggest Range of Hoof Boots in the World:</h2>
+<!-- /wp:heading --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|xs","bottom":"var:preset|spacing|xs"}}},"backgroundColor":"light-red-1","layout":{"type":"constrained"}} -->
+<div class="wp-block-group has-light-red-1-background-color has-background" style="padding-top:var(--wp--preset--spacing--xs);padding-bottom:var(--wp--preset--spacing--xs)"><!-- wp:image {"id":349284,"sizeSlug":"full","linkDestination":"none","align":"center","style":{"spacing":{"margin":{"top":"var:preset|spacing|lg","bottom":"var:preset|spacing|md"}}}} -->
+<figure class="wp-block-image aligncenter size-full" style="margin-top:var(--wp--preset--spacing--lg);margin-bottom:var(--wp--preset--spacing--md)"><img src="http://cavallo.local/wp-content/uploads/2026/05/2025-Cavallo-Hoof-Boot-Lineup-w-LEB-low-res.jpg" alt="" class="wp-image-349284"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"textAlign":"center","level":4,"align":"left","style":{"spacing":{"padding":{"top":"var:preset|spacing|md"}}}} -->
+<h4 class="wp-block-heading has-text-align-center" style="padding-top:var(--wp--preset--spacing--md)">Cavallo's got you covered from your smallest, wee minis to your biggest, buffest drafts! ?</h4>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"textAlign":"center","level":4,"align":"left","style":{"spacing":{"padding":{"top":"var:preset|spacing|md"}}}} -->
+<h4 class="wp-block-heading has-text-align-center" style="padding-top:var(--wp--preset--spacing--md)">You have 112 hoof boots to choose from! It's as simple as "pick your size, pick your sole, pick your style and pick your colour!"</h4>
+<!-- /wp:heading -->
+
+<!-- wp:image {"id":349305,"sizeSlug":"full","linkDestination":"none","align":"center","style":{"border":{"radius":{"topLeft":"15px","topRight":"15px","bottomLeft":"15px","bottomRight":"15px"}},"spacing":{"margin":{"right":"var:preset|spacing|xs","left":"var:preset|spacing|xs"}}},"UAGHideMob":true,"UAGResponsiveConditions":true} -->
+<figure class="wp-block-image aligncenter size-full has-custom-border uag-hide-mob" style="margin-right:var(--wp--preset--spacing--xs);margin-left:var(--wp--preset--spacing--xs)"><img src="http://cavallo.local/wp-content/uploads/2026/05/Pick-your-sole-style-colur-size-Cavallo-Hoof-Boot-variations-1.jpg" alt="Pick your sole style colour size Cavallo Hoof Boot variations...." class="wp-image-349305" style="border-top-left-radius:15px;border-top-right-radius:15px;border-bottom-left-radius:15px;border-bottom-right-radius:15px"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":349399,"sizeSlug":"full","linkDestination":"none","align":"center","style":{"border":{"radius":{"topLeft":"15px","topRight":"15px","bottomLeft":"15px","bottomRight":"15px"}},"spacing":{"margin":{"right":"var:preset|spacing|sm","left":"var:preset|spacing|sm"}}},"UAGHideDesktop":true,"UAGHideTab":true,"UAGResponsiveConditions":true} -->
+<figure class="wp-block-image aligncenter size-full has-custom-border uag-hide-desktop uag-hide-tab" style="margin-right:var(--wp--preset--spacing--sm);margin-left:var(--wp--preset--spacing--sm)"><img src="http://cavallo.local/wp-content/uploads/2026/05/Pick-your-sole-colour-size-112-Cavallo-Hoof-Boot-variations.jpg" alt="Pick your sole, colour, size, 112 Cavallo Hoof Boot variations" class="wp-image-349399" style="border-top-left-radius:15px;border-top-right-radius:15px;border-bottom-left-radius:15px;border-bottom-right-radius:15px"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"align":"wide","style":{"spacing":{"blockGap":"var:preset|spacing|md","padding":{"top":"var:preset|spacing|gap","bottom":"var:preset|spacing|gap"}}},"backgroundColor":"light-red-1","layout":{"type":"constrained","justifyContent":"center"}} -->
+<div class="wp-block-group alignwide has-light-red-1-background-color has-background" style="padding-top:var(--wp--preset--spacing--gap);padding-bottom:var(--wp--preset--spacing--gap)"><!-- wp:heading {"textAlign":"center","level":3} -->
+<h3 class="wp-block-heading has-text-align-center"><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-dark-red-color">Ready to Find Out if Cavallos Can Help Your Horse?</mark></h3>
+<!-- /wp:heading -->
+
+<!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"}} -->
+<div class="wp-block-buttons"><!-- wp:button {"backgroundColor":"red","style":{"border":{"radius":"50px"}}} -->
+<div class="wp-block-button"><a class="wp-block-button__link has-red-background-color has-background wp-element-button" href="http://cavallo.local/product-category/hoof-boot/" style="border-radius:50px" target="_blank" rel="noreferrer noopener">Click for Happy Hooves!</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|md","bottom":"var:preset|spacing|md","left":"var:preset|spacing|xs","right":"var:preset|spacing|xs"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group" style="padding-top:var(--wp--preset--spacing--md);padding-right:var(--wp--preset--spacing--xs);padding-bottom:var(--wp--preset--spacing--md);padding-left:var(--wp--preset--spacing--xs)"><!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column {"width":"600px","style":{"spacing":{"padding":{"right":"var:preset|spacing|sm","left":"var:preset|spacing|sm"}}}} -->
+<div class="wp-block-column" style="padding-right:var(--wp--preset--spacing--sm);padding-left:var(--wp--preset--spacing--sm);flex-basis:600px"><!-- wp:heading {"level":4,"style":{"typography":{"fontStyle":"normal","fontWeight":"200"}}} -->
+<h4 class="wp-block-heading" style="font-style:normal;font-weight:200">Wishing you many happy trails,</h4>
+<!-- /wp:heading -->
+
+<!-- wp:image {"id":201670,"width":"250px","aspectRatio":"2.9719663199603765","scale":"cover","sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full is-resized"><img src="http://cavallo.local/wp-content/uploads/2025/03/Carole-Herder-signature-no-background.png" alt="" class="wp-image-201670" style="aspect-ratio:2.9719663199603765;object-fit:cover;width:250px"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"level":4,"style":{"typography":{"fontSize":"22px"}}} -->
+<h4 class="wp-block-heading" style="font-size:22px"><strong>Carole Herder</strong></h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><strong>President and Founder of Cavallo Horse &amp; Rider Inc</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><em>Horses have always been my teachers.<br><br>Through them, I’ve learned that comfort changes everything—movement, trust, and the relationship we build together.<br><br>Cavallo was born from that understanding, and continues to grow from it.</em></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":"600px"} -->
+<div class="wp-block-column" style="flex-basis:600px"><!-- wp:image {"id":348448,"width":"450px","height":"auto","aspectRatio":"0.8849829456411517","sizeSlug":"full","linkDestination":"none","align":"center","style":{"color":{"duotone":"unset"},"border":{"width":"0px","style":"none","radius":"10px"}}} -->
+<figure class="wp-block-image aligncenter size-full is-resized has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2026/04/Carole-Herder-Cavallo-Hoof-Boots-founder-president-1.jpg" alt="" class="wp-image-348448" style="border-style:none;border-width:0px;border-radius:10px;aspect-ratio:0.8849829456411517;width:450px;height:auto"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->

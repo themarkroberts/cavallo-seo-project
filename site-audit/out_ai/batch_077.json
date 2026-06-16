@@ -1,0 +1,72 @@
+[
+  {
+    "id": "348586",
+    "content_format": "Newsletter",
+    "summary": "November 2025 Cavallo email newsletter announcing the new Trek/Trek Pro/BFB Colour Pop Straps Pack (3 pairs of straps in hunter orange, yellow, turquoise) and Carole Herder's RBC Women of Influence award finalist news.",
+    "key_components": ["Image gallery", "Video embed"],
+    "primary_cta": "Shop Colour Pop Straps Pack"
+  },
+  {
+    "id": "348591",
+    "content_format": "Newsletter",
+    "summary": "September 2025 Cavallo newsletter covering Carole Herder's RBC Canadian Women Entrepreneur Innovation Award regional finalist news and a recap of a Cavallo team staff workshop.",
+    "key_components": ["Image gallery", "Video embed"],
+    "primary_cta": "Read more"
+  },
+  {
+    "id": "348685",
+    "content_format": "Newsletter",
+    "summary": "October 2024 Cavallo newsletter featuring Queen Elizabeth's pony wearing Cavallo Simple Hoof Boots via the Fell Pony Podcast, and Cavallo's naming-rights sponsorship of the Liberty Horse Festival.",
+    "key_components": ["Image gallery", "Video embed", "Table of contents/sections", "CTA button"],
+    "primary_cta": "Listen to the Fell Pony Podcast"
+  },
+  {
+    "id": "348701",
+    "content_format": "Newsletter",
+    "summary": "July 2022 'Cavallo Team' edition newsletter, with Carole Herder's Enterprising Women 'Woman of the Year' award and her personal story of barrel racing and becoming Cavallo President.",
+    "key_components": ["Image gallery", "Video embed", "Table of contents/sections"],
+    "primary_cta": "Read more"
+  },
+  {
+    "id": "348757",
+    "content_format": "Landing / marketing page",
+    "summary": "Restock announcement for the Cavallo LEB (Long Ear Boot), the only hoof boot designed for donkey anatomy, plus new LEB hoof boot pads for shock absorption and sole protection.",
+    "key_components": ["Image gallery", "Video embed", "Table of contents/sections", "Bulleted list", "CTA button"],
+    "primary_cta": "Shop Now"
+  },
+  {
+    "id": "348821",
+    "content_format": "Standard article (text + images)",
+    "summary": "Clinician Julie Goodnight's team field-testing the Cavallo Trek hoof boot on steep terrain, with a video of rider Melissa Arnold and Goodnight's testimonial for Carole Herder's book.",
+    "key_components": ["Video embed", "Pull quote/testimonial"],
+    "primary_cta": "None"
+  },
+  {
+    "id": "349269",
+    "content_format": "Newsletter",
+    "summary": "May 2026 Cavallo News Journal featuring the team's 'Keeping it Reel' video editing challenge (three reels to vote on) and a laminitis case study on returning a senior pony to comfort.",
+    "key_components": ["Image gallery", "Video embed", "Table of contents/sections", "CTA button"],
+    "primary_cta": "Vote for your favourite reel"
+  },
+  {
+    "id": "349431",
+    "content_format": "Landing / marketing page",
+    "summary": "2026 clearance promo offering 70% off Cavallo saddle pads, ELB Bling hoof boots, splint boots, halters and fly masks (code HURRY70), as the brand refocuses on hoof boots.",
+    "key_components": ["Image gallery", "Table of contents/sections", "CTA button"],
+    "primary_cta": "Shop the clearance / Find Your Perfect Pad"
+  },
+  {
+    "id": "349813",
+    "content_format": "Newsletter",
+    "summary": "June 2026 Cavallo newsletter with an interactive quiz on a horse's 'summer hoof personality' (A/B/C scoring) to help owners spot hoof sensitivity on hard or rocky summer footing.",
+    "key_components": ["Image gallery", "Video embed", "Bulleted list", "Table of contents/sections"],
+    "primary_cta": "Take the quiz"
+  },
+  {
+    "id": "350332",
+    "content_format": "Landing / marketing page",
+    "summary": "Introduces the Consteed Smart Hoof Sneaker, a sensor-equipped boot built on the Cavallo Trek platform for measuring equine limb loading and gait, citing a 2026 Veterinary Journal study.",
+    "key_components": ["Image gallery", "Video embed", "Table of contents/sections", "Bulleted list", "CTA button"],
+    "primary_cta": "Learn more"
+  }
+]

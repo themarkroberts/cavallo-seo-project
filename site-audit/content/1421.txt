@@ -1,0 +1,27 @@
+<!-- wp:paragraph -->
+<p>By Carole Herder</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>What should come first with your horse? Joe Camp believes knowledge is the most important factor in owning or playing or working with a horse. Following this, lifestyle and diet are the next vital items on the list. Then comes relationship and trust. Respect will follow on from this automatically. Does your horse trust you enough to allow you to be their partner and their leader? Do you trust your horse? Is trust more important than respect or love or domination or partnership or leadership?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Joe has written a very interesting blog about why trust is one of the most important factors in your dealings with horses. And it is his trust, not yours, that is important. If your horse trusts you of his own free will, everything will change. Do you think your horse trusts you? Take the halter and lead rope off and then see how strong your relationship is. Trust is something that must be earned and cannot be forced upon the animal. They will obey out of fear but then they are just a tool, not a being with feelings and needs so no matter what, try not to invoke fear in any form in your horse.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>In his article, Joe writes how he believes that once a horse trusts you, he will never stop trying for you. Because trusting you means that he knows you will care for him and keep him safe. &nbsp;For a prey animal, this is the most important thing of all.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Read more at <a href="http://thesoulofahorse.com/blog/for-beginners-only-true-relationship-is-about-trust/#more-7765" target="_blank" rel="noopener">http://thesoulofahorse.com/blog/for-beginners-only-true-relationship-is-about-trust/#more-7765&nbsp;</a>and&nbsp;<a href="http://thesoulofahorse.com/blog/for-beginners-only/" target="_blank" rel="noopener">http://thesoulofahorse.com/blog/for-beginners-only/</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":4967,"linkDestination":"custom","align":"center"} -->
+<figure class="wp-block-image aligncenter"><a href="//cavallo.local/wp-content/uploads/2014/10/Blog-65.jpg"><img src="//cavallo.local/wp-content/uploads/2014/10/Blog-65.jpg" alt="Horse Hoof Boots" class="wp-image-4967"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:spacer {"height":"40px"} -->
+<div style="height:40px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->

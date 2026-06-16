@@ -1,0 +1,83 @@
+<!-- wp:paragraph -->
+<p>Big news!&nbsp; We've got a fun, new perk for high-achieving <a href="http://www.ponyclub.org" target="_blank" rel="noopener noreferrer">United States Pony Club</a> (USPC) certification members! You may already know that we enjoy an Affiliate Partnership between Cavallo and the USPC. We just launched a new program that will award all members who achieve their H-HM/H/H-A Level Horse Management Certification with a pair of Trek Hoof Boots! Cavallo awards Pony Club Members!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Hard Working Horse Lovers!</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The <a href="https://www.ponyclub.org/Certifications/NationalLevel/Certifications.aspx" target="_blank" rel="noopener noreferrer">H-HM/H/H-A Horse Management Certification</a> requires knowledge, experience, and maturity. Certified members must evaluate and care for horses’ needs efficiently in a variety of circumstances. Certified members must competently ground train horses and teach riding and horse care to others. The certification follows a rigorous study of theory, as well as learning the practical aspects of unmounted horse management. This certification-earning education is comparable to that of a college-level curriculum. Yep - these folks have worked HARD!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>We fully recognize the hard work and dedication it takes to achieve H-HM/H/H-A Level Horse Management Certification. We also know it takes an unwavering commitment to the health and well-being of horses to reach this level.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Trek - Don't Leave Home Without It</h3>
+<!-- /wp:heading -->
+
+<!-- wp:image {"id":56186,"align":"left"} -->
+<figure class="wp-block-image alignleft"><img src="http://cavallo.local/wp-content/uploads/2020/10/Cavallo-Trek-Horse-Hoof-Boot-with-red-bow-3-1.png" alt="Cavallo Trek Horse Hoof Boot gift idea" class="wp-image-56186"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>The <a href="http://cavallo.local/product/trek-black-hoof-boot/" target="_blank" rel="noopener noreferrer">Trek Hoof Boots</a> given to these members are our top Cavallo boot style! Trek Boots are used for a diverse range of equestrian activities, including trail-riding and jumping. These boots are also considered valuable in the hoof care realm. They're commonly used for protection and comfort during turnout and hoof rehabilitation. An important tool we feel every person skilled in horse management should have in their toolkit! The Trek Boot is also scientifically approved by Western Kentucky University. To find out more about WKU’s recent independent hoof boot study, click <strong><a href="http://cavallo.local/science-behind-cavallo-hoof-boots" target="_blank" rel="noopener noreferrer">HERE.&nbsp;</a></strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading"><strong>Get to Know Pony Club&nbsp;&nbsp;</strong></h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The United States Pony Clubs, Inc. (Pony Club) is a 501(c)(3) non-profit organization. There are more than 10,000 Pony Club members in the US, with over 500 clubs and riding centers nationwide. USPC is proud to provide education to equestrians of all ages (including adults), with instruction and competitive opportunities in more than nine English and Western riding disciplines. Many of the nation’s top equestrians, including Olympic team members, as well as successful professionals, government leaders, and military officers, have roots in Pony Club. For more information visit <strong><a href="https://www.ponyclub.org/" target="_blank" rel="noopener noreferrer">HERE.</a></strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Get to Know Us!</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":56183,"align":"left","className":"wp-image-56183 size-large"} -->
+<figure class="wp-block-image alignleft wp-image-56183 size-large"><img src="http://cavallo.local/wp-content/uploads/2020/10/Evelyn-Santer-Trek-Boots-Italian-Alps-1.jpg" alt="Cavallo Trek Horse Hoof Boots worldwide" class="wp-image-56183"/><figcaption class="wp-element-caption">Photo by Evelyn Santer, Instagram: @Evesanter</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>Built on strong ethics, our company, Cavallo Horse &amp; Rider, is committed to excellent customer service and we are driven to provide products that promote equine wellness. Cavallo Hoof Boots are the number one hoof boots in the world and are now sold in 25 countries worldwide — for barefoot and shod horses alike!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Sign up here for our free Cavallo newsletter and special community discounts: </strong><a href="http://cavallo.local/subscribe-to-the-cavallo-horse-and-rider-newsletter/"><strong>&nbsp;http://cavallo.local/subscribe-to-the-cavallo-horse-and-rider-newsletter/</strong></a><strong>. </strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Visit </strong><a href="http://cavallo.local/"><strong>http://cavallo.local</strong></a><strong> to learn about our full line of Cavallo Hoof Boots. Call 1(877) 818-0037 (toll-free) from the USA or Canada or call direct, (604) 740-0037.&nbsp;</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:spacer {"height":"1px"} -->
+<div style="height:1px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:paragraph -->
+<p>Wishing you endless happy trails on healthy horses,</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":31657,"align":"left"} -->
+<figure class="wp-block-image alignleft"><img src="http://cavallo.local/wp-content/uploads/2020/07/OFFICIAL-Carole-Herder-2020-Signature-Hoof-Prints-Book-LR-1.png" alt="Carole Herder 2020 Signature - Hoof Prints Book - LR" class="wp-image-31657"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->

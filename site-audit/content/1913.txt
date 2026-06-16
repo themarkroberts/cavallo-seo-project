@@ -1,0 +1,77 @@
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading"><span style="color: #000000;">Cavallo Boots for Arthritic Hands - We're Told they're "the Bomb!"</span></h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><span style="color: #000000;">What your <em>horse </em>wears shouldn’t wear on<em> your </em>hands. When designing <a href="http://cavallo.local/product-category/hoof-boot/" target="_blank" rel="noopener">our Cavallo Boot styles,</a> we made sure that the straps and buckles on your hoof boots are easy to apply and remove--especially if you're a rider who has experienced the discomfort and limitations of arthritic hands or for cold, stiff hands during Winter months. </span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><span style="color: #000000;">Cavallo Boots come standard with Velcro application straps that pull tight easily. Depending on your preference, we also have sturdy buckle replacement options. Check out our full line of <a style="color: #000000;" href="http://cavallo.local/product-category/hoof-boot/" target="_blank" rel="noopener">Velcro-closure boots</a> as well as our new <a style="color: #000000;" href="http://cavallo.local/product/trekbuckle/" target="_blank" rel="noopener">Trek/BFB Hoof Boot Buckle Straps.</a></span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading"><span style="color: #000000;"><strong>Riders Report Back to Us</strong></span></h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><span style="color: #000000;">Both our Velcro and Buckle Straps are so easy for arthritic hands. Riders thank us for this constantly, Here are two lovely ladies we heard from through our Facebook page. Their feedback means a lot to us:</span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading"><span style="color: #000000;">Easy-to-Use Trek Keeps Kathy &amp; Tucker on the Trails</span></h4>
+<!-- /wp:heading -->
+
+<!-- wp:image {"id":67033,"align":"left"} -->
+<figure class="wp-block-image alignleft"><img src="http://cavallo.local/wp-content/uploads/2022/02/Kathy-Deaton-Tucker-Arthritic-hands-testimonial-image-452x339-2.jpg" alt="" class="wp-image-67033"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><span style="color: #000000;"><em>"I've used Cavallo boots on my horse, Tucker since I've had him. We mostly trail ride. I went from the Simple Boots to Treks last Summer. I've only used Cavallo boots and have no thoughts of changing. I have arthritis in my hands and love them for how easy they are to put on and take off."</em></span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><span style="color: #000000;"><em>- Kathy Deaton</em></span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading"><span style="color: #000000;">"I Have Very Arthritic Hands..."</span></h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><span style="color: #000000;">California cattle rancher Kim Fish also recommends Cavallo for easy on and easy off:</span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><span style="color: #000000;"><em>“I've been busy with cattle, and with my horse Josie having a year off, I'm getting her back into the swing of things again. She is doing great on the trail, as always—old reliable! Still using Cavallo Boots. Love 'em. They’re easy to get on (I have very arthritic hands, and they are simple to get on and off), and they stay on in mud. I used in the Sierras riding in granite and volcanic rock. My horses are happier and doing better barefoot as well. I cannot say enough about Cavallo Boots! They are the bomb!”</em></span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading"><span style="color: #000000;"><strong>Fast Action</strong></span></h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><span style="color: #000000;">These boots go on quickly –even for arthritic hands. Spend more time riding and less time tacking up! Watch how easily the boots go on with this short video:</span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:embed {"url":"https://www.youtube.com/watch?v=sWjRo60-v1U","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-4-3 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://www.youtube.com/watch?v=sWjRo60-v1U
+</div></figure>
+<!-- /wp:embed -->
+
+<!-- wp:paragraph -->
+<p><span style="color: #000000;"><em>Wishing you many happy trails and happy hands, too!</em></span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><span style="color: #000000;"><em>-Carole</em></span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":66829,"align":"left"} -->
+<figure class="wp-block-image alignleft"><img src="http://cavallo.local/wp-content/uploads/2022/02/2021-Carole-signature-DRAFT-452x263-2.png" alt="Carole Herder Cavallo President Signature" class="wp-image-66829"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->

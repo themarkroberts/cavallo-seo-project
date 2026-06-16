@@ -1,0 +1,35 @@
+<!-- wp:paragraph -->
+<p>By Carole Herder</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The French born fashion designer Coco Channel is one of my most respected business women. She was listed in Time Magazine as one of the top 100 most influential people of the 20th century. One of her fabulous quotes comes to mind when I have a good look at various faces. She said that at age 50 you get the face you deserve. I am seeing how women age in very different ways - wrinkles in certain areas, stress lines around a tense jaw or deep worry lines on the forehead. Have you ever noticed that some faces simply appear more pleasant, than others? Some appear happy and relaxed while others look miserable or distressed. For us it’s about the way we’ve lived our lives.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>As far as facial expression goes, it’s somewhat the same with horses. Their pain, worry or anxiety appears in their face. Although unlike us humans who can carry the memory of stress and anxiety with us for years even after the cause is gone, horses are more able to lose the distressed appearance as soon as they lose the cause of it.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":5247,"linkDestination":"custom","align":"left"} -->
+<figure class="wp-block-image alignleft"><a href="//cavallo.local/wp-content/uploads/2015/02/Face.jpg"><img src="//cavallo.local/wp-content/uploads/2015/02/Face-225x300.jpg" alt="Equine Facial Expressions and how to tell if your horse is in pain" class="wp-image-5247"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>I have 2 quite different horses in that regard. My barrel horse very quickly and more often can appear worried or anxious. Her eyelids get that peaked appearance, stiff in the center, tented over her eyes. I think she has a bit of a nervous stomach, perhaps from early performance stress - maybe even ulcers.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Her mouth becomes tense and rather than a relaxed jaw, her chin juts downward creating an angle, rather than flowing in line with her lower jaw. Her nostrils stress and flare out from center. Her ears can become stiff and pointed back, wider at the top than the base. Although over the years, these signs have receded, they still do appear from time to time and indicate a level of discomfort. It means I have to pay attention and go through the list of possibilities. Is it a stone bruise, perhaps an abscess, maybe too much fresh grass? My other horse only shows any of these signs very occasionally, and it’s usually a very obvious reason for pain. So with him the cause of his “long face” is more obvious.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>When you look at your horse’s face next time, have a good look. Is there stress or relaxation? Pain or comfort? To learn more, check out this article and you can download a free poster! <a href="http://www.horsesandpeople.com.au/article/the-equine-pain-face#.VHU3CzHF9Vk" target="_blank" rel="noopener">http://www.horsesandpeople.com.au/article/the-equine-pain-face#.VHU3CzHF9Vk</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:spacer {"height":"40px"} -->
+<div style="height:40px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->

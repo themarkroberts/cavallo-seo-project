@@ -1,0 +1,35 @@
+<!-- wp:paragraph -->
+<p>By Carole Herder</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Do you oil or condition?? Did you know that 90% of the moisture required for the hoof wall comes from within the blood and lymph vessels? &nbsp;Moisture balance is extremely important to healthy hooves. It is the moisture, made up of water and salts and electrolytes, which ensures that the tubules (hollow fibers within the hoof wall) effectively act as springs to absorb concussive force while maintaining tensile strength. This is why most hoof conditioners and products aimed at moisturizing the hoof are ineffective, as not only does the moisture come from within, but the hoof wall is virtually non-absorbent.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":5254,"linkDestination":"custom","align":"left"} -->
+<figure class="wp-block-image alignleft"><a href="//cavallo.local/wp-content/uploads/2015/02/Feb6.15BOLG-e1423269744559.jpg"><img src="//cavallo.local/wp-content/uploads/2015/02/Feb6.15BOLG-452x247.jpg" alt="Hoof Health &amp; Hoof Care" class="wp-image-5254"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The idea behind using products is to try to maintain the internal moisture of the hoof wall while repelling harmful substances. That is all very well if you understand exactly the requirements of your particular horse’s hooves and the chemical makeup of the product you are using... and have the know-how to fathom if they go together!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Various products are believed to help with protection and pliability, or at least just make the hooves look all shiny and pretty! For the most part, hoof products disrupt the moisture balance in your horse’s hooves. Sticky dressings tend to attract contaminants instead of repelling them. Ingredients such as formaldehyde and acetone are downright harmful to everything they touch. The function of hoof conditioner is to improve the hoof condition by sealing moisture in the hoof and to repel external contaminants. Avoiding shoes (nails are contaminants), improving diet (ingesting vitamins and protein to aid internal growth), encouraging movement and allowing free access to water to stand in will do this - &nbsp;but better, and more naturally.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Sealant can be used for hooves that are too soft and water is the best moisturizer for dry hooves. But remember, less is more. Excessive changes to your horse's environment can also be detrimental, so going from standing in mud all day to standing in dry shavings in a stall can be very damaging, especially if repeated daily over a long period of time. If circulation is impaired, moisture replacement is also impaired. The following website has some nice articles on natural herbs and supplements to help healthy hoof growth:<a href="http://www.naturalhorse.com/archive/volume1/Issue6/article_2.php" target="_blank" rel="noopener">http://www.naturalhorse.com/archive/volume1/Issue6/article_2.php</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:spacer {"height":"40px"} -->
+<div style="height:40px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->

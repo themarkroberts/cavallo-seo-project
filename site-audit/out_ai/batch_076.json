@@ -1,0 +1,86 @@
+[
+  {
+    "id": "334032",
+    "content_format": "Newsletter",
+    "summary": "December 2025 Cavallo email newsletter covering the Donkey King video series, Megan Hensley's $1 donkey hoof-care membership, and free downloads of Carole Herder's three hoof-care guides.",
+    "key_components": ["Video embed", "Image gallery", "Accordion", "CTA button"],
+    "primary_cta": "Watch video / Download free guides"
+  },
+  {
+    "id": "334070",
+    "content_format": "Standard article (text + images)",
+    "summary": "Blog post celebrating Cavallo's 20th anniversary, tying the milestone to the Year of the Fire Horse and reflecting on founder Carole Herder's two-decade journey building the hoof boot brand.",
+    "key_components": ["Image gallery", "Accordion", "CTA button"],
+    "primary_cta": "Read more"
+  },
+  {
+    "id": "334178",
+    "content_format": "Product page",
+    "summary": "Product page for Cavallo LEB (Long Ear Boot) donkey hoof boot cushion pads/insoles, 5mm microcellular foam for shock absorption, rehab support (laminitis, abscesses), and improved boot fit; sold in pairs.",
+    "key_components": ["Product gallery", "Add-to-cart", "Product tabs", "Bulleted list"],
+    "primary_cta": "Add to cart"
+  },
+  {
+    "id": "346240",
+    "content_format": "Standard article (text + images)",
+    "summary": "Post announcing founder Carole Herder named a Regional Finalist in the 2025 RBC Canadian Women Entrepreneur Awards, with local Sunshine Coast BC newspaper recognition and Cavallo's origin story.",
+    "key_components": ["Video embed", "Image gallery", "Table of contents/sections"],
+    "primary_cta": "Read local article"
+  },
+  {
+    "id": "346627",
+    "content_format": "Newsletter",
+    "summary": "April 2026 Cavallo newsletter spotlighting Cavallo boots appearing in Ella Langley's American Eagle ad and other celebrity productions, plus a tribute to Endo the Blind horse.",
+    "key_components": ["Video embed", "Image gallery", "Table of contents/sections", "CTA button"],
+    "primary_cta": "Contact us"
+  },
+  {
+    "id": "346737",
+    "content_format": "Landing / marketing page",
+    "summary": "Landing page promoting the free downloadable Cavallo Winter Hoof Care Guide eBook, covering snowballing, traction, thrush prevention, and using hoof boots for cold-weather riding and turnout.",
+    "key_components": ["Bulleted list"],
+    "primary_cta": "Download free eBook"
+  },
+  {
+    "id": "346798",
+    "content_format": "Form / contact page",
+    "summary": "Submission form inviting horse owners to share Cavallo boot success stories (laminitis, navicular, thrush, ringbone rehab) as case studies for possible publication on Cavallo's website and social channels.",
+    "key_components": ["Lead form", "Image gallery", "Table of contents/sections"],
+    "primary_cta": "Submit your case study"
+  },
+  {
+    "id": "346844",
+    "content_format": "FAQ / informational",
+    "summary": "Informational guide on treating and managing hoof cracks (vertical, toe, quarter) with Cavallo Hoof Boots, covering causes, assessment, trimming, nutrition, and rehabilitation support.",
+    "key_components": ["Image gallery", "Accordion", "Table of contents/sections", "Bulleted list", "CTA button", "Testimonials"],
+    "primary_cta": "Shop hoof boots"
+  },
+  {
+    "id": "347378",
+    "content_format": "Standard article (text + images)",
+    "summary": "Post from founder Carole Herder explaining the Cavallo price adjustment effective March 1, 2026, citing rising material, manufacturing, and transportation costs, with a 10% first-order discount offer.",
+    "key_components": ["Image gallery", "Table of contents/sections"],
+    "primary_cta": "Sign up for 10% off"
+  },
+  {
+    "id": "347508",
+    "content_format": "Newsletter",
+    "summary": "May 2026 Cavallo newsletter featuring the rescue story of Aquaman, a donkey trapped in an Arizona canal whose worn hooves recovered with Cavallo boots, framed around equine comfort and movement.",
+    "key_components": ["Video embed", "Image gallery", "Table of contents/sections", "Bulleted list", "CTA button"],
+    "primary_cta": "Read more"
+  },
+  {
+    "id": "348200",
+    "content_format": "Landing / marketing page",
+    "summary": "Lead-magnet landing page offering a free download of Carole Herder's book 'Hoof Prints on the Journey' plus hoof-care tips and offers, focused on natural hoof care, wellness, and balance.",
+    "key_components": ["Image gallery", "Table of contents/sections", "CTA button"],
+    "primary_cta": "Download free book"
+  },
+  {
+    "id": "348422",
+    "content_format": "Newsletter",
+    "summary": "Late April 2026 Cavallo Journal covering a hoof-crack-to-comeback case study and how the Consteed Smart Horse Sneaker is built on the Cavallo Trek Hoof Boot, blending hoof protection with movement-tracking tech.",
+    "key_components": ["Video embed", "Image gallery", "Table of contents/sections", "Bulleted list", "CTA button"],
+    "primary_cta": "Read more"
+  }
+]

@@ -1,0 +1,123 @@
+<!-- wp:paragraph -->
+<p><strong>Your Cavallos...Your Way</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Introducing the <span style="color: #0000ff;"><a href="http://cavallo.local/?products=hoof-boot"><span style="color: #0000ff;"><strong>NEW Simple Slim &amp; Sport Regular</strong></span></a></span> Hoofs Boots, giving you total freedom to choose the boot you LOVE!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>You asked and we delivered…</strong>&nbsp; ALL Cavallo Boot Styles and Sizes are now available in Regular AND Slim Soles!&nbsp; In addition to the ALL <span style="color: #0000ff;"><a href="http://cavallo.local/?products=trek-hoof-boots"><span style="color: #0000ff;">NEW TREK HOOF BOOTS</span></a></span> - your horse can now enjoy the function and simplicity of the Sport and Simple Boots, no matter the shape of their hoof.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":5772,"align":"left"} -->
+<figure class="wp-block-image alignleft"><img src="//cavallo.local/wp-content/uploads/2015/06/slim-sole-150x150.jpg" alt="Horse hoof boots" class="wp-image-5772"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":5775,"align":"right"} -->
+<figure class="wp-block-image alignright"><img src="//cavallo.local/wp-content/uploads/2015/06/reg-150x150.jpg" alt="horse hoof boots" class="wp-image-5775"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><strong><span style="text-decoration: underline;">SLIM SOLE</span> - Accommodates a hoof that is at least 1/4″ narrower than long</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>Built-in breakover</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Unique tread pattern supports frog</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Innovative sole design provides natural heel (skid) brake</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p><strong><span style="text-decoration: underline;">REGULAR SOLE</span> - Suitable for a hoof that is width a</strong><strong>nd length equal</strong><strong></strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>Aggressive “hiking boot” traction</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>All terrain</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Built-in drainage</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list --></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":5781,"align":"left"} -->
+<figure class="wp-block-image alignleft"><img src="//cavallo.local/wp-content/uploads/2015/06/sport-300x261.jpg" alt="horse hoof boots" class="wp-image-5781"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><a href="http://cavallo.local/?products=sport-hoof-boots"><span style="text-decoration: underline; color: #0000ff;"><strong>SPORT BOOT&nbsp;</strong></span></a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":4956,"align":"right"} -->
+<figure class="wp-block-image alignright"><img src="//cavallo.local/wp-content/uploads/1971/05/SSSweb-300x221.jpg" alt="horse hoof boots" class="wp-image-4956"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>Sleek, lightweight and stylish, with all the performance you would expect from Cavallo. Sport boots are now available in a Regular Sole, as well as the original Slim sole! 1000 Denier nylon upper is tough and durable. Leather&nbsp;inside and out conforms comfortably to your horse’s bulbs</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><span style="color: #0000ff;"><a href="http://cavallo.local/?products=simple-hoof-boots://"><span style="color: #0000ff;"><strong><span style="text-decoration: underline;">SIMPLE BOOT</span></strong></span></a></span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="http://cavallo.local/?products=simple-hoof-boots"><strong></strong></a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>SIMPLE Boot the all-terrain Multi-Purpose Hoof Boot is now also available on a slim sole as well as the regular round shape. Genuine All leather upper for strength, comfort and durability.Soft leather foam-filled collar. Simple front strap fastening with extra sliding keepers.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><span style="color: #0000ff;"><a href="http://cavallo.local/?products=hoof-boot"><span style="text-decoration: underline; color: #0000ff;"><strong>CAVALLO HOOF BOOTS</strong></span></a></span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Cavallo provides ultimate protection for the barefoot horse.&nbsp; All Cavallo Hoof Boots styles are excellent for comfort, as well as for relief from chronic pain or hoof sensitivity; rehabilitation from injuries, abscesses, navicular disease, laminitis / founder, punctures, sole bruising and contracted heels.&nbsp; They're also great for protection during trailering and breeding, or taken along on the trail as a spare tire for lost shoes.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>All Cavallo Boots are simple to put on and take off - and being shaped for the natural hoof, stay securely in place.&nbsp; The molded-in back flap protects the bulb and provides abrasion resistance.&nbsp; Durably constructed Cavallo boots have built-in drainage, are made with waterproof thread, rustproof metal, and a high-performance TPU outsole.&nbsp; These lightweight boots absorb shock so your horse's legs don't have to!&nbsp; You'll love Cavallos for their ability to promote healthy hooves by allowing the expansion and contraction necessary to increase blood circulation.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong><em>Want&nbsp; to know more about Cavallo Hoof Boots?</em></strong>&nbsp; Check out this great video and arm yourself with Barefoot Knowledge! <span style="color: #0000ff;"><a href=" https://vimeo.com/131256472"><span style="color: #0000ff;">&nbsp;https://vimeo.com/131256472</span></a></span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":5795,"align":"left"} -->
+<figure class="wp-block-image alignleft"><img src="//cavallo.local/wp-content/uploads/2015/06/Caroles-300x120.png" alt="horse hoof boots" class="wp-image-5795"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->

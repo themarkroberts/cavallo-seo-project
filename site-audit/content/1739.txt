@@ -1,0 +1,147 @@
+<!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading"><em><span style="color: #008080;">At Cavallo we have many friends who we like to keep track of, as they're always up to something interesting!</span></em></h4>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">We Ride Sport &amp; Trail Magazine - Jan/Feb 2019 Issue</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The<strong> January/February Issue</strong> is now LIVE!&nbsp; <strong>This issue includes an article I wrote</strong> about barefoot functional hoof tips, great stories by&nbsp;Jeff Wilson,&nbsp;Nancy Slater,&nbsp;Barbra Schulte,&nbsp;Lord Xalvador- Gypsian stallion, Hosanna Horse Haven and MORE...&nbsp; <span style="color: #008080;"><strong>&nbsp;</strong></span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading"><span style="color: #008080;"><strong><a style="color: #008080;" href="https://weride-magazine.com/january-february-2019/" target="_blank" rel="noopener">Check it out HERE!</a></strong></span></h3>
+<!-- /wp:heading -->
+
+<!-- wp:image {"id":14175,"linkDestination":"custom","align":"left"} -->
+<figure class="wp-block-image alignleft"><a href="https://weride-magazine.com/january-february-2019/" target="_blank" rel="noopener"><img src="http://cavallo.local/wp-content/uploads/2019/01/s-and-T-jan-1-300x300.jpg" alt="Sport &amp; Trail Magazine - January 2019 - Cavallo Hoof Boots" class="wp-image-14175"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Best of America by Horseback Monthly Newsletter!</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>This month's newsletter is about cattle drive weekends, their truck &amp; trailer driving clinic, team penning practice, upcoming rides &amp; events and MORE!&nbsp; <span style="color: #008080;"><strong>&nbsp; </strong></span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading"><span style="color: #008080;"><strong><a style="color: #008080;" href="https://myemail.constantcontact.com/It-s-Not-Too-Late-to-Plan----January-2019-Newsletter---Issue-105.html?soid=1122440115424&amp;aid=3Jx-dgym2ws" target="_blank" rel="noopener">READ IT HERE!&nbsp;&nbsp;</a></strong></span></h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:spacer {"height":"1px"} -->
+<div style="height:1px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:image {"id":14176,"linkDestination":"custom","align":"left"} -->
+<figure class="wp-block-image alignleft"><a href="https://myemail.constantcontact.com/It-s-Not-Too-Late-to-Plan----January-2019-Newsletter---Issue-105.html?soid=1122440115424&amp;aid=3Jx-dgym2ws" target="_blank" rel="noopener"><img src="http://cavallo.local/wp-content/uploads/2019/01/BOABH3-1-450x315.jpg" alt="Best of America by Horseback Cattle Drive - Cavallo Hoof Boots" class="wp-image-14176"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Monty Roberts - Healing PTSD</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>One of our biggest passions is Equine Assisted Therapy (EAT).&nbsp; Our good friend Monty touches our hearts with this regular program that he runs - 'Horse Sense and Healing'.&nbsp; This workshop is geared specifically to veterans, police, fire fighters, first responders or their family who are dealing with the effects of having experienced trauma or have symptoms of Post Traumatic Stress Disorder (PTSD).&nbsp; Monty does not charge participants for this workshop, and you can bet that the attendees experience amazing results!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading"><span style="color: #008080;"><strong><a style="color: #008080;" href="http://www.join-up.org/veterans/" target="_blank" rel="noopener">Read more HERE!</a>&nbsp;&nbsp;</strong></span></h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":14239,"linkDestination":"custom","align":"left"} -->
+<figure class="wp-block-image alignleft"><a href="http://www.join-up.org/veterans/"><img src="http://cavallo.local/wp-content/uploads/2019/01/monnty-1.jpg" alt="Monty Roberts PTSD Workshop Cavallo Hoof Boots" class="wp-image-14239" title="Monty Roberts PTSD Workshop Cavallo Hoof Boots"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Meanwhile, Back at the Ranch...</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>And what's happening here at Cavallo?&nbsp; Jenny got a new dog a few months back, which she adopted from <a href="https://www.facebook.com/blackdogrescuegroup/" target="_blank" rel="noopener">Black Dog Rescue Society of BC</a>.&nbsp; This rescue brings dogs from the Houston Texas area, where so many dogs are euthanized due to over-population.&nbsp; Jenny describes the adoption process as "basically exactly like online dating but with a bigger commitment and better results", as the dogs are adopted sight-unseen after they are posted online.&nbsp; It was love at first sight when Jenny went to pick up little Panda!&nbsp; She's an energetic dog who is thriving in our rain forest setting here in British Columbia.&nbsp; And our dog Danny-Boy is also a winner in this situation as he has gained a new friend!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:spacer {"height":"1px"} -->
+<div style="height:1px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:image {"id":14233,"align":"left","className":"wp-image-14233 size-large"} -->
+<figure class="wp-block-image alignleft wp-image-14233 size-large"><img src="http://cavallo.local/wp-content/uploads/2019/01/Panda-bear.-2-1-450x315.jpg" alt="dog Panda - Cavallo Horse Hoof Boots" class="wp-image-14233"/><figcaption class="wp-element-caption">Panda needed a bit of training but she's now on the road to becoming a very good dog!</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:spacer {"height":"1px"} -->
+<div style="height:1px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:paragraph -->
+<p>Wishing you many happy trails,</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":11988,"linkDestination":"custom","align":"left"} -->
+<figure class="wp-block-image alignleft"><a href="https://www.amazon.com/There-Are-Horseshoes-Heaven-Tradition-ebook/dp/B01BMYYRZ6"><img src="http://cavallo.local/wp-content/uploads/2018/08/Caroles-signature-with-click-here-452x261.jpg" alt="Carole herder's Signature and Book details" class="wp-image-11988"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->

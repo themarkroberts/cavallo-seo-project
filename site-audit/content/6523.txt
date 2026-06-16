@@ -1,0 +1,53 @@
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"level":1} -->
+<h1 class="wp-block-heading">Pat Parelli - Keeping it Natural with Cavallos</h1>
+<!-- /wp:heading --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:media-text {"mediaId":6524,"mediaLink":"http://cavallo.local/?attachment_id=6524","mediaType":"image","mediaWidth":40,"imageFill":true,"backgroundColor":"light-red-1"} -->
+<div class="wp-block-media-text is-stacked-on-mobile is-image-fill-element has-light-red-1-background-color has-background" style="grid-template-columns:40% auto"><figure class="wp-block-media-text__media"><img src="http://cavallo.local/wp-content/uploads/2024/12/Pat-Parelli-Horsemanship-cavallo-Hoof-Boots-1.jpg" alt="Pat Parelli Horsemanship - Cavallo Hoof Boots" class="wp-image-6524 size-full" style="object-position:50% 50%"/></figure><div class="wp-block-media-text__content"><!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|md","bottom":"var:preset|spacing|md","left":"0","right":"0"},"margin":{"top":"0","bottom":"0"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--md);padding-right:0;padding-bottom:var(--wp--preset--spacing--md);padding-left:0"><!-- wp:paragraph {"placeholder":"Content…"} -->
+<p>Pat Parelli is an expert on horse supplies and horse equipment. Watch the video below to see how he uses Cavallo Horse Boots for horses without metal horse shoes!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"placeholder":"Content…"} -->
+<p>Pat uses communication, understanding, and psychology to solve problems and bring out the best in your horse. Natural Horsemanship helps you reach your goals with your horse through love, language and leadership.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div></div>
+<!-- /wp:media-text --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:media-text {"mediaId":6525,"mediaLink":"http://cavallo.local/?attachment_id=6525","mediaType":"image","mediaWidth":15,"style":{"color":{"background":"#fffefe"}}} -->
+<div class="wp-block-media-text is-stacked-on-mobile has-background" style="background-color:#fffefe;grid-template-columns:15% auto"><figure class="wp-block-media-text__media"><img src="http://cavallo.local/wp-content/uploads/2024/12/book-1-qq5jjj9exgzkjrp0tlyacno5jjcney7nxqyrb3p2fs.jpg" alt="Carole Herder - No Horseshoes in Heaven" class="wp-image-6525 size-full"/></figure><div class="wp-block-media-text__content"><!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|md","bottom":"var:preset|spacing|md","left":"0","right":"0"},"margin":{"top":"0","bottom":"0"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--md);padding-right:0;padding-bottom:var(--wp--preset--spacing--md);padding-left:0"><!-- wp:heading -->
+<h2 class="wp-block-heading">Pat's Praise for There are no Horseshoes in Heaven</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"placeholder":"Content…"} -->
+<p>“This lovely book is a must read. It’s all about never ending improvement – not only for the sake of our four-legged partners, but for ourselves!”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"placeholder":"Content…"} -->
+<p>— Pat Parelli</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div></div>
+<!-- /wp:media-text --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"textAlign":"center"} -->
+<h2 class="wp-block-heading has-text-align-center">Pat tells you why Cavallos changed his mind about hoof boots in this video:</h2>
+<!-- /wp:heading -->
+
+<!-- wp:embed {"url":"https://www.youtube.com/watch?v=T3c3FDbmKic","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-4-3 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://www.youtube.com/watch?v=T3c3FDbmKic
+</div></figure>
+<!-- /wp:embed --></div>
+<!-- /wp:group -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->

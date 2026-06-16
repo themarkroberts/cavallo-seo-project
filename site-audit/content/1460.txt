@@ -1,0 +1,35 @@
+<!-- wp:paragraph -->
+<p>By Carole Herder</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Announcing Jennifer Mundell</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>How Much do the People Around You Matter?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":5209,"linkDestination":"custom","align":"left"} -->
+<figure class="wp-block-image alignleft"><a href="//cavallo.local/wp-content/uploads/2015/01/Jenny.jpg"><img src="//cavallo.local/wp-content/uploads/2015/01/Jenny-300x282.jpg" alt="Cavallo Horse and Rider" class="wp-image-5209"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>“Community minded with a strong social conscience”, is the way Jenny describes herself. She adds that she quickly multi-tasks and has excellent communication skills. Jenny’s lovely personality combined with fast paced management skills and experience operating her own clothing business makes her the staring new asset to The Cavallo Family. We welcome Jennifer (Jenny) Mundell to Cavallo.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Jenny is here to serve, create, administer, develop and grow with the home team here in our office in Roberts Creek. A Title is too limiting for our new VIP. So let’s just say that when you meet up with Jenny on the phone (Cavallo Toll Free line 1 877 818-0037), chat to her on email – <a href="http://cavallo.local/contact-us/" target="_blank" rel="noopener">jenny@cavallo.local</a>, or have the delightful experience of meeting her in person at a horse show; you will not only be in very capable hands, but have a memorably pleasant experience.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Check out Cavallo Hoof Boots, Cavallo Total Comfort Saddle Pads and other fine products at:<br>Cavallo Horse &amp; Rider Inc. <a href="http://cavallo.local" target="_blank" rel="noopener">cavallo.local</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:spacer {"height":"40px"} -->
+<div style="height:40px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->

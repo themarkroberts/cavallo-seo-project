@@ -1,0 +1,7 @@
+<!-- wp:image {"width":"395px","height":"auto","sizeSlug":"large","align":"left"} -->
+<figure class="wp-block-image alignleft size-large is-resized"><img src="http://cavallo.local/wp-content/uploads/2024/09/montyWEB.jpg" alt="" style="width:395px;height:auto"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>The Cavallo Total Comfort System Saddle Pads help your horse increase his movement around the shoulder. The gullet system encourages horses to lift their spine and use themselves properly while taking pressure off the withers. This unique memory foam sandwich helps your saddle fit better. In addition to the lightweight thinness of the Cavallo pad I love the reversible feature as I prefer to ride with the 100% New Zealand wool to my horse. Cavallo pads are the best pads in the world today.</p>
+<!-- /wp:paragraph -->

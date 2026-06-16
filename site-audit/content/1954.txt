@@ -1,0 +1,203 @@
+<!-- wp:image {"width":"301px","height":"auto"} -->
+<figure class="wp-block-image is-resized"><img src="http://cavallo.local/wp-content/uploads/2022/02/Celebrating-Dynamic-Lives-of-Cavallo-Community-768x138-2.png" alt="" style="width:301px;height:auto"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">There's Something BIG Coming!</h2>
+<!-- /wp:heading -->
+
+<!-- wp:image {"width":"192px","height":"auto"} -->
+<figure class="wp-block-image is-resized"><img src="http://cavallo.local/wp-content/uploads/2022/09/Trek-Treat-Bag-1-450x315.jpg" alt="Cavallo Trek and Treat Halloween Bag" style="width:192px;height:auto"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><b>Hmmm... What are we hinting at?&nbsp;</b></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Remember being a kid, and how much fun it was to go trick-or-treating on Halloween? Then running home to dump out your trick-or-treat bag?&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>This feeling shouldn't be a thing of the past. We're going to recreate this for you as an adult horse owner! How??? Keep an eye on our emails - it's coming SOON!&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"left"} -->
+<p class="has-text-align-left"><i>(We love to hint and keep you in suspense!)</i></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">When we Say ALL Types of Equines Use Cavallos...</h2>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading">We AREN'T joking! Even a ZEBRA with Laminitis:</h4>
+<!-- /wp:heading -->
+
+<!-- wp:image {"width":"442px","height":"auto","aspectRatio":"1","scale":"contain","align":"center"} -->
+<figure class="wp-block-image aligncenter is-resized"><img src="http://cavallo.local/wp-content/uploads/2022/09/Nancy-Nunke-Zebra-w-Laminitis-in-Cavallo-Hoof-Boots-1-1.jpg" alt="Nancy Nunke's Zebra with Laminitis in Cavallo Hoof Boots" style="aspect-ratio:1;object-fit:contain;width:442px;height:auto"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><i>Yep...that's a ZEBRA! When <a href="http://hhar.org/our-story/" target="_blank" rel="noopener">Nancy Nunke of Hearts &amp; Hands Animal Rescue</a>&nbsp;recently got in touch to tell us about her zebra mare, Zavannah:</i></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><i>"Zavannah has had Laminitis for ten years. Last winter we thought might be her last. Once I got in touch with Bradley James Kelley of&nbsp;<a href="https://www.facebook.com/bradsnaturalhoofcare/" target="_blank" rel="noopener">Brad's Natural Hoof Care</a>, he trimmed in a way to maximize her comfort, sole growth, and wall thickness. Then he put Cavallo Boots on with a 1/2" of memory foam inside...there was nothing stopping her!</i></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><i>I used to have to drag her around for exercise, and she would stop every couple of steps, not wanting to move. She would lay down most of the time, day and night. Now, every time I look over at her, she is on her feet! Well, with Brad working on her just three times, and these boots, I can barely keep up with her, lol. We were laughing out of giddiness that in just three months, her </i><i>change has been crazy good. These boots stay on and help her feet heal faster than I have ever seen. I can't guarantee your success without adding Brad into the mix, but these boots have been truly a game changer for her, too.&nbsp;</i></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><i>Stones don't bother her at all anymore. Oh, by the way, this girl has NO coffin bones left in her feet, well, 10% in one. Her sole used to be soft with lots of blood spots and this time, clean white, and hard!!"&nbsp; &nbsp;</i>- Nancy Nunke</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>You may already have heard of Nancy, as she's also widely known as&nbsp;<a href="https://www.facebook.com/zebra.whisperer" target="_blank" rel="noopener">'The Zebra Whisperer'!</a>&nbsp;More info about Nancy Nunke's rescue, <a href="https://sidelinesmagazine.com/general/hearts-hands-rescue-earning-their-stripes.html" target="_blank" rel="noopener">Hearts N Hands, HERE!&nbsp;</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">The Dainty, The Daft and The Dork</h2>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading">Karen Inkster's very personal reason to raise money for cancer support ❤</h4>
+<!-- /wp:heading -->
+
+<!-- wp:image {"width":"643px","height":"auto","aspectRatio":"1.3333333333333333","scale":"contain","align":"center"} -->
+<figure class="wp-block-image aligncenter is-resized"><img src="http://cavallo.local/wp-content/uploads/2022/09/Trek-Boots-in-the-Scottish-Highlands-Karen-Inkster-Deaf-Daft-Ditsy-1.jpg" alt="rek Boots in the Scottish Highlands - Karen Inkster Deaf Daft Ditsy" style="aspect-ratio:1.3333333333333333;object-fit:contain;width:643px;height:auto"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><i>"In late August I set off with two faithful friends, Monty the Spanish Mustang and little Rosie, my dog (together we are the Ditsy, the Daft and the Dork!). We travelled for 5 days on one of Scotland's Great Trails, the <a href="https://www.walkhighlands.co.uk/perthshire/cateran-trail.shtml" target="_blank" rel="noopener">Cateran Trail&nbsp;</a>(Caterans were cattle thieves who once roamed the glens stealing cattle!). The trail hadn't been done by a horse before. I knew it would be challenging, with narrow bridges, steep ascents and descents, lots of streams, bogs, rocky paths and some small road sections too.</i></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><i>We covered just over 100km with Monty carrying all our camping gear, corral kit and food etc. Monty wore his trusty Cavallo Boots throughout the trip and, as usual, they were great. They didn't pull off in the bogs and I knew he couldn't bruise a sole on a stone during a river crossing.</i></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><i>I did the trip as, sadly, my Mum, who is of huge support to me, was diagnosed with cancer earlier this year. I decided to raise funds for Macmillan Cancer Support, which has been great throughout my Mum's treatment and surgery. We have raised over £1500! <a href="https://www.justgiving.com/fundraising/thedaintythedaftandthedork" target="_blank" rel="noopener">Our fundraising page can be found HERE,&nbsp;</a>in case anyone feels moved to donate."</i></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Gerda's Equine Rescue: Before &amp; After</h2>
+<!-- /wp:heading -->
+
+<!-- wp:image {"width":"320px","height":"auto","aspectRatio":"1","scale":"contain","align":"left"} -->
+<figure class="wp-block-image alignleft is-resized"><img src="http://cavallo.local/wp-content/uploads/2022/09/Gerdas-equine-rescue-before-Snow-White-1-450x315.jpg" alt="Gerda's equine rescue - mini horse in Cavallo CLB Hoof Boots" style="aspect-ratio:1;object-fit:contain;width:320px;height:auto"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"width":"320px","height":"auto","aspectRatio":"1","scale":"contain","align":"left"} -->
+<figure class="wp-block-image is-resized"><img src="http://cavallo.local/wp-content/uploads/2022/09/Gerdas-equine-rescue-after-Snow-White-1-450x315.jpg" alt="Gerda's equine rescue - mini with Cavallo CLB Hoof Boots" style="aspect-ratio:1;object-fit:contain;width:328px;height:auto"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><br></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading">Kill Pen Mini Horse Now Surrounded with Love:</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Snow White was in a kill pen before she came to Gerda's Equine Rescue. She not only had badly overgrown hooves, this beautiful little mini also has an explosive-looking eyeball, which needs to be enucleated.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Cases like Snow White's are why Gerda's (and all equine rescues) are desperate to raise funds. There are many equines there who need surgeries, food, medicines and so much more. So please, if you can make even a small donation to Gerda's (or your rescue of choice), please do!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>We just sent Snow White a pair of our CLB Boots to help with her comfort levels after her overgrown hooves were carefully trimmed. She's now under the care of an expert team: Christina Kruger (Gerda's barefoot trimmer) and Dr. Greg Dowd (one of Gerda's vets). Together they are doing their best, as Snow White is a major work in progress!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>We got some lovely messages from the rescue!&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><i>"I really want you to know how grateful I am for your generosity! It has made such a difference in the comfort to those who can't tell us how sore their feet are. Along with Christina, you have given most of these&nbsp;horses&nbsp;more help than anyone&nbsp;ever has!&nbsp; On behalf of them, I thank you."&nbsp; &nbsp; &nbsp;- Warmly, Gerda</i></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><i>"I wanted to thank all of you at Cavallo for being so supportive of our&nbsp;rescue! So many&nbsp;horses&nbsp;come with feet that are in need of rehab and these Treks are really helping them stay comfortable as they get ready to find their new homes."&nbsp; &nbsp; &nbsp;- Christina Keuger</i></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Hannah Catalino: Competing with Cavallos</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>We first got to know <a href="https://www.facebook.com/HCLiberty" target="_blank" rel="noopener">Hannah Catalino</a> when she was part of the&nbsp;<a href="https://www.mustangdiscovery.com/" target="_blank" rel="noopener">Mustang Discovery Ride</a>, an ambitious trip on wild mustangs across the USA. We were happy to offer boots to her burro and horses to keep their feet as safe as possible on this epic journey. After the ride, Hanna is still putting her Cavallos to good use, and is having so much fun doing it! Here's what Hannah is up to:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><i>"Check out Tavo's 1st place Freestyle. This horse went above and beyond expectations as I was training him! I'm so blessed and thankful to have had the opportunity to meet and be paired to work with him. I never dreamed I would do a liberty routine with a wild mustang that has only been worked with 100 days AND my riding dummy. But Tavo never thought twice about even with various costumes I tried on him trying to think of our theme.</i></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><i>In just playing with him a few weeks ago, he learned how to side pass towards and spin in just a session. I already had the idea to do a 'dance' freestyle to the song 'Time of My Life', but he was also so great with obstacles I wanted to highlight that somehow. 'Sharp Dressed Man' also really fit his overall presentation, and it just so happened that my Cavallo Hoof Boots for Rosette fit him! So he was able to look extra fancy. Handling his feet had been the most challenging part of gentling him, so the goal of putting boots and off and getting him used to them really was good.</i></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><i>He is so smart. Less than two weeks ago, he learned the bow in one session and even though he is not a mouthy horse, he was already keen to pick things up. He learned how to bring me flowers in one session as well! Tavo just blew me away, how he just was right there and ready to do all these crazy fun ideas I had. He is truly something else and such a joy to work with. ❤ </i><br>Much thanks to Christina and Pauline for filming.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.facebook.com/hannah.catalino/posts/10217936474482204?__cft__%5B0%5D=AZWfePhklFAxVhqtSc9I4VN_HfxuGiOGpEWxBJfXs5Feq0dRLCwHmUB9iITctUBbY80M9iA44FGUgGdkJxPT_uUiwH1MopsK-q3XhC6uRnqR-OkOiy2_zqoh-fTmnBwVInP850jvgk46zBtSqxxPmg_MHZHySHZNZk6BLhB4X9CVYnHk_Kq8Ouj-wLbYK-qo9Rk&amp;__tn__=%2CO%2CP-R"><br></a><br>Previous<br>Next</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">What YOU'RE Saying:</h2>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading">Famous Last Words: "She Won't Let you Put them On Her"&nbsp;</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><img src="http://cavallo.local/wp-content/uploads/2022/09/Sport-Boots-Becky-Girl-Carol-Ricena-testimonial-1.jpg" sizes="(max-width: 447px) 100vw, 447px" srcset="http://cavallo.local/wp-content/uploads/2022/09/Sport-Boots-Becky-Girl-Carol-Ricena-testimonial-1.jpg 447w, http://cavallo.local/wp-content/uploads/2022/09/Sport-Boots-Becky-Girl-Carol-Ricena-testimonial-1-296x300.jpg 296w, http://cavallo.local/wp-content/uploads/2022/09/Sport-Boots-Becky-Girl-Carol-Ricena-testimonial-1-425x430.jpg 425w, http://cavallo.local/wp-content/uploads/2022/09/Sport-Boots-Becky-Girl-Carol-Ricena-testimonial-1-300x304.jpg 300w, http://cavallo.local/wp-content/uploads/2022/09/Sport-Boots-Becky-Girl-Carol-Ricena-testimonial-1-100x100.jpg 100w, http://cavallo.local/wp-content/uploads/2022/09/Sport-Boots-Becky-Girl-Carol-Ricena-testimonial-1.jpg 500w" alt="Cavallo Horse Hoof Boot Review Carol Ricena" width="447" height="452"><br><strong>I received this very special email, and really wanted to share it with you:</strong><i>"Hi Carole,</i><i>This is the 2nd pair of boots I am buying for my Becky Girl. She just turned 24 and is so special to me.</i><i>When I purchased her, she was barefoot and hardly had hooves at all. She wouldn't walk on the gravel that we needed to cross out of the barn.</i><i>I purchased your Cavallo Boots in 2016 and explained to her like I would a child, how they were going to make her feet feel better. The farrier laughed at me as I demonstrated the Velcro and told her not to be nervous. He said, "she won't let you put them on her". We showed him how wrong he was about the both of us.</i><i>I took her down the aisle of the barn and as usual, she stopped when it was time to step on the large gravel. I took her face in my hands and told her that she needed to trust me and take a few steps. </i><i>She finally wore them out and now we are awaiting delivery today of her new sneakers as I refer to them.</i><i>Best regards,</i><i>Carol Ricena, Lexington, NC</i></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Cavallo Quick Tip!</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><img src="http://cavallo.local/wp-content/uploads/2022/09/Apple-Cider-Vinegar-boots-bacteria-tip-Laurie-Harris-2020-02-18-1.jpg" sizes="(max-width: 452px) 100vw, 452px" srcset="http://cavallo.local/wp-content/uploads/2022/09/Apple-Cider-Vinegar-boots-bacteria-tip-Laurie-Harris-2020-02-18-1.jpg 452w, http://cavallo.local/wp-content/uploads/2022/09/Apple-Cider-Vinegar-boots-bacteria-tip-Laurie-Harris-2020-02-18-1-300x300.jpg 300w, http://cavallo.local/wp-content/uploads/2022/09/Apple-Cider-Vinegar-boots-bacteria-tip-Laurie-Harris-2020-02-18-1-150x150.jpg 150w, http://cavallo.local/wp-content/uploads/2022/09/Apple-Cider-Vinegar-boots-bacteria-tip-Laurie-Harris-2020-02-18-1-768x768.jpg 768w, http://cavallo.local/wp-content/uploads/2022/09/Apple-Cider-Vinegar-boots-bacteria-tip-Laurie-Harris-2020-02-18-1-430x430.jpg 430w, http://cavallo.local/wp-content/uploads/2022/09/Apple-Cider-Vinegar-boots-bacteria-tip-Laurie-Harris-2020-02-18-1-800x800.jpg 800w, http://cavallo.local/wp-content/uploads/2022/09/Apple-Cider-Vinegar-boots-bacteria-tip-Laurie-Harris-2020-02-18-1-600x600.jpg 600w, http://cavallo.local/wp-content/uploads/2022/09/Apple-Cider-Vinegar-boots-bacteria-tip-Laurie-Harris-2020-02-18-1-100x100.jpg 100w, http://cavallo.local/wp-content/uploads/2022/09/Apple-Cider-Vinegar-boots-bacteria-tip-Laurie-Harris-2020-02-18-1.jpg 960w" alt="" width="452" height="452"><br><strong>Keeping your Cavallo Boots Fresh <img src="https://static.xx.fbcdn.net/images/emoji.php/v9/t3c/1/16/1f34e.png" alt="????" width="16" height="16"></strong>&nbsp;If you're using your Cavallos frequently for riding, turnout or as a therapy boot during a hoof rehab situation, it's easy to keep your boots fresh and free of bacterial or fungal buildup.&nbsp;To reduce build-up in your boots, just mix a solution of 50% Apple Cider Vinegar with water in a bucket or spray bottle, and soak or spray into the boot and on the inside hoof sole regularly.&nbsp;&nbsp;It's such a simple, inexpensive solution, and works so well!,&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><em>We can't wait to chat with you! Wishing you many happy trails,</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><i>-Carole Herder</i></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="http://cavallo.local/wp-content/uploads/2022/02/Carole-Transparent-1.png2_-1-768x393.png" alt="Carole Herder Cavallo Hoof Boots Signature"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->

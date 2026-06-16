@@ -1,0 +1,360 @@
+<!-- wp:group {"layout":{"type":"constrained","contentSize":""}} -->
+<div class="wp-block-group"><!-- wp:group {"style":{"spacing":{"padding":{"top":"0","bottom":"0","left":"0","right":"0"},"margin":{"top":"0","bottom":"0"}}},"layout":{"type":"constrained","contentSize":"835px"}} -->
+<div class="wp-block-group" style="margin-top:0;margin-bottom:0;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:heading {"textAlign":"center","level":1,"style":{"typography":{"letterSpacing":"-0.01em"}}} -->
+<h1 class="wp-block-heading has-text-align-center" style="letter-spacing:-0.01em">How Do Cavallo Hoof Boots Compare To Other Brands? </h1>
+<!-- /wp:heading --></div>
+<!-- /wp:group -->
+
+<!-- wp:paragraph {"align":"center","style":{"spacing":{"margin":{"top":"var:preset|spacing|xl","bottom":"var:preset|spacing|xl"}}},"fontSize":"large"} -->
+<p class="has-text-align-center has-large-font-size" style="margin-top:var(--wp--preset--spacing--xl);margin-bottom:var(--wp--preset--spacing--xl)">Cavallo Hoof Boots Compare the best in comfort, durability, and ease of use. When it comes to choosing hoof boots, Cavallo stands out with superior protection, ergonomic design, and user-friendly features. Whether you need a boot for trail riding, therapeutic support, or everyday wear, Cavallo Hoof Boots offer unmatched performance. With durable materials, customizable fit, and a range of accessories, Cavallo boots ensure long-lasting comfort and protection for your horse across all terrains. Explore how Cavallo Hoof Boots compare to other brands and see why they’re the top choice for riders worldwide. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":202186,"scale":"cover","sizeSlug":"large","linkDestination":"none","style":{"border":{"radius":"10px"}}} -->
+<figure class="wp-block-image size-large has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2025/04/purple-green-trek-26-edited.jpg" alt="Cavallo Hoof Boots offer the ultimate comfort compared to other brands " class="wp-image-202186" style="border-radius:10px;object-fit:cover"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|lg","bottom":"var:preset|spacing|lg","left":"var:preset|spacing|lg","right":"var:preset|spacing|lg"},"margin":{"top":"var:preset|spacing|xl","bottom":"0"}},"border":{"width":"1px","color":"#DDD4D0","radius":"10px"}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group has-border-color" style="border-color:#DDD4D0;border-width:1px;border-radius:10px;margin-top:var(--wp--preset--spacing--xl);margin-bottom:0;padding-top:var(--wp--preset--spacing--lg);padding-right:var(--wp--preset--spacing--lg);padding-bottom:var(--wp--preset--spacing--lg);padding-left:var(--wp--preset--spacing--lg)"><!-- wp:heading -->
+<h2 class="wp-block-heading">Table of Contents</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list {"ordered":true,"start":1,"style":{"elements":{"link":{"color":{"text":"var:preset|color|red"}}},"typography":{"fontStyle":"normal","fontWeight":"600"}},"textColor":"red","fontSize":"large"} -->
+<ol start="1" style="font-style:normal;font-weight:600" class="wp-block-list has-red-color has-text-color has-link-color has-large-font-size"><!-- wp:list-item -->
+<li><a href="#Block-1">The Ultimate Hoof Boot Comparison</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="#Block-2">Cavallo Hoof Boots Compare in Durability and Protection</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="#Block-3">Easy to Use: How Cavallo Hoof Boots Compare in Application &amp; Fit</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="#Block-4">How Cavallo Hoof Boots Compare in Comfort: The Most Critical Factor!</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="#Testimonial">Cavallo Testimonial</a>s</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="#Why-Cavallo">Why Choose Cavallo Hoof Boots </a></li>
+<!-- /wp:list-item --></ol>
+<!-- /wp:list --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"reverse-order\u002d\u002dmobile","style":{"spacing":{"padding":{"top":"var:preset|spacing|xxl","bottom":"var:preset|spacing|xxl"},"margin":{"top":"0","bottom":"0"}},"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"backgroundColor":"pale-silver","textColor":"primary","layout":{"type":"constrained","contentSize":""}} -->
+<div id="Block-1" class="wp-block-group reverse-order--mobile has-primary-color has-pale-silver-background-color has-text-color has-background has-link-color" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--xxl);padding-bottom:var(--wp--preset--spacing--xxl)"><!-- wp:columns {"verticalAlignment":"top"} -->
+<div class="wp-block-columns are-vertically-aligned-top"><!-- wp:column {"verticalAlignment":"top","width":"44.48%"} -->
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis:44.48%"><!-- wp:heading -->
+<h2 class="wp-block-heading">The Ultimate Hoof Boot Comparison: How Do Cavallo Hoof Boots Compare?</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>When choosing the right hoof boot for your horse, consider durability, comfort, ease of use, and protection. With so many options available, it’s essential to understand how Cavallo Hoof Boots compare to other brands in terms of quality and performance.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Cavallo Hoof Boots are designed to support horses in various disciplines, whether trail riding, providing therapeutic support, or protecting hooves during turnout. Unlike many other brands that emphasize minimalism, Cavallo strikes a balance between protection and comfort. The boots are made from durable materials that stand up to rugged terrain and provide long-lasting wear without compromising your horse’s comfort.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Meanwhile, other brands often advertise "lightweight" boots, claiming a few grams shaved off. However, this difference in weight is negligible to the horse, who won’t notice it. What horses will feel is the difference in protection. Cavallo boots feature sturdier soles that protect hooves from sharp rocks, rough surfaces, and debris. This added protection is vital for maintaining hoof health in challenging conditions.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>In contrast, many competing brands use thinner, more flexible soles that provide less protection, leaving hooves vulnerable to bruising or injury. Cavallo boots offer superior durability and protection without sacrificing comfort, keeping your horse’s hooves secure and safe on various terrains.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>In conclusion, Cavallo Hoof Boots offer the best balance of comfort, protection, and longevity, making them the top choice for riders who prioritize their horse’s hoof health.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"top","width":"","style":{"spacing":{"padding":{"right":"0","left":"0","top":"0","bottom":"0"}}},"layout":{"type":"constrained","contentSize":"585px","justifyContent":"right","wideSize":""}} -->
+<div class="wp-block-column is-vertically-aligned-top" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:image {"id":202188,"width":"585px","height":"auto","sizeSlug":"full","linkDestination":"none","style":{"border":{"radius":"10px"}}} -->
+<figure class="wp-block-image size-full is-resized has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2025/04/MUST-credit-Loesdau-Germany-BFB-Hoof-Boots-lifted-hoof-edited.jpg" alt="Cavallo offers Draft extra large hoof boots- better than any other brand " class="wp-image-202188" style="border-radius:10px;width:585px;height:auto"/><figcaption class="wp-element-caption">Loesdau-Germany</figcaption></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div id="Block-2" class="wp-block-group"><!-- wp:group {"className":"reverse-order\u002d\u002dmobile","style":{"spacing":{"padding":{"top":"var:preset|spacing|xxl","bottom":"var:preset|spacing|xxl"},"margin":{"top":"0","bottom":"0"}}},"layout":{"type":"constrained"}} -->
+<div id="size-and-fit-pastern-wrap" class="wp-block-group reverse-order--mobile" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--xxl);padding-bottom:var(--wp--preset--spacing--xxl)"><!-- wp:columns {"verticalAlignment":"top"} -->
+<div class="wp-block-columns are-vertically-aligned-top"><!-- wp:column {"verticalAlignment":"top","width":"","style":{"spacing":{"padding":{"right":"0","left":"0","top":"0","bottom":"0"}}},"layout":{"type":"constrained","contentSize":"585px","justifyContent":"left","wideSize":""}} -->
+<div class="wp-block-column is-vertically-aligned-top" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:image {"id":201454,"width":"585px","height":"auto","scale":"cover","sizeSlug":"full","linkDestination":"none","style":{"color":{"duotone":"unset"},"border":{"width":"0px","style":"none","radius":"10px"}}} -->
+<figure class="wp-block-image size-full is-resized has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2025/03/Michelle-Simons-@bobby_original_-Trek-Black-75kb-edited.jpg" alt="Cavallo Hoof Boots offer better protection over rocks, gravel, and rough terrain compared to any other brand!" class="wp-image-201454" style="border-style:none;border-width:0px;border-radius:10px;object-fit:cover;width:585px;height:auto"/><figcaption class="wp-element-caption">Michelle-Simons</figcaption></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"top","width":"44.48%"} -->
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis:44.48%"><!-- wp:heading -->
+<h2 class="wp-block-heading">Built for the Long Haul: How Cavallo Hoof Boots Compare in Durability and Protection</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"32px","bottom":"0"}}}} -->
+<p style="margin-top:32px;margin-bottom:0">A boot that wears out too quickly can cost more in replacements and, worse, cause discomfort or harm to your horse. So, how do Cavallo Hoof Boots compare in terms of durability?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":""} -->
+<p>Cavallo Hoof Boots are built with longevity in mind. Made from high-performance materials, Cavallo boots are designed to endure harsh conditions. Whether you’re riding on rocky trails, through muddy fields, or jumping, Cavallo boots hold up under pressure, maintaining their shape and function. Tough stitching and quality materials ensure Cavallo boots last longer than many other brands.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":""} -->
+<p>Many competing brands use thinner or less durable materials, which don’t offer the same level of protection or longevity. Boots with thin, flexible soles often wear out quickly, requiring more frequent replacements and higher long-term costs. Some brands also skimp on stitching or reinforcement, leading to boots falling apart or losing shape after consistent use.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"32px","bottom":"0"}}}} -->
+<p style="margin-top:32px;margin-bottom:0">Cavallo Hoof Boots offer unmatched durability and reliability if you’re looking for a hoof boot that stands up to the rigors of riding and long-term use. They save you time and money and keep your horse comfortable.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Plus? We stand behind our boots with the BEST Boot warranty in the business. Learn more below. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"backgroundColor":"white","textColor":"red","width":100,"className":"is-style-fill","style":{"elements":{"link":{"color":{"text":"var:preset|color|red"}}},"border":{"radius":"100px","width":"2px"}},"borderColor":"red"} -->
+<div class="wp-block-button has-custom-width wp-block-button__width-100 is-style-fill"><a class="wp-block-button__link has-red-color has-white-background-color has-text-color has-background has-link-color has-border-color has-red-border-color wp-element-button" href="http://cavallo.local/your-cavallo-warranty-guarantees-the-quality-and-workmanship-of-cavallo-hoof-boots/" style="border-width:2px;border-radius:100px">Cavallo Best Boot Warranty - 6 Months</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"reverse-order\u002d\u002dmobile","style":{"spacing":{"padding":{"top":"var:preset|spacing|xxl","bottom":"var:preset|spacing|xxl"},"margin":{"top":"0","bottom":"0"}},"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"backgroundColor":"pale-silver","textColor":"primary","layout":{"type":"constrained","contentSize":""}} -->
+<div id="Block-3" class="wp-block-group reverse-order--mobile has-primary-color has-pale-silver-background-color has-text-color has-background has-link-color" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--xxl);padding-bottom:var(--wp--preset--spacing--xxl)"><!-- wp:columns {"verticalAlignment":"top"} -->
+<div class="wp-block-columns are-vertically-aligned-top"><!-- wp:column {"verticalAlignment":"top","width":"44.48%"} -->
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis:44.48%"><!-- wp:heading -->
+<h2 class="wp-block-heading">Easy to Use: How Cavallo Hoof Boots Compare in Application &amp; Fit</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>When it comes to hoof boots, ease of use is essential. A boot that’s hard to put on or adjust can cause frustration for both you and your horse. So, how do Cavallo Hoof Boots compare in terms of application and fit?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Many competing brands require multiple fasteners or complex mechanisms to secure the boot. This can lead to longer fitting times, especially if your horse isn't accustomed to boots. A complicated fit increases the risk of improper adjustment, which can cause rubbing, shifting, or discomfort.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>On the other hand, Cavallo Hoof Boots are designed with simplicity in mind. Featuring a user-friendly Velcro closure system, they are quick and easy to put on and take off. There’s no need for multiple straps, buckles, or cables, making fitting hassle-free. In short, with Cavallo, you just secure the Velcro straps and are ready to go!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Additionally, Cavallo Hoof Boots come in a wide range of sizes and styles to fit different hoof shapes and sizes. Whether your horse has wide, narrow, or irregular hooves, you can find a Cavallo boot that offers a secure, comfortable fit. This customizability ensures a boot that stays in place without causing irritation or discomfort.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Thanks to their easy-to-use design, Cavallo Hoof Boots save you time and provide a secure, comfortable fit for your horse.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"top","width":"","style":{"spacing":{"padding":{"right":"0","left":"0","top":"0","bottom":"0"}}},"layout":{"type":"constrained","contentSize":"585px","justifyContent":"right","wideSize":""}} -->
+<div class="wp-block-column is-vertically-aligned-top" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:image {"id":202190,"width":"585px","height":"auto","sizeSlug":"full","linkDestination":"none","style":{"border":{"radius":"10px"}}} -->
+<figure class="wp-block-image size-full is-resized has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2025/04/Must-credit-@rachelvanmarwijkphotography-Dominique-Kaffa-Green-Trek-Boots-close-up-150kb-edited.jpg" alt="Cavallo hoof Boots come out on TOP compared to to other brands for fit and Application" class="wp-image-202190" style="border-radius:10px;width:585px;height:auto"/><figcaption class="wp-element-caption">@rachelvanmarwijkphotography - Dominique Kaffa</figcaption></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div id="Block-4" class="wp-block-group"><!-- wp:group {"className":"reverse-order\u002d\u002dmobile","style":{"spacing":{"padding":{"top":"var:preset|spacing|xxl","bottom":"var:preset|spacing|xxl"},"margin":{"top":"0","bottom":"0"}}},"layout":{"type":"constrained"}} -->
+<div id="size-and-fit-pastern-wrap" class="wp-block-group reverse-order--mobile" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--xxl);padding-bottom:var(--wp--preset--spacing--xxl)"><!-- wp:columns {"verticalAlignment":"top"} -->
+<div class="wp-block-columns are-vertically-aligned-top"><!-- wp:column {"verticalAlignment":"top","width":"","style":{"spacing":{"padding":{"right":"0","left":"0","top":"0","bottom":"0"}}},"layout":{"type":"constrained","contentSize":"585px","justifyContent":"left","wideSize":""}} -->
+<div class="wp-block-column is-vertically-aligned-top" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:image {"id":201697,"width":"585px","height":"auto","scale":"cover","sizeSlug":"full","linkDestination":"none","style":{"color":{"duotone":"unset"},"border":{"width":"0px","style":"none","radius":"10px"}}} -->
+<figure class="wp-block-image size-full is-resized has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2025/03/Pink-CLB-Boots-Buttercup-at-SOUL-Harbour-Ranch-Photo-by-Amanda-Marscin-Painted-Leaf-Photography-75kb-edited.jpg" alt="" class="wp-image-201697" style="border-style:none;border-width:0px;border-radius:10px;object-fit:cover;width:585px;height:auto"/><figcaption class="wp-element-caption">Buttercup at SOUL Harbour Ranch! Amanda Marscin, Painted Leaf Photography</figcaption></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"top","width":"44.48%"} -->
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis:44.48%"><!-- wp:heading -->
+<h2 class="wp-block-heading">How Cavallo Hoof Boots Compare in Comfort: The Most Critical Factor!</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"32px","bottom":"0"}}}} -->
+<p style="margin-top:32px;margin-bottom:0">Comfort is perhaps the most critical factor when selecting hoof boots for your horse, and Cavallo Hoof Boots excel in this area. Designed with an ergonomic cone structure that mirrors the natural shape of the hoof, Cavallo boots provide a customized fit that enhances comfort and performance. As a result, the boots allow natural hoof movement, promoting optimal weight distribution and reducing pressure points, rubbing, and discomfort common with poorly designed boots.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>What further sets Cavallo apart is the versatility in comfort options. We offer a wide range of pads and accessories that can be used with ANY of our hoof boots. These pads provide extra cushioning and support, ensuring higher comfort for your horse, whether they are trail riding, recovering from an injury, or simply going about daily tasks. Most importantly, this adaptability makes Cavallo boots suitable for all horses, from those with sensitive hooves to those facing demanding conditions.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"32px","bottom":"0"}}}} -->
+<p style="margin-top:32px;margin-bottom:0">Cavallo boots ensure a snug, supportive fit that allows for comfort over long distances, whether your horse has narrow, wide, or irregular hooves. With Cavallo, your horse gets the ultimate comfort, backed by our extensive selection of pads and accessories, making every ride more enjoyable.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"backgroundColor":"white","textColor":"red","className":"is-style-fill","style":{"elements":{"link":{"color":{"text":"var:preset|color|red"}}},"border":{"radius":"100px","width":"2px"}},"borderColor":"red"} -->
+<div class="wp-block-button is-style-fill"><a class="wp-block-button__link has-red-color has-white-background-color has-text-color has-background has-link-color has-border-color has-red-border-color wp-element-button" href="http://cavallo.local/shop-cavallo/" style="border-width:2px;border-radius:100px">Shop Cavallo Hoof Boots and Accessories Here </a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"reverse-order\u002d\u002dmobile","style":{"spacing":{"padding":{"top":"var:preset|spacing|xxl","bottom":"var:preset|spacing|xxl"},"margin":{"top":"0","bottom":"0"}}},"backgroundColor":"pale-silver","layout":{"type":"constrained","contentSize":""}} -->
+<div id="Testimonial" class="wp-block-group reverse-order--mobile has-pale-silver-background-color has-background" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--xxl);padding-bottom:var(--wp--preset--spacing--xxl)"><!-- wp:columns {"verticalAlignment":"center"} -->
+<div class="wp-block-columns are-vertically-aligned-center"><!-- wp:column {"verticalAlignment":"center","width":"44.48%"} -->
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis:44.48%"><!-- wp:heading -->
+<h2 class="wp-block-heading">Don't Take Our Word for it- &nbsp;Olympic Medalist and 5* Winner Agrees That Cavallos Are The BEST! </h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"32px","bottom":"24px"}}}} -->
+<p style="margin-top:32px;margin-bottom:24px">“My education has broadened somewhat after our transition to barefoot this summer. I have tried different styles of hoof boots and find Cavallo Hoof Boots particularly good for a number of reasons…&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>They are so easy to fit; you literally just pull them on! That said, they are definitely the best for staying on. Some brands come off completely or twist easily; with these I am confident they stay as originally intended!&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>They are super safe out hacking - for these reasons: As they are very secure, I find the horses move really well and confidently. Plus, using the comfort pads, it’s like riding on air! The pads are cut to size to make the exact fit.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Personally, I think the fit is more forgiving than other hoof boots because of the Velcro and trainer style; they have more contact in general.&nbsp; I find them hard wearing and easy to clean. Plus, very lightweight.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>My horses are particularly sensitive and would always tell me if they are happy (or not!) ,and they willingly have their boots on and off. Highly recommend!"</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":5,"style":{"typography":{"letterSpacing":"0.03em"}}} -->
+<h5 class="wp-block-heading" style="letter-spacing:0.03em">– Sharon Hunt</h5>
+<!-- /wp:heading --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"center","width":"","style":{"spacing":{"padding":{"right":"0","left":"0","top":"0","bottom":"0"}}},"layout":{"type":"constrained","contentSize":"585px","justifyContent":"right","wideSize":""}} -->
+<div class="wp-block-column is-vertically-aligned-center" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:image {"id":202204,"width":"585px","height":"auto","scale":"cover","sizeSlug":"full","linkDestination":"none","style":{"color":{"duotone":"unset"},"border":{"width":"0px","style":"none","radius":"10px"}}} -->
+<figure class="wp-block-image size-full is-resized has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2025/04/IMG_7616-edited.jpg" alt="" class="wp-image-202204" style="border-style:none;border-width:0px;border-radius:10px;object-fit:cover;width:585px;height:auto"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"reverse-order\u002d\u002dmobile","style":{"spacing":{"padding":{"top":"var:preset|spacing|xxl","bottom":"var:preset|spacing|xxl"},"margin":{"top":"0","bottom":"0"}}},"layout":{"type":"constrained","contentSize":""}} -->
+<div class="wp-block-group reverse-order--mobile" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--xxl);padding-bottom:var(--wp--preset--spacing--xxl)"><!-- wp:columns {"verticalAlignment":"center"} -->
+<div class="wp-block-columns are-vertically-aligned-center"><!-- wp:column {"verticalAlignment":"center","width":"","style":{"spacing":{"padding":{"right":"0","left":"0","top":"0","bottom":"0"}}},"layout":{"type":"constrained","contentSize":"585px","justifyContent":"left","wideSize":""}} -->
+<div class="wp-block-column is-vertically-aligned-center" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:image {"id":202198,"width":"585px","height":"auto","scale":"cover","sizeSlug":"full","linkDestination":"none","style":{"color":{"duotone":"unset"},"border":{"width":"0px","style":"none","radius":"10px"}}} -->
+<figure class="wp-block-image size-full is-resized has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2025/04/unnamed-1-edited.jpg" alt="Catherine Bines @calibresadventures with Cavallo Hoof Boots " class="wp-image-202198" style="border-style:none;border-width:0px;border-radius:10px;object-fit:cover;width:585px;height:auto"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"center","width":"44.48%"} -->
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis:44.48%"><!-- wp:heading -->
+<h2 class="wp-block-heading">Cavallo Hoof Boots Come Out on Top Compared to Other Brands! </h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>"Hi there, I'm not one to message people on Instagram. However, I just wanted to say I have been using hoof boots for over 10 years. I have tried and used many different styles and brands over that period of time. Just over two years ago, I brought my first set of simple boots for my full sized pony. They have been awesome, not once have they twisted or come flying off. In January, I brought my QHTB a set of trek boots! Caliber is tricky to fit boots for, but so far, the treks have been great. I have put these boots through my booting test. Riding through long grass, mud, riding on the beach, in the ocean, on the road, on footpaths, on gravel roads, up and down decent hills, the works. These boots have held up to the challenges with no twisting or coming off the hoof</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>So I just wanted to say this product is awesome after many, many years of dealing with hoof boot issues. I've finally found a boot that truly works for Caliber, who is a little more tricky to fit boots to. Cheers, Catherine."</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":5,"style":{"typography":{"letterSpacing":"0.03em"}}} -->
+<h5 class="wp-block-heading" style="letter-spacing:0.03em">– Catherine Bines @calibresadventures</h5>
+<!-- /wp:heading --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|xxl","bottom":"var:preset|spacing|xxl"},"margin":{"top":"0","bottom":"0"}},"background":{"backgroundImage":{"url":"http://cavallo.local/wp-content/uploads/2025/03/Cavallo-Simple-Boots-on-rocks-Close-Up-100kb.jpg","id":201481,"source":"file","title":"Cavallo Simple Boots on rocks Close Up 100kb"},"backgroundSize":"cover"}},"layout":{"type":"constrained"}} -->
+<div id="Why-Cavallo" class="wp-block-group" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--xxl);padding-bottom:var(--wp--preset--spacing--xxl)"><!-- wp:heading {"textAlign":"center","level":3,"style":{"elements":{"link":{"color":{"text":"var:preset|color|primary"}}},"border":{"width":"0px","style":"none","radius":"50px"}},"backgroundColor":"white","textColor":"primary"} -->
+<h3 class="wp-block-heading has-text-align-center has-primary-color has-white-background-color has-text-color has-background has-link-color" style="border-style:none;border-width:0px;border-radius:50px">Want a more natural approach to Hoof Care, but Barefoot and Booted seems overwhelming?</h3>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"textAlign":"center","level":5,"style":{"border":{"radius":"50px","width":"0px","style":"none"}},"backgroundColor":"white"} -->
+<h5 class="wp-block-heading has-text-align-center has-white-background-color has-background" style="border-style:none;border-width:0px;border-radius:50px"><strong>Cavallo Boots: The World’s Most Trusted Hoof Boots</strong></h5>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"textAlign":"center","level":6,"style":{"border":{"radius":"50px","width":"0px","style":"none"}},"backgroundColor":"white"} -->
+<h6 class="wp-block-heading has-text-align-center has-white-background-color has-background" style="border-style:none;border-width:0px;border-radius:50px">Your horse deserves the best, and&nbsp;Cavallo Hoof Boots&nbsp;are here to deliver! Whether you're hitting the trails, need extra support for injuries, or looking for a reliable backup when a shoe goes missing—Cavallo has you covered. Designed for&nbsp;comfort, durability, and versatility, these boots keep your equine partner happy and moving, no matter the terrain or speed.</h6>
+<!-- /wp:heading -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"0","bottom":"0","left":"0","right":"0"},"margin":{"top":"var:preset|spacing|xl","bottom":"var:preset|spacing|xl"}}},"fontSize":"large","layout":{"type":"constrained","contentSize":"947px"}} -->
+<div class="wp-block-group has-large-font-size" style="margin-top:var(--wp--preset--spacing--xl);margin-bottom:var(--wp--preset--spacing--xl);padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:heading {"level":6,"style":{"border":{"radius":"50px"}},"backgroundColor":"white"} -->
+<h6 class="wp-block-heading has-white-background-color has-background" style="border-radius:50px"><strong>Why Riders Love Cavallo Hoof Boots:</strong></h6>
+<!-- /wp:heading -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"backgroundColor":"white","textColor":"dark","width":100,"style":{"border":{"radius":"100px","width":"0px","style":"none"},"elements":{"link":{"color":{"text":"var:preset|color|dark"}}},"spacing":{"padding":{"left":"66px","right":"66px","top":"12px","bottom":"12px"}}}} -->
+<div class="wp-block-button has-custom-width wp-block-button__width-100"><a class="wp-block-button__link has-dark-color has-white-background-color has-text-color has-background has-link-color wp-element-button" href="http://cavallo.local/how-to-measure/" style="border-style:none;border-width:0px;border-radius:100px;padding-top:12px;padding-right:66px;padding-bottom:12px;padding-left:66px"><strong>Easy Peasy to Use!</strong>&nbsp;– Just pop them on and off with super-strong Velcro closures. Measuring is a breeze—no complicated steps!</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"backgroundColor":"white","textColor":"dark","width":100,"style":{"border":{"radius":"100px","width":"0px","style":"none"},"elements":{"link":{"color":{"text":"var:preset|color|dark"}}},"spacing":{"padding":{"left":"66px","right":"66px","top":"12px","bottom":"12px"}}}} -->
+<div class="wp-block-button has-custom-width wp-block-button__width-100"><a class="wp-block-button__link has-dark-color has-white-background-color has-text-color has-background has-link-color wp-element-button" href="http://cavallo.local/faq/cavallo-hoof-boots-secure-fit/" style="border-style:none;border-width:0px;border-radius:100px;padding-top:12px;padding-right:66px;padding-bottom:12px;padding-left:66px"><strong>They Stay Put!</strong>&nbsp;– No special trims, no slipping—Cavallos naturally adjust to your horse’s hoof angle and wrap snugly to stay secure through anything.</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"backgroundColor":"white","textColor":"dark","width":100,"style":{"border":{"radius":"100px","width":"0px","style":"none"},"elements":{"link":{"color":{"text":"var:preset|color|dark"}}},"spacing":{"padding":{"left":"66px","right":"66px","top":"12px","bottom":"12px"}}}} -->
+<div class="wp-block-button has-custom-width wp-block-button__width-100"><a class="wp-block-button__link has-dark-color has-white-background-color has-text-color has-background has-link-color wp-element-button" href="http://cavallo.local/why-are-cavallo-hoof-boots-the-best/" style="border-style:none;border-width:0px;border-radius:100px;padding-top:12px;padding-right:66px;padding-bottom:12px;padding-left:66px"><strong>Shock Absorbers for Happy Hooves!</strong>&nbsp;– Our specially formulated TPU sole&nbsp;cushions every step, reducing impact up the leg and giving those joints some much-needed relief.</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"backgroundColor":"white","textColor":"dark","width":100,"style":{"border":{"radius":"100px","width":"0px","style":"none"},"elements":{"link":{"color":{"text":"var:preset|color|dark"}}},"spacing":{"padding":{"left":"66px","right":"66px","top":"12px","bottom":"12px"}}}} -->
+<div class="wp-block-button has-custom-width wp-block-button__width-100"><a class="wp-block-button__link has-dark-color has-white-background-color has-text-color has-background has-link-color wp-element-button" href="http://cavallo.local/our-hoof-boot-technology/" style="border-style:none;border-width:0px;border-radius:100px;padding-top:12px;padding-right:66px;padding-bottom:12px;padding-left:66px"><strong>Whole Hoof Comfort!</strong>&nbsp;– Soft, flexible materials provide&nbsp;gentle yet secure protection for the entire hoof, including the&nbsp;tender and precious bulb area—with&nbsp;zero hard plastics or painful pressure points. Just all-around comfort for your horse.</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"backgroundColor":"white","textColor":"dark","width":100,"style":{"border":{"radius":"100px","width":"0px","style":"none"},"elements":{"link":{"color":{"text":"var:preset|color|dark"}}},"spacing":{"padding":{"left":"66px","right":"66px","top":"12px","bottom":"12px"}}}} -->
+<div class="wp-block-button has-custom-width wp-block-button__width-100"><a class="wp-block-button__link has-dark-color has-white-background-color has-text-color has-background has-link-color wp-element-button" href="http://cavallo.local/faq/cavallo-hoof-boots-for-all-terrain/" style="border-style:none;border-width:0px;border-radius:100px;padding-top:12px;padding-right:66px;padding-bottom:12px;padding-left:66px"><strong>Ride Anywhere, Anytime!</strong>&nbsp;– From mini ponies to draft horses, from rocky trails to stable turnout, Cavallos are built for all horses and all terrains. </a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"backgroundColor":"white","textColor":"dark","width":100,"style":{"border":{"radius":"100px","width":"0px","style":"none"},"elements":{"link":{"color":{"text":"var:preset|color|dark"}}},"spacing":{"padding":{"left":"66px","right":"66px","top":"12px","bottom":"12px"}}}} -->
+<div class="wp-block-button has-custom-width wp-block-button__width-100"><a class="wp-block-button__link has-dark-color has-white-background-color has-text-color has-background has-link-color wp-element-button" href="http://cavallo.local/faq/cavallo-hoofcare-savings/" style="border-style:none;border-width:0px;border-radius:100px;padding-top:12px;padding-right:66px;padding-bottom:12px;padding-left:66px"><strong>Budget-Friendly Hoof Care</strong>&nbsp;– Keep more hay money in your pocket! Ditch the pricey metal shoes and farrier bills—Cavallo Boots keep your horse comfy, sound, and ready to ride!</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"backgroundColor":"white","textColor":"dark","width":100,"style":{"border":{"radius":"100px","width":"0px","style":"none"},"elements":{"link":{"color":{"text":"var:preset|color|dark"}}},"spacing":{"padding":{"left":"66px","right":"66px","top":"12px","bottom":"12px"}}}} -->
+<div class="wp-block-button has-custom-width wp-block-button__width-100"><a class="wp-block-button__link has-dark-color has-white-background-color has-text-color has-background has-link-color wp-element-button" href="http://cavallo.local/faq/cavallo-hoof-boots-durability-and-lifespan/" style="border-style:none;border-width:0px;border-radius:100px;padding-top:12px;padding-right:66px;padding-bottom:12px;padding-left:66px"><strong>Built to Last!</strong>&nbsp;– High-quality industrial-grade materials mean you get&nbsp;long-lasting&nbsp;hoof boots that can handle anything.</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"backgroundColor":"white","textColor":"dark","width":100,"style":{"border":{"radius":"100px","width":"0px","style":"none"},"elements":{"link":{"color":{"text":"var:preset|color|dark"}}},"spacing":{"padding":{"left":"66px","right":"66px","top":"12px","bottom":"12px"}}}} -->
+<div class="wp-block-button has-custom-width wp-block-button__width-100"><a class="wp-block-button__link has-dark-color has-white-background-color has-text-color has-background has-link-color wp-element-button" href="http://cavallo.local/your-cavallo-warranty-guarantees-the-quality-and-workmanship-of-cavallo-hoof-boots/" style="border-style:none;border-width:0px;border-radius:100px;padding-top:12px;padding-right:66px;padding-bottom:12px;padding-left:66px"><strong>Best Warranty in the Business!</strong>&nbsp;– We stand by our boots, and our customers know it.</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"backgroundColor":"white","textColor":"dark","width":100,"style":{"border":{"radius":"100px","width":"0px","style":"none"},"elements":{"link":{"color":{"text":"var:preset|color|dark"}}},"spacing":{"padding":{"left":"66px","right":"66px","top":"12px","bottom":"12px"}}}} -->
+<div class="wp-block-button has-custom-width wp-block-button__width-100"><a class="wp-block-button__link has-dark-color has-white-background-color has-text-color has-background has-link-color wp-element-button" href="http://cavallo.local/contact-us/" style="border-style:none;border-width:0px;border-radius:100px;padding-top:12px;padding-right:66px;padding-bottom:12px;padding-left:66px"><strong>Customer Service That Cares!</strong>&nbsp;– Need help? Our team is always here to ensure you get the&nbsp;perfect fit&nbsp;for your horse.</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"backgroundColor":"white","textColor":"dark","width":100,"style":{"border":{"radius":"100px","width":"0px","style":"none"},"elements":{"link":{"color":{"text":"var:preset|color|dark"}}},"spacing":{"padding":{"left":"66px","right":"66px","top":"12px","bottom":"12px"}}}} -->
+<div class="wp-block-button has-custom-width wp-block-button__width-100"><a class="wp-block-button__link has-dark-color has-white-background-color has-text-color has-background has-link-color wp-element-button" href="http://cavallo.local/dr-jennifer-gill-western-kentucky-university-hoof-boot-study/" style="border-style:none;border-width:0px;border-radius:100px;padding-top:12px;padding-right:66px;padding-bottom:12px;padding-left:66px"><strong>Scientifically Proven!</strong>&nbsp;– Independent university studies confirm what riders already know—Cavallo Hoof Boots&nbsp;<strong>deliver results</strong>.</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"backgroundColor":"white","textColor":"dark","width":100,"style":{"border":{"radius":"100px","width":"0px","style":"none"},"elements":{"link":{"color":{"text":"var:preset|color|dark"}}},"spacing":{"padding":{"left":"66px","right":"66px","top":"12px","bottom":"12px"}}}} -->
+<div class="wp-block-button has-custom-width wp-block-button__width-100"><a class="wp-block-button__link has-dark-color has-white-background-color has-text-color has-background has-link-color wp-element-button" href="http://cavallo.local/faq/cavallo-hoof-boot-uses/" style="border-style:none;border-width:0px;border-radius:100px;padding-top:12px;padding-right:66px;padding-bottom:12px;padding-left:66px"><strong>Multi-Use Magic!</strong>&nbsp;– Rehabilitation, therapy, over metal shoes, breeding protection, transportation, and riding on any terrain… the list goes on!</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:group -->
+
+<!-- wp:heading {"textAlign":"center","level":6,"style":{"border":{"radius":"100px"}},"backgroundColor":"white"} -->
+<h6 class="wp-block-heading has-text-align-center has-white-background-color has-background" style="border-radius:100px"> With&nbsp;Cavallo Hoof Boots, you and your horse can&nbsp;step into adventure with confidence!</h6>
+<!-- /wp:heading --></div>
+<!-- /wp:group -->
+
+<!-- wp:acf/subscribe {"name":"acf/subscribe","data":{"title":"\u003ch2\u003eReceive Special Offers\u003c/h2\u003e\r\
+Sign up for our newsletter to get 10% off your first order, alongside exclusive promotions, industry news, tutorials, and more!","_title":"field_667bf8d5dd581","background_image":163,"_background_image":"field_667bfbf6dd582","form":"1","_form":"field_667bfc04dd583","html_anchor":"","_html_anchor":"field_672f5663be83a"},"mode":"edit"} /-->

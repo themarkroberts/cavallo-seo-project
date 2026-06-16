@@ -1,0 +1,27 @@
+<!-- wp:paragraph -->
+<p>By Carole Herder</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":5004,"linkDestination":"custom","align":"left"} -->
+<figure class="wp-block-image alignleft"><a href="//cavallo.local/wp-content/uploads/2014/10/Blog-71-e1414020164269.jpg"><img src="//cavallo.local/wp-content/uploads/2014/10/Blog-71-e1414020164269-339x452.jpg" alt="Horse Hoof Boots" class="wp-image-5004"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>Different horse, different hoof. That is my motto – for trimming, for boot fitting, for health care. I remember a friend of mine who got her first horses and decided to keep them barefoot. Luckily they had never been shod so she was off to a good start. She learned to trim herself but was still in the infancy stages of the vast spectrum of knowledge regarding barefoot hooves. They all managed reasonably enough for a while until one early Spring, one of her horses lost condition very rapidly. She attributed it to changing weather and the limited time she had to look after him. In an effort to put the condition back on him, she fed him lawn grass, sugar beet and wormed him for a period of three days. He slowly regained condition but within a month, the cracks started to appear in his hooves, and they only got worse. She immediately took him off the grass and beet but the damage was already done, and wouldn’t stop for a while yet.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>My friend despaired. The horse had always had weak hooves and she understood that in her effort to put condition back on him, she had made mistakes with his diet, but she was horrified at the speed and aggressiveness of the results. His hooves had always bothered her because up until now, he had been kept in the same environment and on the same diet as her pony, who had perfect hooves! At the time, I reminded her that all horses are different. Like humans, and I assume all animals, each one of us has a different constitution and different genes. What works for one may not work for the other, and vice versa. So I suggested her horse needed a stricter diet and a more improved environment, while her pony could live the life how she wanted (but do keep in the back of her mind that the pony may be affected later on in life).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>That is also why our hoof boot is made to accommodate different sizes and be somewhat adjustable; the measuring guide is quite specific because no two hooves are the same. To get the right fit, you need to be precise in your measurements. Your perfectly sized Cavallos will allow you to ride through any terrain at any speed with confidence. And to get the perfect hooves, you may need to be exactly precise in diet and environment for certain horses.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:spacer {"height":"40px"} -->
+<div style="height:40px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->

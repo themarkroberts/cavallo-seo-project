@@ -1,0 +1,11 @@
+<!-- wp:image {"id":1211,"width":"249px","height":"auto","sizeSlug":"full","linkDestination":"none","align":"left"} -->
+<figure class="wp-block-image alignleft size-full is-resized"><img src="http://cavallo.local/wp-content/uploads/2024/09/bunny-e1480367231497.jpg" alt="" class="wp-image-1211" style="width:249px;height:auto"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>Cavallo hoof boots have allowed me to stop using harmful shoes on my horse. They are so easy to put on and my horse Bunny just loves them. We have done trail challenges, camping, trail riding, and arena work with ease using these boots. I will never put regular horse shoes on my horse again!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Marnie, Idaho, USA</p>
+<!-- /wp:paragraph -->

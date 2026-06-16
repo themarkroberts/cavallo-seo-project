@@ -1,0 +1,302 @@
+<!-- wp:group {"layout":{"type":"constrained","contentSize":""}} -->
+<div class="wp-block-group"><!-- wp:group {"style":{"spacing":{"padding":{"top":"0","bottom":"0","left":"0","right":"0"},"margin":{"top":"0","bottom":"0"}}},"layout":{"type":"constrained","contentSize":"835px"}} -->
+<div class="wp-block-group" style="margin-top:0;margin-bottom:0;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:heading {"textAlign":"center","level":1,"style":{"typography":{"letterSpacing":"-0.01em"}}} -->
+<h1 class="wp-block-heading has-text-align-center" style="letter-spacing:-0.01em">Cavallo Hoof Boots for Miniatures </h1>
+<!-- /wp:heading --></div>
+<!-- /wp:group -->
+
+<!-- wp:paragraph {"align":"center","style":{"spacing":{"margin":{"top":"var:preset|spacing|xl","bottom":"var:preset|spacing|xl"}}},"fontSize":"large"} -->
+<p class="has-text-align-center has-large-font-size" style="margin-top:var(--wp--preset--spacing--xl);margin-bottom:var(--wp--preset--spacing--xl)">Cavallo Hoof Boots for Miniatures provide comfort, protection, and support for all activities. Just like Cavallo’s larger sizes, these boots fit securely, absorb shock, and offer excellent traction. The soft foam collar prevents rubbing, while the durable materials ensure long-lasting performance. Whether for therapy work, driving, turnout, or hoof rehabilitation, Cavallo CLB boots help keep your miniature horses sound and comfortable.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":201693,"width":"1156px","height":"auto","scale":"cover","sizeSlug":"full","linkDestination":"none","style":{"border":{"radius":"10px"}}} -->
+<figure class="wp-block-image size-full is-resized has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2025/03/Emma-Massingale-CLB-Bling-Boots-Mini-Horses-100kb-edited.jpg" alt="Cavallo Mini Horse Hoof Boots" class="wp-image-201693" style="border-radius:10px;object-fit:cover;width:1156px;height:auto"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|lg","bottom":"var:preset|spacing|lg","left":"var:preset|spacing|lg","right":"var:preset|spacing|lg"},"margin":{"top":"var:preset|spacing|xl","bottom":"0"}},"border":{"width":"1px","color":"#DDD4D0","radius":"10px"}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group has-border-color" style="border-color:#DDD4D0;border-width:1px;border-radius:10px;margin-top:var(--wp--preset--spacing--xl);margin-bottom:0;padding-top:var(--wp--preset--spacing--lg);padding-right:var(--wp--preset--spacing--lg);padding-bottom:var(--wp--preset--spacing--lg);padding-left:var(--wp--preset--spacing--lg)"><!-- wp:heading -->
+<h2 class="wp-block-heading">Table of Contents</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list {"ordered":true,"start":1,"style":{"elements":{"link":{"color":{"text":"var:preset|color|red"}}},"typography":{"fontStyle":"normal","fontWeight":"600"}},"textColor":"red","fontSize":"large"} -->
+<ol start="1" style="font-style:normal;font-weight:600" class="wp-block-list has-red-color has-text-color has-link-color has-large-font-size"><!-- wp:list-item -->
+<li><a href="#Block-1">Versatile Hoof Protection for Minis </a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="#Block-2">Using Cavallo Boots for Hoof Rehab</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="#Block-2">Cavallo Hoof Boots for Therapy Minis</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="#Testimonial">Cavallo Testimonial</a>s</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="#Why-Cavallo">Why Choose Cavallo Hoof Boots </a></li>
+<!-- /wp:list-item --></ol>
+<!-- /wp:list --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"reverse-order\u002d\u002dmobile","style":{"spacing":{"padding":{"top":"var:preset|spacing|xxl","bottom":"var:preset|spacing|xxl"},"margin":{"top":"0","bottom":"0"}},"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"backgroundColor":"pale-silver","textColor":"primary","layout":{"type":"constrained","contentSize":""}} -->
+<div id="Block-1" class="wp-block-group reverse-order--mobile has-primary-color has-pale-silver-background-color has-text-color has-background has-link-color" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--xxl);padding-bottom:var(--wp--preset--spacing--xxl)"><!-- wp:columns {"verticalAlignment":"top"} -->
+<div class="wp-block-columns are-vertically-aligned-top"><!-- wp:column {"verticalAlignment":"top","width":"44.48%"} -->
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis:44.48%"><!-- wp:heading -->
+<h2 class="wp-block-heading">Versatile Hoof Protection for Minis with Cavallo Boots</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Cavallo Hoof Boots for Miniatures provide unmatched protection and comfort on various terrains. Whether driving in an arena, navigating trails, or trekking through rocky paths, these boots keep your mini’s hooves safe. They guard against debris, sharp rocks, and other hazards. These boots are ideal for minis that enjoy outdoor adventures or participate in driving events. They also benefit minis in therapy work, offering support and stability while on different surfaces.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>These boots provide shock absorption on hard surfaces like pavement, concrete, and gravel, reducing the impact on hooves and joints. This helps minimize wear and tear, particularly when minis are exposed to hard, unforgiving ground for extended periods. Whether walking on gravel paths or maneuvering through mud and water, Cavallo Hoof Boots keep your mini’s hooves safe and stable.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Cavallo CLB boots also provide increased traction on all terrains. From slick indoor floors to slippery outdoor surfaces like icy roads or wet fields, these boots ensure your mini maintains a steady grip. The boots’ flexible design conforms to the shape of the hoof, offering maximum comfort while preventing discomfort or rubbing.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Designed for convenience, the boots are easy to put on and remove. Their user-friendly design allows anyone to secure them quickly without hassle. With a simple, reliable closure system, they stay snug and comfortable, providing reliable protection throughout various activities.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Designed for durability and comfort, Cavallo Hoof Boots for Miniatures ensure that your mini stays confident and sound during their daily activities, no matter the terrain. Whether navigating rocky trails, muddy fields, or pavement, Cavallo boots provide the protection your mini needs to stay active and healthy.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"backgroundColor":"white","textColor":"red","className":"is-style-fill","style":{"elements":{"link":{"color":{"text":"var:preset|color|red"}}},"border":{"radius":"100px","width":"2px"}},"borderColor":"red"} -->
+<div class="wp-block-button is-style-fill"><a class="wp-block-button__link has-red-color has-white-background-color has-text-color has-background has-link-color has-border-color has-red-border-color wp-element-button" href="http://cavallo.local/product-category/hoof-boot/mini-hoof-boots/" style="border-width:2px;border-radius:100px">Shop Cavallo CLB "Cute Little Boots"</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"top","width":"","style":{"spacing":{"padding":{"right":"0","left":"0","top":"0","bottom":"0"}}},"layout":{"type":"constrained","contentSize":"585px","justifyContent":"right","wideSize":""}} -->
+<div class="wp-block-column is-vertically-aligned-top" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:image {"id":201697,"width":"585px","height":"auto","sizeSlug":"full","linkDestination":"none","style":{"border":{"radius":"10px"}}} -->
+<figure class="wp-block-image size-full is-resized has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2025/03/Pink-CLB-Boots-Buttercup-at-SOUL-Harbour-Ranch-Photo-by-Amanda-Marscin-Painted-Leaf-Photography-75kb-edited.jpg" alt="" class="wp-image-201697" style="border-radius:10px;width:585px;height:auto"/><figcaption class="wp-element-caption">Buttercup at SOUL Harbour Ranch! Amanda Marscin Painted Leaf Photography</figcaption></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div id="Block-2" class="wp-block-group"><!-- wp:group {"className":"reverse-order\u002d\u002dmobile","style":{"spacing":{"padding":{"top":"var:preset|spacing|xxl","bottom":"var:preset|spacing|xxl"},"margin":{"top":"0","bottom":"0"}}},"layout":{"type":"constrained"}} -->
+<div id="rehab" class="wp-block-group reverse-order--mobile" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--xxl);padding-bottom:var(--wp--preset--spacing--xxl)"><!-- wp:columns {"verticalAlignment":"top"} -->
+<div class="wp-block-columns are-vertically-aligned-top"><!-- wp:column {"verticalAlignment":"top","width":"","style":{"spacing":{"padding":{"right":"0","left":"0","top":"0","bottom":"0"}}},"layout":{"type":"constrained","contentSize":"585px","justifyContent":"left","wideSize":""}} -->
+<div class="wp-block-column is-vertically-aligned-top" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:image {"id":201334,"width":"585px","height":"auto","scale":"cover","sizeSlug":"full","linkDestination":"none","style":{"color":{"duotone":"unset"},"border":{"width":"0px","style":"none","radius":"10px"}}} -->
+<figure class="wp-block-image size-full is-resized has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2024/12/maxi-biederstadt-Mona-in-Cavallo-CLB-Bling-Hoof-Boots-Laminitis-75kb-rotated.jpg" alt="Cavallo Hoof Boots for ponys and minsi with laminitis, founder, and tender hooves" class="wp-image-201334" style="border-style:none;border-width:0px;border-radius:10px;object-fit:cover;width:585px;height:auto"/><figcaption class="wp-element-caption">Maxi Biederstadt and Mona </figcaption></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"top","width":"44.48%"} -->
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis:44.48%"><!-- wp:heading -->
+<h2 class="wp-block-heading">Hoof Rehabilitation for Minatare Horses with Cavallo Boots </h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"32px","bottom":"0"}}}} -->
+<p style="margin-top:32px;margin-bottom:0">Cavallo Hoof Boots for Miniatures are essential for hoof rehabilitation. These boots offer protection and comfort during recovery. They are ideal for minis recovering from laminitis, founder, abscesses, sole bruising, and other hoof conditions. By reducing pressure and impact, Cavallo CLB boots help promote healing and improve comfort throughout recovery.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The boots feature a soft foam-padded collar that reduces friction. This prevents rubbing and discomfort, allowing minis with compromised hooves to wear the boots for long periods. Whether used over bandages, poultices, medications, or on their own, Cavallo boots shield the hooves from rocks, dirt, debris, and moisture.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Cavallo CLB boots also help maintain hoof health in minis prone to injury or with weak hooves. The shock-absorbing properties provide relief from the concussive force of walking on hard surfaces like pavement and concrete. For added support, Cavallo Hoof Boot Pads can be added to increase shock absorption and cushioning, offering extra comfort during recovery.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"textColor":"red","className":"is-style-fill c-button\u002d\u002dsimple","style":{"elements":{"link":{"color":{"text":"var:preset|color|red"}}},"spacing":{"padding":{"left":"0","right":"0","top":"0","bottom":"0"}},"color":{"background":"#ffffff00"}}} -->
+<div class="wp-block-button is-style-fill c-button--simple"><a class="wp-block-button__link has-red-color has-text-color has-background has-link-color wp-element-button" href="http://cavallo.local/faq/cavallo-hoof-boots-for-laminitis/" style="background-color:#ffffff00;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0">Learn More About Using Cavallo Boots for Laminitis Rehab</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"reverse-order\u002d\u002dmobile","style":{"spacing":{"padding":{"top":"var:preset|spacing|xxl","bottom":"var:preset|spacing|xxl"},"margin":{"top":"0","bottom":"0"}},"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"backgroundColor":"pale-silver","textColor":"primary","layout":{"type":"constrained","contentSize":""}} -->
+<div id="Block-3" class="wp-block-group reverse-order--mobile has-primary-color has-pale-silver-background-color has-text-color has-background has-link-color" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--xxl);padding-bottom:var(--wp--preset--spacing--xxl)"><!-- wp:columns {"verticalAlignment":"top"} -->
+<div class="wp-block-columns are-vertically-aligned-top"><!-- wp:column {"verticalAlignment":"top","width":"44.48%"} -->
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis:44.48%"><!-- wp:heading -->
+<h2 class="wp-block-heading">Cavallo Hoof Boots for Therapy Minis and Indoor Visits </h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Cavallo Hoof Boots are perfect for minis involved in therapy work and indoor visits. These boots provide both comfort and traction, especially on hard, slippery floors. Whether your mini is visiting hospitals, schools, or nursing homes, Cavallo CLB boots help reduce stress on sensitive hooves. As a result, they provide stability and make walking indoors much easier for your mini.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Moreover, Cavallo Hoof Boots absorb shock, which is particularly beneficial for minis walking on concrete or tile. Each step is cushioned, which minimizes strain on both hooves and joints. This ensures your mini stays comfortable and sound throughout their visit.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>In addition to shock absorption, Cavallo CLB boots offer extra traction. This feature helps your mini maintain steady footing on slippery floors or unfamiliar surfaces. With Cavallo Hoof Boots, your mini can confidently perform therapy work, ensuring a safe and smooth experience for both the mini and the individuals they are helping.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Finally, the best part? They look absolutely adorable! Residents love seeing the minis in their cute “sneakers,” which adds an extra layer of joy to every visit.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"top","width":"","style":{"spacing":{"padding":{"right":"0","left":"0","top":"0","bottom":"0"}}},"layout":{"type":"constrained","contentSize":"585px","justifyContent":"right","wideSize":""}} -->
+<div class="wp-block-column is-vertically-aligned-top" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:image {"id":201700,"width":"584px","height":"auto","sizeSlug":"full","linkDestination":"none","style":{"border":{"radius":"10px"}}} -->
+<figure class="wp-block-image size-full is-resized has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2025/03/Great-therapy-image-honeys-edited-1.jpg" alt="" class="wp-image-201700" style="border-radius:10px;width:584px;height:auto"/><figcaption class="wp-element-caption">Honey's Mini Therapy</figcaption></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"reverse-order\u002d\u002dmobile","style":{"spacing":{"padding":{"top":"var:preset|spacing|xxl","bottom":"var:preset|spacing|xxl"},"margin":{"top":"0","bottom":"0"}}},"layout":{"type":"constrained","contentSize":""}} -->
+<div id="Testimonial" class="wp-block-group reverse-order--mobile" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--xxl);padding-bottom:var(--wp--preset--spacing--xxl)"><!-- wp:columns {"verticalAlignment":"center"} -->
+<div class="wp-block-columns are-vertically-aligned-center"><!-- wp:column {"verticalAlignment":"center","width":"","style":{"spacing":{"padding":{"right":"0","left":"0","top":"0","bottom":"0"}}},"layout":{"type":"constrained","contentSize":"585px","justifyContent":"left","wideSize":""}} -->
+<div class="wp-block-column is-vertically-aligned-center" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:image {"id":201691,"width":"585px","height":"auto","scale":"cover","sizeSlug":"full","linkDestination":"none","style":{"color":{"duotone":"unset"},"border":{"width":"0px","style":"none","radius":"10px"}}} -->
+<figure class="wp-block-image size-full is-resized has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2025/03/Pink-CLB-Boots-Sharon-Bogan-Troy-75kb-edited.jpg" alt="Cavallo CLB Cute Little Boots for Minis at gymkhanas " class="wp-image-201691" style="border-style:none;border-width:0px;border-radius:10px;object-fit:cover;width:585px;height:auto"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"center","width":"44.48%"} -->
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis:44.48%"><!-- wp:heading -->
+<h2 class="wp-block-heading">Cavallo Boots to the Rescue for Gymkhanas, Thin Soles, and Laminitis!</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>“Thank You for the Fabulous PINK CLBs. Not only protects his soles (the trailer parking area has imported gravel that hurts my feet to walk on) but the pink boots complete our Gymkhana ensemble. I use plain black for show days.&nbsp; But love the PINK!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>I am so thankful to y’all for making boots for all size equines, I have MANY pairs for my typical size horses. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>I prefer my horse barefoot. One of my typical horses had lameness.&nbsp; X-Rays showed his soles were 1/2 the depth they should be.&nbsp; He especially had issues with gravel.&nbsp; He wore Cavallo boots whenever we left the property.&nbsp; Trail, parades, show, Gymkhana.&nbsp; Then Troy came into my life and he had a weight problem that was causing laminitis.&nbsp; CLBs to the rescue.&nbsp; Same, always on for trail, parades, show and Gymkhana. Thank you for making a product that WORKS and is so easy to put on and take off.” </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":5} -->
+<h5 class="wp-block-heading">- Sharon Bogan</h5>
+<!-- /wp:heading --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"reverse-order\u002d\u002dmobile","style":{"spacing":{"padding":{"top":"var:preset|spacing|xxl","bottom":"var:preset|spacing|xxl"},"margin":{"top":"0","bottom":"0"}}},"backgroundColor":"pale-silver","layout":{"type":"constrained","contentSize":""}} -->
+<div class="wp-block-group reverse-order--mobile has-pale-silver-background-color has-background" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--xxl);padding-bottom:var(--wp--preset--spacing--xxl)"><!-- wp:columns {"verticalAlignment":"center"} -->
+<div class="wp-block-columns are-vertically-aligned-center"><!-- wp:column {"verticalAlignment":"center","width":"44.48%"} -->
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis:44.48%"><!-- wp:heading -->
+<h2 class="wp-block-heading">Cavallo Hoof Boots for Miniature Therapy Teams! </h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"32px","bottom":"24px"}}}} -->
+<p style="margin-top:32px;margin-bottom:24px">"A photo of my mini-horse Minnie wearing her CLB’s. She and I are a certified therapy team through National Pet Partners and also Denver Pet Partners.&nbsp; Without her boots, we couldn’t do our volunteer work because she has to walk on slippery tile and linoleum floors. She wears the smallest size and has pads to help them fit. Thank you to Cavallo for making boots small enough!"</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":5,"style":{"typography":{"letterSpacing":"0.03em"}}} -->
+<h5 class="wp-block-heading" style="letter-spacing:0.03em">– Temry Jenks</h5>
+<!-- /wp:heading --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"center","width":"","style":{"spacing":{"padding":{"right":"0","left":"0","top":"0","bottom":"0"}}},"layout":{"type":"constrained","contentSize":"585px","justifyContent":"right","wideSize":""}} -->
+<div class="wp-block-column is-vertically-aligned-center" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:image {"id":201690,"scale":"cover","sizeSlug":"full","linkDestination":"none","align":"center","style":{"color":{"duotone":"unset"},"border":{"width":"0px","style":"none","radius":"10px"}}} -->
+<figure class="wp-block-image aligncenter size-full has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2025/03/unnamed-3-1.jpg" alt="Cavallo Hoof boots for therapy mini teams, National Pet Partners and Denver Pet Partners" class="wp-image-201690" style="border-style:none;border-width:0px;border-radius:10px;object-fit:cover"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|xxl","bottom":"var:preset|spacing|xxl"},"margin":{"top":"0","bottom":"0"}},"background":{"backgroundImage":{"url":"http://cavallo.local/wp-content/uploads/2025/03/Cavallo-Simple-Boots-on-rocks-Close-Up-100kb.jpg","id":201481,"source":"file","title":"Cavallo Simple Boots on rocks Close Up 100kb"},"backgroundSize":"cover"}},"layout":{"type":"constrained"}} -->
+<div id="Why-Cavallo" class="wp-block-group" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--xxl);padding-bottom:var(--wp--preset--spacing--xxl)"><!-- wp:heading {"textAlign":"center","level":3,"style":{"elements":{"link":{"color":{"text":"var:preset|color|primary"}}},"border":{"width":"0px","style":"none","radius":"50px"}},"backgroundColor":"white","textColor":"primary"} -->
+<h3 class="wp-block-heading has-text-align-center has-primary-color has-white-background-color has-text-color has-background has-link-color" style="border-style:none;border-width:0px;border-radius:50px">Want a more natural approach to Hoof Care, but Barefoot and Booted seems overwhelming?</h3>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"textAlign":"center","level":5,"style":{"border":{"radius":"50px","width":"0px","style":"none"}},"backgroundColor":"white"} -->
+<h5 class="wp-block-heading has-text-align-center has-white-background-color has-background" style="border-style:none;border-width:0px;border-radius:50px"><strong>Cavallo Boots: The World’s Most Trusted Hoof Boots</strong></h5>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"textAlign":"center","level":6,"style":{"border":{"radius":"50px","width":"0px","style":"none"}},"backgroundColor":"white"} -->
+<h6 class="wp-block-heading has-text-align-center has-white-background-color has-background" style="border-style:none;border-width:0px;border-radius:50px">Your horse deserves the best, and&nbsp;Cavallo Hoof Boots&nbsp;are here to deliver! Whether you're hitting the trails, need extra support for injuries, or looking for a reliable backup when a shoe goes missing—Cavallo has you covered. Designed for&nbsp;comfort, durability, and versatility, these boots keep your equine partner happy and moving, no matter the terrain or speed.</h6>
+<!-- /wp:heading -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"0","bottom":"0","left":"0","right":"0"},"margin":{"top":"var:preset|spacing|xl","bottom":"var:preset|spacing|xl"}}},"fontSize":"large","layout":{"type":"constrained","contentSize":"947px"}} -->
+<div class="wp-block-group has-large-font-size" style="margin-top:var(--wp--preset--spacing--xl);margin-bottom:var(--wp--preset--spacing--xl);padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:heading {"level":6,"style":{"border":{"radius":"50px"}},"backgroundColor":"white"} -->
+<h6 class="wp-block-heading has-white-background-color has-background" style="border-radius:50px"><strong>Why Riders Love Cavallo Hoof Boots:</strong></h6>
+<!-- /wp:heading -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"backgroundColor":"white","textColor":"dark","width":100,"style":{"border":{"radius":"100px","width":"0px","style":"none"},"elements":{"link":{"color":{"text":"var:preset|color|dark"}}},"spacing":{"padding":{"left":"66px","right":"66px","top":"12px","bottom":"12px"}}}} -->
+<div class="wp-block-button has-custom-width wp-block-button__width-100"><a class="wp-block-button__link has-dark-color has-white-background-color has-text-color has-background has-link-color wp-element-button" href="http://cavallo.local/how-to-measure/" style="border-style:none;border-width:0px;border-radius:100px;padding-top:12px;padding-right:66px;padding-bottom:12px;padding-left:66px"><strong>Easy Peasy to Use!</strong>&nbsp;– Just pop them on and off with super-strong Velcro closures. Measuring is a breeze—no complicated steps!</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"backgroundColor":"white","textColor":"dark","width":100,"style":{"border":{"radius":"100px","width":"0px","style":"none"},"elements":{"link":{"color":{"text":"var:preset|color|dark"}}},"spacing":{"padding":{"left":"66px","right":"66px","top":"12px","bottom":"12px"}}}} -->
+<div class="wp-block-button has-custom-width wp-block-button__width-100"><a class="wp-block-button__link has-dark-color has-white-background-color has-text-color has-background has-link-color wp-element-button" href="http://cavallo.local/faq/cavallo-hoof-boots-secure-fit/" style="border-style:none;border-width:0px;border-radius:100px;padding-top:12px;padding-right:66px;padding-bottom:12px;padding-left:66px"><strong>They Stay Put!</strong>&nbsp;– No special trims, no slipping—Cavallos naturally adjust to your horse’s hoof angle and wrap snugly to stay secure through anything.</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"backgroundColor":"white","textColor":"dark","width":100,"style":{"border":{"radius":"100px","width":"0px","style":"none"},"elements":{"link":{"color":{"text":"var:preset|color|dark"}}},"spacing":{"padding":{"left":"66px","right":"66px","top":"12px","bottom":"12px"}}}} -->
+<div class="wp-block-button has-custom-width wp-block-button__width-100"><a class="wp-block-button__link has-dark-color has-white-background-color has-text-color has-background has-link-color wp-element-button" href="http://cavallo.local/why-are-cavallo-hoof-boots-the-best/" style="border-style:none;border-width:0px;border-radius:100px;padding-top:12px;padding-right:66px;padding-bottom:12px;padding-left:66px"><strong>Shock Absorbers for Happy Hooves!</strong>&nbsp;– Our specially formulated TPU sole&nbsp;cushions every step, reducing impact up the leg and giving those joints some much-needed relief.</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"backgroundColor":"white","textColor":"dark","width":100,"style":{"border":{"radius":"100px","width":"0px","style":"none"},"elements":{"link":{"color":{"text":"var:preset|color|dark"}}},"spacing":{"padding":{"left":"66px","right":"66px","top":"12px","bottom":"12px"}}}} -->
+<div class="wp-block-button has-custom-width wp-block-button__width-100"><a class="wp-block-button__link has-dark-color has-white-background-color has-text-color has-background has-link-color wp-element-button" href="http://cavallo.local/our-hoof-boot-technology/" style="border-style:none;border-width:0px;border-radius:100px;padding-top:12px;padding-right:66px;padding-bottom:12px;padding-left:66px"><strong>Whole Hoof Comfort!</strong>&nbsp;– Soft, flexible materials provide&nbsp;gentle yet secure protection for the entire hoof, including the&nbsp;tender and precious bulb area—with&nbsp;zero hard plastics or painful pressure points. Just all-around comfort for your horse.</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"backgroundColor":"white","textColor":"dark","width":100,"style":{"border":{"radius":"100px","width":"0px","style":"none"},"elements":{"link":{"color":{"text":"var:preset|color|dark"}}},"spacing":{"padding":{"left":"66px","right":"66px","top":"12px","bottom":"12px"}}}} -->
+<div class="wp-block-button has-custom-width wp-block-button__width-100"><a class="wp-block-button__link has-dark-color has-white-background-color has-text-color has-background has-link-color wp-element-button" href="http://cavallo.local/faq/cavallo-hoof-boots-for-all-terrain/" style="border-style:none;border-width:0px;border-radius:100px;padding-top:12px;padding-right:66px;padding-bottom:12px;padding-left:66px"><strong>Ride Anywhere, Anytime!</strong>&nbsp;– From mini ponies to draft horses, from rocky trails to stable turnout, Cavallos are built for all horses and all terrains. </a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"backgroundColor":"white","textColor":"dark","width":100,"style":{"border":{"radius":"100px","width":"0px","style":"none"},"elements":{"link":{"color":{"text":"var:preset|color|dark"}}},"spacing":{"padding":{"left":"66px","right":"66px","top":"12px","bottom":"12px"}}}} -->
+<div class="wp-block-button has-custom-width wp-block-button__width-100"><a class="wp-block-button__link has-dark-color has-white-background-color has-text-color has-background has-link-color wp-element-button" href="http://cavallo.local/faq/cavallo-hoofcare-savings/" style="border-style:none;border-width:0px;border-radius:100px;padding-top:12px;padding-right:66px;padding-bottom:12px;padding-left:66px"><strong>Budget-Friendly Hoof Care</strong>&nbsp;– Keep more hay money in your pocket! Ditch the pricey metal shoes and farrier bills—Cavallo Boots keep your horse comfy, sound, and ready to ride!</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"backgroundColor":"white","textColor":"dark","width":100,"style":{"border":{"radius":"100px","width":"0px","style":"none"},"elements":{"link":{"color":{"text":"var:preset|color|dark"}}},"spacing":{"padding":{"left":"66px","right":"66px","top":"12px","bottom":"12px"}}}} -->
+<div class="wp-block-button has-custom-width wp-block-button__width-100"><a class="wp-block-button__link has-dark-color has-white-background-color has-text-color has-background has-link-color wp-element-button" href="http://cavallo.local/faq/cavallo-hoof-boots-durability-and-lifespan/" style="border-style:none;border-width:0px;border-radius:100px;padding-top:12px;padding-right:66px;padding-bottom:12px;padding-left:66px"><strong>Built to Last!</strong>&nbsp;– High-quality industrial-grade materials mean you get&nbsp;long-lasting&nbsp;hoof boots that can handle anything.</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"backgroundColor":"white","textColor":"dark","width":100,"style":{"border":{"radius":"100px","width":"0px","style":"none"},"elements":{"link":{"color":{"text":"var:preset|color|dark"}}},"spacing":{"padding":{"left":"66px","right":"66px","top":"12px","bottom":"12px"}}}} -->
+<div class="wp-block-button has-custom-width wp-block-button__width-100"><a class="wp-block-button__link has-dark-color has-white-background-color has-text-color has-background has-link-color wp-element-button" href="http://cavallo.local/your-cavallo-warranty-guarantees-the-quality-and-workmanship-of-cavallo-hoof-boots/" style="border-style:none;border-width:0px;border-radius:100px;padding-top:12px;padding-right:66px;padding-bottom:12px;padding-left:66px"><strong>Best Warranty in the Business!</strong>&nbsp;– We stand by our boots, and our customers know it.</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"backgroundColor":"white","textColor":"dark","width":100,"style":{"border":{"radius":"100px","width":"0px","style":"none"},"elements":{"link":{"color":{"text":"var:preset|color|dark"}}},"spacing":{"padding":{"left":"66px","right":"66px","top":"12px","bottom":"12px"}}}} -->
+<div class="wp-block-button has-custom-width wp-block-button__width-100"><a class="wp-block-button__link has-dark-color has-white-background-color has-text-color has-background has-link-color wp-element-button" href="http://cavallo.local/contact-us/" style="border-style:none;border-width:0px;border-radius:100px;padding-top:12px;padding-right:66px;padding-bottom:12px;padding-left:66px"><strong>Customer Service That Cares!</strong>&nbsp;– Need help? Our team is always here to ensure you get the&nbsp;perfect fit&nbsp;for your horse.</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"backgroundColor":"white","textColor":"dark","width":100,"style":{"border":{"radius":"100px","width":"0px","style":"none"},"elements":{"link":{"color":{"text":"var:preset|color|dark"}}},"spacing":{"padding":{"left":"66px","right":"66px","top":"12px","bottom":"12px"}}}} -->
+<div class="wp-block-button has-custom-width wp-block-button__width-100"><a class="wp-block-button__link has-dark-color has-white-background-color has-text-color has-background has-link-color wp-element-button" href="http://cavallo.local/dr-jennifer-gill-western-kentucky-university-hoof-boot-study/" style="border-style:none;border-width:0px;border-radius:100px;padding-top:12px;padding-right:66px;padding-bottom:12px;padding-left:66px"><strong>Scientifically Proven!</strong>&nbsp;– Independent university studies confirm what riders already know—Cavallo Hoof Boots&nbsp;<strong>deliver results</strong>.</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"backgroundColor":"white","textColor":"dark","width":100,"style":{"border":{"radius":"100px","width":"0px","style":"none"},"elements":{"link":{"color":{"text":"var:preset|color|dark"}}},"spacing":{"padding":{"left":"66px","right":"66px","top":"12px","bottom":"12px"}}}} -->
+<div class="wp-block-button has-custom-width wp-block-button__width-100"><a class="wp-block-button__link has-dark-color has-white-background-color has-text-color has-background has-link-color wp-element-button" href="http://cavallo.local/faq/cavallo-hoof-boot-uses/" style="border-style:none;border-width:0px;border-radius:100px;padding-top:12px;padding-right:66px;padding-bottom:12px;padding-left:66px"><strong>Multi-Use Magic!</strong>&nbsp;– Rehabilitation, therapy, over metal shoes, breeding protection, transportation, and riding on any terrain… the list goes on!</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:group -->
+
+<!-- wp:heading {"textAlign":"center","level":6,"style":{"border":{"radius":"100px"}},"backgroundColor":"white"} -->
+<h6 class="wp-block-heading has-text-align-center has-white-background-color has-background" style="border-radius:100px"> With&nbsp;Cavallo Hoof Boots, you and your horse can&nbsp;step into adventure with confidence!</h6>
+<!-- /wp:heading --></div>
+<!-- /wp:group -->
+
+<!-- wp:acf/subscribe {"name":"acf/subscribe","data":{"title":"\u003ch2\u003eReceive Special Offers\u003c/h2\u003e\r\
+Sign up for our newsletter to get 10% off your first order, alongside exclusive promotions, industry news, tutorials, and more!","_title":"field_667bf8d5dd581","background_image":163,"_background_image":"field_667bfbf6dd582","form":"1","_form":"field_667bfc04dd583","html_anchor":"","_html_anchor":"field_672f5663be83a"},"mode":"edit"} /-->

@@ -1,0 +1,27 @@
+<!-- wp:paragraph -->
+<p>By Carole Herder</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":6155,"align":"right"} -->
+<figure class="wp-block-image alignright"><img src="//cavallo.local/wp-content/uploads/2015/10/Blog116.jpg" alt="Horse Hoof Boots" class="wp-image-6155"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>Along my country road there is an amazing black and white Paint stallion. If he is out, I always slow down to admire him. The other day, he was racing across his sandy paddock heading straight for the fence line that separated him from a lush grassy field. He could easily have sailed over this fence, but he stopped short and stood absolutely still. I could see his hot breath pumping from his nostrils. He could be gobbling up grass on the other side, but he just stood there. It made me wonder if we too are like that. Do we stop short of taking a leap into new things, new possibilities - even if it’s something we really want?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Everyone has a comfort level. It’s that place in our awareness that serves to maintain the status quo, maintaining an “at home” feeling. We may wonder why we are not making progress, either financially or emotionally; why our relationships aren’t working out; why our work is tedious; why we seem to be in a cycle of daily repetition. Is it that we are refusing to jump the fence?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>I am not saying, we should do things that we know we shouldn’t. It’s just that we are beings of enormous possibility, just like our horses, and we can liberate ourselves from just standing still in the life we know. We can leap into higher levels of happiness, performance, passion and be living our very best life. Mostly all it takes is an increased level of self confidence. To take that action – to hop over our own self- imposed boundaries sometimes all we need to do is jump.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":5795,"linkDestination":"custom","align":"left"} -->
+<figure class="wp-block-image alignleft"><a href="//cavallo.local/wp-content/uploads/2015/06/Caroles.png"><img src="//cavallo.local/wp-content/uploads/2015/06/Caroles.png" alt="horse hoof boots" class="wp-image-5795"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->

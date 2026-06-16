@@ -1,0 +1,316 @@
+<!-- wp:group {"layout":{"type":"constrained","contentSize":""}} -->
+<div class="wp-block-group"><!-- wp:group {"style":{"spacing":{"padding":{"top":"0","bottom":"0","left":"0","right":"0"},"margin":{"top":"0","bottom":"0"}}},"layout":{"type":"constrained","contentSize":"835px"}} -->
+<div class="wp-block-group" style="margin-top:0;margin-bottom:0;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:heading {"textAlign":"center","level":1,"style":{"typography":{"letterSpacing":"-0.01em"}}} -->
+<h1 class="wp-block-heading has-text-align-center" style="letter-spacing:-0.01em">Cavallo Comfort Sleeves for Pastern Protection and Comfort </h1>
+<!-- /wp:heading --></div>
+<!-- /wp:group -->
+
+<!-- wp:paragraph {"align":"center","style":{"spacing":{"margin":{"top":"var:preset|spacing|xl","bottom":"var:preset|spacing|xl"}}},"fontSize":"large"} -->
+<p class="has-text-align-center has-large-font-size" style="margin-top:var(--wp--preset--spacing--xl);margin-bottom:var(--wp--preset--spacing--xl)">Cavallo Comfort Sleeves offer a soft, stretchy layer of protection for your horse while wearing Cavallo Hoof Boots, providing an effective barrier against friction and rubbing. Ideal for sensitive, thin-skinned horses or those with unique hoof shapes, these sleeves help prevent irritation during both daily use and riding. Comfort Sleeves are easy to slip on over the hoof and are available in a one-size-fits-all. Give your horse added comfort and support—perfect for riding, rehabilitation, and extended wear.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":201299,"width":"1156px","height":"auto","scale":"cover","sizeSlug":"full","linkDestination":"none","style":{"border":{"radius":"10px"}}} -->
+<figure class="wp-block-image size-full is-resized has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2025/02/Comfort-Sleeves-side-view-by-Rachel-w-HORSE-RIDER-75kb-edited.jpg" alt="Cavallo Comfort sleeves for rubbing and irritation" class="wp-image-201299" style="border-radius:10px;object-fit:cover;width:1156px;height:auto"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|lg","bottom":"var:preset|spacing|lg","left":"var:preset|spacing|lg","right":"var:preset|spacing|lg"},"margin":{"top":"var:preset|spacing|xl","bottom":"0"}},"border":{"width":"1px","color":"#DDD4D0","radius":"10px"}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group has-border-color" style="border-color:#DDD4D0;border-width:1px;border-radius:10px;margin-top:var(--wp--preset--spacing--xl);margin-bottom:0;padding-top:var(--wp--preset--spacing--lg);padding-right:var(--wp--preset--spacing--lg);padding-bottom:var(--wp--preset--spacing--lg);padding-left:var(--wp--preset--spacing--lg)"><!-- wp:heading -->
+<h2 class="wp-block-heading">Table of Contents</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list {"ordered":true,"start":1,"style":{"elements":{"link":{"color":{"text":"var:preset|color|red"}}},"typography":{"fontStyle":"normal","fontWeight":"600"}},"textColor":"red","fontSize":"large"} -->
+<ol start="1" style="font-style:normal;font-weight:600" class="wp-block-list has-red-color has-text-color has-link-color has-large-font-size"><!-- wp:list-item -->
+<li><a href="#Block-1">When to use Cavallo Comfort Sleeves</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="#Block-2">Why Choose Comfort Sleeves</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="#Block-3">Putting on Comfort Sleeves</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="#Testimonial">Cavallo Testimonials</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="#Block-6">Other Pastern Protection Options</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="#Why-Cavallo">Why Choose Cavallo Hoof Boots</a></li>
+<!-- /wp:list-item --></ol>
+<!-- /wp:list --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"reverse-order\u002d\u002dmobile","style":{"spacing":{"padding":{"top":"var:preset|spacing|xxl","bottom":"var:preset|spacing|xxl"},"margin":{"top":"0","bottom":"0"}},"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"backgroundColor":"pale-silver","textColor":"primary","layout":{"type":"constrained","contentSize":""}} -->
+<div id="Block-1" class="wp-block-group reverse-order--mobile has-primary-color has-pale-silver-background-color has-text-color has-background has-link-color" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--xxl);padding-bottom:var(--wp--preset--spacing--xxl)"><!-- wp:columns {"verticalAlignment":"top"} -->
+<div class="wp-block-columns are-vertically-aligned-top"><!-- wp:column {"verticalAlignment":"top","width":"44.48%"} -->
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis:44.48%"><!-- wp:heading -->
+<h2 class="wp-block-heading" id="When-comfort-sleeve">When to use Cavallo Comfort Sleeves?</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Cavallo Comfort Sleeves provide extra protection, cushioning, and comfort around the pastern of your horse. Here’s when and why they’re the perfect choice for your horse!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>A<strong>ll-Day Comfort and Protection</strong> Cavallo Comfort Sleeves help prevent irritation during both short- and long-term boot use. The sleeves use their soft, jersey-knit material to create a protective layer between the boot and your horse’s pastern. Horses wearing hoof boots in stalls or during trailering benefit from this added cushion and support.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Barrier Against Dirt and Debris</strong> Cavallo Comfort Sleeves keep dirt and debris out of boots during turnout, keeping hooves clean and comfortable. Simply pull the sleeve over the hoof before fastening the Velcro and putting on Cavallo Hoof Boots. Please note: The jersey-knit material may absorb water. For wet or muddy conditions, use Cavallo Pastern Wraps instead to prevent moisture retention.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>I<strong>deal for Sensitive or Thin-Skinned Horses</strong> Cavallo Comfort Sleeves effectively protect your sensitive or thin-skinned horse from irritation by cushioning the pastern. In addition, they work seamlessly with the padded leather back of Cavallo Hoof Boots to prevent rubbing. Subsequently, this combination ensures maximum comfort, helping your horse stay happy and comfortable throughout the day.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Support During the Break-In Period</strong> Cavallo Comfort Sleeves reduce friction and ease the break-in process for new boots. They provide added cushioning, allowing horses to adjust comfortably to full-time boot wear or regular riding use.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"top","width":"","style":{"spacing":{"padding":{"right":"0","left":"0","top":"0","bottom":"0"}}},"layout":{"type":"constrained","contentSize":"585px","justifyContent":"right","wideSize":""}} -->
+<div class="wp-block-column is-vertically-aligned-top" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:image {"id":201304,"width":"585px","height":"auto","sizeSlug":"full","linkDestination":"none","className":"is-style-default","style":{"border":{"radius":"10px"}}} -->
+<figure class="wp-block-image size-full is-resized has-custom-border is-style-default"><img src="http://cavallo.local/wp-content/uploads/2025/02/Comfort-Sleeves-HORSE-RIDER-75kb-edited.jpg" alt="Cavallo Comfort Sleeves for Laminitis, founder, thin soles, navicular, winter" class="wp-image-201304" style="border-radius:10px;width:585px;height:auto"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div id="Block-2" class="wp-block-group"><!-- wp:group {"className":"reverse-order\u002d\u002dmobile","style":{"spacing":{"padding":{"top":"var:preset|spacing|xxl","bottom":"var:preset|spacing|xxl"},"margin":{"top":"0","bottom":"0"}}},"layout":{"type":"constrained"}} -->
+<div id="size-and-fit-pastern-wrap" class="wp-block-group reverse-order--mobile" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--xxl);padding-bottom:var(--wp--preset--spacing--xxl)"><!-- wp:columns {"verticalAlignment":"top"} -->
+<div class="wp-block-columns are-vertically-aligned-top"><!-- wp:column {"verticalAlignment":"top","width":"","style":{"spacing":{"padding":{"right":"0","left":"0","top":"0","bottom":"0"}}},"layout":{"type":"constrained","contentSize":"585px","justifyContent":"left","wideSize":""}} -->
+<div class="wp-block-column is-vertically-aligned-top" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:image {"id":201306,"width":"585px","height":"auto","scale":"cover","sizeSlug":"full","linkDestination":"none","style":{"color":{"duotone":"unset"},"border":{"width":"0px","style":"none","radius":"10px"}}} -->
+<figure class="wp-block-image size-full is-resized has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2025/02/Black-Trek-Boots-with-Comfort-Sleeves-Close-Up-75kb-edited.jpg" alt="Cavallo Trek Hoof Boots and Cavallo Comfort Sleeves for turnout " class="wp-image-201306" style="border-style:none;border-width:0px;border-radius:10px;object-fit:cover;width:585px;height:auto"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"top","width":"44.48%"} -->
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis:44.48%"><!-- wp:heading -->
+<h2 class="wp-block-heading" id="Why-comfort-sleeve">Why Choose Cavallo Comfort Sleeves?</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"32px","bottom":"0"}}}} -->
+<p style="margin-top:32px;margin-bottom:0">Cavallo Comfort Sleeves protect horses with sensitive skin or unique hoof shapes, offering a simple and secure fit. Their convenient one-size-fits-all design easily slips into standard Cavallo boots (sizes 0-6), optimizing your horse's comfort. Furthermore, for minis wearing CLB "Cute Little Boots," you can use a thick wool child-sized sock as an alternative for a snug fit.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":""} -->
+<p>Ideal for thin-skinned horses or those prone to irritation, Comfort Sleeves add an extra layer of protection. Horses wearing boots in stalls or during turnout stay comfortable longer, as the sleeves prevent rubbing and keep pasterns cushioned. Acting as a barrier, they also block dirt and debris from entering the boots, reducing the risk of irritation.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>While Cavallo Hoof Boots feature padded leather backs for protection, Comfort Sleeves enhance cushioning, especially during the break-in period. Above all, Cavallo Sleeves help your horse transition smoothly to wearing boots and provide all-day comfort for sensitive or rehabilitating hooves.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"backgroundColor":"white","textColor":"red","className":"is-style-fill","style":{"elements":{"link":{"color":{"text":"var:preset|color|red"}}},"border":{"radius":"100px","width":"2px"}},"borderColor":"red"} -->
+<div class="wp-block-button is-style-fill"><a class="wp-block-button__link has-red-color has-white-background-color has-text-color has-background has-link-color has-border-color has-red-border-color wp-element-button" href="http://cavallo.local/product/cavallo-comfort-sleeve-2/" style="border-width:2px;border-radius:100px">Shop Cavallo Comfort Sleeves Now</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:acf/banner-cta {"name":"acf/banner-cta","data":{"text":"\u003ch2 style=\u0022text-align: center;\u0022\u003ePutting On Cavallo Comfort Sleeves\u003c/h2\u003e\r\
+\u0026nbsp;\r\
+\u003cp style=\u0022text-align: center;\u0022\u003eUsing Cavallo Comfort Sleeves is simple!\u003c/p\u003e\r\
+\u003cp style=\u0022text-align: center;\u0022\u003ePull the sleeve over the hoof, and secure it in place by fastening the Velcro tab around the pastern. Be sure to have the closure snug, but not too tight. To help keep the sleeve in place during movement, ensure that 1/4-1/2\u0022 of the sleeve is under your horse's weight-bearing points of heel.\u003c/p\u003e\r\
+\u003cp style=\u0022text-align: center;\u0022\u003ePlace your Cavallo Hoof Boot on over top, and enjoy your ride!\u003c/p\u003e","_text":"field_66f10c7106c07","cta":"","_cta":"field_66f10c9706c08","download_file":"","_download_file":"field_66f10cc706c09","upload_modal":"0","_upload_modal":"field_66f11861256ea","html_anchor":"Block-3","_html_anchor":"field_672f5663be83a"},"mode":"preview"} /-->
+
+<!-- wp:group {"className":"reverse-order\u002d\u002dmobile","style":{"spacing":{"padding":{"top":"var:preset|spacing|xxl","bottom":"var:preset|spacing|xxl"},"margin":{"top":"0","bottom":"0"}}},"backgroundColor":"white","layout":{"type":"constrained","contentSize":""}} -->
+<div class="wp-block-group reverse-order--mobile has-white-background-color has-background" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--xxl);padding-bottom:var(--wp--preset--spacing--xxl)"><!-- wp:columns {"verticalAlignment":"center"} -->
+<div class="wp-block-columns are-vertically-aligned-center"><!-- wp:column {"verticalAlignment":"center","width":"","style":{"spacing":{"padding":{"right":"0","left":"0","top":"0","bottom":"0"}}},"layout":{"type":"constrained","contentSize":"585px","justifyContent":"left","wideSize":""}} -->
+<div class="wp-block-column is-vertically-aligned-center" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:image {"id":6042,"width":"440px","height":"auto","scale":"cover","sizeSlug":"full","linkDestination":"none","align":"left","style":{"color":{"duotone":"unset"},"border":{"width":"0px","style":"none","radius":"10px"}}} -->
+<figure class="wp-block-image alignleft size-full is-resized has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2024/11/Cavallo-Hoof-Boots-Europe-comfort-sleeves-2-edited-1.jpg" alt="Cavallo Comfort Sleeve How to use " class="wp-image-6042" style="border-style:none;border-width:0px;border-radius:10px;object-fit:cover;width:440px;height:auto"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"center","width":"44.48%"} -->
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis:44.48%"><!-- wp:image {"id":6041,"sizeSlug":"large","linkDestination":"none","align":"left","style":{"border":{"radius":"10px"}}} -->
+<figure class="wp-block-image alignleft size-large has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2024/11/Comfort-Sleeves-with-HR-edited-3.jpg" alt="Cavallo Comfort Sleeve Fastened " class="wp-image-6041" style="border-radius:10px"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"reverse-order\u002d\u002dmobile","style":{"spacing":{"padding":{"top":"var:preset|spacing|xxl","bottom":"var:preset|spacing|xxl"},"margin":{"top":"0","bottom":"0"}}},"backgroundColor":"pale-silver","layout":{"type":"constrained","contentSize":""}} -->
+<div id="Testimonial" class="wp-block-group reverse-order--mobile has-pale-silver-background-color has-background" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--xxl);padding-bottom:var(--wp--preset--spacing--xxl)"><!-- wp:columns {"verticalAlignment":"center"} -->
+<div class="wp-block-columns are-vertically-aligned-center"><!-- wp:column {"verticalAlignment":"center","width":"44.48%"} -->
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis:44.48%"><!-- wp:heading -->
+<h2 class="wp-block-heading">Cattle Drives and Cavallos - the Best Combo!</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"32px","bottom":"24px"}}}} -->
+<p style="margin-top:32px;margin-bottom:24px">“My Cavallo Simple Boots in size 0, along with the Comfort Sleeves, worked out PERFECTLY for the front feet of my Minna mule on the July 3 - 20 km cattle drive. Didn't matter if I was going thru a bog, climbing up a cobblestone trail or galloping down the gravel road chasing after a calf that was trying to head home - the boots stayed on, didn't impede movement and never caused rubs.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>I'm hoping the rubber bottoms are hard enough to withstand long trail miles on the sharp rock of Arizona, because so far I'm really liking the simplicity of these boots a lot more than the "Brand B" that I used previously."</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":5,"style":{"typography":{"letterSpacing":"0.03em"}}} -->
+<h5 class="wp-block-heading" style="letter-spacing:0.03em">– Jane McKay</h5>
+<!-- /wp:heading --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"center","width":"","style":{"spacing":{"padding":{"right":"0","left":"0","top":"0","bottom":"0"}}},"layout":{"type":"constrained","contentSize":"585px","justifyContent":"right","wideSize":""}} -->
+<div class="wp-block-column is-vertically-aligned-center" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:image {"id":6031,"sizeSlug":"full","linkDestination":"none","style":{"border":{"radius":"10px"}}} -->
+<figure class="wp-block-image size-full has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2024/11/Jane-mcKay-Mule-cattle-Drive.jpg" alt="Cavallo Horse Simple Hoof Boot Cattle drives and galloping " class="wp-image-6031" style="border-radius:10px"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"reverse-order\u002d\u002dmobile","style":{"spacing":{"padding":{"top":"var:preset|spacing|xxl","bottom":"var:preset|spacing|xxl"},"margin":{"top":"0","bottom":"0"}}},"layout":{"type":"constrained","contentSize":""}} -->
+<div class="wp-block-group reverse-order--mobile" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--xxl);padding-bottom:var(--wp--preset--spacing--xxl)"><!-- wp:columns {"verticalAlignment":"center"} -->
+<div class="wp-block-columns are-vertically-aligned-center"><!-- wp:column {"verticalAlignment":"center","width":"","style":{"spacing":{"padding":{"right":"0","left":"0","top":"0","bottom":"0"}}},"layout":{"type":"constrained","contentSize":"585px","justifyContent":"left","wideSize":""}} -->
+<div class="wp-block-column is-vertically-aligned-center" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:image {"id":6032,"scale":"cover","sizeSlug":"full","linkDestination":"none","style":{"color":{"duotone":"unset"},"border":{"width":"0px","style":"none","radius":"10px"}}} -->
+<figure class="wp-block-image size-full has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2024/11/Beverly-Phillips-review-simple-and-comfort-sleeve.jpg" alt="Cavallo horse sport hoof boots and Cavallo Comfort Sleeves going through water " class="wp-image-6032" style="border-style:none;border-width:0px;border-radius:10px;object-fit:cover"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"center","width":"44.48%"} -->
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis:44.48%"><!-- wp:heading -->
+<h2 class="wp-block-heading">Cavallo Comfort Sleeves and Sport Boots For Oscar!</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>“I got excited about these pictures for lots of reasons. One reason is he has all four Comfort Sleeves and all four Cavallo Sport style boots on. This is Oscar, my unicorn horse! This particular day, we galloped fields, Steeplechase track, the woods, we jumped some baby novice and&nbsp; novice event fences and galloped the water complex.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":5,"style":{"typography":{"letterSpacing":"0.03em"}}} -->
+<h5 class="wp-block-heading" style="letter-spacing:0.03em">– Beverly Phillips</h5>
+<!-- /wp:heading --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"reverse-order\u002d\u002dmobile","style":{"spacing":{"padding":{"top":"var:preset|spacing|xxl","bottom":"var:preset|spacing|xxl"},"margin":{"top":"0","bottom":"0"}}},"backgroundColor":"pale-silver","layout":{"type":"constrained","contentSize":""}} -->
+<div id="Block-6" class="wp-block-group reverse-order--mobile has-pale-silver-background-color has-background" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--xxl);padding-bottom:var(--wp--preset--spacing--xxl)"><!-- wp:columns {"verticalAlignment":"top"} -->
+<div class="wp-block-columns are-vertically-aligned-top"><!-- wp:column {"verticalAlignment":"top","width":"44.48%"} -->
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis:44.48%"><!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="Other-pastern-options">Want to Explore Other Pastern Protection Options?</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"24px","bottom":"32px"}}}} -->
+<p style="margin-top:24px;margin-bottom:32px">Take a look at the Cavallo Pastern Wrap! Made out of thin neoprene, these wraps are an excellent option for all-weather riding and turnout or when a snugger fit is needed.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"backgroundColor":"white","textColor":"red","style":{"border":{"width":"2px","color":"#C8102E","radius":"100px"},"elements":{"link":{"color":{"text":"var:preset|color|red"}}},"spacing":{"padding":{"left":"66px","right":"66px","top":"12px","bottom":"12px"}}}} -->
+<div class="wp-block-button"><a class="wp-block-button__link has-red-color has-white-background-color has-text-color has-background has-link-color has-border-color wp-element-button" href="http://cavallo.local/faq/cavallo-pastern-wraps/" style="border-color:#C8102E;border-width:2px;border-radius:100px;padding-top:12px;padding-right:66px;padding-bottom:12px;padding-left:66px">Read More here </a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"top","width":"","style":{"spacing":{"padding":{"right":"0","left":"0","top":"0","bottom":"0"}}},"layout":{"type":"constrained","contentSize":"585px","justifyContent":"right","wideSize":""}} -->
+<div class="wp-block-column is-vertically-aligned-top" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:image {"id":201307,"scale":"cover","sizeSlug":"full","linkDestination":"none","style":{"color":{"duotone":"unset"},"border":{"width":"0px","style":"none","radius":"10px"}}} -->
+<figure class="wp-block-image size-full has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2025/02/Pastern-Wraps-on-Hoofs-100kb-edited-1.jpg" alt="Cavallo pastern Wraps" class="wp-image-201307" style="border-style:none;border-width:0px;border-radius:10px;object-fit:cover"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|xxl","bottom":"var:preset|spacing|xxl"},"margin":{"top":"0","bottom":"0"}},"background":{"backgroundImage":{"url":"http://cavallo.local/wp-content/uploads/2025/03/Cavallo-Simple-Boots-on-rocks-Close-Up-100kb.jpg","id":201481,"source":"file","title":"Cavallo Simple Boots on rocks Close Up 100kb"},"backgroundSize":"cover"}},"layout":{"type":"constrained"}} -->
+<div id="Why-Cavallo" class="wp-block-group" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--xxl);padding-bottom:var(--wp--preset--spacing--xxl)"><!-- wp:heading {"textAlign":"center","level":3,"style":{"elements":{"link":{"color":{"text":"var:preset|color|primary"}}},"border":{"width":"0px","style":"none","radius":"50px"}},"backgroundColor":"white","textColor":"primary"} -->
+<h3 class="wp-block-heading has-text-align-center has-primary-color has-white-background-color has-text-color has-background has-link-color" style="border-style:none;border-width:0px;border-radius:50px">Want a more natural approach to Hoof Care, but Barefoot and Booted seems overwhelming?</h3>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"textAlign":"center","level":5,"style":{"border":{"radius":"50px","width":"0px","style":"none"}},"backgroundColor":"white"} -->
+<h5 class="wp-block-heading has-text-align-center has-white-background-color has-background" style="border-style:none;border-width:0px;border-radius:50px"><strong>Cavallo Boots: The World’s Most Trusted Hoof Boots</strong></h5>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"textAlign":"center","level":6,"style":{"border":{"radius":"50px","width":"0px","style":"none"}},"backgroundColor":"white"} -->
+<h6 class="wp-block-heading has-text-align-center has-white-background-color has-background" style="border-style:none;border-width:0px;border-radius:50px">Your horse deserves the best, and&nbsp;Cavallo Hoof Boots&nbsp;are here to deliver! Whether you're hitting the trails, need extra support for injuries, or looking for a reliable backup when a shoe goes missing—Cavallo has you covered. Designed for&nbsp;comfort, durability, and versatility, these boots keep your equine partner happy and moving, no matter the terrain or speed.</h6>
+<!-- /wp:heading -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"0","bottom":"0","left":"0","right":"0"},"margin":{"top":"var:preset|spacing|xl","bottom":"var:preset|spacing|xl"}}},"fontSize":"large","layout":{"type":"constrained","contentSize":"947px"}} -->
+<div class="wp-block-group has-large-font-size" style="margin-top:var(--wp--preset--spacing--xl);margin-bottom:var(--wp--preset--spacing--xl);padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:heading {"level":6,"style":{"border":{"radius":"50px"}},"backgroundColor":"white"} -->
+<h6 class="wp-block-heading has-white-background-color has-background" style="border-radius:50px"><strong>Why Riders Love Cavallo Hoof Boots:</strong></h6>
+<!-- /wp:heading -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"backgroundColor":"white","textColor":"dark","width":100,"style":{"border":{"radius":"100px","width":"0px","style":"none"},"elements":{"link":{"color":{"text":"var:preset|color|dark"}}},"spacing":{"padding":{"left":"66px","right":"66px","top":"12px","bottom":"12px"}}}} -->
+<div class="wp-block-button has-custom-width wp-block-button__width-100"><a class="wp-block-button__link has-dark-color has-white-background-color has-text-color has-background has-link-color wp-element-button" href="http://cavallo.local/how-to-measure/" style="border-style:none;border-width:0px;border-radius:100px;padding-top:12px;padding-right:66px;padding-bottom:12px;padding-left:66px"><strong>Easy Peasy to Use!</strong>&nbsp;– Just pop them on and off with super-strong Velcro closures. Measuring is a breeze—no complicated steps!</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"backgroundColor":"white","textColor":"dark","width":100,"style":{"border":{"radius":"100px","width":"0px","style":"none"},"elements":{"link":{"color":{"text":"var:preset|color|dark"}}},"spacing":{"padding":{"left":"66px","right":"66px","top":"12px","bottom":"12px"}}}} -->
+<div class="wp-block-button has-custom-width wp-block-button__width-100"><a class="wp-block-button__link has-dark-color has-white-background-color has-text-color has-background has-link-color wp-element-button" href="http://cavallo.local/faq/cavallo-hoof-boots-secure-fit/" style="border-style:none;border-width:0px;border-radius:100px;padding-top:12px;padding-right:66px;padding-bottom:12px;padding-left:66px"><strong>They Stay Put!</strong>&nbsp;– No special trims, no slipping—Cavallos naturally adjust to your horse’s hoof angle and wrap snugly to stay secure through anything.</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"backgroundColor":"white","textColor":"dark","width":100,"style":{"border":{"radius":"100px","width":"0px","style":"none"},"elements":{"link":{"color":{"text":"var:preset|color|dark"}}},"spacing":{"padding":{"left":"66px","right":"66px","top":"12px","bottom":"12px"}}}} -->
+<div class="wp-block-button has-custom-width wp-block-button__width-100"><a class="wp-block-button__link has-dark-color has-white-background-color has-text-color has-background has-link-color wp-element-button" href="http://cavallo.local/why-are-cavallo-hoof-boots-the-best/" style="border-style:none;border-width:0px;border-radius:100px;padding-top:12px;padding-right:66px;padding-bottom:12px;padding-left:66px"><strong>Shock Absorbers for Happy Hooves!</strong>&nbsp;– Our specially formulated TPU sole&nbsp;cushions every step, reducing impact up the leg and giving those joints some much-needed relief.</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"backgroundColor":"white","textColor":"dark","width":100,"style":{"border":{"radius":"100px","width":"0px","style":"none"},"elements":{"link":{"color":{"text":"var:preset|color|dark"}}},"spacing":{"padding":{"left":"66px","right":"66px","top":"12px","bottom":"12px"}}}} -->
+<div class="wp-block-button has-custom-width wp-block-button__width-100"><a class="wp-block-button__link has-dark-color has-white-background-color has-text-color has-background has-link-color wp-element-button" href="http://cavallo.local/our-hoof-boot-technology/" style="border-style:none;border-width:0px;border-radius:100px;padding-top:12px;padding-right:66px;padding-bottom:12px;padding-left:66px"><strong>Whole Hoof Comfort!</strong>&nbsp;– Soft, flexible materials provide&nbsp;gentle yet secure protection for the entire hoof, including the&nbsp;tender and precious bulb area—with&nbsp;zero hard plastics or painful pressure points. Just all-around comfort for your horse.</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"backgroundColor":"white","textColor":"dark","width":100,"style":{"border":{"radius":"100px","width":"0px","style":"none"},"elements":{"link":{"color":{"text":"var:preset|color|dark"}}},"spacing":{"padding":{"left":"66px","right":"66px","top":"12px","bottom":"12px"}}}} -->
+<div class="wp-block-button has-custom-width wp-block-button__width-100"><a class="wp-block-button__link has-dark-color has-white-background-color has-text-color has-background has-link-color wp-element-button" href="http://cavallo.local/faq/cavallo-hoof-boots-for-all-terrain/" style="border-style:none;border-width:0px;border-radius:100px;padding-top:12px;padding-right:66px;padding-bottom:12px;padding-left:66px"><strong>Ride Anywhere, Anytime!</strong>&nbsp;– From mini ponies to draft horses, from rocky trails to stable turnout, Cavallos are built for all horses and all terrains. </a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"backgroundColor":"white","textColor":"dark","width":100,"style":{"border":{"radius":"100px","width":"0px","style":"none"},"elements":{"link":{"color":{"text":"var:preset|color|dark"}}},"spacing":{"padding":{"left":"66px","right":"66px","top":"12px","bottom":"12px"}}}} -->
+<div class="wp-block-button has-custom-width wp-block-button__width-100"><a class="wp-block-button__link has-dark-color has-white-background-color has-text-color has-background has-link-color wp-element-button" href="http://cavallo.local/faq/cavallo-hoofcare-savings/" style="border-style:none;border-width:0px;border-radius:100px;padding-top:12px;padding-right:66px;padding-bottom:12px;padding-left:66px"><strong>Budget-Friendly Hoof Care</strong>&nbsp;– Keep more hay money in your pocket! Ditch the pricey metal shoes and farrier bills—Cavallo Boots keep your horse comfy, sound, and ready to ride!</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"backgroundColor":"white","textColor":"dark","width":100,"style":{"border":{"radius":"100px","width":"0px","style":"none"},"elements":{"link":{"color":{"text":"var:preset|color|dark"}}},"spacing":{"padding":{"left":"66px","right":"66px","top":"12px","bottom":"12px"}}}} -->
+<div class="wp-block-button has-custom-width wp-block-button__width-100"><a class="wp-block-button__link has-dark-color has-white-background-color has-text-color has-background has-link-color wp-element-button" href="http://cavallo.local/faq/cavallo-hoof-boots-durability-and-lifespan/" style="border-style:none;border-width:0px;border-radius:100px;padding-top:12px;padding-right:66px;padding-bottom:12px;padding-left:66px"><strong>Built to Last!</strong>&nbsp;– High-quality industrial-grade materials mean you get&nbsp;long-lasting&nbsp;hoof boots that can handle anything.</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"backgroundColor":"white","textColor":"dark","width":100,"style":{"border":{"radius":"100px","width":"0px","style":"none"},"elements":{"link":{"color":{"text":"var:preset|color|dark"}}},"spacing":{"padding":{"left":"66px","right":"66px","top":"12px","bottom":"12px"}}}} -->
+<div class="wp-block-button has-custom-width wp-block-button__width-100"><a class="wp-block-button__link has-dark-color has-white-background-color has-text-color has-background has-link-color wp-element-button" href="http://cavallo.local/your-cavallo-warranty-guarantees-the-quality-and-workmanship-of-cavallo-hoof-boots/" style="border-style:none;border-width:0px;border-radius:100px;padding-top:12px;padding-right:66px;padding-bottom:12px;padding-left:66px"><strong>Best Warranty in the Business!</strong>&nbsp;– We stand by our boots, and our customers know it.</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"backgroundColor":"white","textColor":"dark","width":100,"style":{"border":{"radius":"100px","width":"0px","style":"none"},"elements":{"link":{"color":{"text":"var:preset|color|dark"}}},"spacing":{"padding":{"left":"66px","right":"66px","top":"12px","bottom":"12px"}}}} -->
+<div class="wp-block-button has-custom-width wp-block-button__width-100"><a class="wp-block-button__link has-dark-color has-white-background-color has-text-color has-background has-link-color wp-element-button" href="http://cavallo.local/contact-us/" style="border-style:none;border-width:0px;border-radius:100px;padding-top:12px;padding-right:66px;padding-bottom:12px;padding-left:66px"><strong>Customer Service That Cares!</strong>&nbsp;– Need help? Our team is always here to ensure you get the&nbsp;perfect fit&nbsp;for your horse.</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"backgroundColor":"white","textColor":"dark","width":100,"style":{"border":{"radius":"100px","width":"0px","style":"none"},"elements":{"link":{"color":{"text":"var:preset|color|dark"}}},"spacing":{"padding":{"left":"66px","right":"66px","top":"12px","bottom":"12px"}}}} -->
+<div class="wp-block-button has-custom-width wp-block-button__width-100"><a class="wp-block-button__link has-dark-color has-white-background-color has-text-color has-background has-link-color wp-element-button" href="http://cavallo.local/dr-jennifer-gill-western-kentucky-university-hoof-boot-study/" style="border-style:none;border-width:0px;border-radius:100px;padding-top:12px;padding-right:66px;padding-bottom:12px;padding-left:66px"><strong>Scientifically Proven!</strong>&nbsp;– Independent university studies confirm what riders already know—Cavallo Hoof Boots&nbsp;<strong>deliver results</strong>.</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"backgroundColor":"white","textColor":"dark","width":100,"style":{"border":{"radius":"100px","width":"0px","style":"none"},"elements":{"link":{"color":{"text":"var:preset|color|dark"}}},"spacing":{"padding":{"left":"66px","right":"66px","top":"12px","bottom":"12px"}}}} -->
+<div class="wp-block-button has-custom-width wp-block-button__width-100"><a class="wp-block-button__link has-dark-color has-white-background-color has-text-color has-background has-link-color wp-element-button" href="http://cavallo.local/faq/cavallo-hoof-boot-uses/" style="border-style:none;border-width:0px;border-radius:100px;padding-top:12px;padding-right:66px;padding-bottom:12px;padding-left:66px"><strong>Multi-Use Magic!</strong>&nbsp;– Rehabilitation, therapy, over metal shoes, breeding protection, transportation, and riding on any terrain… the list goes on!</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:group -->
+
+<!-- wp:heading {"textAlign":"center","level":6,"style":{"border":{"radius":"100px"}},"backgroundColor":"white"} -->
+<h6 class="wp-block-heading has-text-align-center has-white-background-color has-background" style="border-radius:100px"> With&nbsp;Cavallo Hoof Boots, you and your horse can&nbsp;step into adventure with confidence!</h6>
+<!-- /wp:heading --></div>
+<!-- /wp:group -->
+
+<!-- wp:acf/subscribe {"name":"acf/subscribe","data":{"title":"\u003ch2\u003eReceive Special Offers\u003c/h2\u003e\r\
+Sign up for our newsletter to get 10% off your first order, alongside exclusive promotions, industry news, tutorials, and more!","_title":"field_667bf8d5dd581","background_image":163,"_background_image":"field_667bfbf6dd582","form":"1","_form":"field_667bfc04dd583","html_anchor":"","_html_anchor":"field_672f5663be83a"},"mode":"edit"} /-->

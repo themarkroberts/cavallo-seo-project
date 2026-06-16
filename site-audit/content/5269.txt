@@ -1,0 +1,75 @@
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading -->
+<h2 class="wp-block-heading">"Cavallo Saddle Pads are the Best Pads in the World Today"</h2>
+<!-- /wp:heading --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column {"width":"33.33%"} -->
+<div class="wp-block-column" style="flex-basis:33.33%"><!-- wp:image {"id":5270,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="http://cavallo.local/wp-content/uploads/2024/10/monty_shy_boy_big-3.jpg" alt="Monty Roberts Cavallo Saddle Pads" class="wp-image-5270"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":"66.66%"} -->
+<div class="wp-block-column" style="flex-basis:66.66%"><!-- wp:paragraph -->
+<p>A compliment from&nbsp;<a href="https://montyroberts.com/about-monty-roberts/" target="_blank" rel="noreferrer noopener">Monty Roberts</a>:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><em>“The&nbsp;<a href="http://cavallo.local/product-category/saddle-pads/" target="_blank" rel="noreferrer noopener">Cavallo Total Comfort System Saddle Pads</a>&nbsp;help your horse increase his&nbsp;movement around the shoulder. The gullet system encourages horses to lift their spine and use themselves properly while taking pressure off the withers. This unique memory foam sandwich helps your saddle fit better. In addition to the lightweight thinness of the Cavallo pad I love the reversible feature as I prefer to ride with the 100% New Zealand wool to my horse. Cavallo pads are the best pads in the world today.”</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>–&nbsp;<a href="https://en.wikipedia.org/wiki/Monty_Roberts" target="_blank" rel="noreferrer noopener">Monty Roberts</a>, the Man who Listens to Horses</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading -->
+<h2 class="wp-block-heading">Monty Roberts Talks About Cavallo!</h2>
+<!-- /wp:heading -->
+
+<!-- wp:columns {"style":{"spacing":{"blockGap":{"left":"var:preset|spacing|max"}}}} -->
+<div class="wp-block-columns"><!-- wp:column {"width":"66.66%"} -->
+<div class="wp-block-column" style="flex-basis:66.66%"><!-- wp:embed {"url":"https://www.youtube.com/watch?v=fHKlnWyBVeg","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-4-3 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://www.youtube.com/watch?v=fHKlnWyBVeg
+</div></figure>
+<!-- /wp:embed --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"center","width":"33.33%"} -->
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis:33.33%"><!-- wp:image {"lightbox":{"enabled":false},"id":5271,"sizeSlug":"full","linkDestination":"custom"} -->
+<figure class="wp-block-image size-full"><img src="http://cavallo.local/wp-content/uploads/2024/10/about-saddles-pads2.jpg" alt="Cavallo Hoof Boots saddle pads" class="wp-image-5271"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column {"width":"66.66%"} -->
+<div class="wp-block-column" style="flex-basis:66.66%"><!-- wp:heading -->
+<h2 class="wp-block-heading">Monty's Praise for Carole Herder's Book - There are no Horseshoes in Heaven</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><em><a href="http://cavallo.local/product/there-are-no-horseshoes-in-heaven/" target="_blank" rel="noreferrer noopener">“There are no Horseshoes in Heaven</a>: A beautifully-written, true story of a kindred spirit’s journey through life, discovering ways to leave the world a better place for horses and people, too.”&nbsp;</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>— Monty Roberts</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":"33.33%"} -->
+<div class="wp-block-column" style="flex-basis:33.33%"><!-- wp:image {"lightbox":{"enabled":false},"id":5272,"sizeSlug":"full","linkDestination":"custom"} -->
+<figure class="wp-block-image size-full"><img src="http://cavallo.local/wp-content/uploads/2024/10/book-1.jpg" alt="Carole Herder's Book There are no Horseshoes in Heaven" class="wp-image-5272"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->

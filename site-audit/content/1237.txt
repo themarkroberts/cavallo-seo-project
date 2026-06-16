@@ -1,0 +1,19 @@
+<!-- wp:image {"id":5102,"width":"413px","height":"auto","sizeSlug":"full","linkDestination":"none","align":"left"} -->
+<figure class="wp-block-image alignleft size-full is-resized"><img src="http://cavallo.local/wp-content/uploads/2013/08/3-amigos.jpg" alt="" class="wp-image-5102" style="width:413px;height:auto"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>Another great story showing that barefoot is best. If your horse's hooves seem tender when you ride, use hoof boots for protection on all terrains.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>I am a big believer of barefoot. My husbands horse had a fractured coffin bone at age 5. By the time he was late teens he could was having trouble walking. We started looking for help with shoes and different pads etc. By the time he hit 20 he could not walk across the pasture with out discomfort. I happen to find an article about barefoot and a list of farriers. We started trimming Amigo every 6 weeks and with in 6 months he was running and playing again. My 3 horses are barefoot and never have had metal shoes. They go everywhere a shod horse goes.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Dona Wolfe, USA</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->

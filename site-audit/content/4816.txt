@@ -1,0 +1,299 @@
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"textAlign":"center","level":1,"style":{"spacing":{"padding":{"bottom":"var:preset|spacing|md"}}}} -->
+<h1 class="wp-block-heading has-text-align-center" style="padding-bottom:var(--wp--preset--spacing--md)">Your Cavallo News! March 2022</h1>
+<!-- /wp:heading -->
+
+<!-- wp:image {"id":4011,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="http://cavallo.local/wp-content/uploads/2024/10/news-banner.jpg" alt="" class="wp-image-4011"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|xl","bottom":"var:preset|spacing|xl"},"margin":{"top":"0","bottom":"0"}}},"backgroundColor":"light-red-1","layout":{"type":"constrained"}} -->
+<div class="wp-block-group has-light-red-1-background-color has-background" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--xl);padding-bottom:var(--wp--preset--spacing--xl)"><!-- wp:heading -->
+<h2 class="wp-block-heading">Less Restraint… More Love! ❤️</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Trimming a donkey could be a little bit like baking a cake…you need to get the recipe right and it all comes together! All-Star donkey trimmer, <a href="https://www.holistichooves.com/about#:~:text=Megan%20Hensley%2C%20AKA%3A%20The%20Donkey,%2C%20inspiration%2C%20empowerment%20and%20resources." target="_blank" rel="noreferrer noopener"><span style="text-decoration: underline;">Megan Hensley of Holistic Hooves</span></a> knows that the recipe involves <a href="https://www.facebook.com/watch/?v=3019054971758259" target="_blank" rel="noreferrer noopener"><span style="text-decoration: underline;">less restraint and more LOVE.</span></a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Why medicate or restrain your donkey pal if you can get even better results with a method they enjoy? Megan (AKA The Donkey Farrier) takes a wellness approach that you won’t find with many hoof care providers. She is equal parts farrier, educator and welfare advocate. There’s a beautiful intention to Megan’s work that strives to improve lives, both human and donkey, through education, inspiration, empowerment and resources.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Megan’s online course, Principles of Donkey Hoof Care &amp; Handling:</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>Learn to develop and deepen your understanding of donkey hoof structure</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>What is healthy vs unhealthy?</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Identify a quality donkey hoof trim</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Introduction to abnormal donkey hooves and common pathologies</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Donkey handling for hoof care</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Halterless &amp; liberty</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Why letting go of restraints opens the door for more trust &amp; progress</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>How controlling your mindset &amp; emotions gives you the power to transform your interactions with your donkey</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Why WHO you are “being” is more important than any training method</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"var:preset|spacing|xl","bottom":"var:preset|spacing|xl"},"margin":{"top":"0","bottom":"0"}}},"backgroundColor":"white","layout":{"type":"constrained","contentSize":""}} -->
+<div class="wp-block-group alignfull has-white-background-color has-background" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--xl);padding-bottom:var(--wp--preset--spacing--xl)"><!-- wp:columns {"style":{"spacing":{"padding":{"top":"0","bottom":"0"}}}} -->
+<div class="wp-block-columns" style="padding-top:0;padding-bottom:0"><!-- wp:column {"verticalAlignment":"top","width":"","style":{"spacing":{"padding":{"right":"0","left":"0","top":"0","bottom":"0"}}},"layout":{"type":"constrained","contentSize":"585px","justifyContent":"right","wideSize":""}} -->
+<div class="wp-block-column is-vertically-aligned-top" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:image {"id":4553,"scale":"cover","sizeSlug":"full","linkDestination":"none","style":{"color":{"duotone":"unset"},"border":{"width":"0px","style":"none","radius":"10px"}}} -->
+<figure class="wp-block-image size-full has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2024/10/Blue-CLB-@tenderlittlehearts_minitales-carousel-2-1-768x354-1.jpg" alt="" class="wp-image-4553" style="border-style:none;border-width:0px;border-radius:10px;object-fit:cover"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"top","width":"50%"} -->
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis:50%"><!-- wp:heading -->
+<h2 class="wp-block-heading">Be Who You Choose to Be!</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"fontSize":"large"} -->
+<p class="has-large-font-size">Have you Heard of Tender Little Hearts Mini Tales and Equine Assisted Services?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"spacing":{"margin":{"bottom":"27px"}}}} -->
+<p style="margin-bottom:27px"><a href="https://www.tenderlittlehearts.org/" target="_blank" rel="noreferrer noopener"><span style="text-decoration: underline;">Tender Little Hearts</span></a> is run exclusively as an equine therapy outreach to children and adults. Their team provides promotion of literacy services through<a href="https://www.tenderlittlehearts.org/" target="_blank" rel="noreferrer noopener"><span style="text-decoration: underline;"> Mini Tales</span></a> as well as assisted therapy and activities through equine mini therapy. Their program strives to promote literacy and offers reading opportunities for children of all ages. They provide a safe, empowering environment to promote literacy growth.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|xl","bottom":"var:preset|spacing|xl"},"margin":{"top":"0","bottom":"0"}}},"backgroundColor":"light-red-1","layout":{"type":"constrained","contentSize":""}} -->
+<div class="wp-block-group has-light-red-1-background-color has-background" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--xl);padding-bottom:var(--wp--preset--spacing--xl)"><!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column {"verticalAlignment":"top","width":"50%"} -->
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis:50%"><!-- wp:heading -->
+<h2 class="wp-block-heading">Book a Reading Session with the Mini Equines of ‘Mini Tales’:</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"fontSize":"large"} -->
+<p class="has-large-font-size">Do you know a child who’s working hard to learn how to read?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"fontSize":"normal"} -->
+<p class="has-normal-font-size">For a limited time, until they can resume their school and library visits, you can email them to arrange a 10-minute Zoom meeting so the child in your life can practice by reading to the delightful miniature horses and donkeys of Tender Little Hearts Mini Tales: Dolly, Mazy, Buddy, Boone and Josie. Just send them an email to set a time and date at: tenderlittleheartsAZ@gmail.com</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"top","width":"","style":{"spacing":{"padding":{"right":"0","left":"0","top":"0","bottom":"0"}}},"layout":{"type":"constrained","contentSize":"585px","justifyContent":"left","wideSize":""}} -->
+<div class="wp-block-column is-vertically-aligned-top" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:embed {"url":"https://www.youtube.com/watch?v=dWtYjY-nDW0","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://www.youtube.com/watch?v=dWtYjY-nDW0
+</div></figure>
+<!-- /wp:embed --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|xl","bottom":"var:preset|spacing|xl"},"margin":{"top":"0","bottom":"0"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--xl);padding-bottom:var(--wp--preset--spacing--xl)"><!-- wp:heading -->
+<h2 class="wp-block-heading">So…What’s the Story Behind the Carousel Image Above?</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>We caught up with Tender Little Hearts President/Founder, Terry Holmes-Stecyk, to ask her about how the incredible image above of Dolly, their therapy mini, breaking free from the carousel came to be. <strong>Here’s her response:</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>From Terry: </strong><em>“This is a long story! We collaborated with <span style="text-decoration: underline;"><a href="https://www.thescottfoundation.org/">The Scott Foundation</a></span>, an organization that believes that every person deserves access to high-quality education, the opportunity to be successful and the confidence to take action. They serve foster youth who are about to age out of the system and teach the life skills they’ll need to succeed as young adults.</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><em>They have a fashion show each year to raise money. Each of my mini horses and my mini donkey were sponsored by local businesses to take part as models. It’s a huge event! Of course, her new <span style="text-decoration: underline;"><a href="http://cavallo.local/product/metallic-blue-clb-cute-little-boots/">Metallic Blue CLB Cute Little Boots</a></span> were a must to finish off my little fashionista therapy horse’s outfit!!!</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><em>I asked the fashion photographer if she wanted to play a bit with a photo idea I had. I had Dolly go over a jump. She then Photoshopped the image, adding the carousel and removing the jump. What a result! A large canvas print of the image now hangs at the <span style="text-decoration: underline;"><a href="https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.childhelp.org%2Fadvocacy-centers%2Fchildhelp-childrens-center-of-arizona%2F%3Ffbclid%3DIwAR3ToXMSOO6nr7DtW-2pYJrNTvrW7xC4E21ZWdWOq2KEOJB9QvHVP1VpTyk&amp;h=AT1_Yf8NNnG6I7Z-1l-QNfc8iv_Ajv8MWQpjX5yAjovtfUVZWAJAf7lIAfEwDrCcr26EFc_2LkTAxdK7HFiCwHQ-RoULISqAvakNhMmDAlp9al8eEfX9u_cNC-TLp170O6o">Childhelp Advocacy Center for Children in Phoenix</a></span>. This center works with the Phoenix Police Department Crimes Against Children Unit. We visit them twice a month to bring joy and comfort to young victims of abuse.</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"left"} -->
+<p class="has-text-align-left"><em>I think the photo inspires a great story of living your best life, jumping off the merry-go-round and being who you choose to be…”</em></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|xl","bottom":"var:preset|spacing|xl"},"margin":{"top":"0","bottom":"0"}}},"backgroundColor":"light-red-1","layout":{"type":"constrained","contentSize":""}} -->
+<div class="wp-block-group has-light-red-1-background-color has-background" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--xl);padding-bottom:var(--wp--preset--spacing--xl)"><!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column {"verticalAlignment":"top","width":"50%"} -->
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis:50%"><!-- wp:heading -->
+<h2 class="wp-block-heading">Learn From the Very Best – Cheyenne Wimberly</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"fontSize":"normal"} -->
+<p class="has-normal-font-size">Top barrel racer Cheyenne Wimberly proudly represents Cavallo, and she uses our Trek Boots daily for travel, walking on gravel and more!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="https://barrelracing.com/"><span style="text-decoration: underline;">BarrelRacing.com</span></a> has just launched a new training video Series featuring Cheyenne!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>BarrelRacing.com is known for bringing the best competitors and coaches in the world together to share their knowledge and experience.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Cheyenne’s bio on BarrelRacing.com is inspiring: <em>“Cheyenne was just a kid when she made her first two trips to the National Finals Rodeo in 1997 and 1998! Since then, she has career earnings of $456,441 and gaining, in the Women’s Professional Rodeo Association. She’s a five-time National Finals Rodeo qualifier also won round one of the 2021 Wrangler NFR. She is currently competing with five different horses in addition to running her own equine insurance business.</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><em>“From Cheyenne’s mentality to her day-to-day training and horse care routines, all skill levels can benefit from what Cheyenne has shared in these videos from her lifetime spent competing at the highest level. Like all the experts we work with, Cheyenne is committed to bettering this industry by sharing her knowledge, and it was an honour to work with her.”</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"fontSize":"normal"} -->
+<p class="has-normal-font-size">In her new series, Wimberley covers topics to improve your run such as first barrel footwork, driving with the inside hind leg, maintaining forward motion to the third barrel, and many more. She also offers tips on mastering the barrel racing mental game, covering topics like pre-run anxiety, work ethic, dedication, and more. To access Cheyenne’s videos and (many other great videos and training tools for barrel racers), you can subscribe to Barrelracing.com for just $29.99 USD/month (including a 7-day free trial).</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"top","width":"","style":{"spacing":{"padding":{"right":"0","left":"0","top":"0","bottom":"0"}}},"layout":{"type":"constrained","contentSize":"585px","justifyContent":"left","wideSize":""}} -->
+<div class="wp-block-column is-vertically-aligned-top" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:image {"id":4559,"sizeSlug":"full","linkDestination":"none","style":{"border":{"radius":"10px"}}} -->
+<figure class="wp-block-image size-full has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2024/10/Cheyenne-416x452-1.jpg" alt="" class="wp-image-4559" style="border-radius:10px"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|xl","bottom":"var:preset|spacing|xl"},"margin":{"top":"0","bottom":"0"}}},"backgroundColor":"light-red-1","layout":{"type":"constrained","contentSize":""}} -->
+<div class="wp-block-group has-light-red-1-background-color has-background" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--xl);padding-bottom:var(--wp--preset--spacing--xl)"><!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column {"verticalAlignment":"top","width":"","style":{"spacing":{"padding":{"right":"0","left":"0","top":"0","bottom":"0"}}},"layout":{"type":"constrained","contentSize":"585px","justifyContent":"left","wideSize":""}} -->
+<div class="wp-block-column is-vertically-aligned-top" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:image {"id":331195,"sizeSlug":"full","linkDestination":"none","style":{"border":{"radius":"10px"}}} -->
+<figure class="wp-block-image size-full has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2022/03/Tearney-Waterman-Husband-farrier-OTTB-TB.jpg" alt="Farrier Recommended Cavallo Hoof Boots OTTB Thoroughbred" class="wp-image-331195" style="border-radius:10px"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"top","width":"50%"} -->
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis:50%"><!-- wp:heading -->
+<h2 class="wp-block-heading">What YOU’RE Saying: The Farrier’s Wife Has Spoken!</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"fontSize":"normal"} -->
+<p class="has-normal-font-size"><em>“I just have to say I’m so incredibly impressed with the Cavallo boots.&nbsp;</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><em>I have the Simple boot for my OTTB who had absolutely atrocious feet. I never thought he’d go barefoot but we had to do something different because even my husband who is a professional farrier of 20+ years, and works primarily on high-end Hunter-Jumpers, deemed my TB’s feet as “the worst feet he works on”.&nbsp;</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><em>This horse even managed to throw casts which were needed since he had nothing to nail to but absolutely couldn’t go barefoot without being crippled. My husband and veterinarians all agreed the best thing would be for him to be barefoot for a while to have a chance to rebalance and revive his feet, the trick was going to be how to do that without him having endless stone bruises and abscesses.</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><em>So between his Cavallo boots and fully matting his box stall and 20’ run, we have managed to keep him barefoot for the last 6mo and what a difference it has made!&nbsp; The good nutrition plus keeping the shoes off have allowed for almost completely new hooves to grow, and he is living successfully barefoot in rocky pasture and all now.</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><em>He will likely always require Cavallos on his fronts for trail riding or on any rough terrain, but I’m so stoked I can keep him out of shoes now. He had a lifetime of tight side clips on all 4 feet and it was so bad they had left diveted lines up his hooves, which are almost completely grown out now.</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><em>I’m not against shoeing but I have been against boots till him because in my previous experience; I’ve seen them cause more danger and harm than good. A friend talked me into trying to her Cavallo treks when he was down with yet another abscess, and I’m so grateful she did. I bought him a set of Simple Boots a week later and I will forever sing your praises and encourage people to give them a try because they definitely changed my Charlie’s life for the better. ????</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><em>We even got to go for a couple of trail rides this fall because he was finally staying sound enough to do so, and he had a blast! ????</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><em>And I just leased all my ponies out and have asked they all use Cavallos as needed over full-time shoeing, everyone has agreed. ☺️</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><em>And you can add to it that we did x-rays to make sure there were no structural issues before deciding to go barefoot. So when the rads were clean, we knew it was simply a matter of letting his hooves learn to function like proper hooves again. His Cavallos have given him the support he needs to get there safely and without pain. And they will continue to give that support under saddle as needed. We will continue to take radiographs periodically to make sure he is maintaining correct structure internally.”</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"fontSize":"normal"} -->
+<p class="has-normal-font-size"><em>– Tearney Waterman</em></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|xl","bottom":"var:preset|spacing|xl"},"margin":{"top":"0","bottom":"0"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--xl);padding-bottom:var(--wp--preset--spacing--xl)"><!-- wp:heading -->
+<h2 class="wp-block-heading">Who Won our February Contest for a Free Pair of Boots?</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>We are pleased to announce our random winner for February’s Newsletter/Facebook contest. Congratulations to Carol Coleen Serven from Tennessee. She has now been notified! We had some fantastic photo submissions showing how everyone stores their boots and we thank everyone for taking the time to participate!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"left"} -->
+<p class="has-text-align-left"><strong>Be sure to keep an eye on our newsletters – we’ll have an exciting contest for you each month to come!</strong></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"margin":{"top":"0"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group" style="margin-top:0"><!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column {"width":"66.66%"} -->
+<div class="wp-block-column" style="flex-basis:66.66%"><!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Wishing you many happy trails</h3>
+<!-- /wp:heading -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"id":4076,"sizeSlug":"full","linkDestination":"none","align":"left"} -->
+<figure class="wp-block-image alignleft size-full"><img src="http://cavallo.local/wp-content/uploads/2024/10/5381858031fd2babec50665b30807366.png" alt="" class="wp-image-4076"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"0","bottom":"0"}}},"fontSize":"large"} -->
+<p class="has-large-font-size" style="margin-top:0;margin-bottom:0">Carole Herder</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"spacing":{"padding":{"right":"0","left":"0"}}}} -->
+<p style="padding-right:0;padding-left:0">President and founder of Cavallo Horse &amp; Rider Inc</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Carole Herder, President and founder of Cavallo Horse &amp; Rider Inc., is an internationally acclaimed figure in the equestrian community. Her books, There Are No Horseshoes in Heaven and Hoof Prints on the Journey, have become international bestsellers, further solidifying her status as a thought leader in the industry.&nbsp;Since 1993, Carole has been deeply involved in horse health. Cavallo is a global leader in developing, manufacturing, and distributing horse products. Carole’s passion for horse comfort is evident in her designs, including the innovative Cavallo Hoof Boots and Total Comfort System Saddle Pads.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>A true pioneer in the equestrian community, Carole is widely recognized for her expertise and contributions. She champions the benefits of keeping horses in their natural state, advocates for overall hoof health, and works towards the alleviation of debilitating disorders. Her achievements include being an honoured award recipient of the Royal Bank of Canada Woman Entrepreneur of the Year, British Columbia’s Businesswoman of The Year, and North America Enterprising Woman of The Year.&nbsp;<br>Carole is a certified Dr. Deepak Chopra Yoga, Meditation and Ayurvedic Lifestyle Instructor and a proud member of the Women Presidents Organization, supporting female entrepreneurs in every industry.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":"33.33%"} -->
+<div class="wp-block-column" style="flex-basis:33.33%"><!-- wp:image {"id":4084,"sizeSlug":"full","linkDestination":"none","style":{"border":{"radius":"10px"}}} -->
+<figure class="wp-block-image size-full has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2024/10/carole-herder.jpg" alt="" class="wp-image-4084" style="border-radius:10px"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":4085,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="http://cavallo.local/wp-content/uploads/2024/10/carole-books.jpg" alt="" class="wp-image-4085"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->

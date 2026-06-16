@@ -1,0 +1,59 @@
+<!-- wp:paragraph -->
+<p>By Carole Herder</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Which piece of equipment would you like to see on your horse’s hoof??</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":5525,"align":"left"} -->
+<figure class="wp-block-image alignleft"><img src="//cavallo.local/wp-content/uploads/2015/04/blog.jpg-300x168.png" alt="blog.jpg" class="wp-image-5525"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":5524,"align":"left"} -->
+<figure class="wp-block-image alignleft"><img src="//cavallo.local/wp-content/uploads/2015/04/bloga17.jpg" alt="bloga17" class="wp-image-5524"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Believe it or not, the first image is a homemade hoof bandage made of cotton wool, brown paper and duct tape! It was ‘designed’ to keep poultices and wound dressings in place but as you can imagine, had very little effect.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>You may have heard me refer to the well-known phrase before: <strong>No Hoof, No Horse.</strong> Well, when there is a problem with the horse’s hoof, it needs to be looked after meticulously as many issues develop here, lameness is only one problem you will encounter!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Whether it is an abscess, a wound from a sharp object, bruising, white line disease or any one of the many things that affect the feet, vigilant care should be top priority. And it has to be said, brown paper and duct tape will not keep the bacteria away!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>A hoof boot is the optimal way to keep a bandage on and keep a hoof clean and protected. It will ensure dressings are kept securely in place and muck and dirt are kept to a minimum. By holding strong with a comfortable fit, the Cavallo hoof boot will allow poultices the time to get to work and will ensure herbal creams and remedies have the time to really absorb, without being rubbed off by the environment.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>So rather than waiting for day when you know there is something wrong with a hoof and wrapping it up with duct tape, vet wrap or whatever else is lying around, get yourself a hoof boot because when it comes to your horse’s health and their feet, take no chances. Hoof boots – not just a modern alternative to metal shoes for the trail, but a vital piece of first aid equipment too!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Oh, and by the way – here’s a little Tip if you need to poultice: Cavallo Boots provide built-in drainage for aeration and riding in all terrain. You can simply stick a piece of duct tape on the inside to cover the drainage holes and turn your Cavallos into poultice or soaking boots!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Cavallo's….. the ultimate Multi-Purpose Hoof Boot…</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":5458,"align":"center"} -->
+<figure class="wp-block-image aligncenter"><img src="//cavallo.local/wp-content/uploads/2015/03/Carolesig1.png" alt="Horse Hoof Boots" class="wp-image-5458"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:spacer {"height":"40px"} -->
+<div style="height:40px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->

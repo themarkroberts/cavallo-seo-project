@@ -1,0 +1,27 @@
+<!-- wp:paragraph -->
+<p>By Carole Herder</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>How many of us have lost our confidence around horses at one time or another over the years? How many of us have doubted our relationship with horses, have sworn we would never ride again, have promised to sell everything and build a swimming pool? I’m sure there are very few who could not think of a time when similar thoughts have crossed their minds.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"sizeSlug":"large","align":"left"} -->
+<figure class="wp-block-image alignleft size-large"><img src="http://cavallo.local/wp-content/uploads/2024/09/Blog60.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>What causes this loss of confidence? Usually a fall, or some sort of accident. For some, there follows a different path as the incident may cause a revelation of sorts. Maybe the rider realizes that riding is not for them, maybe the time of life is not right for them. Or maybe the horse is not right for them. For others, they continue on the same path but take a different approach. Perhaps find a good trainer, try some natural horsemanship or simply change some equipment. Still others don’t change anything and hop straight back up and carry on regardless. And then there are those who linger on the ground, looking longingly at their horse and wondering what on earth went wrong.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>They say time heals all wounds but if loss of confidence is a wound, I don’t think this can apply. What does it take to get across the abyss of nerves when trying to get back up on a horse after a bad fall? Hypnotherapy, will power, the support of a good friend or trainer – any of these can help. But I believe you need to trust your horse and yourself again first. Confidence equals trust and respect. A friend once told me, ‘be kind to yourself’. It took me a while to understand what she meant. After a particularly bad fall, when I was on the verge of packing the whole equestrian thing in, I found myself outside late one summer’s evening, fixing fences and checking water buckets and I looked around at my little herd and breathed in the whole scene and realized….. actually, this is where I belong. And so, no swimming pool was built but a new horse was purchased.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>So maybe time does heal all wounds, or at least gives you the space to figure things out. And if you need a little help, I can recommend this excellent book by Kelly Marks, the UK protégé of Monty Roberts.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:spacer {"height":"40px"} -->
+<div style="height:40px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->

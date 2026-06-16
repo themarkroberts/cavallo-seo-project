@@ -1,0 +1,497 @@
+<!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|gap"}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"level":1,"style":{"typography":{"textAlign":"center"}}} -->
+<h1 class="wp-block-heading has-text-align-center">Give Your Horse 100% Hoof Protection, Comfort, and Safety:</h1>
+<!-- /wp:heading -->
+
+<!-- wp:image {"id":350980,"sizeSlug":"full","linkDestination":"none","UAGHideMob":true,"UAGHideTab":true,"UAGResponsiveConditions":true} -->
+<figure class="wp-block-image size-full uag-hide-tab uag-hide-mob"><img src="http://cavallo.local/wp-content/uploads/2026/06/Cavallo-Revolution-15-OFF-promo-web-page-brnner.jpg" alt="Cavallo Revolution 15% OFF promo web page banner" class="wp-image-350980"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":350984,"sizeSlug":"full","linkDestination":"none","UAGHideDesktop":true,"UAGResponsiveConditions":true} -->
+<figure class="wp-block-image size-full uag-hide-desktop"><img src="http://cavallo.local/wp-content/uploads/2026/06/Cavallo-Revolution-15-off-promo-Mobile-promo-page-image.jpg" alt="Cavallo Revolution 15% off promo - Mobile promo page image" class="wp-image-350984"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|lg"}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"style":{"elements":{"link":{"color":{"text":"var:preset|color|red"}}},"typography":{"textAlign":"center"}},"textColor":"red"} -->
+<h2 class="wp-block-heading has-text-align-center has-red-color has-text-color has-link-color"><strong>GET 15% OFF ANY SIZE CAVALLO BOOTS NOW:</strong></h2>
+<!-- /wp:heading -->
+
+<!-- wp:buttons {"style":{"spacing":{"margin":{"bottom":"var:preset|spacing|md"}}},"layout":{"type":"flex","justifyContent":"center"}} -->
+<div class="wp-block-buttons" style="margin-bottom:var(--wp--preset--spacing--md)"><!-- wp:button {"backgroundColor":"red","style":{"border":{"radius":"50px"}},"fontSize":"large"} -->
+<div class="wp-block-button"><a class="wp-block-button__link has-red-background-color has-background has-large-font-size has-custom-font-size wp-element-button" href="#pricing" style="border-radius:50px">Yes - I Want Boots Now</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons -->
+
+<!-- wp:paragraph {"style":{"typography":{"textAlign":"center"}},"fontSize":"xx-large"} -->
+<p class="has-text-align-center has-xx-large-font-size">As a horse owner, are you fed up with tender soles, lost shoes, damaged hooves, bacterial infections, laminitis, navicular, or just tired of nailing metal shoes?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:separator {"backgroundColor":"pale-silver"} -->
+<hr class="wp-block-separator has-text-color has-pale-silver-color has-alpha-channel-opacity has-pale-silver-background-color has-background"/>
+<!-- /wp:separator --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"style":{"typography":{"textAlign":"center"}}} -->
+<h2 class="wp-block-heading has-text-align-center">Better Hoof Health Backed By Science:</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"typography":{"textAlign":"center"}},"fontSize":"x-large"} -->
+<p class="has-text-align-center has-x-large-font-size">Western Kentucky University Research Recommends Cavallo Trek Hoof Boots for Hoof Protection, Traction, and Reduced Pressure:</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:columns {"style":{"spacing":{"margin":{"bottom":"var:preset|spacing|lg"}}}} -->
+<div class="wp-block-columns" style="margin-bottom:var(--wp--preset--spacing--lg)"><!-- wp:column {"verticalAlignment":"center","width":"20%"} -->
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis:20%"><!-- wp:image {"id":5339,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="http://cavallo.local/wp-content/uploads/2024/10/Western-Kentucky-University-Hoof-Boot-Study-Cavallo-2.jpg" alt="" class="wp-image-5339"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"center","width":"80%"} -->
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis:80%"><!-- wp:paragraph -->
+<p>Dr. Jennifer Gill and Gabriella Lynn of the Western Kentucky University Equine Science Department completed the first independent university study comparing hoof boots to traditional metal shoes. They chose their preferred boots for the study – the Cavallo Trek. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Results confirmed that Cavallo Hoof Boots benefit horses, provide comfort, protection and minimize potential hoof damage. The study focused on surface area, force, and pressure exerted on horses’ hooves while travelling on the hard surface of asphalt. The Scientists used FujiFilm imaging to determine the amount of pressure felt in the horse’s hooves, which allowed the scientists to see dynamic pressure through colour mapping. </p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:paragraph -->
+<p><strong>From Dr. Jennifer Gill:</strong>&nbsp;<em>“We found that the Cavallo Trek Hoof Boots were significantly lower in pressure than the other two treatments,”</em>&nbsp;Gill said.&nbsp;<em>“And this is what we expected from our data. We would have expected that the Cavallo Trek Hoof Boots would have been lower, especially with hard terrain. This was good news for what we were expecting to see.”</em></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column {"verticalAlignment":"center","width":"20%"} -->
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis:20%"><!-- wp:image {"id":5340,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="http://cavallo.local/wp-content/uploads/2024/10/Western-Kentucky-University-Logo-452x441-1.webp" alt="" class="wp-image-5340"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"center","width":"80%"} -->
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis:80%"><!-- wp:paragraph -->
+<p>“<em>The Cavallo Boots protected the entire hoof itself, which we thought was very beneficial, especially over some other types of hoof protection, such as horseshoes,”</em>&nbsp;Gill said.&nbsp;<em>“We also found that the tread of the Cavallo Boots was thicker and would provide more space to contact with the ground than a metal horseshoe. The Trek Boots were significantly lower in pressure than the other two treatments.&nbsp;The contacting surface area with the Trek Boots was significantly higher than the other two treatments. There was more tread that was in contact with the ground than would be with the steel horseshoe and a steel horseshoe with Equi-Pak.”&nbsp;</em>&nbsp;<em>“Based on this result, we would say that horses would have better traction in the Cavallo Trek Hoof Boots and be better able to dissipate those forces and pressure because of the increases in surface area.”</em></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"margin":{"bottom":"0"}}},"layout":{"type":"constrained"},"anchor":"pricing"} -->
+<div id="pricing" class="wp-block-group" style="margin-bottom:0"><!-- wp:heading {"style":{"elements":{"link":{"color":{"text":"var:preset|color|red"}}},"typography":{"textAlign":"center"}},"textColor":"red"} -->
+<h2 class="wp-block-heading has-text-align-center has-red-color has-text-color has-link-color"><strong>GET THE WORLD'S #1 HOOF BOOT AT 15% OFF<br></strong></h2>
+<!-- /wp:heading -->
+
+<!-- wp:image {"id":333571,"sizeSlug":"large","linkDestination":"none","align":"center","style":{"spacing":{"margin":{"bottom":"var:preset|spacing|gap"}}}} -->
+<figure class="wp-block-image aligncenter size-large" style="margin-bottom:var(--wp--preset--spacing--gap)"><img src="http://cavallo.local/wp-content/uploads/2026/01/2025-Cavallo-Hoof-Boot-Lineup-w-LEB-low-res-1024x160.jpg" alt="2025 Cavallo Hoof Boot Lineup - with LEB" class="wp-image-333571"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"margin":{"top":"0","bottom":"0"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group" style="margin-top:0;margin-bottom:0"><!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|gap","bottom":"var:preset|spacing|gap"},"blockGap":"0"}},"backgroundColor":"primary","layout":{"type":"constrained"}} -->
+<div class="wp-block-group has-primary-background-color has-background" style="padding-top:var(--wp--preset--spacing--gap);padding-bottom:var(--wp--preset--spacing--gap)"><!-- wp:heading {"level":4,"style":{"elements":{"link":{"color":{"text":"var:preset|color|white"}}},"typography":{"fontSize":"45px","textAlign":"center"}},"textColor":"white"} -->
+<h4 class="wp-block-heading has-text-align-center has-white-color has-text-color has-link-color" style="font-size:45px"><strong>GET 15% OFF ANY PAIR OF CAVALLO HOOF BOOTS!</strong></h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"className":"has-red-color has-text-color has-link-color","style":{"elements":{"link":{"color":{"text":"var:preset|color|red"}}},"typography":{"fontSize":"40px","textAlign":"center"}},"textColor":"red"} -->
+<p class="has-text-align-center has-red-color has-text-color has-link-color" style="font-size:40px">COUPON CODE: <strong>CAVALLOREVOLUTION</strong></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"margin":{"top":"0"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group" style="margin-top:0"><!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|xs","padding":{"top":"var:preset|spacing|gap","bottom":"var:preset|spacing|gap"}},"color":{"background":"#f9fafa"}},"layout":{"type":"constrained","contentSize":"570px"}} -->
+<div class="wp-block-group has-background" style="background-color:#f9fafa;padding-top:var(--wp--preset--spacing--gap);padding-bottom:var(--wp--preset--spacing--gap)"><!-- wp:paragraph {"className":"has-dark-10-color has-text-color has-link-color","style":{"typography":{"fontSize":"50px","textAlign":"center"},"elements":{"link":{"color":{"text":"var:preset|color|dark-10"}}}},"textColor":"dark-10"} -->
+<p class="has-text-align-center has-dark-10-color has-text-color has-link-color" style="font-size:50px"><strong>Save 15%!</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list {"className":"is-style-check","fontSize":"large"} -->
+<ul class="wp-block-list is-style-check has-large-font-size"><!-- wp:list-item -->
+<li>Any Style, Any Size, Any Colour!</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>FREE SHIPPING!</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>USE COUPON CODE: <strong>CAVALLOREVOLUTION</strong></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph {"style":{"typography":{"textAlign":"center"}},"fontSize":"small"} -->
+<p class="has-text-align-center has-small-font-size">** Only Available While Supplies Last!</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:buttons {"style":{"spacing":{"margin":{"bottom":"var:preset|spacing|md"}}},"layout":{"type":"flex","justifyContent":"center"}} -->
+<div class="wp-block-buttons" style="margin-bottom:var(--wp--preset--spacing--md)"><!-- wp:button {"backgroundColor":"red","style":{"border":{"radius":"50px"}}} -->
+<div class="wp-block-button"><a class="wp-block-button__link has-red-background-color has-background wp-element-button" href="#pricing" style="border-radius:50px">Yes - I Want Boots Now</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:separator {"backgroundColor":"gray-2"} -->
+<hr class="wp-block-separator has-text-color has-gray-2-color has-alpha-channel-opacity has-gray-2-background-color has-background"/>
+<!-- /wp:separator --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:paragraph {"style":{"typography":{"textAlign":"center"}},"fontSize":"large"} -->
+<p class="has-text-align-center has-large-font-size"><strong>Get rid of hoof problems by increasing shock absorption and blood circulation, improving oxygen flow... Restoring hoof mechanism function as it was meant to be (and save money, too!)</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"id":5765,"sizeSlug":"full","linkDestination":"none","align":"center"} -->
+<figure class="wp-block-image aligncenter size-full"><img src="http://cavallo.local/wp-content/uploads/2024/10/The-equine-hoof-organ.jpg" alt="" class="wp-image-5765"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"id":5766,"sizeSlug":"full","linkDestination":"none","align":"center"} -->
+<figure class="wp-block-image aligncenter size-full"><img src="http://cavallo.local/wp-content/uploads/2024/10/Weight-bearing-1-2-qq5jn41baxis7qy39bviz2tt8izfb0dluzptwfjaro.jpg" alt="" class="wp-image-5766"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"id":5767,"sizeSlug":"full","linkDestination":"none","align":"center"} -->
+<figure class="wp-block-image aligncenter size-full"><img src="http://cavallo.local/wp-content/uploads/2024/10/thermo_imaging-2.webp" alt="" class="wp-image-5767"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|gap","bottom":"var:preset|spacing|gap"}}},"backgroundColor":"primary","layout":{"type":"constrained"}} -->
+<div class="wp-block-group has-primary-background-color has-background" style="padding-top:var(--wp--preset--spacing--gap);padding-bottom:var(--wp--preset--spacing--gap)"><!-- wp:paragraph {"className":"has-white-color has-text-color has-link-color","style":{"typography":{"fontSize":"50px","textAlign":"center"},"elements":{"link":{"color":{"text":"var:preset|color|white"}}}},"textColor":"white"} -->
+<p class="has-text-align-center has-white-color has-text-color has-link-color" style="font-size:50px"><strong>We All Know About The Problems...</strong></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:columns {"style":{"spacing":{"margin":{"bottom":"var:preset|spacing|lg"}}}} -->
+<div class="wp-block-columns" style="margin-bottom:var(--wp--preset--spacing--lg)"><!-- wp:column {"verticalAlignment":"center","width":"25%"} -->
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis:25%"><!-- wp:image {"id":5769,"aspectRatio":"9/16","scale":"cover","sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="http://cavallo.local/wp-content/uploads/2024/10/Untitled-design-5-2.webp" alt="" class="wp-image-5769" style="aspect-ratio:9/16;object-fit:cover"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"center","width":"75%"} -->
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis:75%"><!-- wp:paragraph -->
+<p>❌&nbsp;<strong>Veterinarian bills, hoof dressings, remedial shoeing or the farrier not showing up…</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>❌ Glucosamines, Arthritis Meds and Pain Killers line the tack store shelves…</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>❌ NSAIDs (non-steroidal anti-inflammatories), corticosteroids and topical cream pain killers. Currently, there are more than 80 Oral nutraceutical supplements on the market.</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>❌ Feeding and housing your horse is getting increasingly expensive, but hoof care doesn’t need to be.</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>❌ And NOW YOUR HORSE IS LAME AND SORE AGAIN. YOU DON’T HAVE TIME FOR THIS. YOU JUST WANT TO RIDE!</strong></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"style":{"typography":{"textAlign":"center"}}} -->
+<h2 class="wp-block-heading has-text-align-center">RADIOGRAPHS, NERVE BLOCKS – WHAT’S NEXT?</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"typography":{"textAlign":"center"}},"fontSize":"large"} -->
+<p class="has-text-align-center has-large-font-size"><strong>My Rocky, my first horse, my love, would still be here today if I knew then what I do now. I found out the hard way. All his pain and suffering could have been avoided.&nbsp;</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"typography":{"textAlign":"center"}},"fontSize":"large"} -->
+<p class="has-text-align-center has-large-font-size"><strong>I NOW DEDICATE MY LIFE TO SHARING THE SOLUTION WITH&nbsp;YOU!</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:separator {"backgroundColor":"gray-2"} -->
+<hr class="wp-block-separator has-text-color has-gray-2-color has-alpha-channel-opacity has-gray-2-background-color has-background"/>
+<!-- /wp:separator --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|gap"}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"style":{"elements":{"link":{"color":{"text":"var:preset|color|red"}}},"typography":{"textAlign":"center"}},"textColor":"red"} -->
+<h2 class="wp-block-heading has-text-align-center has-red-color has-text-color has-link-color"><strong>GET 15% OFF ANY SIZE CAVALLO BOOTS NOW:</strong></h2>
+<!-- /wp:heading -->
+
+<!-- wp:buttons {"style":{"spacing":{"margin":{"bottom":"var:preset|spacing|md"}}},"layout":{"type":"flex","justifyContent":"center"}} -->
+<div class="wp-block-buttons" style="margin-bottom:var(--wp--preset--spacing--md)"><!-- wp:button {"backgroundColor":"red","style":{"border":{"radius":"50px"}}} -->
+<div class="wp-block-button"><a class="wp-block-button__link has-red-background-color has-background wp-element-button" href="#pricing" style="border-radius:50px">Yes - I Want Boots Now</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"var:preset|spacing|xxl","bottom":"var:preset|spacing|xxl"}}},"backgroundColor":"light-red-1","layout":{"type":"constrained","contentSize":""}} -->
+<div class="wp-block-group alignfull has-light-red-1-background-color has-background" style="padding-top:var(--wp--preset--spacing--xxl);padding-bottom:var(--wp--preset--spacing--xxl)"><!-- wp:columns {"verticalAlignment":"center"} -->
+<div class="wp-block-columns are-vertically-aligned-center"><!-- wp:column {"verticalAlignment":"center","width":"44.48%"} -->
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis:44.48%"><!-- wp:heading -->
+<h2 class="wp-block-heading">My Story</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"fontSize":"normal"} -->
+<p class="has-normal-font-size">My heart was broken when they put my horse down. Rocky was badly lame with ringbone, sidebone, splints and arthritis. He also had ulcers from the pain meds he was on. When I started asking, “Why would this happy, beautiful, 14-year-old horse have so many problems?”, it drove me crazy to be told that this is the way it is with horses, and I should get used to it.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"fontSize":"normal"} -->
+<p class="has-normal-font-size">I could not understand why a horse should be destined to endure lameness, pain, and dis-ease. I was shocked that people just accepted this as part and parcel of owning a horse. I was super frustrated. It wasn’t just my horse, but horses all around me had issues, too. Some problems were more obvious than others and easier to overlook. But horses had lameness, swellings, agitation, and tripping. It was just accepted as part of horse ownership. Why?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"fontSize":"normal"} -->
+<p class="has-normal-font-size">The painful death of my first horse was a pivotal point in my life. I became committed – in fact, obsessed- with finding answers. I went on to own several horses, who I couldn’t keep 100% sound 100% of the time. I would give them stall rest, or change the exercise program, or change the farrier, or the feed, or the supplements, but sure enough sooner or later – I’d go out to the barn and there it would be again – maybe not full-on lameness this time, but the peaked eye lid, the swishing tail, the inability to pick up the correct lead. The indications that things are not quite right. It was hard to know the problem exactly.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"center","width":"","style":{"spacing":{"padding":{"right":"0","left":"0","top":"0","bottom":"0"}}},"layout":{"type":"constrained","contentSize":"585px","justifyContent":"right","wideSize":""}} -->
+<div class="wp-block-column is-vertically-aligned-center" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:image {"id":333574,"scale":"cover","sizeSlug":"full","linkDestination":"none","style":{"color":{"duotone":"unset"},"border":{"width":"0px","style":"none","radius":"10px"}}} -->
+<figure class="wp-block-image size-full has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2026/01/Carole-Herder-president-of-Cavallo-frustrated-with-metal-horseshoes.jpg" alt="Carole Herder, president of Cavallo frustrated with metal horseshoes" class="wp-image-333574" style="border-style:none;border-width:0px;border-radius:10px;object-fit:cover"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|md"}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:paragraph {"style":{"typography":{"textAlign":"center"}},"fontSize":"large"} -->
+<p class="has-text-align-center has-large-font-size"><strong>I’ll never forget THAT ONE day… Just before heading off to a competition, my horse was lame. AGAIN. I LOST IT. I just sat down in the paddock. As I stared at my horse – it hit me.&nbsp;</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:separator {"backgroundColor":"gray-2"} -->
+<hr class="wp-block-separator has-text-color has-gray-2-color has-alpha-channel-opacity has-gray-2-background-color has-background"/>
+<!-- /wp:separator -->
+
+<!-- wp:paragraph {"style":{"typography":{"textAlign":"center"}},"fontSize":"huge"} -->
+<p class="has-text-align-center has-huge-font-size"><strong>Then...I had the Epiphany</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:separator {"backgroundColor":"gray-2"} -->
+<hr class="wp-block-separator has-text-color has-gray-2-color has-alpha-channel-opacity has-gray-2-background-color has-background"/>
+<!-- /wp:separator -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column {"verticalAlignment":"center"} -->
+<div class="wp-block-column is-vertically-aligned-center"><!-- wp:image {"id":5779,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="http://cavallo.local/wp-content/uploads/2024/10/4-2-800x556-1.jpg" alt="" class="wp-image-5779"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading {"level":1} -->
+<h1 class="wp-block-heading">IT'S THEIR HOOVES!</h1>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>These tiny feet on big athletic bodies, and we’re screwing them up and restricting them. We’re not keeping it natural. We’re clamping their foundation – the base of their bodies, nailing metal into them! How can this be a good thing?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>What if we didn’t have to do this? What if we could leave them natural and barefoot as God intended? Like they have survived on the planet for 50,000,000 – that’s 50 million years! Their hooves are not a design flaw that we have to correct by nailing metal into them.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>What if they could take us over any terrain at any speed with hoof boots for protection and then when we get home, they could be natural, free and  BAREFOOT.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column {"verticalAlignment":"center"} -->
+<div class="wp-block-column is-vertically-aligned-center"><!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:paragraph {"fontSize":"x-large"} -->
+<p class="has-x-large-font-size">Ride anywhere with 100% hoof protection without…</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"fontSize":"x-large"} -->
+<p class="has-x-large-font-size">– Clamping</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"fontSize":"x-large"} -->
+<p class="has-x-large-font-size">– Restricting&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"fontSize":"x-large"} -->
+<p class="has-x-large-font-size">– Losing shoes&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"fontSize":"x-large"} -->
+<p class="has-x-large-font-size">– Waiting for the farrier or causing damage to the hoofs and further up your horse’s structure.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"center"} -->
+<div class="wp-block-column is-vertically-aligned-center"><!-- wp:image {"id":5780,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="http://cavallo.local/wp-content/uploads/2024/10/Cavallo-Grid-2.webp" alt="" class="wp-image-5780"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|gutter","bottom":"var:preset|spacing|gutter","left":"var:preset|spacing|gutter","right":"var:preset|spacing|gutter"}}},"backgroundColor":"light-red-1","layout":{"type":"constrained"}} -->
+<div class="wp-block-group has-light-red-1-background-color has-background" style="padding-top:var(--wp--preset--spacing--gutter);padding-right:var(--wp--preset--spacing--gutter);padding-bottom:var(--wp--preset--spacing--gutter);padding-left:var(--wp--preset--spacing--gutter)"><!-- wp:columns {"style":{"spacing":{"padding":{"right":"0","left":"0"}}}} -->
+<div class="wp-block-columns" style="padding-right:0;padding-left:0"><!-- wp:column {"verticalAlignment":"center","width":"25%","style":{"spacing":{"padding":{"right":"0","left":"0"}}}} -->
+<div class="wp-block-column is-vertically-aligned-center" style="padding-right:0;padding-left:0;flex-basis:25%"><!-- wp:image {"id":5786,"aspectRatio":"9/16","scale":"cover","sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="http://cavallo.local/wp-content/uploads/2024/10/8-scaled-3-1.jpg" alt="" class="wp-image-5786" style="aspect-ratio:9/16;object-fit:cover"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"center","width":"75%"} -->
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis:75%"><!-- wp:paragraph {"fontSize":"x-large"} -->
+<p class="has-x-large-font-size">Just choose from our array of hoof boot styles below, and we will PAY THE SHIPPING, too!<br><br>From minis to drafts, on any terrain, Cavallo Hoof Boots are the Most trusted boots in the World</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:paragraph {"style":{"typography":{"textAlign":"center"}}} -->
+<p class="has-text-align-center"><em>&nbsp;Offer holds no cash value ~ Cannot be combined with any other offer ~ Cavallo reserves the right to refuse supply ~ Offer valid Canada &amp; USA only ~ Free shipping included ~ Offer only available for a limited time ~ For reasonable personal use only&nbsp;</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|gap","bottom":"var:preset|spacing|gap","left":"var:preset|spacing|gutter","right":"var:preset|spacing|gutter"}}},"backgroundColor":"black","layout":{"type":"constrained"}} -->
+<div class="wp-block-group has-black-background-color has-background" style="padding-top:var(--wp--preset--spacing--gap);padding-right:var(--wp--preset--spacing--gutter);padding-bottom:var(--wp--preset--spacing--gap);padding-left:var(--wp--preset--spacing--gutter)"><!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column {"verticalAlignment":"center","width":"30%"} -->
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis:30%"><!-- wp:image {"id":5788,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="http://cavallo.local/wp-content/uploads/2024/10/Cavallo-Guarantee-2-2.webp" alt="" class="wp-image-5788"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"center","width":"70%"} -->
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis:70%"><!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|white"}}}},"textColor":"white","fontSize":"huge"} -->
+<p class="has-white-color has-text-color has-link-color has-huge-font-size">BEST BOOT WARRANTY</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|white"}}}},"textColor":"white"} -->
+<p class="has-white-color has-text-color has-link-color"><strong>Cavallo guarantees the quality and workmanship of Cavallo Hoof Boots for 180 DAYS from the date of purchase. Subject to approval from place of purchase, Cavallo will reimburse for repair or replace your boots against faulty workmanship. The guarantee does not cover natural wear-and-tear, inappropriate use, modifications, changes or alterations, unattended horses, incorrect sizing, excessive heat exposure, exposure to sharp objects, or use with metal shoes without Cavallo High Tenacity Protection Pads in place.</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|white"}}}},"textColor":"white"} -->
+<p class="has-white-color has-text-color has-link-color"><strong>To be fully protected by the Cavallo Best Boot 180 Day Warranty, Cavallo Hoof Boots must be purchased from a recognized Cavallo retailer. Cavallo Hoof Boots purchased as “used” or “second-hand” are not covered under the Cavallo Best Boot 180 Day Warranty.</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|white"}}}},"textColor":"white","fontSize":"x-large"} -->
+<p class="has-white-color has-text-color has-link-color has-x-large-font-size"><strong>Boots must be returned to place of purchase, clean, washed dry and free of debris, manure and dirt with dated original receipt and shipping paid.</strong></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"style":{"typography":{"textAlign":"center"}}} -->
+<h2 class="wp-block-heading has-text-align-center">INDUSTRY ICONS LOVE CAVALLO BOOTS:</h2>
+<!-- /wp:heading -->
+
+<!-- wp:spacer {"height":"41px"} -->
+<div style="height:41px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column {"layout":{"type":"constrained"}} -->
+<div class="wp-block-column"><!-- wp:embed {"url":"https://www.youtube.com/watch?v=hKObEDTghj4","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://www.youtube.com/watch?v=hKObEDTghj4
+</div></figure>
+<!-- /wp:embed --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"layout":{"type":"constrained"}} -->
+<div class="wp-block-column"><!-- wp:embed {"url":"https://www.youtube.com/watch?v=FjFBNzUe7Cw","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://www.youtube.com/watch?v=FjFBNzUe7Cw
+</div></figure>
+<!-- /wp:embed --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"layout":{"type":"constrained"}} -->
+<div class="wp-block-column"><!-- wp:embed {"url":"https://youtu.be/T3c3FDbmKic","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-4-3 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://youtu.be/T3c3FDbmKic
+</div></figure>
+<!-- /wp:embed --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"style":{"typography":{"textAlign":"center"}}} -->
+<h2 class="wp-block-heading has-text-align-center">SEE WHAT YOUR FELLOW RIDERS ARE SAYING</h2>
+<!-- /wp:heading -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"id":5793,"width":"auto","height":"40px","sizeSlug":"full","linkDestination":"none","align":"center"} -->
+<figure class="wp-block-image aligncenter size-full is-resized"><img src="http://cavallo.local/wp-content/uploads/2024/10/5-star-review-Cavallo-Hoof-Boots.webp" alt="" class="wp-image-5793" style="width:auto;height:40px"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>"I can’t say enough about these durable, well-constructed boots and would highly recommend them to anyone. My farrier did quietly say the boots could put him out of business if everyone caught on to these… Once again they are the BOMB!!!"<br><strong>- Martha W.</strong></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"id":5793,"width":"auto","height":"40px","sizeSlug":"full","linkDestination":"none","align":"center"} -->
+<figure class="wp-block-image aligncenter size-full is-resized"><img src="http://cavallo.local/wp-content/uploads/2024/10/5-star-review-Cavallo-Hoof-Boots.webp" alt="" class="wp-image-5793" style="width:auto;height:40px"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>"Just can’t get over how easy it was to fit them and how helpful you guys have been and they were matched with boots that fit like gloves, I seriously can not believe that everyone isn’t using these boots, took me 30 seconds to fit both! Literally, 30 seconds, I am over the moon! No more metal!!"<br><strong>- Melanie A.</strong></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"id":5793,"width":"auto","height":"40px","sizeSlug":"full","linkDestination":"none","align":"center"} -->
+<figure class="wp-block-image aligncenter size-full is-resized"><img src="http://cavallo.local/wp-content/uploads/2024/10/5-star-review-Cavallo-Hoof-Boots.webp" alt="" class="wp-image-5793" style="width:auto;height:40px"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>"When I saw the Cavallos at Equine Affaire, I was pretty excited – they looked like they would stay put on the hoof. They can also be fitted with studs, which means that my horse – who is always barefoot in the winter – can safely walk out on icy roads…”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>- Horse Trail Chicks</strong></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:separator {"backgroundColor":"gray-2"} -->
+<hr class="wp-block-separator has-text-color has-gray-2-color has-alpha-channel-opacity has-gray-2-background-color has-background"/>
+<!-- /wp:separator --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|gap"}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"style":{"elements":{"link":{"color":{"text":"var:preset|color|red"}}},"typography":{"textAlign":"center"}},"textColor":"red"} -->
+<h2 class="wp-block-heading has-text-align-center has-red-color has-text-color has-link-color"><strong>GET 15% OFF ANY SIZE CAVALLO BOOTS NOW:</strong></h2>
+<!-- /wp:heading -->
+
+<!-- wp:buttons {"style":{"spacing":{"margin":{"bottom":"var:preset|spacing|md"}}},"layout":{"type":"flex","justifyContent":"center"}} -->
+<div class="wp-block-buttons" style="margin-bottom:var(--wp--preset--spacing--md)"><!-- wp:button {"backgroundColor":"red","style":{"border":{"radius":"50px"}}} -->
+<div class="wp-block-button"><a class="wp-block-button__link has-red-background-color has-background wp-element-button" href="#pricing" style="border-radius:50px">Yes - I Want Boots Now</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:group -->
+
+<!-- wp:block {"ref":333715} /-->

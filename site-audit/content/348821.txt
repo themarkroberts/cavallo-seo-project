@@ -1,0 +1,65 @@
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"level":1} -->
+<h1 class="wp-block-heading">Julie Goodnight's Team Puts Cavallo Trek to the Test!</h1>
+<!-- /wp:heading --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column {"width":"350px","layout":{"type":"constrained"}} -->
+<div class="wp-block-column" style="flex-basis:350px"><!-- wp:image {"id":25077} -->
+<figure class="wp-block-image"><img src="https://old.cavallo.local/wp-content/uploads/2020/03/Julie-Goodnight-Cavallo-Horse-Hoof-Boots-1-768x1152.jpg" alt="Julie Goodnight Cavallo Horse Hoof Boots" class="wp-image-25077"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading">Julie Goodnight: A Dynamic Force in Horsemanship and the Saddle</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="https://en.wikipedia.org/wiki/Julie_Goodnight" target="_blank" rel="noreferrer noopener">Julie Goodnight</a> is a multidisciplinary rider and clinician with experience in dressage, jumping, racing, reining, colt starting, cutting, and wilderness riding.  Here’s what we did with Julie Goodnight’s Cavallo Boots:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading">Julie Goodnight’s Team is Tough on Boots!</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>We wanted to put <a href="https://old.cavallo.local/product-category/hoof-boot-accessories/" target="_blank" rel="noreferrer noopener">Cavallo Horse Hoof Boots</a> through the toughest conditions possible. So who did we call? Julie Goodnight  – one of North America’s top experts on horse equipment! <a href="https://youtu.be/R2x0zwJyQdk" target="_blank" rel="noreferrer noopener">In the video below</a>, Julie Goodnight films her top rider, Melissa Arnold, to test their Cavallos. This is one steep hill, and Melissa is NOT backing down! She has no trouble galloping straight up and going right back down in her Trek Horse Hoof Boots!</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:embed {"url":"https://youtu.be/R2x0zwJyQdk?si=JUVRT9xXNcNHJuKp","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://youtu.be/R2x0zwJyQdk?si=JUVRT9xXNcNHJuKp
+</div></figure>
+<!-- /wp:embed --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading">Julie's Praise for Carole Herder’s Book – There are no Horseshoes in Heaven</h4>
+<!-- /wp:heading --></div>
+<!-- /wp:group -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column {"width":"380px","layout":{"type":"constrained"}} -->
+<div class="wp-block-column" style="flex-basis:380px"><!-- wp:image {"id":188423,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="http://cavallo.local/wp-content/uploads/2024/05/horseshoes-1-1.jpg" alt="Carole Herder's book, No Horseshoes in Heaven" class="wp-image-188423"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:paragraph -->
+<p>After reading Carole Herder’s book, There Are No<a href="https://www.amazon.com/There-Are-Horseshoes-Heaven-Tradition-ebook/dp/B01BMYYRZ6/ref=sr_1_1?keywords=there+are+no+horse+shoes+in+heaven&amp;qid=1583275600&amp;sr=8-1" target="_blank" rel="noreferrer noopener"> Horseshoes in Heaven</a>, Julie gave this beautiful testimonial:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><em>“Carole and I share a deeply rooted passion for horses and their welfare. I applaud her ground-breaking research and her courage to think for herself and to follow her heart. This is a compelling read with pertinent, thought-provoking insights.”</em><br><br> — Julie Goodnight</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->

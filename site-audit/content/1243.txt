@@ -1,0 +1,15 @@
+<!-- wp:image {"id":5109,"width":"345px","height":"auto","sizeSlug":"full","linkDestination":"none","align":"left"} -->
+<figure class="wp-block-image alignleft size-full is-resized"><img src="http://cavallo.local/wp-content/uploads/2013/09/Me-and-my-horse-Casanova.jpg" alt="" class="wp-image-5109" style="width:345px;height:auto"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>Feedback from another happy Cavallo customer.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>With the heat and dryness of the drought conditions in Texas, the ground has gotten to be so hard! My Cavallo Simple hoof Boots have really helped my competition horses' feet stay in the right conditions for their extensive training programs and keeps me from worrying about stone bruises and chipping of the walls.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Thanks!<br>Katherine, Texas, USA</p>
+<!-- /wp:paragraph -->

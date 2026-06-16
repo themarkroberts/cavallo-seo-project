@@ -1,0 +1,45 @@
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"textAlign":"center","level":1} -->
+<h1 class="wp-block-heading has-text-align-center">Which Cavallo Hoof Boot is Right for Your Horse?</h1>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"textAlign":"center","level":5} -->
+<h5 class="wp-block-heading has-text-align-center">Here’s your Introduction to our Cavallo Boot styles, so you can make the perfect choice for your horse!<br></h5>
+<!-- /wp:heading --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"textAlign":"left","level":5} -->
+<h5 class="wp-block-heading has-text-align-left">Greg Explains the Evolution of Cavallo Hoof Boots:</h5>
+<!-- /wp:heading -->
+
+<!-- wp:embed {"url":"https://www.youtube.com/watch?v=O8Wvw4Rr-vI","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://www.youtube.com/watch?v=O8Wvw4Rr-vI
+</div></figure>
+<!-- /wp:embed --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"textAlign":"left","level":5} -->
+<h5 class="wp-block-heading has-text-align-left">Discover the Features that Make Cavallo the World’s Top Hoof Boot:</h5>
+<!-- /wp:heading -->
+
+<!-- wp:embed {"url":"https://www.youtube.com/watch?v=3dxxEjXlSPM","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://www.youtube.com/watch?v=3dxxEjXlSPM
+</div></figure>
+<!-- /wp:embed --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:acf/banner-cta {"name":"acf/banner-cta","data":{"text":"\u003ch3 style=\u0022text-align: center;\u0022\u003eFree Sizing Service: Let Us Do the Work\u003c/h3\u003e\r\
+\u003cp style=\u0022text-align: center;\u0022\u003e\u003cspan style=\u0022font-size: 20px;\u0022\u003eFor Best Results, Send Us Your Photos for a FREE Expert Sizing Recommendation:\u003c/span\u003e\u003c/p\u003e","_text":"field_66f10c7106c07","cta":{"title":"Upload Your Photos","url":"#","target":""},"_cta":"field_66f10c9706c08","upload_modal":"1","_upload_modal":"field_66f11861256ea","html_anchor":"","_html_anchor":"field_672f5663be83a"},"mode":"preview"} /-->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:acf/team {"name":"acf/team","data":{"text":"\u003c!\u002d\u002d wp:heading {\u0022textAlign\u0022:\u0022left\u0022,\u0022level\u0022:5} \u002d\u002d\u003e\r\
+\u003ch5 class=\u0022wp-block-heading has-text-align-left\u0022\u003eAny Questions?\u003c/h5\u003e\r\
+\u003ch5 class=\u0022wp-block-heading has-text-align-left\u0022\u003e\u003ca href=\u0022http://cavallo.local/ask-an-expert\u0022 target=\u0022_blank\u0022 rel=\u0022noopener\u0022\u003eContact us at Cavallo\u003c/a\u003e - we’ll be happy to help you and your horse find just the right style!\u003c/h5\u003e\r\
+\u003c!\u002d\u002d /wp:heading \u002d\u002d\u003e","_text":"field_66eacf4c7e7aa","posts":["3536","3552","3554","3556","3557","3564","3559","3562","3566","202644","202928"],"_posts":"field_66ead06ed9dda","html_anchor":"","_html_anchor":"field_672f5663be83a"},"mode":"edit"} /--></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->

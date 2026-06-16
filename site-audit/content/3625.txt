@@ -1,0 +1,25 @@
+<!-- wp:group {"style":{"background":{"backgroundImage":{"url":"http://cavallo.local/wp-content/uploads/2024/09/image-29.gif","id":760,"source":"file","title":"image 29"},"backgroundPosition":"100% 50%"},"spacing":{"margin":{"top":"0","bottom":"0"},"padding":{"top":"40px","bottom":"40px"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group" style="margin-top:0;margin-bottom:0;padding-top:40px;padding-bottom:40px"><!-- wp:heading {"textAlign":"center","level":1,"style":{"elements":{"link":{"color":{"text":"var:preset|color|white"}}}},"textColor":"white"} -->
+<h1 class="wp-block-heading has-text-align-center has-white-color has-text-color has-link-color">Need Help? Ask an Expert</h1>
+<!-- /wp:heading --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|xxl","bottom":"var:preset|spacing|xxl"},"margin":{"top":"0","bottom":"0"}}},"backgroundColor":"light-red-1","layout":{"type":"constrained","contentSize":"706px"}} -->
+<div class="wp-block-group has-light-red-1-background-color has-background" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--xxl);padding-bottom:var(--wp--preset--spacing--xxl)"><!-- wp:paragraph {"style":{"spacing":{"margin":{"bottom":"37px"}}}} -->
+<p style="margin-bottom:37px">Don’t forget to read our <a href="http://cavallo.local/how-to-measure/">Measuring Guide </a>and see our <a href="http://cavallo.local/faq/">FAQ Page</a> for commonly asked questions.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":347532,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="http://cavallo.local/wp-content/uploads/2026/03/Taking-measurement-photos-Length-Cavalo-Hoof-Boots-LR.jpg" alt="" class="wp-image-347532"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"0","bottom":"0","left":"0","right":"0"},"margin":{"top":"46px","bottom":"0"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group" style="margin-top:46px;margin-bottom:0;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:gravityforms/form {"formId":"4","title":false,"description":false,"ajax":true,"inputPrimaryColor":"#204ce5"} /--></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:acf/team {"name":"acf/team","data":{"text":"\u003ch2 style=\u0022text-align: center;\u0022\u003eMeet Your Cavallo Team\u003c/h2\u003e\r\
+\u003cp style=\u0022text-align: center;\u0022\u003e\u003cspan style=\u0022font-size: 20px;\u0022\u003eChanging the world… one horse at a time.\u003c/span\u003e\u003c/p\u003e","_text":"field_66eacf4c7e7aa","posts":["3536","3552","3554","3556","3557","3559","3562","3564","202928","3566","202644"],"_posts":"field_66ead06ed9dda","html_anchor":"","_html_anchor":"field_672f5663be83a"},"mode":"edit"} /-->
+
+<!-- wp:acf/subscribe {"name":"acf/subscribe","data":{"title":"\u003ch2\u003eReceive Special Offers\u003c/h2\u003e\r\
+Sign up for our newsletter to get 10% off your first order, alongside exclusive promotions, industry news, tutorials, and more!","_title":"field_667bf8d5dd581","background_image":163,"_background_image":"field_667bfbf6dd582","form":"1","_form":"field_667bfc04dd583","html_anchor":"","_html_anchor":"field_672f5663be83a"},"mode":"edit"} /-->

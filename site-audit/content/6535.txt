@@ -1,0 +1,13 @@
+<!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|gap"}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"textAlign":"center","level":1} -->
+<h1 class="wp-block-heading has-text-align-center">See Where Your Cavallo Boots Will Take You - Video</h1>
+<!-- /wp:heading -->
+
+<!-- wp:embed {"url":"https://www.youtube.com/watch?v=HNc3xuXr90o","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://www.youtube.com/watch?v=HNc3xuXr90o
+</div></figure>
+<!-- /wp:embed --></div>
+<!-- /wp:group -->
+
+<!-- wp:acf/featured-products {"name":"acf/featured-products","data":{"version":"slider","_version":"field_66cf1d8c0c859","title":"Featured Products","_title":"field_66b86a9496e9d","items":["201999","7189","201974"],"_items":"field_66b86b1596ea1","html_anchor":"","_html_anchor":"field_672f5663be83a"},"mode":"edit"} /-->

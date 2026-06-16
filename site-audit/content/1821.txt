@@ -1,0 +1,173 @@
+<!-- wp:paragraph -->
+<p>What's your Cavallo Community up to? Read on to find out!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">We Ride Sport &amp; Trail Magazine</h3>
+<!-- /wp:heading -->
+
+<!-- wp:image {"id":23955,"linkDestination":"custom","align":"left"} -->
+<figure class="wp-block-image alignleft"><a href="https://weride-magazine.com/magazine/december-2019/" target="_blank" rel="noopener noreferrer"><img src="http://cavallo.local/wp-content/uploads/2020/01/We-Ride-Sport-Trail-Magazine-December-2019-1-300x300.jpg" alt="We Ride Sport &amp; Trail Magazine December 2019" class="wp-image-23955"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>In December's issue, enjoy articles by Morgan horse breeder, trainer and Cowboy Dressage expert, Jeff Wilson, and Parelli Professional Nancy Slater. Read about a fascinating herd of “brothers”...three Frisians known as the "Forest Boyz," owned by Laura Zugzda.&nbsp; This issue also features a horse rescue from Minnesota called "This Old Horse".</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>I also have an article in this issue about last year's study at Western Kentucky University.&nbsp; Professor Jennifer Gill and student Gabriella Lynn used our Cavallo Trek Boots to find out if hoof boots indeed reduce load impact on the hoof.&nbsp; The results?&nbsp; Read on to find out! ;)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading"><a href="https://weride-magazine.com/magazine/december-2019/" target="_blank" rel="noopener noreferrer">READ HERE</a></h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Emma Massingale</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>We always look SO forward to the next <a href="https://www.youtube.com/user/Emmassingale" target="_blank" rel="noopener noreferrer">Emma video</a>...and this one's a cutie.&nbsp; Emma's Pets get a day of pampering, and no one is left out - not even her pig, who fits quite nicely in the bathtub, thank you very much!&nbsp; Enjoy!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:embed {"url":"https://youtu.be/w-5_m2Bm-Fk","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://youtu.be/w-5_m2Bm-Fk
+</div></figure>
+<!-- /wp:embed -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Trailmeister - January 2020 Newsletter</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Watch Trailmeister's "Year on the Trails" video looking back on 2019 and previewing what 2020 has yet to bring!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading"><a href="https://www.trailmeister.com/january-2020-newsletter/?cat=1" target="_blank" rel="noopener noreferrer">READ NEWSLETTER HERE</a></h3>
+<!-- /wp:heading -->
+
+<!-- wp:image {"id":23957,"linkDestination":"custom","align":"center"} -->
+<figure class="wp-block-image aligncenter"><a href="https://www.trailmeister.com/january-2020-newsletter/?cat=1" target="_blank" rel="noopener noreferrer"><img src="http://cavallo.local/wp-content/uploads/2020/01/Trailmeister-January-2020-Newsletter-1.jpg" alt="Trailmeister January 2020 Newsletter" class="wp-image-23957"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Equi-Ads Magazine UK - January 2020 Issue</h3>
+<!-- /wp:heading -->
+
+<!-- wp:image {"id":23959,"linkDestination":"custom","align":"left"} -->
+<figure class="wp-block-image alignleft"><a href="https://en.calameo.com/read/00000430600831c2a7310" target="_blank" rel="noopener noreferrer"><img src="http://cavallo.local/wp-content/uploads/2020/01/Equiads-Magazine-January-2020-issue-1.jpg" alt="Equiads Magazine January 2020 issue" class="wp-image-23959"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>You can always count on Equi-Ads for the most up-to-date content...and it's FREE!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>In this issue, enjoy my article "Traction for Winter Action."&nbsp; There's no need to feel frustrated by Winter weather, and that horse of yours loves to move!&nbsp; Find out how you and your horse can ride your way through Winter safely!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading"><a href="https://en.calameo.com/read/00000430600831c2a7310" target="_blank" rel="noopener noreferrer">READ HERE</a></h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:spacer {"height":"1px"} -->
+<div style="height:1px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Monty Roberts</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Monty Roberts will be hosting <a href="https://themovement2020.com/" target="_blank" rel="noopener noreferrer">The Movement</a> again in 2020 at Flag is Up Farms.&nbsp; This year's event boasts a n exceptional guest - <a href="https://www.templegrandin.com/" target="_blank" rel="noopener noreferrer">Dr. Temple Grandin!</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading"><a href="https://themovement2020.com/" target="_blank" rel="noopener noreferrer">CLICK TO LEARN MORE</a></h3>
+<!-- /wp:heading -->
+
+<!-- wp:image {"id":23962,"linkDestination":"custom","align":"center"} -->
+<figure class="wp-block-image aligncenter"><a href="https://themovement2020.com/" target="_blank" rel="noopener noreferrer"><img src="http://cavallo.local/wp-content/uploads/2020/01/The-movement-Monty-Roberts-Temple-Grandin-1.jpg" alt="The movement - Monty Roberts Temple Grandin 2020" class="wp-image-23962"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Best of America by Horseback Newsletter - December 2019</h3>
+<!-- /wp:heading -->
+
+<!-- wp:image {"id":23960,"linkDestination":"custom","align":"left"} -->
+<figure class="wp-block-image alignleft"><a href="https://myemail.constantcontact.com/December-2019-Newsletter---Back-in-the-Saddle.html?soid=1122440115424&amp;aid=LFQkG0rJBkY" target="_blank" rel="noopener noreferrer"><img src="http://cavallo.local/wp-content/uploads/2020/01/Best-of-America-by-Horseback-Newsletter-2-1-202x300.jpg" alt="Best of America by Horseback Newsletter" class="wp-image-23960"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>Each Best of America by Horseback Newsletter has an article from TV show host, Tom Seay, updates on gorgeous rides (that you can join!), and so much more!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>This issue also has an article written by Yours Truly, about a question we often get asked:&nbsp; Can you Jump n your Cavallos?&nbsp; You bet your (hoof) booties you can!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>ALSO - Did you know that each BOABH monthly newsletter has a <a href="http://cavallo.local/product-category/hoof-boot/trek-hoof-boots/" target="_blank" rel="noopener noreferrer">Cavallo Trek Boot</a> giveaway?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading"><a href="https://myemail.constantcontact.com/December-2019-Newsletter---Back-in-the-Saddle.html?soid=1122440115424&amp;aid=LFQkG0rJBkY" target="_blank" rel="noopener noreferrer">READ ON!</a></h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Wishing you many inspired rides,</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":11988,"linkDestination":"custom","align":"left"} -->
+<figure class="wp-block-image alignleft"><a href="https://www.amazon.com/There-are-Horseshoes-Heaven-Tradition/dp/1523978163"><img src="http://cavallo.local/wp-content/uploads/2018/08/Caroles-signature-with-click-here-452x261.jpg" alt="Carole Herder's book - There are no Horseshoes in Heaven" class="wp-image-11988"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->

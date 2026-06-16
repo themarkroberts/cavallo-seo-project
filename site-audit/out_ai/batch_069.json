@@ -1,0 +1,86 @@
+[
+  {
+    "id": "6717",
+    "content_format": "Video page",
+    "summary": "Profile of Tom Seay and his TV show Best of America by Horseback, who uses and endorses Cavallo hoof boots and saddle pads on long-distance trail rides.",
+    "key_components": ["Video embed", "Table of contents/sections", "Testimonials"],
+    "primary_cta": "None"
+  },
+  {
+    "id": "6721",
+    "content_format": "Video page",
+    "summary": "Short video-led page introducing Cavallo's range of hoof boot styles to help riders choose the right boot, including a clip on the boots' evolution and features.",
+    "key_components": ["Video embed"],
+    "primary_cta": "None"
+  },
+  {
+    "id": "6727",
+    "content_format": "Standard article (text + images)",
+    "summary": "Educational article on barefoot hoof care, explaining the benefits of going barefoot versus metal shoeing and how the hoof functions without shoes.",
+    "key_components": ["Image gallery", "Bulleted list", "CTA button"],
+    "primary_cta": "Download the Bare Facts"
+  },
+  {
+    "id": "6734",
+    "content_format": "Video page",
+    "summary": "Profile of horse trainer Sandi Simons and her Creating Confidence program, explaining why she recommends Cavallo hoof boots to her students for shoeless hoof protection.",
+    "key_components": ["Video embed", "Testimonials"],
+    "primary_cta": "None"
+  },
+  {
+    "id": "6737",
+    "content_format": "Video page",
+    "summary": "Webinar replay video featuring Dr. Tomas Teskey, DVM, on equine physiology, overall horse care, and the role of dentistry in hoof health.",
+    "key_components": ["Video embed"],
+    "primary_cta": "None"
+  },
+  {
+    "id": "6844",
+    "content_format": "Product page",
+    "summary": "Product page for the Cavallo BFB (Big Foot Boot) for draft and large-hoofed horses, sold as single boots in Regular sole sizes 7-10, made of 1680 Denier nylon.",
+    "key_components": ["Image gallery", "Video embed", "Table of contents/sections", "Bulleted list", "Product gallery", "Add-to-cart", "Product tabs"],
+    "primary_cta": "Add to cart"
+  },
+  {
+    "id": "6859",
+    "content_format": "Product page",
+    "summary": "Product page for Cavallo ProFlex Splint, Turnout and Brushing leg boots in black, sold in pairs, highlighting flexible, tear-resistant ProMesh TPU leg protection.",
+    "key_components": ["Bulleted list", "Product gallery", "Add-to-cart", "Product tabs"],
+    "primary_cta": "Add to cart"
+  },
+  {
+    "id": "6929",
+    "content_format": "Product page",
+    "summary": "Product page for the Cavallo Canine genuine leather dog leash in Cocoa & Cinnamon, a premium-quality leash matching Cavallo's signature standards.",
+    "key_components": ["Product gallery", "Add-to-cart", "Product tabs"],
+    "primary_cta": "Add to cart"
+  },
+  {
+    "id": "6934",
+    "content_format": "Product page",
+    "summary": "Product page for the Cavallo Canine genuine leather dog collar in Cocoa & Cinnamon, a premium soft-leather collar matching Cavallo's quality standards.",
+    "key_components": ["Product gallery", "Add-to-cart", "Product tabs"],
+    "primary_cta": "Add to cart"
+  },
+  {
+    "id": "6939",
+    "content_format": "Product page",
+    "summary": "Product page for the Cavallo Canine genuine leather dog leash in Kelly Green, a premium-quality leash matching Cavallo's signature standards.",
+    "key_components": ["Product gallery", "Add-to-cart", "Product tabs"],
+    "primary_cta": "Add to cart"
+  },
+  {
+    "id": "6944",
+    "content_format": "Product page",
+    "summary": "Product page for the Cavallo Canine genuine leather dog collar in Kelly Green, a premium soft-leather collar matching Cavallo's quality standards.",
+    "key_components": ["Product gallery", "Add-to-cart", "Product tabs"],
+    "primary_cta": "Add to cart"
+  },
+  {
+    "id": "6949",
+    "content_format": "Product page",
+    "summary": "Product page for the Cavallo Canine genuine leather dog leash in Rose Pink, a premium-quality leash matching Cavallo's signature standards.",
+    "key_components": ["Product gallery", "Add-to-cart", "Product tabs"],
+    "primary_cta": "Add to cart"
+  }
+]

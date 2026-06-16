@@ -1,0 +1,27 @@
+<!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="http://cavallo.local/wp-content/uploads/2024/09/mounted-1024x576-e1405955332212.jpg" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>By Carole Herder</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Just last weekend at (NAPEC) North American Police Equestrian Championships, we watch on as riders navigated their horses over smoking bridges and through various timed events that simulate what might occur while on duty patrol. From the simple control of siding up to place violation dockets on vehicles to piloting their way through boisterous crowds, ear shattering clamor, slippery and dangerous footing and then standing quietly at attention, these horses are profound examples of training over impulse. Their nature, of course is to flee from danger, far and fast. Yet they obey and stand firm in the conviction that being half of a reliable team with their rider serves the greater good.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Held in Richmond Virginia, mounted units from across North America competed in blustery cold and rainy conditions. Prevailing through the inclement weather, a great time was had by all.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":1776,"align":"center"} -->
+<figure class="wp-block-image aligncenter"><img src="//cavallo.local/wp-content/uploads/2013/10/CHRnapec-1024x576.jpg" alt="" class="wp-image-1776" title="horse hoof boots"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":1773,"align":"center"} -->
+<figure class="wp-block-image aligncenter"><img src="//cavallo.local/wp-content/uploads/2013/10/secratariat-1024x576.jpg" alt="" class="wp-image-1773" title="horse hoof boots"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><br>And just as a side yet hardly insignificant piece of information, the event was held on the same grounds as the birthplace of non-other than the amazing Secretariat, winner of The Triple Crown in June 1993.<br></p>
+<!-- /wp:paragraph -->

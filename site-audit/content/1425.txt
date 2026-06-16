@@ -1,0 +1,27 @@
+<!-- wp:paragraph -->
+<p>By Carole Herder</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>What is the number one thing you have learned from horses? For me, my top lesson is definitely patience. More horses have taught me this than any other thing. Yes, some school masters will allow you to rush around and hurry things up but ultimately, you will still end up getting something wrong or falling back a few steps along the way. Youngsters are brilliant for teaching patience because if you rush them, or ask the wrong way, you will soon know about it!<br>What else can be learnt from horses? Relaxation, breathing techniques, rhythm, feel, softness, joy, happiness, body language – these are just some of the initial characteristics that horses can teach us, all of huge benefit to us and the horse of course.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":4978,"linkDestination":"custom","align":"left"} -->
+<figure class="wp-block-image alignleft"><a href="//cavallo.local/wp-content/uploads/2014/10/Blog66.png"><img src="//cavallo.local/wp-content/uploads/2014/10/Blog66.png" alt="Horse Hoof Boots" class="wp-image-4978"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>Do you recall a particular horse that taught you more than others? A friend of mine recently told me about a horse of hers, a beautiful gelding called JonJo. He was as clever and dominant as they come, and apparently deigned to allow her into his circle to see if she could live up to his high expectations. After two years of learning about each other and making slow but steady progress, she thought she had it in the bag. She did admit however that things weren’t perfect between them – she felt like she was starting to control him more than work with him, but she thought she could wing it. Unfortunately she couldn’t and ended up in hospital. What did she learn? If it doesn’t feel right then don’t continue unless you get help first! Shortly after she found another horse who not only restored her confidence hugely, but made her a better rider: if she gave the wrong aid, he wouldn’t react, if she gave the right aid he would respond beautifully. It was amazingly simple and perfect, and helped her realize how deep she was in the wrong end of the pool with JonJo!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>We often get fixated on training the horse, having to teach him how to do this, that and the other when in reality, they can do all of these things already – it is us who have to learn how to ask correctly.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:spacer {"height":"40px"} -->
+<div style="height:40px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->

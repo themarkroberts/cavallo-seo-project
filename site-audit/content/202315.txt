@@ -1,0 +1,47 @@
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:image {"id":202318,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="http://cavallo.local/wp-content/uploads/2025/04/Meet-the-new-LEB-header-1024x205.jpg" alt="Meet the new Cavallo LEB Long ear donkey hoof boot - header" class="wp-image-202318"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"textAlign":"center"} -->
+<h2 class="wp-block-heading has-text-align-center"><strong>We're pleased to introduce you to the NEW Cavallo LEB - Long Ear Donkey Hoof Boot!</strong></h2>
+<!-- /wp:heading -->
+
+<!-- wp:buttons {"style":{"spacing":{"margin":{"top":"32px"}}},"layout":{"type":"flex","justifyContent":"center"}} -->
+<div class="wp-block-buttons" style="margin-top:32px"><!-- wp:button {"backgroundColor":"red","className":"has-red-color is-style-fill","style":{"border":{"radius":"100px"}}} -->
+<div class="wp-block-button has-red-color is-style-fill"><a class="wp-block-button__link has-red-background-color has-background wp-element-button" href="http://cavallo.local/dr-jennifer-gill-western-kentucky-university-hoof-boot-study/" style="border-radius:100px" target="_blank" rel="noreferrer noopener">Meet the Donkey LEB Hoof Boot</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:columns {"verticalAlignment":"top"} -->
+<div class="wp-block-columns are-vertically-aligned-top"><!-- wp:column {"verticalAlignment":"top","width":"33.33%"} -->
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis:33.33%"><!-- wp:image {"id":202319,"width":"229px","height":"auto","sizeSlug":"full","linkDestination":"none","align":"center"} -->
+<figure class="wp-block-image aligncenter size-full is-resized"><img src="http://cavallo.local/wp-content/uploads/2025/04/Cute-Donkey-Cartoon-with-LEB-Boots-on-transparent-1.jpg" alt="Cute Donkey Cartoon with Cavallo LEB donkey hoof boots on" class="wp-image-202319" style="width:229px;height:auto"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"top","width":"66.66%","layout":{"type":"default"}} -->
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis:66.66%"><!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading"><strong>The first hoof boot of its kind…designed exclusively for donkeys!</strong></h3>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading"><strong>The Cavallo LEB (Long Ear Boot) is now available for purchase! Click here to view:</strong></h3>
+<!-- /wp:heading -->
+
+<!-- wp:buttons {"style":{"spacing":{"margin":{"top":"32px"}}},"layout":{"type":"flex"}} -->
+<div class="wp-block-buttons" style="margin-top:32px"><!-- wp:button {"backgroundColor":"red","className":"has-red-color is-style-fill","style":{"border":{"radius":"100px"}}} -->
+<div class="wp-block-button has-red-color is-style-fill"><a class="wp-block-button__link has-red-background-color has-background wp-element-button" href="http://cavallo.local/product-category/leb-long-ear-hoof-boots-for-donkeys/" style="border-radius:100px" target="_blank" rel="noreferrer noopener">View the LEB Donkey Boot</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:image {"id":331356,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="http://cavallo.local/wp-content/uploads/2025/11/LEB-Turquoise-hoof-boots-Emma-Massingale-hugging-Charlie-donkey-on-beach-wide.jpg" alt="" class="wp-image-331356"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:group -->

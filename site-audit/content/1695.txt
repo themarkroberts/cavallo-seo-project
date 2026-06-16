@@ -1,0 +1,75 @@
+<!-- wp:heading {"level":6} -->
+<h6 class="wp-block-heading">&nbsp;</h6>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Different weather patterns and vegetal growth have a significant impact on animals who live outside. Transitioning between seasons can be challenging, especially when conditions change dramatically. Properly managing some vital practices will provide your horse with the best chance for weathering these potentially severe fluctuations.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>It’s important to select feed and quantities of food based on the health and activity level of your horse. If your horse is more sedentary for a period, or older, he will need less food than if he is an extremely active competitor. An older horse may need his hay soaked to make it easier to chew and digest. If your horse seems to be struggling, it is always best to try, or at least consider, natural remedies and preventative care over chemical compounds from big pharmaceutical companies. This line of thinking then opens the controversial issue of worming; as some companies and even some veterinarians want to sell wormer products. It can be a big business for them. If you do give your horse commercial wormers, it is good practice to do it when conditions change, and I have even heard that a full moon encourages the parasites to move together at the base of the intestinal tract, which would seem like a very good time to blast them. Either way, give your horse a cycle of probiotics after the worming to help rebalance the natural flora in the gut.&nbsp;&nbsp;I have had very good success with The Dynamite Products, particularly the Dyna Pro.&nbsp;&nbsp;Click <a href="https://dynamitespecialty.com/dynapro_prebiotic_supplement/" target="_blank" rel="noopener">HERE</a> to check it out.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":10847,"align":"left","className":"wp-image-10847 size-large"} -->
+<figure class="wp-block-image alignleft wp-image-10847 size-large"><img src="//www.cavallo.local/wp-content/uploads/2018/01/2018-01-31-Hay-by-Christian-Hebell-452x299.png" alt="Photo of hay by Christian Hebell" class="wp-image-10847"/><figcaption class="wp-element-caption">Photo Credit: Christian Hebell</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Your horse’s digestive system consists of millions of micro organisms in his miles of intestinal tract that contribute to either his health and wellness or create disease and impaction. It’s good to keep things as consistent and regular as possible throughout changing conditions because the weather can really affect the growth of crops and the composition of the forage he is munching on. Again, a good way to breeze through these fluctuations is by providing a high quality Pro-Biotic to support and promote the healthy bacteria. And be wary of the ingredients the feed industry packages up and markets to us. Usually you get what you pay for. Look for good quality because often the less expensive products either have less active ingredients or cannot be readily absorbed by your horse. Of course, and as you well know, you should always make a good supply of fresh water and salt available.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><em>“Let Thy Food be Thy Medicine and Medicine Thy Food”.</em> &nbsp;– Hippocrates</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":5} -->
+<h5 class="wp-block-heading">Happy Trails,</h5>
+<!-- /wp:heading -->
+
+<!-- wp:image {"id":10645,"width":"289px","height":"auto"} -->
+<figure class="wp-block-image is-resized"><img src="//www.cavallo.local/wp-content/uploads/2017/12/CaroleSig.jpg" alt="Carole Herder's Signature" class="wp-image-10645" style="width:289px;height:auto"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":10798,"linkDestination":"custom","align":"left"} -->
+<figure class="wp-block-image alignleft"><a href="http://cavallo.local/assist-your-horse-through-season-change-2-food-and-medicine/"><img src="//www.cavallo.local/wp-content/uploads/2018/01/Caroles-Signature-2017.png" alt="Carole Herder's Signature" class="wp-image-10798"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph -->

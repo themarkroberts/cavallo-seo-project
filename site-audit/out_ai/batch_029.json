@@ -1,0 +1,86 @@
+[
+  {
+    "id": "1425",
+    "content_format": "Standard article (text + images)",
+    "summary": "Reflective blog post by Carole Herder on lessons horses teach riders, focused on patience, including a friend's story about a dominant gelding named JonJo.",
+    "key_components": ["Body text", "Single image", "Author byline"],
+    "primary_cta": "None"
+  },
+  {
+    "id": "1427",
+    "content_format": "Standard article (text + images)",
+    "summary": "Carole Herder essay on anthropomorphism and whether horses feel emotions like jealousy, illustrated with a story about a borrowed lesson horse.",
+    "key_components": ["Body text", "Single image", "Author byline"],
+    "primary_cta": "None"
+  },
+  {
+    "id": "1429",
+    "content_format": "Standard article (text + images)",
+    "summary": "Carole Herder recap of Team Cavallo's annual trip to the Spoga trade show in Germany, meeting worldwide hoof-boot distributors.",
+    "key_components": ["Body text", "Single image", "Author byline"],
+    "primary_cta": "None"
+  },
+  {
+    "id": "1431",
+    "content_format": "Standard article (text + images)",
+    "summary": "Blog post highlighting barefoot/booted horse events including the Man versus Horse Marathon in Wales and TREC championships, featuring riders using Cavallo boots.",
+    "key_components": ["Body text", "Single image", "Author byline"],
+    "primary_cta": "None"
+  },
+  {
+    "id": "1435",
+    "content_format": "Standard article (text + images)",
+    "summary": "Carole Herder article on how every horse's hooves differ, using a story of a friend's barefoot horse whose hooves cracked after diet changes.",
+    "key_components": ["Body text", "Single image", "Author byline"],
+    "primary_cta": "None"
+  },
+  {
+    "id": "1437",
+    "content_format": "Listicle",
+    "summary": "List of fun Halloween-themed horse facts and folklore, covering the Puca shape shifter, the Headless Horseman, Epona, and horse superstitions.",
+    "key_components": ["Bulleted list", "Single image"],
+    "primary_cta": "None"
+  },
+  {
+    "id": "1439",
+    "content_format": "Standard article (text + images)",
+    "summary": "Carole Herder opinion piece weighing the pros and cons of blanketing horses for cold weather and how horses naturally regulate temperature.",
+    "key_components": ["Body text", "Single image", "Author byline"],
+    "primary_cta": "None"
+  },
+  {
+    "id": "1441",
+    "content_format": "Standard article (text + images)",
+    "summary": "Carole Herder travel essay comparing African wildebeest and zebra herd behavior to domestic horses, observed on safari in Kenya's Mara North Conservancy.",
+    "key_components": ["Body text", "Image gallery", "Author byline"],
+    "primary_cta": "None"
+  },
+  {
+    "id": "1442",
+    "content_format": "Standard article (text + images)",
+    "summary": "Customer testimonial about a 28-year-old TB mare with bad feet returning to regular riding thanks to Cavallo Simple Boots.",
+    "key_components": ["Body text", "Single image", "Testimonials"],
+    "primary_cta": "None"
+  },
+  {
+    "id": "1444",
+    "content_format": "Standard article (text + images)",
+    "summary": "Educational post explaining White Line Disease (Seedy Toe) in horse hooves, its bacterial/fungal causes, prevalence, and treatment.",
+    "key_components": ["Body text", "Single image", "Author byline"],
+    "primary_cta": "None"
+  },
+  {
+    "id": "1446",
+    "content_format": "Standard article (text + images)",
+    "summary": "Carole Herder piece on fixing saddle-fit problems, contrasting two horses' backs and listing the benefits of Cavallo memory-foam saddle pads.",
+    "key_components": ["Body text", "Image gallery", "Bulleted list", "Author byline"],
+    "primary_cta": "Shop saddle pads"
+  },
+  {
+    "id": "1449",
+    "content_format": "Standard article (text + images)",
+    "summary": "Customer story about a 14-year-old laminitic quarter horse using Cavallo Simple Boots over metal shoes for a 6-mile benefit trail ride.",
+    "key_components": ["Body text", "Single image", "Testimonials"],
+    "primary_cta": "None"
+  }
+]

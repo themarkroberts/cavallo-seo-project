@@ -1,0 +1,130 @@
+<!-- wp:group {"style":{"background":{"backgroundImage":{"url":"http://cavallo.local/wp-content/uploads/2024/09/image-29.gif","id":760,"source":"file","title":"image 29"},"backgroundPosition":"100% 50%"},"spacing":{"margin":{"top":"0","bottom":"0"},"padding":{"top":"40px","bottom":"40px"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group" style="margin-top:0;margin-bottom:0;padding-top:40px;padding-bottom:40px"><!-- wp:heading {"textAlign":"center","level":1,"style":{"elements":{"link":{"color":{"text":"var:preset|color|white"}}}},"textColor":"white"} -->
+<h1 class="wp-block-heading has-text-align-center has-white-color has-text-color has-link-color">Donations and Sponsorships</h1>
+<!-- /wp:heading --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:group {"style":{"spacing":{"padding":{"top":"0","bottom":"0","left":"0","right":"0"},"margin":{"top":"0","bottom":"64px"}}},"layout":{"type":"constrained","contentSize":"1053px"}} -->
+<div class="wp-block-group" style="margin-top:0;margin-bottom:64px;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:heading {"textAlign":"center"} -->
+<h2 class="wp-block-heading has-text-align-center">Lovingly Supporting Rescues, Equine Assisted Therapy, Community Events &amp; Organizations</h2>
+<!-- /wp:heading --></div>
+<!-- /wp:group -->
+
+<!-- wp:image {"id":5225,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="http://cavallo.local/wp-content/uploads/2024/10/image123-1024x385.jpg" alt="" class="wp-image-5225"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"0","bottom":"0","left":"0","right":"0"},"margin":{"top":"64px","bottom":"0"}}},"layout":{"type":"constrained","contentSize":"795px"}} -->
+<div class="wp-block-group" style="margin-top:64px;margin-bottom:0;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:heading {"textAlign":"center","level":3} -->
+<h3 class="wp-block-heading has-text-align-center">What the Cavallo Hoof Boots Donations and Sponsorship Program Offers</h3>
+<!-- /wp:heading --></div>
+<!-- /wp:group -->
+
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">Aimed at offering the equine community assistance and support while helping conscious equestrians, Cavallo contributes to organizations such as, but not exclusive to, horse rescues, therapy centres, child literacy groups, youth equestrian groups and more.<br><br>Through targeted partnerships, Cavallo assists equine organizations by providing donations in the form of prizes, auction items, gift coupons, and free products. Cavallo Hoof Boots helps organizations raise the funds needed to continue their important work.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"reverse-order\u002d\u002dmobile","style":{"spacing":{"padding":{"top":"var:preset|spacing|xxl","bottom":"var:preset|spacing|xxl"},"margin":{"top":"0","bottom":"0"}}},"backgroundColor":"light-red-1","layout":{"type":"constrained","contentSize":""}} -->
+<div class="wp-block-group reverse-order--mobile has-light-red-1-background-color has-background" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--xxl);padding-bottom:var(--wp--preset--spacing--xxl)"><!-- wp:columns {"verticalAlignment":"top"} -->
+<div class="wp-block-columns are-vertically-aligned-top"><!-- wp:column {"verticalAlignment":"top","width":"44.48%"} -->
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis:44.48%"><!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Giving your Cavallo Community a Boost</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"24px","bottom":"32px"}}}} -->
+<p style="margin-top:24px;margin-bottom:32px">Through this commitment, Cavallo promotes the well-being of horses and fosters a progressive equestrian community dedicated to improving the treatment and care of equines physically and emotionally. Emphasis is given to promoting barefoot horsemanship, natural hoof care, and a commitment to assisting horses using Cavallo Hoof Boots. Preference will be given to those who hold barefoot and booted hoof care as important. The welfare of horses and the horse community is Cavallo’s ethos.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"backgroundColor":"white","textColor":"red","style":{"border":{"width":"2px","color":"#C8102E","radius":"100px"},"elements":{"link":{"color":{"text":"var:preset|color|red"}}},"spacing":{"padding":{"left":"66px","right":"66px","top":"12px","bottom":"12px"}}}} -->
+<div class="wp-block-button"><a class="wp-block-button__link has-red-color has-white-background-color has-text-color has-background has-link-color has-border-color wp-element-button" href="http://cavallo.local/form-for-donations-sponsorships/" style="border-color:#C8102E;border-width:2px;border-radius:100px;padding-top:12px;padding-right:66px;padding-bottom:12px;padding-left:66px">Make a Request Here</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"top","width":"","style":{"spacing":{"padding":{"right":"0","left":"0","top":"0","bottom":"0"}}},"layout":{"type":"constrained","contentSize":"585px","justifyContent":"right","wideSize":""}} -->
+<div class="wp-block-column is-vertically-aligned-top" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:image {"id":5230,"scale":"cover","sizeSlug":"full","linkDestination":"none","style":{"color":{"duotone":"unset"},"border":{"width":"0px","style":"none","radius":"10px"}}} -->
+<figure class="wp-block-image size-full has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2024/10/image321.jpg" alt="" class="wp-image-5230" style="border-style:none;border-width:0px;border-radius:10px;object-fit:cover"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading {"textAlign":"center"} -->
+<h2 class="wp-block-heading has-text-align-center">Supporting Hard-Working Therapy Equines</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">Generous discount programs for approved organizations ensure that therapy and rescue horses receive ongoing support to provide the best care and protection for hard-working therapy horses, particularly those needing the comfort and safety of high-quality hoof support.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading {"textAlign":"center"} -->
+<h2 class="wp-block-heading has-text-align-center">Giving Rescue Horses a Second Chance</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">This program also includes product and coupon donations to equine charities and rescue organizations, facilitating better care, rehabilitation and comfort for rescued horses facing challenging and even life-threatening issues such as Laminitis, Navicular and other severe and painful hoof conditions.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"reverse-order\u002d\u002dmobile","style":{"spacing":{"padding":{"top":"var:preset|spacing|xxl","bottom":"var:preset|spacing|xxl"},"margin":{"top":"0","bottom":"0"}}},"backgroundColor":"light-red-1","layout":{"type":"constrained","contentSize":""}} -->
+<div class="wp-block-group reverse-order--mobile has-light-red-1-background-color has-background" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--xxl);padding-bottom:var(--wp--preset--spacing--xxl)"><!-- wp:columns {"verticalAlignment":"top"} -->
+<div class="wp-block-columns are-vertically-aligned-top"><!-- wp:column {"verticalAlignment":"top","width":"","style":{"spacing":{"padding":{"right":"0","left":"0","top":"0","bottom":"0"}}},"layout":{"type":"constrained","contentSize":"585px","justifyContent":"left","wideSize":""}} -->
+<div class="wp-block-column is-vertically-aligned-top" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:image {"id":5236,"scale":"cover","sizeSlug":"full","linkDestination":"none","style":{"color":{"duotone":"unset"},"border":{"width":"0px","style":"none","radius":"10px"}}} -->
+<figure class="wp-block-image size-full has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2024/10/image76.jpg" alt="" class="wp-image-5236" style="border-style:none;border-width:0px;border-radius:10px;object-fit:cover"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">Patrick the Pony, Mayor of Cockington, UK</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"top","width":"44.48%"} -->
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis:44.48%"><!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">The Cavallo Hoof Boots Influencer Program</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"24px","bottom":"32px"}}}} -->
+<p style="margin-top:24px;margin-bottom:32px">The Cavallo Hoof Boots Influencer Program is a dynamic initiative designed for collaboration with passionate equestrians and influencers who share a commitment to the best in high-quality hoof care. Cavallo influencers hold their horse’s health and comfort in the highest regard. Influencer activities range from trail riders to dressage riders, equine podiatrists to veterinarians and farriers, and include barrel racers, showjumpers and Olympians!<br><br>Partnering with key figures in the equestrian community provides a showcase of the benefits and innovative features of Cavallo hoof boots. Influencers play a crucial role in promoting and testing Cavallo products, offering their expertise and knowledge to a broader audience. Their authentic and engaging content educates and highlights the ease of use, quality performance and extensive health benefits of barefoot and booting, ultimately contributing to the well-being of horses worldwide.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"backgroundColor":"white","textColor":"red","style":{"border":{"width":"2px","color":"#C8102E","radius":"100px"},"elements":{"link":{"color":{"text":"var:preset|color|red"}}},"spacing":{"padding":{"left":"42px","right":"42px","top":"12px","bottom":"12px"}}}} -->
+<div class="wp-block-button"><a class="wp-block-button__link has-red-color has-white-background-color has-text-color has-background has-link-color has-border-color wp-element-button" href="http://cavallo.local/form-for-donations-sponsorships/" style="border-color:#C8102E;border-width:2px;border-radius:100px;padding-top:12px;padding-right:42px;padding-bottom:12px;padding-left:42px">Connect with us here</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"reverse-order\u002d\u002dmobile","style":{"spacing":{"padding":{"top":"var:preset|spacing|xxl","bottom":"var:preset|spacing|xxl"},"margin":{"top":"0","bottom":"0"}}},"backgroundColor":"white","layout":{"type":"constrained","contentSize":"1003px"}} -->
+<div class="wp-block-group reverse-order--mobile has-white-background-color has-background" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--xxl);padding-bottom:var(--wp--preset--spacing--xxl)"><!-- wp:columns {"verticalAlignment":"top"} -->
+<div class="wp-block-columns are-vertically-aligned-top"><!-- wp:column {"verticalAlignment":"top","width":"","style":{"spacing":{"padding":{"right":"0","left":"0","top":"0","bottom":"0"}}},"layout":{"type":"constrained","contentSize":"369px","justifyContent":"left","wideSize":""}} -->
+<div class="wp-block-column is-vertically-aligned-top" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:image {"id":5241,"scale":"cover","sizeSlug":"full","linkDestination":"none","style":{"color":{"duotone":"unset"},"border":{"width":"0px","style":"none","radius":"10px"}}} -->
+<figure class="wp-block-image size-full has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2024/10/image-41.jpg" alt="" class="wp-image-5241" style="border-style:none;border-width:0px;border-radius:10px;object-fit:cover"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"top","width":"56.2%"} -->
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis:56.2%"><!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Referral Program - Be a Behind-the-Scenes Influencer</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"24px","bottom":"32px"}}}} -->
+<p style="margin-top:24px;margin-bottom:32px">Earn cash while helping horses with the Cavallo Hoof Boots Referral Program! Love how Cavallo Hoof Boots have transformed your horse’s life? Spread the word and benefit both horses and their owners. Share your unique referral link on social media or with friends and family. When first-time customers use your link, they’ll enjoy 20% off, and you’ll pocket $20 USD!</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:acf/subscribe {"name":"acf/subscribe","data":{"title":"\u003ch2\u003eReceive Special Offers\u003c/h2\u003e\r\
+Sign up for our newsletter to get 10% off your first order, alongside exclusive promotions, industry news, tutorials, and more!","_title":"field_667bf8d5dd581","background_image":163,"_background_image":"field_667bfbf6dd582","form":"1","_form":"field_667bfc04dd583","html_anchor":"","_html_anchor":"field_672f5663be83a"},"mode":"edit"} /-->

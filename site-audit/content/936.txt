@@ -1,0 +1,7 @@
+<!-- wp:image {"sizeSlug":"large","align":"left"} -->
+<figure class="wp-block-image alignleft size-large"><img src="http://cavallo.local/wp-content/uploads/2024/09/Cody-Sapergia_002.jpg" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>Cody Sapergia uses Cavallo Western All-Purpose Saddle Pad #1001 to prevent problems and improve saddle fit. He can then use one saddle on a number of horses.</p>
+<!-- /wp:paragraph -->

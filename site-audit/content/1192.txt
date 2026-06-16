@@ -1,0 +1,11 @@
+<!-- wp:image {"id":1193,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="http://cavallo.local/wp-content/uploads/2024/09/gravelcrunchers-300x225-1.png" alt="" class="wp-image-1193"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>By Carole Herder</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>It is not a myth, these ‘gravel crunchers’ – horses who can go anywhere, do anything, on any terrain. These barefoot horses are more and more common, and NOT just in the back yard. Barefoot and booted equines can be seen in all sorts of disciplines, such as barrel racing, dressage, jumping and now even in endurance sports and competitive trail riding. One of these trail riding competitions took place in Colorado a couple of years ago and saw the participants (including shoeless horses) ride up to over 10,000 feet! Another great showcase for barefoot horses is endurance rider Jen Clingly and her Arab. They made Australian history by being the first to run a 100 mile endurance competition without shoes. They won the Tom Quilty buckle (Australia’s most famous endurance ride – 100 miles in one day). And now there are recreational facilities promoting barefoot, such as Cypress Trails Equestrian Center in Texas. They have about 50 horses, all barefoot, and all doing trail rides. Some of them are also doing 100 mile endurance competitions. Cavallo products have been a leader in the field since 1993. With associations such as the American Competitive Trail Horse Association (ACTHA), Australian Equine Barefoot Movement (AEBM), Australian Trail Horse Riders Association (ATHRA) and the British Horse Society UK TREC division endorsing us, it’s no wonder Cavallo Hoof Boots are the TOP BRAND INTERNATIONALLY, particularly with our hoof boot range, so suited to the rugged wilderness and natural trails we all love.</p>
+<!-- /wp:paragraph -->

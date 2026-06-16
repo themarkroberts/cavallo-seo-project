@@ -1,0 +1,55 @@
+<!-- wp:paragraph {"align":"left"} -->
+<p class="has-text-align-left">Managing lameness and rehabilitating an injured horse is something we have all had to consider. Recently two articles appeared in the same national publication that tracked the stories of attempted re-hab of two different high profile performance horses. The stark variance in outcome is something that some would just accept as the luck-of-the-draw. There is some luck involved, but we believe that the treatment is vital to the outcome.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"left"} -->
+<p class="has-text-align-left">One horse was turned out to a pasture in mid-summer with some other horses to “just be a horse”. The owner thought there was no chance of recovery so just wanted to provide a good life for her trusty steed. She thought she might as well pull off the shoes and save the money.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":3859,"linkDestination":"custom","align":"left"} -->
+<figure class="wp-block-image alignleft"><a href="//cavallo.local/wp-content/uploads/2014/06/horsesrunning-1024x768-e1405952528986.jpg"><img src="//cavallo.local/wp-content/uploads/2014/06/horsesrunning-1024x768-e1457990686158.jpg" alt="" class="wp-image-3859"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>The other was given ten months of<a href="//cavallo.local/wp-content/uploads/2014/06/horsesrunning-1024x768-e1405952528986.jpg"><br></a> stall rest, some name brand hoof supplements and special shoes with pads in the hopes that he could return to his previous level of competition.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":6500,"linkDestination":"custom","align":"right"} -->
+<figure class="wp-block-image alignright"><a href="//cavallo.local/wp-content/uploads/2016/03/horse-in-stall.jpg"><img src="//cavallo.local/wp-content/uploads/2016/03/horse-in-stall-300x199.jpg" alt="horse in stall" class="wp-image-6500"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>In these articles - the conclusion that these vastly different approaches resulted in vastly different outcomes was not drawn.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Unexpectedly and with great delight, the first horse rambled in from the field the following spring completely sound and ready to go back to work, albeit a little unkempt and lazy.&nbsp; While at the time of the article, the second horse had not improved and the owner was downhearted considering that her treatment was exhausted and that her mount would be retired.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The difference? Horse #1 had the increased blood circulation of a barehoof – not clamped with metal. Proper hoof mechanism allowing adequate shock absorption. Lots of movement to facilitate hoof function. Natural environment to allow more fitness, socialization and an increased overall happiness in ‘just being a horse’.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Now when horse #1 is under saddle, what do you think is best on his feet?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Yep. You got it. Cavallo Hoof Boots!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Ride over any terrain at any speed with complete hoof protection.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":5795,"linkDestination":"custom","align":"center"} -->
+<figure class="wp-block-image aligncenter"><a href="//cavallo.local/wp-content/uploads/2015/06/Caroles.png"><img src="//cavallo.local/wp-content/uploads/2015/06/Caroles-452x181.png" alt="horse hoof boots" class="wp-image-5795"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->

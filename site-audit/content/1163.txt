@@ -1,0 +1,7 @@
+<!-- wp:image {"id":1164,"sizeSlug":"full","linkDestination":"none","align":"center"} -->
+<figure class="wp-block-image aligncenter size-full"><img src="http://cavallo.local/wp-content/uploads/2024/09/cavalloChristmas12-e1405629144652.jpg" alt="" class="wp-image-1164"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">Our office will be closed December 22 until January 7.&nbsp; Orders placed online during this time will still be processed and shipped.&nbsp; We will be checking messages throughout the holidays if there is something you need help with.&nbsp; Please don't hesitate to call us at 1-877-818-0037.</p>
+<!-- /wp:paragraph -->

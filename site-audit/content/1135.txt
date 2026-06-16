@@ -1,0 +1,15 @@
+<!-- wp:image {"id":1136,"width":"368px","height":"auto","sizeSlug":"full","linkDestination":"none","align":"left"} -->
+<figure class="wp-block-image alignleft size-full is-resized"><img src="http://cavallo.local/wp-content/uploads/2024/09/trail-comp.jpg" alt="" class="wp-image-1136" style="width:368px;height:auto"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>I raise quarter horses and paints. I train them and give riding lessons. We show Western Pleasure, Showmanship, Trail, English, Mountain and Ranch Trail,Ranch Horse and we also trail ride. I have clients in Washington and Arizona. I have used your hoof boots for three years and I absolutely love them. They are easy to get on and off,&nbsp; stay on well and give the best protection to the horses feet that I have found. I recommend them to all my friends and clients.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>- Debbie Gumm, Arizona</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->

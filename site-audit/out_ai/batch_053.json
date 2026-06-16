@@ -1,0 +1,86 @@
+[
+  {
+    "id": "1861",
+    "content_format": "Standard article (text + images)",
+    "summary": "Reflective blog post on coping with pandemic anxiety by spending time with horses, framed around Cavallo customers staying calm during COVID isolation.",
+    "key_components": ["Image gallery", "Pull quote/testimonial"],
+    "primary_cta": "Read more"
+  },
+  {
+    "id": "1862",
+    "content_format": "Standard article (text + images)",
+    "summary": "Educational article on underrun heels in horses, explaining the degenerative hoof condition, its causes, and how hoof geometry affects weight-bearing and soundness.",
+    "key_components": ["Standard images"],
+    "primary_cta": "None"
+  },
+  {
+    "id": "1864",
+    "content_format": "Standard article (text + images)",
+    "summary": "Educational article by Carole Herder on White Line Disease in horse hooves, covering causes, detection, and natural treatments like apple cider vinegar, iodine, and tea tree oil.",
+    "key_components": ["Standard images"],
+    "primary_cta": "None"
+  },
+  {
+    "id": "1865",
+    "content_format": "Standard article (text + images)",
+    "summary": "Product announcement for new Trek/BFB hoof boot buckle straps as an alternative to Velcro for extreme conditions like ice and spear-grass, with a how-to video.",
+    "key_components": ["Video embed", "Pull quote/testimonial"],
+    "primary_cta": "Shop hoof boots"
+  },
+  {
+    "id": "1869",
+    "content_format": "Listicle",
+    "summary": "Checklist of 12 factors to evaluate when buying quality hoof boots, covering value, ease of use, safety, fit, and durability, with an accompanying video.",
+    "key_components": ["Video embed", "Bulleted list"],
+    "primary_cta": "Read more"
+  },
+  {
+    "id": "1871",
+    "content_format": "Standard article (text + images)",
+    "summary": "Educational article by Carole Herder on heel-bulb injuries in horses, covering common causes, internal anatomy, infection risks, and why these wounds heal slowly.",
+    "key_components": ["Standard images"],
+    "primary_cta": "None"
+  },
+  {
+    "id": "1872",
+    "content_format": "Standard article (text + images)",
+    "summary": "Customer story about Uxia, a Barcelona equine educator promoting barefoot and natural horsemanship in Spain, and her transformative journey with her horse Cissa.",
+    "key_components": ["Video embed", "Image gallery"],
+    "primary_cta": "Read more"
+  },
+  {
+    "id": "1873",
+    "content_format": "Standard article (text + images)",
+    "summary": "Company profile of Cavallo as a female-owned hoof boot business founded by Carole Herder in 1993, covering its origins, Roberts Creek BC location, and product history.",
+    "key_components": ["Standard images"],
+    "primary_cta": "None"
+  },
+  {
+    "id": "1874",
+    "content_format": "Team / bio",
+    "summary": "Profile of Scott Wilburn, Cavallo's Trimmer of the Month, a farrier in Kenai, Alaska, covering his Coast Guard background and barefoot-trimming work with Cavallo boots.",
+    "key_components": ["Video embed", "Standard images"],
+    "primary_cta": "Read more"
+  },
+  {
+    "id": "1875",
+    "content_format": "Standard article (text + images)",
+    "summary": "Advice article on transitioning horses from metal shoes to barefoot for spring, explaining hoof-flex benefits and using Cavallo boots on trails when needed.",
+    "key_components": ["Video embed", "Pull quote/testimonial"],
+    "primary_cta": "Shop hoof boots"
+  },
+  {
+    "id": "1876",
+    "content_format": "Standard article (text + images)",
+    "summary": "Article on using Cavallo hoof boots during horse transport for comfort and traction in the trailer, including pad options and measuring for fit over shod hooves.",
+    "key_components": ["Image gallery", "Comparison table reference"],
+    "primary_cta": "Shop hoof boots"
+  },
+  {
+    "id": "1877",
+    "content_format": "FAQ / informational",
+    "summary": "Q&A by Carole Herder on using Cavallo hoof boots for veterinary hoof rehab, addressing a laminitis case and how boots plus gel/cushion pads aid healing and alignment.",
+    "key_components": ["Standard images", "Pull quote/testimonial"],
+    "primary_cta": "Shop hoof boots"
+  }
+]

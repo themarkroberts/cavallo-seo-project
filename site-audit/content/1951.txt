@@ -1,0 +1,103 @@
+<!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading">In #1 of my Laminitis Video Series, Knowledge is your Best Weapon</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Every horse owner will benefit from this Laminitis video series, and many already have. You see, this series is modeled after my recent talks as a presenter at&nbsp;<a href="https://equineaffaire.com/events/ohio/ohio-attend/ohio-educational-program/ohio-presenters/" target="_blank" rel="noopener">Equine Affaire in Ohio.</a>&nbsp;I was bowled over by how well-attended my Laminitis talks were at Equine Affaire, and how desperate people were to help their horses. There were several people at the show who heard about my talks but were unable to attend, and requested a recording from me. At first, I was just going to make a quick recording to send to these folks, but then I thought, why not make a video series widely available to anyone who needs this information?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>This first video in the series explains what Laminitis and Founder are, and what's actually happening inside your horse's hoof when affected by this condition. From one horseperson to another, I offer helpful advice, addressing a Laminitic horse's unique needs in terms of diet, herd connection, stress reduction, hoof care and more. This basic information toolkit is something every horse owner should see and have tucked away if the need arises.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:embed {"url":"https://www.youtube.com/watch?v=anSyheXdDjU\u0026t=4s","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-4-3 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://www.youtube.com/watch?v=anSyheXdDjU&amp;t=4s
+</div></figure>
+<!-- /wp:embed -->
+
+<!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading">More Tips &amp; Tricks to Empower You and your Equine Friend:</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>If you like my video, please keep an eye out for further videos in this series to come! I invite you to share this video with any friends or family members who may need it.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>CLICK HERE&nbsp;to get the&nbsp;FREE&nbsp;Barefoot Trim Manual&nbsp;and video mentioned in my video. I had so much fun producing this video with friend and all-star barefoot trimmer, Lynn Sealy. I think you'll really enjoy it, and it will help you confidently oversee the trimming work done on your horse going forward.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Find more info about using your Cavallo Boots as a tool to help your horse&nbsp;<a href="http://cavallo.local/why-trek-makes-the-perfect-therapy-rehab-hoof-boot/" target="_blank" rel="noopener">heal from Laminitis HERE!</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>And here's a Q&amp;A article, where I talk about more about using Cavallo Boots for hoof rehab, and why veterinarians recommend them.&nbsp;<a href="http://cavallo.local/veterinary-help-for-hooves-with-cavallo-boots/" target="_blank" rel="noopener">READ HERE.</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading">Meet Horses Who've Booted their Way through Laminitis</h4>
+<!-- /wp:heading -->
+
+<!-- wp:image {"width":"413px","height":"auto","aspectRatio":"1","scale":"contain","align":"center"} -->
+<figure class="wp-block-image aligncenter is-resized"><img src="http://cavallo.local/wp-content/uploads/2022/08/BigWig2-1.png" alt="Cavallo Hoof Boots help horse with Laminitis" style="aspect-ratio:1;object-fit:contain;width:413px;height:auto"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>BigWig Enjoys BIG Relief:</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><i>“My horse, BigWig, has had Laminitis and been on box rest for weeks. X-rays revealed sole penetration, so even walking out of stable was very painful. As he started to improve l started to let him have a wander 'round the yard. When the Cavallo Boots arrived, l put them on and immediately he was so much more comfortable! He has been wearing them outside the stable for about a month and the difference is amazing. He is out for a few hours a day and the farrier is very pleased. We are hoping to start ridden-work soon, so l will be riding with boots. Thank you so much, your boots were a game changer for BigWig!"</i></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>- Margaret Warner, UK</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><b>"I Was So Afraid he Wasn't Going to Get Up Again"</b></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Kristye King Lewis of Seymour, Indiana explains how she helped her miniature horse through a bout of laminitis:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>"Jonesy, my miniature horse, suffers from Laminitis from time to time. A few years ago Jonesy, at the end of January, could not walk. The weather in Indiana had been going from 50 degrees to 10 degrees in one day.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Jonesy was in trouble. I consulted with his vet and we immediately started him on pain medicine. After a few days I was not seeing much progress and was getting concerned that he was not going to recover from this. I contacted Cavallo to see if they had any recommendations that we could possibly try for Jonesy.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>“We decided to try&nbsp;<a href="http://cavallo.local/product-category/hoof-boot/mini-hoof-boots/" target="_blank" rel="noopener">Cavallo CLB</a>&nbsp;on all 4 feet. We also used the new yellow&nbsp;<a href="http://cavallo.local/product-category/hoof-boot-accessories/hoof-boot-pads/comfort-pads/" target="_blank" rel="noopener">Comfort Pads</a>&nbsp;in the shoes. Once the boots were on, Jonesy was able to walk. Yes, he was in pain, but they were helping, and he was moving. After a long 4 weeks, I am very happy to report that Jonesy took off running! That first day he had gone back out into the big pasture, I guess he was just so excited that he had to show me how good he felt. I do believe that the Cavallo CLB helped save his life. I was so afraid he wasn’t going to get up again and I was going to have to put him to sleep because he was in so much pain."</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>W</strong><b>atch the video showing Jonesy’s recovery:</b></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:embed {"url":"https://youtu.be/0QETFqiEpa4","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-4-3 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://youtu.be/0QETFqiEpa4
+</div></figure>
+<!-- /wp:embed -->
+
+<!-- wp:paragraph -->
+<p>Wishing you many happy trails with your sound horse,</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="http://cavallo.local/wp-content/uploads/2022/02/Carole-Transparent-1.png2_-1-768x393.png" alt="Carole Herder Cavallo Hoof Boots Signature"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->

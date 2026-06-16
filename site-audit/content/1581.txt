@@ -1,0 +1,35 @@
+<!-- wp:paragraph -->
+<p>By Carole Herder</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":6553,"linkDestination":"custom","align":"right"} -->
+<figure class="wp-block-image alignright"><a href="//cavallo.local/wp-content/uploads/2016/04/Book.png" rel="attachment wp-att-6553"><img src="//cavallo.local/wp-content/uploads/2016/04/Book-188x300.png" alt="Horse Hoof Boots" class="wp-image-6553"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>Summarizing some of the talks I was giving at various horse events and conferences, turned out to be a 250 page book. I couldn’t stop writing once I started. That was three years ago and every time I thought I was nearing conclusion, something very important demanded to be highlighted. Having never written a book before, I was quite unprepared for the seeming endlessness of the process.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Finally, last month there was nothing more to say. So I launched ‘There Are No Horseshoes in Heaven’ on my birthday. Within 24 hours my book was an Amazon #1 Bestseller in 4 countries! Do you think I said what people wanted to hear? Do you think this was excited? Oh ya! Truly, it was above and beyond my wildest expectation.<br><br>Now, a month later the thing that is really moving me are the comments and reviews that people are posting. It appears that this little book has indeed helped several folks, inspired a few who are ready for change and supported many who are now taking right action on the proper approach to caring for our horses. Coming out of the woodwork, we are joining as a community of natural, barefoot and Cavallo Boot horse advocates.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Oh and the Icons of our horse world are commenting too. Let’s take note of the celebs that have sent their comments in: Julie Goodnight, Pat Parelli, Monty Roberts, Joe Camp…. to name a few.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Way to go Team!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Way to make it a better world for the horses we love!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":5795,"linkDestination":"custom","align":"left"} -->
+<figure class="wp-block-image alignleft"><a href="//cavallo.local/wp-content/uploads/2015/06/Caroles.png" rel="attachment wp-att-5795"><img src="//cavallo.local/wp-content/uploads/2015/06/Caroles-452x181.png" alt="horse hoof boots" class="wp-image-5795"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->

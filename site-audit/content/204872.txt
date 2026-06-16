@@ -1,0 +1,229 @@
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading -->
+<h2 class="wp-block-heading">Why Cavallo Hoof Boots are the Best for Therapy, Rehab &amp; Turnout</h2>
+<!-- /wp:heading --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:paragraph -->
+<p>Laminitis and Founder, thin soles, Navicular Syndrome, hoof puncture wounds, abscesses, White Line Disease, Trush, hoof cracks, sole bruising &amp; soft tissue injuries, contracted heels, ringbone, sidebone and joint inflammation/Arthritis are all hoof issues that can be helped by using Cavallo Boots during healing.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":202306,"sizeSlug":"full"} -->
+<figure class="wp-block-image size-full"><img src="http://cavallo.local/wp-content/uploads/2019/06/Hoof-Rehab-2.jpg" alt="" class="wp-image-202306"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>Whether barefoot or shod, horses all around the world with Laminitis and other hoof issues are experiencing great success using Cavallo Hoof Boots for comfort, healing, hoof therapy, rehabilitation and turnout.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading">Immediate Relief</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The mental well-being of your equine is as important as his physical well-being. When pain is alleviated for a horse with Laminitis or any other painful hoof issue, your horse is happier and able to move more. Movement stimulates blood flow, and the nourishing blood is then able to work its way to the problem areas to facilitate faster, more effective healing.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Cavallo Hoof Boots&nbsp;have technically advanced shock-absorbing soles, which make every step predictable for your horse (they stop anticipating that a step could hurt and start to move more freely).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The soles absorb the concussive forces that would otherwise refer through the hoof. The result is an immediate difference in the horse’s willingness to move. Painful hoof conditions such as Laminitis,&nbsp;Navicular Disease,&nbsp;Hoof Cracks, Abscess, sole bruising and&nbsp;Thrush stop horses in their tracks – but not when wearing Cavallos. Your horse’s stride becomes noticeably more confident, and we all know that keeping your horse moving is an essential factor when dealing with Laminitis/Founder or any other hoof issue. Movement encourages blood circulation, hoof expansion, oxygenation, and proper overall hoof function. When he is able to move, he is also more likely to be kept near his friends, which will further keep him moving and interested in life around him. Cavallo boots provide the comfort and protection required for this ease of movement.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading">Which Cavallo Boot Style is Best For Healing?</h4>
+<!-- /wp:heading -->
+
+<!-- wp:image {"id":202309,"width":"907px","height":"auto","align":"center"} -->
+<figure class="wp-block-image aligncenter is-resized"><img src="http://cavallo.local/wp-content/uploads/2019/06/Black-Purple-Green-Cavallo-Trek-Boots.jpg" alt="" class="wp-image-202309" style="width:907px;height:auto" title="Cavallo Trek Boots holding on bandage for hoof puncture dressing"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>Although any style of Cavallo Boots from CLB (mini boots) to BFB (draft-size boots) can be used, the Cavallo Trek Boot, in particular, is enjoying widespread acknowledgment as the best Therapy/Rehab/Turnout Hoof Boot on the market. Not bad, for a hoof boot also known as the world’s toughest trail boot!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Trek has some great features that make it stand out. The Trek upper is soft, flexible, and comfortable for your horse to wear. Being made of the same durable TPU (Thermoplastic Urethane) material as the sole makes this boot upper super sturdy. A slight variation in the compound and the hexagonal shaping makes it pliable, breathable, and lightweight. Also, Pro Mesh resists soaking excess moisture. Even in very wet conditions, these boots remain light, breathable and are quick to dry. Trek’s soft padded collar provides comfort around the pastern. The back area moulds to the shape of your horse’s bulbs for a custom fit.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Total comfort and protection for your horse, and ease of use for you. The simple front closure system makes them very easy to put on and take off – even among the very young and older folks who have arthritis in their hands.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading">Easy Does It!</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>One thing to note: for immediate use and emergencies, you may not have time for the recommended boot break-in period. However, providing urgent relief for your horse can still be comfortably achieved.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>When using boots 24/7, you can reduce any possible friction with a new boot by using&nbsp;<a href="http://cavallo.local/product-category/hoof-boot-accessories/pastern-wraps/" target="_blank" rel="noreferrer noopener">Cavallo&nbsp;Pastern Wraps,&nbsp;Comfort Sleeves,</a>&nbsp;or even vet wrap. Like breaking in your own high-quality footwear, hoof boots can take a little time to shape to your horse’s hoof. Try the boots for 10 minutes the first day, and if you see no signs of irritation, increase the time by 15 minutes each day until you notice the backs of the boots shaping to your horse’s bulb area nicely.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>If you don’t have time to break your boots in, check them frequently at first for signs of friction (red and/or shiny skin, hair being rubbed off) and hold off using the boot for a short time before starting again, and make sure you are using Pastern Wraps, Comfort Sleeves or vet wrap.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Ongoing, these boots are the perfect complement to a bare hoof. Free from the restriction of clamped metal, the hoof can flex, absorb shock, and circulate blood and oxygen – distributing nourishment and fighting disease. Check out a video I made about&nbsp;breaking in your Cavallo Boots:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading">How to Break in Your New Cavallo Hoof Boots</h4>
+<!-- /wp:heading -->
+
+<!-- wp:embed {"url":"https://youtu.be/5R881ZhjDwA","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://youtu.be/5R881ZhjDwA
+</div></figure>
+<!-- /wp:embed -->
+
+<!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading">Waterproof vs. Breathable</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Air circulation is crucial for preventing the buildup of fungal growth and bacteria. Watch for anaerobic conditions during rehabilitation and strive to strike a balance between providing comfort and protection while allowing breathability. Cavallo Boots can handle moisture and mud, but when worn 24/7, a preventative measure can be taken to reduce the risk of bacterial problems by mixing a solution of 50% Apple Cider Vinegar and 50% water and spraying it into the boot and on the hoof sole regularly.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading">Balancing Your Therapy Boots</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>If just one hoof is affected by illness, you might instinctively order just one boot for the affected hoof. Always use caution against creating an imbalance in your horse as this can cause other issues to arise. Make sure to use a Cavallo Boot for the opposing hoof, as well as the affected hoof. Your horse will thank you!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading">The BIG Bonus!</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Are you considering using the Cavallo Trek or another Cavallo Boot style to support your horse's rehabilitation? There’s a considerable bonus waiting for you when your horse turns the corner and is active again. You can use your same boots to ride over any terrain at any speed! The Cavallo Trek is rated the #1 Top Trail Riding Boot in the world. Cavallo soles and uppers are incredibly resistant to rocks, abrasion, asphalt, creek beds and, since they resist soaking up excess moisture, the boots are always dry and ready for your next ride… Even if in damp, muddy conditions. Trek boots can see you through your horse’s pain reduction and rehabilitation, all the way to the joys of riding again!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading">Cavallo Hoof Boot Pads for the Win!</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="http://cavallo.local/product-category/hoof-boot-accessories/hoof-boot-pads/" target="_blank" rel="noreferrer noopener">Cavallo Hoof Boot Pads</a>&nbsp;add an extra layer of comfort and protection to your boots when needed. When you’ve got a sore horse, these pads can make all the difference!&nbsp;Cavallo Cushion Pads,&nbsp;<a href="http://cavallo.local/product/comfort-pad/" target="_blank" rel="noreferrer noopener">Comfort Pads</a>&nbsp;and&nbsp;<a href="http://cavallo.local/product/gel-pads/" target="_blank" rel="noreferrer noopener">Gel Pads&nbsp;</a>can all be used to help. Our new foam 10mm&nbsp;<a href="http://cavallo.local/product-category/hoof-boot-accessories/hoof-boot-pads/cavallo-hoof-boot-cushion-pads/" target="_blank" rel="noreferrer noopener">Cushion Pads&nbsp;</a>are incredible. They offer a great deal of comfort during a painful hoof situation!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Here’s a quick comparison chart to help you decide which pad your horse needs most:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:image {"id":348889,"width":"696px","height":"auto","sizeSlug":"full","linkDestination":"none","align":"center"} -->
+<figure class="wp-block-image aligncenter size-full is-resized"><img src="http://cavallo.local/wp-content/uploads/2026/04/Cavallo-Hoof-Boot-Pad-Comparison-Chart-2026.png" alt="Cavallo Hoof Boot Pad Comparison Chart 2026" class="wp-image-348889" style="width:696px;height:auto" title="2021 Cavallo Hoof Pad Differences Chart – 2LR"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:group -->
+
+<!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading">Let’s Not Forget How Cavallo CLBs Can Help our Miniature Friends, Too:</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="http://cavallo.local/product-category/hoof-boot/mini-hoof-boots/" target="_blank" rel="noreferrer noopener">CLB mini hoof boots</a>&nbsp;have also helped countless mini horses recover from Laminitis and other hoof issues. Jonesy’s story helps to demonstrate how pain reduction while using hoof boots keeps the body moving to promote healing:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:embed {"url":"https://www.youtube.com/embed/zT_G6cCQ1r8","type":"rich","providerNameSlug":"embed-handler","responsive":true,"className":"is-provider-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-rich is-provider-embed-handler wp-block-embed-embed-handler is-provider-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://www.youtube.com/embed/zT_G6cCQ1r8
+</div></figure>
+<!-- /wp:embed -->
+
+<!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading">Measuring &amp; Sizing Your Horse</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Wanting to try some Cavallos, but measuring for size seems daunting?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Don’t worry, we make it easy on you!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Just take length and width hoof photos after your horse’s next trim and send them in to your Cavallo Team!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>We’ll make a size recommendation for your horse so you don’t have to!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="http://cavallo.local/ask-an-expert/" target="_blank" rel="noreferrer noopener"><br>Get Sizing Help Here!</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading">Recommended by Top Veterinarians</h4>
+<!-- /wp:heading -->
+
+<!-- wp:image {"align":"center"} -->
+<figure class="wp-block-image aligncenter"><img src="http://cavallo.local/wp-content/uploads/2022/05/Judith-Murtha-Rebel-Laminitis-Veterinarian-recommended2.jpg2-2-452x434.jpg" alt="Cavallo Horse Hoof Boots Equine veterinarian recommended" title="Cavallo Horse Hoof Boots Equine veterinarian recommended"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><em>“Rebel has recovered from laminitis and has to be kept barefoot. Cavallo boots will allow him to go on gentle trail rides that he loves. He’s doing great, as you can see, adjusting to the boots.</em> I followed your video on how to break them in,<em> and it was a big help. He’s a Rocky Mountain Horse. Rebel was a patient at&nbsp;<a href="https://www.vet.cornell.edu/hospitals/cornell-ruffian-equine-specialists" target="_blank" rel="noreferrer noopener">Cornell Ruffian Equine Hospital</a>&nbsp;in NY last year and they recommended the Cavallo boots. Just thought you would like to know how I found out about your product. I’m very careful to do whatever I can to keep those hoofs healthy. He’s really walking great!!!”</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>-Judith Murtha</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading">Vet Recommends for Faster Healing</h4>
+<!-- /wp:heading -->
+
+<!-- wp:image {"align":"center"} -->
+<figure class="wp-block-image aligncenter"><img src="http://cavallo.local/wp-content/uploads/2019/06/lami-1.jpg" alt="Cavallo Boots help Laminitis horse" title="Cavallo Boots help Laminitis horse"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>“My horse came down with laminitis this summer, and he had Cavallos on all 4 with the pads. It relieved him so much and made the healing process faster. I’ve used Cavallos for ages, and I couldn’t imagine using any other boots! Also, my vet approved them. Pain-free again, and Cavallo has a great part in that.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>– Tanja Pedersen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading">Horse with Chronic Heel Bulb &amp; Arthritis Issues Now Barefoot with Cavallos</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>“Hi Yvonne and Everyone at Cavallo, Just wanted to say Thank You! The video is of my horse, Skipper “Saturnus.” He’s a 23-year-old KWPN who retired after a career as an upper-level show jumper with a chronic heel bulb and some arthritic changes.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>We tried the usual route, steel shoes to eggbars, and he’d improve for a bit, but the transition period between shoeing, he was sore and off. Legends injections and Equiox. I worked with my vet and farrier, and we finally came to the conclusion that his hooves just couldn’t support a shoe anymore. And viola – Cavallo’s entered the conversation.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Pulled his shoes – got good measurements ( thank you ) and got our first pair of ELB’s. Now, 2 months later, and we just upgraded to a pair of Treks we’re breaking in, and I’m elated. I think I might be able to ride my perfect pony again ♥️</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The thing that amazes me most is his disposition. Imagine if you had walked around all day in an uncomfortable pair of shoes for so long ~ He’s now happy and forward and moving easily.&nbsp;And even if I never get the privilege of riding this gorgeous boy again ~ seeing him comfortably trotting around his field is so worth it.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>So thank you ♥️ From Skip and Starr (Starr Johnson)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Wishing you many happy trails,</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"align":"center"} -->
+<figure class="wp-block-image aligncenter"><img src="http://cavallo.local/wp-content/uploads/2023/02/carole-signature-transparent-background-1.jpg" alt="Cavallo President Carole Herder signature" title="Cavallo President Carole Herder signature"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:group -->

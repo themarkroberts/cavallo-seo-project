@@ -1,0 +1,7 @@
+<!-- wp:image {"sizeSlug":"large","align":"left"} -->
+<figure class="wp-block-image alignleft size-large"><img src="http://cavallo.local/wp-content/uploads/2024/09/MrLinkon_000.gif" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>Here is Mr. Linkon and me after our longest ride of the season. Boy were we tired! Notice Mr. Linkon has SIMPLE Boots on all four. Originally I put them on his front feet to see if that would stop the constant tripping when we were out on the trail, and it did. Then, because he was collapsing a bit in the rear from stepping on small stones, I decided to put the pair I bought for my mare on his hind feet. We had the best ride we've had in a long time. Link didn't want to turn around for home, wanted to trot on the flat and tried to canter up a small hill (I wouldn't let him). There was no tripping or faltering at all. What a great find your SIMPLE Boots have been! I showed them to my farrier and he commented that of all the boots he's seen he feels these are the best and has recommended them to some of his clients. Thank you for a great product that has made my horse happy on the trail.</p>
+<!-- /wp:paragraph -->

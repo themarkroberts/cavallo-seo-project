@@ -1,0 +1,584 @@
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:image {"id":6567,"width":"1196px","height":"auto","sizeSlug":"full","linkDestination":"none","align":"center"} -->
+<figure class="wp-block-image aligncenter size-full is-resized"><img src="http://cavallo.local/wp-content/uploads/2024/12/Cavallo-Horse-Hoof-Boots-are-the-best.webp" alt="Cavallo Horse Hoof Boots are the best" class="wp-image-6567" style="width:1196px;height:auto"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"textAlign":"center"} -->
+<h2 class="wp-block-heading has-text-align-center">Cavallo Hoof Boots are the Best in the World.</h2>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"textAlign":"center","level":3} -->
+<h3 class="wp-block-heading has-text-align-center">But if you're New to Booting, you Might ask WHY? Here's the PROOF of why they are the best:</h3>
+<!-- /wp:heading --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|gap"}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"textAlign":"center"} -->
+<h2 class="wp-block-heading has-text-align-center">Western Kentucky University Research Recommends Cavallo Trek Hoof Boots for Hoof Protection, Traction &amp; Reduced Pressure</h2>
+<!-- /wp:heading -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:paragraph -->
+<p>Dr. Jennifer Gill and Gabriella Lynn of the Western Kentucky University Equine Science Department (WKU) completed the first independent university study comparing hoof boots to traditional metal shoes.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>They chose their preferred boots, Cavallo Trek Boots, for this study. Results confirmed what those in the horse community have been witnessing since 2006. Cavallo Trek Hoof Boots benefit horses – by providing comfort, protection, shock absorption and minimizing potential hoof damage.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|gap"}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"textAlign":"center","level":3} -->
+<h3 class="wp-block-heading has-text-align-center">Jennifer Gill Discusses the Results of the WKU Hoof Boot Study:</h3>
+<!-- /wp:heading -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:embed {"url":"https://www.youtube.com/watch?v=wY7DYZTNSPs","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://www.youtube.com/watch?v=wY7DYZTNSPs
+</div></figure>
+<!-- /wp:embed --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:paragraph -->
+<p>The study focused on surface area, force, and pressure exerted on horse’s hooves while traveling on the hard surface of asphalt. Scientists used <a href="https://www.fujifilm.com/products/prescale/prescalefilm/" target="_blank" rel="noreferrer noopener"><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-red-color">FujiFilm imaging</mark></a> to determine the amount of pressure felt in the horse’s hooves. This film procedure allowed the scientists to see dynamic pressure through color mapping.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>“The Cavallo Hoof Boots protected the entire hoof itself, which we thought was very beneficial, especially over some other types of hoof protection, such as horseshoes,” Gill said. “We also found that the tread of the Cavallo Trek Hoof Boots was thicker and would provide more space to contact with the ground than a metal horseshoe.”</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|gap"}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Results in Favour of Cavallo-Booted Horses</h3>
+<!-- /wp:heading -->
+
+<!-- wp:media-text {"mediaId":6568,"mediaLink":"http://cavallo.local/?attachment_id=6568","mediaType":"image","mediaWidth":35,"imageFill":true,"backgroundColor":"light-red-1"} -->
+<div class="wp-block-media-text is-stacked-on-mobile is-image-fill-element has-light-red-1-background-color has-background" style="grid-template-columns:35% auto"><figure class="wp-block-media-text__media"><img src="http://cavallo.local/wp-content/uploads/2024/12/Western-Kentucky-University-Hoof-Boot-Study-Cavallo-2-1.jpg" alt="Western Kentucky University Hoof Boot Study - Cavallo" class="wp-image-6568 size-full" style="object-position:50% 50%"/></figure><div class="wp-block-media-text__content"><!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|gutter","bottom":"var:preset|spacing|gutter","left":"0","right":"0"},"margin":{"top":"0","bottom":"0"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--gutter);padding-right:0;padding-bottom:var(--wp--preset--spacing--gutter);padding-left:0"><!-- wp:paragraph {"placeholder":"Content…"} -->
+<p>“We found that the Cavallo Trek Hoof Boots was significantly lower in pressure than the other two treatments,” Gill said. “And this is what we expected from our data. We would have expected that the Cavallo Trek Hoof Boots would have been lower —especially with a hard terrain. This was good news for what we were expecting to see.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>“The contacting surface area with the Cavallo Trek Hoof Boots was significantly higher than the other two treatments,” Gill continued. There was more tread that was in contact with the ground than would be with the steel horseshoe and the steel horseshoe with Equi-Pak.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"placeholder":"Content…"} -->
+<p>“Based on this result, we would say that horses would have better traction in the Cavallo Trek Hoof Boots and be better able to dissipate those forces and pressure because of the increases in surface area,” Gill said.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div></div>
+<!-- /wp:media-text --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:paragraph {"align":"center","fontSize":"large"} -->
+<p class="has-text-align-center has-large-font-size">To read the published study in the <strong>Journal of Equine Veterinary Science, <a href="http://cavallo.local/wp-content/uploads/2024/12/PDF-2020-Published-reasearch-paper-Western-Kentucky-University-Hoof-Boots-Study.pdf" target="_blank" rel="noreferrer noopener"><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-red-color">CLICK HERE</mark></a></strong>.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"id":6420,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="http://cavallo.local/wp-content/uploads/2024/12/Cavallo-Hoof-Pressure-Graph-WKU-2019-Low-Res-1024x576.jpg" alt="Western Kentucky university Cavallo Hoof Boot study results" class="wp-image-6420"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"id":6421,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="http://cavallo.local/wp-content/uploads/2024/12/WKU-2019-Study-Results-slide-2-from-Powerpoint-report-768x432-1.jpg" alt="Western Kentucky university Cavallo Hoof Boot study results" class="wp-image-6421"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"id":6422,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="http://cavallo.local/wp-content/uploads/2024/12/WKU-2019-Report-Conclusion-slide-Powerpoint-768x432-1.jpg" alt="Western Kentucky university Cavallo Hoof Boot study results" class="wp-image-6422"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:paragraph {"align":"center","fontSize":"large"} -->
+<p class="has-text-align-center has-large-font-size"><strong><a href="https://youtu.be/FRD2rBGVn5Q" target="_blank" rel="noreferrer noopener"><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-red-color">CLICK HERE</mark></a></strong> to find out <strong>WHY Cavallo Boots were chosen as the best hoof boot</strong> for this study over any other brand.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator --></div>
+<!-- /wp:group -->
+
+<!-- wp:block {"ref":333777} /-->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"textAlign":"center"} -->
+<h2 class="wp-block-heading has-text-align-center">Why are Cavallos the BEST Hoof Boots?</h2>
+<!-- /wp:heading -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:image {"id":5793,"width":"auto","height":"50px","sizeSlug":"full","linkDestination":"none","align":"center"} -->
+<figure class="wp-block-image aligncenter size-full is-resized"><img src="http://cavallo.local/wp-content/uploads/2024/10/5-star-review-Cavallo-Hoof-Boots.webp" alt="5 star review Cavallo Hoof Boots" class="wp-image-5793" style="width:auto;height:50px"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"textAlign":"center","fontSize":"huge"} -->
+<h2 class="wp-block-heading has-text-align-center has-huge-font-size">Rough trails &amp; Terrain</h2>
+<!-- /wp:heading --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:image {"id":5793,"width":"auto","height":"50px","sizeSlug":"full","linkDestination":"none","align":"center"} -->
+<figure class="wp-block-image aligncenter size-full is-resized"><img src="http://cavallo.local/wp-content/uploads/2024/10/5-star-review-Cavallo-Hoof-Boots.webp" alt="5 star review Cavallo Hoof Boots" class="wp-image-5793" style="width:auto;height:50px"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"textAlign":"center","fontSize":"huge"} -->
+<h2 class="wp-block-heading has-text-align-center has-huge-font-size">Laminitis &amp; Hoof Rehabilitation</h2>
+<!-- /wp:heading --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:image {"id":5793,"width":"auto","height":"50px","sizeSlug":"full","linkDestination":"none","align":"center"} -->
+<figure class="wp-block-image aligncenter size-full is-resized"><img src="http://cavallo.local/wp-content/uploads/2024/10/5-star-review-Cavallo-Hoof-Boots.webp" alt="5 star review Cavallo Hoof Boots" class="wp-image-5793" style="width:auto;height:50px"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"textAlign":"center","fontSize":"huge"} -->
+<h2 class="wp-block-heading has-text-align-center has-huge-font-size">Reduced shock when jumping</h2>
+<!-- /wp:heading --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:image {"id":5793,"width":"auto","height":"50px","sizeSlug":"full","linkDestination":"none","align":"center"} -->
+<figure class="wp-block-image aligncenter size-full is-resized"><img src="http://cavallo.local/wp-content/uploads/2024/10/5-star-review-Cavallo-Hoof-Boots.webp" alt="5 star review Cavallo Hoof Boots" class="wp-image-5793" style="width:auto;height:50px"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"textAlign":"center","fontSize":"huge"} -->
+<h2 class="wp-block-heading has-text-align-center has-huge-font-size">Relief for Thin &amp; Tender Soles</h2>
+<!-- /wp:heading --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:image {"id":5793,"width":"auto","height":"50px","sizeSlug":"full","linkDestination":"none","align":"center"} -->
+<figure class="wp-block-image aligncenter size-full is-resized"><img src="http://cavallo.local/wp-content/uploads/2024/10/5-star-review-Cavallo-Hoof-Boots.webp" alt="5 star review Cavallo Hoof Boots" class="wp-image-5793" style="width:auto;height:50px"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"textAlign":"center","fontSize":"huge"} -->
+<h2 class="wp-block-heading has-text-align-center has-huge-font-size">Relief on Hard Ground, Gravel &amp; Asphalt</h2>
+<!-- /wp:heading --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:image {"id":5793,"width":"auto","height":"50px","sizeSlug":"full","linkDestination":"none","align":"center"} -->
+<figure class="wp-block-image aligncenter size-full is-resized"><img src="http://cavallo.local/wp-content/uploads/2024/10/5-star-review-Cavallo-Hoof-Boots.webp" alt="5 star review Cavallo Hoof Boots" class="wp-image-5793" style="width:auto;height:50px"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"textAlign":"center","fontSize":"huge"} -->
+<h2 class="wp-block-heading has-text-align-center has-huge-font-size">Protection &amp; Comfort While Trailering &amp; Training</h2>
+<!-- /wp:heading --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:image {"id":5793,"width":"auto","height":"50px","sizeSlug":"full","linkDestination":"none","align":"center"} -->
+<figure class="wp-block-image aligncenter size-full is-resized"><img src="http://cavallo.local/wp-content/uploads/2024/10/5-star-review-Cavallo-Hoof-Boots.webp" alt="5 star review Cavallo Hoof Boots" class="wp-image-5793" style="width:auto;height:50px"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"textAlign":"center","fontSize":"huge"} -->
+<h2 class="wp-block-heading has-text-align-center has-huge-font-size">Shock Absorption for Driving Horses</h2>
+<!-- /wp:heading --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:image {"id":5793,"width":"auto","height":"50px","sizeSlug":"full","linkDestination":"none","align":"center"} -->
+<figure class="wp-block-image aligncenter size-full is-resized"><img src="http://cavallo.local/wp-content/uploads/2024/10/5-star-review-Cavallo-Hoof-Boots.webp" alt="5 star review Cavallo Hoof Boots" class="wp-image-5793" style="width:auto;height:50px"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"textAlign":"center","fontSize":"huge"} -->
+<h2 class="wp-block-heading has-text-align-center has-huge-font-size">Spare Tire for Lost Shoes</h2>
+<!-- /wp:heading --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:image {"id":5793,"width":"auto","height":"50px","sizeSlug":"full","linkDestination":"none","align":"center"} -->
+<figure class="wp-block-image aligncenter size-full is-resized"><img src="http://cavallo.local/wp-content/uploads/2024/10/5-star-review-Cavallo-Hoof-Boots.webp" alt="5 star review Cavallo Hoof Boots" class="wp-image-5793" style="width:auto;height:50px"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"textAlign":"center","fontSize":"huge"} -->
+<h2 class="wp-block-heading has-text-align-center has-huge-font-size">Best hoof boots to fit over a shod hoof!</h2>
+<!-- /wp:heading --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|gap"}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"textAlign":"center"} -->
+<h2 class="wp-block-heading has-text-align-center">Veterinarians Recommend Cavallo Boots for Hoof Rehabilitation</h2>
+<!-- /wp:heading -->
+
+<!-- wp:media-text {"mediaId":6576,"mediaLink":"http://cavallo.local/vet-1-452x254/","mediaType":"image","mediaWidth":35,"imageFill":true,"backgroundColor":"light-red-1"} -->
+<div class="wp-block-media-text is-stacked-on-mobile is-image-fill-element has-light-red-1-background-color has-background" style="grid-template-columns:35% auto"><figure class="wp-block-media-text__media"><img src="http://cavallo.local/wp-content/uploads/2024/12/vet-1-452x254-1.png" alt="Cavallo Hoof Boots Recommended by veterinarians" class="wp-image-6576 size-full" style="object-position:50% 50%"/></figure><div class="wp-block-media-text__content"><!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|gutter","bottom":"var:preset|spacing|gutter","left":"0","right":"0"},"margin":{"top":"0","bottom":"0"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--gutter);padding-right:0;padding-bottom:var(--wp--preset--spacing--gutter);padding-left:0"><!-- wp:paragraph {"placeholder":"Content…"} -->
+<p>Those painful abscesses… and the tremendous efforts often required to assure they heal without compromising the hoof! Stephanie Kuo is presently engaged in such a battle with her 30 yo mare, Jag. Under Veterinarian and Farrier care, Stephanie is now packing Jag’s hoof in Sugardine* and applying a Cavallo Hoof Boot to protect and keep the hoof dry while healing. Big wishes to Jag for a speedy recovery!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"placeholder":"Content…"} -->
+<p>*Stephanie is using an age-old home remedy, Sugardine, which is a mixture of 2 parts sugar, one part betadine, mixed to a consistency of peanut butter and applied to the affected area.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div></div>
+<!-- /wp:media-text --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|gap"}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"textAlign":"center","level":3} -->
+<h3 class="wp-block-heading has-text-align-center">OUCH! Vet and Farrier Work Together to Help Abscess</h3>
+<!-- /wp:heading -->
+
+<!-- wp:media-text {"mediaId":6585,"mediaLink":"http://cavallo.local/?attachment_id=6585","mediaType":"image","mediaWidth":35,"imageFill":true,"backgroundColor":"light-red-1"} -->
+<div class="wp-block-media-text is-stacked-on-mobile is-image-fill-element has-light-red-1-background-color has-background" style="grid-template-columns:35% auto"><figure class="wp-block-media-text__media"><img src="http://cavallo.local/wp-content/uploads/2024/12/TB-saved-2.webp" alt="Cavallo Hoof Boots for hoof rehab thoroughbred" class="wp-image-6585 size-full" style="object-position:50% 50%"/></figure><div class="wp-block-media-text__content"><!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|gutter","bottom":"var:preset|spacing|gutter","left":"0","right":"0"},"margin":{"top":"0","bottom":"0"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--gutter);padding-right:0;padding-bottom:var(--wp--preset--spacing--gutter);padding-left:0"><!-- wp:paragraph {"placeholder":"Content…"} -->
+<p>“I thought I’d share my successful day at endurance with my horse Bouclier, wearing his Cavallos and achieving a Grade 1 at 30k! – Deborah Doughty</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Our Cavallo boots were thoroughly tested by endurance rider Deb Doughty and her former racehorse Bouclier when they competed in the Retraining of Racehorses teams event at Cirencester Park. The event, which was organized by Endurance GB, included over 300 horses and ponies competing in a range of long distances. Deb, who is relatively new to endurance, was selected to ride for the team.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"placeholder":"Content…"} -->
+<p>Thoroughbreds and ex-racehorses in particular excel at endurance, but can often be let down by their feet, which weren’t bred for rough terrain. Deb completed her ride with a sound horse on final veterinarian inspection and a grade 1, the highest award, due to her training and fitness program and her Cavallo boots.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div></div>
+<!-- /wp:media-text -->
+
+<!-- wp:media-text {"mediaId":6586,"mediaLink":"http://cavallo.local/?attachment_id=6586","mediaType":"image","mediaWidth":35,"imageFill":true,"backgroundColor":"light-red-1"} -->
+<div class="wp-block-media-text is-stacked-on-mobile is-image-fill-element has-light-red-1-background-color has-background" style="grid-template-columns:35% auto"><figure class="wp-block-media-text__media"><img src="http://cavallo.local/wp-content/uploads/2024/12/1111unnamed.jpg" alt="Cavallo Hoof Boots help arthritic retired horse" class="wp-image-6586 size-full" style="object-position:50% 50%"/></figure><div class="wp-block-media-text__content"><!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|gutter","bottom":"var:preset|spacing|gutter","left":"0","right":"0"},"margin":{"top":"0","bottom":"0"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--gutter);padding-right:0;padding-bottom:var(--wp--preset--spacing--gutter);padding-left:0"><!-- wp:paragraph {"placeholder":"Content…"} -->
+<p><em>Hi Yvonne and Everyone at Cavallo, just wanted to say Thank You! My horse Skipper “Saturnus” is a 23 yr old Dutch Warmblood who retired after a career as an upper-level show jumper with a chronic heel bulb and some arthritic changes.</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><em>We tried the usual route (steel shoes to egg bars) and he’d improve for a bit, but during the transition period between shoeing, he was sore and off. I would give Legends injections and Equiox. I worked with my vet and farrier and we finally came to the conclusion that his hooves just couldn’t support a shoe anymore. And voila: Cavallo Boots entered the conversation.</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><em>We pulled his shoes, got good measurements (thank you!), and got our first pair of ELB Boots. It’s now two months later and we just upgraded to a pair of Trek Boots that we’re breaking in, and I’m elated. I think I might be able to ride my perfect pony again! ♥️</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"placeholder":"Content…"} -->
+<p><em>And even if I never got the privilege of riding this gorgeous boy again ~ to see him comfortably trotting around his field is so worth it. So thank you!” ♥️ </em>– From Skip and Starr Johnson</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div></div>
+<!-- /wp:media-text --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|gap"}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"textAlign":"center"} -->
+<h2 class="wp-block-heading has-text-align-center">Why Cavallo Hoof Boots are the best for Therapy, Rehab &amp; Turnout</h2>
+<!-- /wp:heading -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:paragraph -->
+<p>Horses around the world are experiencing great success using all styles of Cavallo Hoof Boots for healing, hoof therapy/rehabilitation and turnout. The Cavallo Trek Boot, in particular, is enjoying widespread acknowledgment as the best Therapy/Rehab/Turnout Hoof Boot as well as the best trail boot on the market.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading">Immediate Relief</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Cavallo Hoof Boots have technically advanced shock-absorbing soles, which makes every step predictable for a horse in pain(they stop anticipating that a step could hurt and begin to move more freely). The soles absorb the concussive forces that would otherwise reverberate through the hoof and up the leg. The result is an immediate difference in the horse’s willingness to move.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Painful hoof conditions such as Laminitis, Navicular Disease, Hoof Cracks, Abscess, sole bruising and Thrush stop horses in their tracks – but not when wearing Cavallos. A horse’s stride becomes noticeably more confident, and keeping your horse moving is an essential factor when dealing with Laminitis/Founder or any other hoof issue. Movement encourages blood circulation, hoof expansion, oxygenation, and proper overall hoof function.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading">The BIG Bonus!</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>If you are considering using Cavallo Boots to help your equine through a hoof ailment, there’s a considerable bonus waiting for when your horse turns the corner and is active again. You can use your boots to ride over any terrain at any speed! Ongoing, these boots are the perfect complement to a bare hoof. Free from the restriction of clamped metal, the hoof can flex, absorb shock, and circulate blood and oxygen – distributing nourishment and fighting disease.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|gap"}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"textAlign":"center"} -->
+<h2 class="wp-block-heading has-text-align-center">Cavallo Boots Facilitate Healthy Hoof Mechanism</h2>
+<!-- /wp:heading -->
+
+<!-- wp:columns {"verticalAlignment":"center"} -->
+<div class="wp-block-columns are-vertically-aligned-center"><!-- wp:column {"verticalAlignment":"center"} -->
+<div class="wp-block-column is-vertically-aligned-center"><!-- wp:embed {"url":"https://www.youtube.com/watch?v=-OfwIPURmSU","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://www.youtube.com/watch?v=-OfwIPURmSU
+</div></figure>
+<!-- /wp:embed --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"center"} -->
+<div class="wp-block-column is-vertically-aligned-center"><!-- wp:paragraph -->
+<p>You may have heard it said that a horse has five hearts: four on the ground and one in the chest. This refers to the frog’s blood pumping function, circulating blood down through the extremities and back again.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The frog spreads the heel apart, drawing the sole flat and inviting the bone structure of the leg to descend into the hoof. This is how shock is absorbed in the hoof capsule. If you can accept that circulation is imperative to the distribution of nutrients throughout the system and that healthy blood flow aids in prevention and facilitates healing, it follows that limiting blood flow will lead to degeneration.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Cavallo Boots do not limit this perfect, natural function for a barefoot horse. The hoof can freely flex within the boot and the frog can make ground contact, yet be fully protected. Shock is properly absorbed and blood flows.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator --></div>
+<!-- /wp:group -->
+
+<!-- wp:block {"ref":333777} /-->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|gap"}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"textAlign":"center"} -->
+<h2 class="wp-block-heading has-text-align-center">Did you Know All Styles of Cavallo Boots can Double as a Soaking Boot?</h2>
+<!-- /wp:heading -->
+
+<!-- wp:columns {"verticalAlignment":"center"} -->
+<div class="wp-block-columns are-vertically-aligned-center"><!-- wp:column {"verticalAlignment":"center"} -->
+<div class="wp-block-column is-vertically-aligned-center"><!-- wp:heading {"textAlign":"center","level":3} -->
+<h3 class="wp-block-heading has-text-align-center">How to Use your Trail Boots as Soaking Boots:</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Double your money! Need top-performing hoof boots that can handle really rough terrain? But you ALSO need boots that can be used for thin soles or hoof rehabilitation from time to time? Or need some capable boots on hand for emergencies? Need some soaking boots, too?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>In this quick video, I show how simple it is to use any style or size Cavallo Boot as a soaking boot for a poultice soak, to hydrate hooves during dry, hot weather or to make your trimmer’s day by having buttery, soft hooves waiting for them!</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"center"} -->
+<div class="wp-block-column is-vertically-aligned-center"><!-- wp:embed {"url":"https://www.youtube.com/watch?v=CgFA5KAmy-o","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://www.youtube.com/watch?v=CgFA5KAmy-o
+</div></figure>
+<!-- /wp:embed --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|gap"}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"textAlign":"center"} -->
+<h2 class="wp-block-heading has-text-align-center">Arthritic Hands? The Easiest Boot on the Market to Put on &amp; Take Off:</h2>
+<!-- /wp:heading -->
+
+<!-- wp:columns {"verticalAlignment":"center"} -->
+<div class="wp-block-columns are-vertically-aligned-center"><!-- wp:column {"verticalAlignment":"center"} -->
+<div class="wp-block-column is-vertically-aligned-center"><!-- wp:paragraph -->
+<p><strong>What your <em>horse wears</em> shouldn’t wear on <em>your</em> hands.</strong> When designing Cavallos, we made sure your boot straps and buckles are easy to apply and remove–especially if you’re a rider who has experienced the discomfort and limitations of arthritic hands or for cold, stiff hands during Winter months.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Cavallo Boots come with Velcro straps that pull tight easily. We also have sturdy buckle and reflective strap options! Check out our full line <a href="http://cavallo.local/product-category/hoof-boot-accessories/cavallo-hoof-boots-velcro-replacement-straps/"><strong><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-red-color">HERE</mark></strong></a>.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"center"} -->
+<div class="wp-block-column is-vertically-aligned-center"><!-- wp:embed {"url":"https://youtu.be/bDWqwjxZSBo","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://youtu.be/bDWqwjxZSBo
+</div></figure>
+<!-- /wp:embed --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|gap"}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"textAlign":"center","level":3} -->
+<h3 class="wp-block-heading has-text-align-center">Riders with Arthritic Hands Report Back to Us:</h3>
+<!-- /wp:heading -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:paragraph -->
+<p>Both our Velcro and Buckle Straps are so easy for arthritic hands. Riders thank us for this constantly, Here are two lovely ladies we heard from through our Facebook page. Their feedback means a lot to us:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading">Easy-to-Use Trek Keeps Kathy &amp; Tucker on the Trails</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>“I’ve used Cavallo boots on my horse, Tucker since I’ve had him. We mostly trail ride. I went from the Simple Boots to Treks last Summer. I’ve only used Cavallo boots and have no thoughts of changing. I have arthritis in my hands and love them for how easy they are to put on and take off.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>– Kathy Deaton</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading">“I Have Very Arthritic Hands…”</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>California cattle rancher Kim Fish also recommends Cavallo for easy on and easy off:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>“I’ve been busy with cattle, and with my horse Josie having a year off, I’m getting her back into the swing of things again. She is doing great on the trail, as always—old reliable! Still using Cavallo Boots. Love ’em. They’re easy to get on (I have very arthritic hands, and they are simple to get on and off), and they stay on in mud. I used in the Sierras riding in granite and volcanic rock. My horses are happier and doing better barefoot as well. I cannot say enough about Cavallo Boots! They are the bomb!”</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|gap"}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"textAlign":"center","level":3} -->
+<h3 class="wp-block-heading has-text-align-center">Shod Horses Also Enjoy Comfort &amp; Protection with Cavallos</h3>
+<!-- /wp:heading -->
+
+<!-- wp:media-text {"mediaId":6572,"mediaLink":"http://cavallo.local/roper-rodeo-kimberly-grubbs-putting-trek-on-shod-hoof/","mediaType":"image","mediaWidth":30,"backgroundColor":"light-red-1"} -->
+<div class="wp-block-media-text is-stacked-on-mobile has-light-red-1-background-color has-background" style="grid-template-columns:30% auto"><figure class="wp-block-media-text__media"><img src="http://cavallo.local/wp-content/uploads/2024/12/Roper-Rodeo-Kimberly-Grubbs-Putting-Trek-on-shod-hoof.jpg" alt="Pro horse roper Kim Grubbs uses Cavallo Hoof Boots over metal horseshoes" class="wp-image-6572 size-full"/></figure><div class="wp-block-media-text__content"><!-- wp:heading {"level":5} -->
+<h5 class="wp-block-heading">Did you know it’s common for shod horses to wear Cavallo Boots?</h5>
+<!-- /wp:heading --></div></div>
+<!-- /wp:media-text -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"level":5} -->
+<h5 class="wp-block-heading">Stop Searching for Thrown Shoes!</h5>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Cavallos are used during turnout for retaining shoes. No more worrying before an event (we all know that’s every horse’s favourite time to throw a shoe!). Prevent costly, unplanned calls to the farrier and/or unnecessary injury.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":5} -->
+<h5 class="wp-block-heading">Helping the Shod Horse Heal</h5>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>For hoof rehabilitation, Cavallos can be worn over metal shoes to offer additional comfort and full protection during healing to keep your horse moving.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":5} -->
+<h5 class="wp-block-heading">Extra Protection on All Terrain</h5>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Metal against rock or hard ground can cause reverberation that can be harmful to your horse. Cavallos prevent the direct contact that produces shock, and the boot soles also absorb shock created by impact. Cavallo Boots also prevent chipping, stone bruising or any sensitivity on gravel or stony ground.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading">Metal Hits Hard Ground</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Shod or barefoot, horses can experience serious hoof and joint discomfort on hard Summer ground or frozen, Winter ground. Cavallo Boots provide a cushion to protect against weariness, tenderness and/or pain.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":5} -->
+<h5 class="wp-block-heading">Take the Shock out of Jumping</h5>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Cavallo Boots are proven to absorb impact and minimize pressure on the hoof. For a horse that is jumping repetitively with the additional weight of a rider and with metal shoes hitting the ground, the reduction in hoof pressure offered by Cavallo Boot soles adds up to a lot of relief in the short AND long term.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":5} -->
+<h5 class="wp-block-heading">Trailer Time</h5>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Outfitting shod show horses with boots during trailer rides can add support as well as traction for long road trips. We hear from our customers that the horses arrive at their show locations with less fatigue when they have worn the boots in the trailer. Horse owners can relax, knowing their horses are also safer and their hoofs are protected during travel.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":5} -->
+<h5 class="wp-block-heading">Take a Boot Along for the Ride…</h5>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Don’t forget – a Cavallo Boot makes the perfect spare tire in case you lose a shoe on a ride!</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|gap"}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"textAlign":"center"} -->
+<h2 class="wp-block-heading has-text-align-center">Cavallo Boots Have Superior Drainage for Wet Conditions</h2>
+<!-- /wp:heading -->
+
+<!-- wp:columns {"verticalAlignment":"center"} -->
+<div class="wp-block-columns are-vertically-aligned-center"><!-- wp:column {"verticalAlignment":"center"} -->
+<div class="wp-block-column is-vertically-aligned-center"><!-- wp:embed {"url":"https://www.youtube.com/watch?v=sKAfiDAfTSE","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://www.youtube.com/watch?v=sKAfiDAfTSE
+</div></figure>
+<!-- /wp:embed --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"center"} -->
+<div class="wp-block-column is-vertically-aligned-center"><!-- wp:paragraph -->
+<p>Drainage is an important consideration when buying hoof boots. Adequate drainage keeps the boot breathing well and also prevents a vacuum from being created that could suck a boot off in thick mud or boggy conditions.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Because Cavallo Boots fit so well when properly sized, and the drainage features work so well – your Cavallo Boots are going to stay put, no matter the terrain or the weather!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><em>So, relax and enjoy the ride!</em></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:acf/subscribe {"name":"acf/subscribe","data":{"title":"\u003ch2\u003eReceive Special Offers\u003c/h2\u003e\r\
+Sign up for our newsletter to get 10% off your first order, alongside exclusive promotions, industry news, tutorials, and more!","_title":"field_667bf8d5dd581","background_image":163,"_background_image":"field_667bfbf6dd582","form":"1","_form":"field_667bfc04dd583","html_anchor":"","_html_anchor":"field_672f5663be83a"},"mode":"edit"} /-->
+
+<!-- wp:block {"ref":333715} /-->

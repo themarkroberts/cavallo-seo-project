@@ -1,0 +1,86 @@
+[
+  {
+    "id": "7189",
+    "content_format": "Product page",
+    "summary": "Product page for the Cavallo Trek PRO Hoof Boot (sold per single boot), an upgraded Trek model with a moulded TPU Pro Mesh upper for round hooves, sizes 1-4.",
+    "key_components": ["Product gallery", "Add-to-cart", "Product tabs", "Image gallery", "Video embed", "Table of contents/sections", "Bulleted list"],
+    "primary_cta": "Add to cart"
+  },
+  {
+    "id": "7306",
+    "content_format": "Form / contact page",
+    "summary": "Gravity Form page for submitting donation and sponsorship requests to Cavallo. No body content beyond the form.",
+    "key_components": ["Lead form"],
+    "primary_cta": "Submit form"
+  },
+  {
+    "id": "7344",
+    "content_format": "Landing / marketing page",
+    "summary": "Promotional landing page for the Cavallo Revolution volume discount offering up to 25% off boots plus free shipping, with customer testimonials and video.",
+    "key_components": ["Image gallery", "Video embed", "Table of contents/sections", "Lead form", "CTA button", "Testimonials"],
+    "primary_cta": "Shop hoof boots"
+  },
+  {
+    "id": "201111",
+    "content_format": "Newsletter",
+    "summary": "June 2024 Cavallo newsletter covering barefoot hoof research by Sarah Albanozzo on hoof capability of barefoot-kept horses, with related updates and video.",
+    "key_components": ["Image gallery", "Video embed", "Table of contents/sections", "CTA button"],
+    "primary_cta": "Read more"
+  },
+  {
+    "id": "201246",
+    "content_format": "FAQ / informational",
+    "summary": "Informational page on Cavallo hoofcare cost savings, comparing traditional metal shoeing expenses to going barefoot with Cavallo Hoof Boots.",
+    "key_components": ["Image gallery", "Table of contents/sections", "Bulleted list", "CTA button", "Testimonials"],
+    "primary_cta": "Shop hoof boots"
+  },
+  {
+    "id": "201247",
+    "content_format": "FAQ / informational",
+    "summary": "Informational page on using Cavallo Hoof Boots for Navicular syndrome support and rehabilitation, covering symptoms, treatments, and shock-absorption benefits.",
+    "key_components": ["Image gallery", "Table of contents/sections", "Bulleted list", "CTA button", "Testimonials"],
+    "primary_cta": "Shop hoof boots"
+  },
+  {
+    "id": "201448",
+    "content_format": "FAQ / informational",
+    "summary": "Informational page on Cavallo Hoof Boots durability and lifespan, covering factors affecting wear, maintenance tips, the 180-day warranty, and when to replace.",
+    "key_components": ["Image gallery", "Table of contents/sections", "Bulleted list", "CTA button", "Testimonials"],
+    "primary_cta": "Shop hoof boots"
+  },
+  {
+    "id": "201491",
+    "content_format": "FAQ / informational",
+    "summary": "Informational page on the secure fit of Cavallo Hoof Boots, explaining the conical shape, Velcro closure, drainage system, and fit customization across terrain.",
+    "key_components": ["Image gallery", "Table of contents/sections", "Bulleted list", "CTA button", "Testimonials"],
+    "primary_cta": "Shop hoof boots"
+  },
+  {
+    "id": "201492",
+    "content_format": "FAQ / informational",
+    "summary": "Informational page on the many uses of Cavallo Hoof Boots, including therapy, rehabilitation, trail riding, transport, performance disciplines, and turnout.",
+    "key_components": ["Image gallery", "Table of contents/sections", "Bulleted list", "CTA button", "Testimonials"],
+    "primary_cta": "Shop hoof boots"
+  },
+  {
+    "id": "201614",
+    "content_format": "Template / functional page",
+    "summary": "Affiliate Area account dashboard page with no body content; functional page for logged-in affiliates.",
+    "key_components": [],
+    "primary_cta": "None"
+  },
+  {
+    "id": "201615",
+    "content_format": "Form / contact page",
+    "summary": "Affiliate login page with a prompt to log into the affiliate account and a contact link for assistance.",
+    "key_components": ["CTA button"],
+    "primary_cta": "Log in"
+  },
+  {
+    "id": "201616",
+    "content_format": "Form / contact page",
+    "summary": "Affiliate registration page with a contact link for assistance with signing up for the Cavallo affiliate program.",
+    "key_components": ["CTA button"],
+    "primary_cta": "Register"
+  }
+]

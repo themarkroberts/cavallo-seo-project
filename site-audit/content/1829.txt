@@ -1,0 +1,109 @@
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Proudly Sponsored by Cavallo - Team Cavallo's Taking on the World!</h2>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading"><strong>Kiwi's Movie is Out!&nbsp;</strong></h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.facebook.com/Kiwitheminihorse/" target="_blank" rel="noopener noreferrer">Kiwi</a><a href="https://www.facebook.com/Kiwitheminihorse/" target="_blank" rel="noopener noreferrer">,</a> one of our Team Cavallo minis, has been working hard on this movie over the past year! This film really demonstrates the incredible value of the mini horse therapy community. These little ones have so much to offer, and ask for so little in return - they're basically little equine angels! Follow the film on Facebook here: <a href="https://www.facebook.com/thereggiefilm/?__tn__=K-R&amp;eid=ARCwZ8v4VaH1MBYgD6y6uEnq6bxVmH6vrx2Jw9U_NE64vLZIrrB-C2XFKOcFYhXX1N8sPCLnsOyhLtZS&amp;fref=mentions&amp;__xts__%5B0%5D=68.ARDzhSTCxN16kI1ZAnJqRFNfDvSqnmTphlNaIr0SMQioyIutiXLdXj_UTIKLBXdwDtYurGeA63BjHCbT1QG1E510ABm6mHo3eKMVzhn7tMdKrGJ7qnUttDs-iVk7sLZi4_HZBvGoPMvZnrzq6zwqPgB7z_1hxMJ6x0go0Es4_Bm08VW2505zgOFOTEYbIcPuUYlxCPMBufH7ZiIivymAW-TQGnXJ887dDIknLx2NKAzvrFPoOUmwE8IzH5m1blbYBVCEWEiqTsbtsXz_mG0zOCISb0KgvdwhutCFbpJAauy5lW4O1-RoVoLngVFXTswqDFaS5YjlB9QGGx0YnN3r" data-hovercard="/ajax/hovercard/page.php?id=888952964800143&amp;extragetparams=%7B%22__tn__%22%3A%22%2CdK-R-R%22%2C%22eid%22%3A%22ARCwZ8v4VaH1MBYgD6y6uEnq6bxVmH6vrx2Jw9U_NE64vLZIrrB-C2XFKOcFYhXX1N8sPCLnsOyhLtZS%22%2C%22fref%22%3A%22mentions%22%7D" data-hovercard-prefer-more-content-show="1">Reggie: A Millennial Depression Comedy&nbsp;</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Kiwi is a therapy mini at&nbsp;<a href="https://www.stampedeoflove.org/" target="_blank" rel="noopener noreferrer">Stampede Of Love.</a> So, when he's not making movies, he's out brightening lives!&nbsp;<img role="presentation" src="https://static.xx.fbcdn.net/images/emoji.php/v9/t6c/1/16/2764.png" alt="" width="16" height="16"></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:embed {"url":"https://www.youtube.com/watch?v=dVsQQzyq1wQ","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://www.youtube.com/watch?v=dVsQQzyq1wQ
+</div></figure>
+<!-- /wp:embed -->
+
+<!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading">A Man of the Times... Hughie's Got it!</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>We all need someone to look to during these uncertain days... Someone with swag, who doesn't let life get him down! Who struts his stuff no matter what. And knows that, even during a global situation - "Sexy" counts! And that's where his C<a href="http://cavallo.local/product-category/hoof-boot/" target="_blank" rel="noopener noreferrer">LB Bling Hoof Boots</a> come in... ;)&nbsp; Enjoy this video of Hughie, Megan Postletheweight's AMHA Champion American miniature horse! You can follow Hughie in Instagram at: <a href="https://www.instagram.com/my.2.minis/?hl=en" target="_blank" rel="noopener noreferrer">@my.2.minis</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:embed {"url":"https://youtu.be/1P7r6K2Xb3E","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://youtu.be/1P7r6K2Xb3E
+</div></figure>
+<!-- /wp:embed -->
+
+<!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading"><strong>Cathy Jo and Blue Rock their ELB Bling&nbsp;</strong></h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.facebook.com/BoiseStateBroncoGirl1" target="_blank" rel="noopener noreferrer">Boise State Bronco Girl</a>, Cathy Jo Ayotte, needed some new boots, and she wanted to make sure they got NOTICED!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>So we sent Cathy Jo and Blue some <a href="http://cavallo.local/product-category/hoof-boot/elb-hoof-boots/" target="_blank" rel="noopener noreferrer">ELB BLING Boots!</a>&nbsp; This sure did the trick!&nbsp; These two have been dazzling the crowds at Boise State Bronco games, and Blue not only looks great - he stays protected and sure-footed with the extra grip of his boots!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Want to see some Cavallos in action with these two? Follow them here on Instagram: <a href="https://www.instagram.com/blueontheblue/?hl=en" target="_blank" rel="noopener noreferrer">@blueontheblue&nbsp;</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="http://cavallo.local/wp-content/uploads/2020/03/Cathy-Jo-and-blue-Cavallo-Horse-Hoof-Boots-ELB-Bling-Boise-state-broncos-1.jpg" alt="Cathy Jo and blue Cavallo Horse Hoof Boots ELB Bling Boise state broncos"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading">Emma Schools the Masses</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Well...it had to be said:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>"The rules are simple - Keep your Ass in your home!"</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.emmamassingale.com/" target="_blank" rel="noopener noreferrer">Emma Massingale</a> really knows how to make a point about world issues, and using creativity, and a donkey or two, she's helping to flatten the curve in her own way!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>By the way...where is YOUR ass right now?&nbsp; (Sorry - Pandemic humour - we couldn't resist!)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="http://cavallo.local/wp-content/uploads/2020/03/Emma-massingale-keep-your-ass-in-your-home-pandemic-humour-452x373.jpg" alt="Emma massingale keep your ass in your home - pandemic humour"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading">Drive Away the Isolation Blues...Literally!</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Rebecca Kachuriak of the AMHA has the right idea - stuck at home? Drive those blues away! She spent Tuesday testing out Tatty's new CLB Bling Boots under the Texan sun, 'cause that's how they roll!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.youtube.com/watch?v=SPM86GokCfM" target="_blank" rel="noopener noreferrer"><b>WATCH HERE</b></a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:embed {"url":"https://www.youtube.com/watch?v=SPM86GokCfM","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://www.youtube.com/watch?v=SPM86GokCfM
+</div></figure>
+<!-- /wp:embed -->
+
+<!-- wp:spacer -->
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->

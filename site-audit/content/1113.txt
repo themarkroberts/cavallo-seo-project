@@ -1,0 +1,11 @@
+<!-- wp:image {"id":1114,"width":"305px","height":"auto","sizeSlug":"full","linkDestination":"none","align":"left"} -->
+<figure class="wp-block-image alignleft size-full is-resized"><img src="http://cavallo.local/wp-content/uploads/2024/09/Barneys-Boots-006-1024x768-e1405691485154.jpg" alt="" class="wp-image-1114" style="width:305px;height:auto"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>My partner's thoroughbred has abscesses in both hind hooves due to the wet weather we have had this winter. He lives out 24/7 because he doesn't like being away from his mates. He was having to stay in until I discovered Cavallo Simple Hoof Boots. Now he can charge round the field as if he was a 4 year old and not the 21 year old that he is. These boots are the best purchase we've made in a long time. I would recommend these to anyone.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><em>Terry King</em>, <em>United Kingdom</em></p>
+<!-- /wp:paragraph -->

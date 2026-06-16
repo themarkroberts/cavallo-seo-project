@@ -1,0 +1,86 @@
+[
+  {
+    "id": "1473",
+    "content_format": "Standard article (text + images)",
+    "summary": "Carole Herder blog post encouraging horse owners to transition to barefoot, stressing preparation, education and a qualified trimmer before pulling shoes rather than rushing.",
+    "key_components": ["Body text"],
+    "primary_cta": "None"
+  },
+  {
+    "id": "1474",
+    "content_format": "Standard article (text + images)",
+    "summary": "Brand news post announcing that Cavallo distributor Battles won the BETA International 'Trade Supplier of the Year' award for 2015, its second consecutive win.",
+    "key_components": ["Body text"],
+    "primary_cta": "None"
+  },
+  {
+    "id": "1476",
+    "content_format": "Standard article (text + images)",
+    "summary": "Carole Herder reflects on essential horse equipment, arguing that Cavallo hoof boots are her must-have item for protecting horses on rough terrain.",
+    "key_components": ["Body text"],
+    "primary_cta": "None"
+  },
+  {
+    "id": "1477",
+    "content_format": "Standard article (text + images)",
+    "summary": "Post covering The Caravan, a 2,500-mile transcontinental horse-powered journey across the USA in 2014-15, featuring barefoot horses and promoting therapeutic and long-distance driving.",
+    "key_components": ["Body text"],
+    "primary_cta": "None"
+  },
+  {
+    "id": "1479",
+    "content_format": "Standard article (text + images)",
+    "summary": "Educational post on hay for horses, covering how cutting stage, time of day, plant species and curing affect nutritional value and fructan content, plus free-choice feeding.",
+    "key_components": ["Body text"],
+    "primary_cta": "None"
+  },
+  {
+    "id": "1481",
+    "content_format": "Standard article (text + images)",
+    "summary": "Carole Herder discusses hoof landing mechanics, revisiting her advocacy of heel-first landing and reconsidering toe-first and flat landings given conflicting evidence; includes a YouTube video.",
+    "key_components": ["Video embed", "Body text"],
+    "primary_cta": "None"
+  },
+  {
+    "id": "1483",
+    "content_format": "Standard article (text + images)",
+    "summary": "Post sharing Monty Roberts' views on barefoot horses, recounting his 2003 Rose Parade demonstration with six wild mustangs trained and shown without shoes.",
+    "key_components": ["Pull quote/testimonial", "Body text"],
+    "primary_cta": "None"
+  },
+  {
+    "id": "1485",
+    "content_format": "Standard article (text + images)",
+    "summary": "Post on the Dakota 38+2 Memorial Ride, a 16-day, 330-mile barefoot journey commemorating the 1862 mass execution of 38 Dakota people, and Native American horsemanship.",
+    "key_components": ["Pull quote/testimonial", "Body text"],
+    "primary_cta": "None"
+  },
+  {
+    "id": "1486",
+    "content_format": "Standard article (text + images)",
+    "summary": "Promotional post inviting readers to enter ACTHA's draw to win a trip to Australia's Equine Lifestyle Festival, with extra entries for riding in Cavallo hoof boots at ACTHA events.",
+    "key_components": ["Bulleted list", "Body text"],
+    "primary_cta": "Enter the ACTHA draw"
+  },
+  {
+    "id": "1487",
+    "content_format": "Standard article (text + images)",
+    "summary": "Carole Herder examines modern equine deworming, advocating fecal egg counts over routine frequent worming to avoid parasite resistance and target treatment.",
+    "key_components": ["Body text"],
+    "primary_cta": "None"
+  },
+  {
+    "id": "1489",
+    "content_format": "Standard article (text + images)",
+    "summary": "Post about TV show 'Best of America by Horseback' and host Tom Seay laying a wreath at the Tomb of the Unknown Soldier, inviting readers to add names to a tribute book honoring veterans.",
+    "key_components": ["Body text"],
+    "primary_cta": "None"
+  },
+  {
+    "id": "1491",
+    "content_format": "Standard article (text + images)",
+    "summary": "Carole Herder explains how a balanced diet and minerals (zinc, copper, biotin, selenium) support healthy hooves, framing diet, environment and trim as the three pillars of hoof care.",
+    "key_components": ["Bulleted list", "Body text"],
+    "primary_cta": "None"
+  }
+]

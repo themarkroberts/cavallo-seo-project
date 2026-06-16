@@ -1,0 +1,39 @@
+<!-- wp:paragraph -->
+<p>By Carole Herder</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":5168,"linkDestination":"custom","align":"left"} -->
+<figure class="wp-block-image alignleft"><a href="//cavallo.local/wp-content/uploads/2014/12/Path.jpg"><img src="//cavallo.local/wp-content/uploads/2014/12/Path-339x452.jpg" alt="Horse Hoof Boots" class="wp-image-5168"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>Through an association that Cavallo has recently began sponsoring, we have learned of some disturbing facts. As of Feb 26, 1914 the Defense Department Reports that 51, 904 service members were wounded in action. 500,000 return from war zones with PTSD (post traumatic stress disorder) or TBI (traumatic brain injury). 6799 members did NOT come home at all. Of those who have made it home, 21 commit suicide in the USA daily.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Our friends at PATH (Professional Association of Therapeutic Horsemanship) have helped us learn of Equine Assisted Therapy for Wounded Warriors and Military Veterans.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>There have been several documented recoveries from suffering through the friendship and association with the magical, mystical, ever intuitive and aware nature of the horse. One young man named Aaron Heliker, with his suicide letter already written and on 42 different pills per day, felt he had nothing left to lose. Aaron found solace in a horse named Fred. Fred’s gentle nature guided the way for Aaron’s return to health. This horse’s love was the strength Aaron required to come back from what was referred to as the “walking dead”. From plowing our fields, to transportation and from taking us into battle: the horse still serves, by bringing us back out. This time it’s not about physical battle but the inner battles: the demons, the dark side, the unmanageable turmoil in our minds and emotions. Horses Serve.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>We are excited to be visiting Rainier Therapeutic Riding <a href="http://www.rtriding.org" target="_blank" rel="noopener">www.rtriding.org</a> next month in Washington State and I’ll let you know more about them after our visit. Rainier is the first accredited PATH Intl. center <a href="http://www.pathintl.org" target="_blank" rel="noopener">www.pathintl.org</a>. And if you want to know more about Aaron, check out <a href="http://www.ridingmywayback.com" target="_blank" rel="noopener">www.ridingmywayback.com</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>There is so much to LOVE about horses.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:spacer {"height":"40px"} -->
+<div style="height:40px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph -->

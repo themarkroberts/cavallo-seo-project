@@ -1,0 +1,11 @@
+<!-- wp:image {"id":1134,"width":"341px","height":"auto","sizeSlug":"full","linkDestination":"none","align":"left"} -->
+<figure class="wp-block-image alignleft size-full is-resized"><img src="http://cavallo.local/wp-content/uploads/2024/09/black-horse-at-ACTHA-5.5.2012-face.jpg" alt="" class="wp-image-1134" style="width:341px;height:auto"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>I never leave home without my horse's Cavallo hoof boots. The horses know what they are for and hold up their hoofs for application. As a rider I believe we should do all we can to make our horse's experience as enjoyable for them as it is for us. A lot of the trails we ride in my area are canopy trails which means there are roots and limbs that can be just as uncomfortable for a barefoot horse as it would be for us. I love my horses and they love their Cavallos. I carry a spare pair and have on occasion loaned them to another rider and saved the day for them and their horse. It made them believers and they ordered their horse a pair the next day.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Lyndal Odom, Florida USA</p>
+<!-- /wp:paragraph -->

@@ -1,0 +1,11 @@
+<!-- wp:image {"id":1155,"width":"438px","height":"auto","sizeSlug":"full","linkDestination":"none","align":"left"} -->
+<figure class="wp-block-image alignleft size-full is-resized"><img src="http://cavallo.local/wp-content/uploads/2024/09/jerrylutker-1024x768-e1405629829750.jpg" alt="" class="wp-image-1155" style="width:438px;height:auto"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>My Bubba foundered two years ago. He made a wonderful comeback but is tenderfooted.&nbsp; Cavallo Simple hoof boots are a Godsend. We are back to riding and going through sucking mud and deep creeks. These boots don't move. The fit is wonderful and they don't even make a noise. I love them and will be buying a pair for my other two. Thank You. The gel inserts are really nice, also. You can almost see Bubba smile when I put the boots on.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><em>-Jerry Lutker, USA</em></p>
+<!-- /wp:paragraph -->

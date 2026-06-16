@@ -1,0 +1,15 @@
+<!-- wp:image {"id":1144,"width":"182px","height":"auto","sizeSlug":"full","linkDestination":"none","align":"left"} -->
+<figure class="wp-block-image alignleft size-full is-resized"><img src="http://cavallo.local/wp-content/uploads/2024/09/Chuey-from-Ruth-small-6-27-2012.jpg" alt="" class="wp-image-1144" style="width:182px;height:auto"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>About two years ago, while shopping at my local feed store I was wishing there were sneakers for horses. My horse Chuey had been barefoot for about a year and, while his feet were healthier than they had ever been, he was still sensitive to the rocks on our trails. I had a feeling I should look in the boot section of the store and there they were! Cavallo Simple Hoof Boots! Those boots lasted nearly two years and I just received our second pair. Chuey and I trail ride and do dressage work. These boots never move even when Chuey bucks and spins in the turnout. When he wears his booties, Chuey's strides are longer and more suspended. I couldn't be happier with the Cavallo Simple Boots.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Thank you!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><em>Janet, San Pedro, California</em></p>
+<!-- /wp:paragraph -->

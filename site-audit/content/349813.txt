@@ -1,0 +1,327 @@
+<!-- wp:image {"id":350767,"sizeSlug":"full","linkDestination":"none","className":"is-style-default","UAGHideDesktop":true,"UAGHideTab":true,"UAGResponsiveConditions":true} -->
+<figure class="wp-block-image size-full is-style-default uag-hide-desktop uag-hide-tab"><img src="http://cavallo.local/wp-content/uploads/2026/06/Cavallo-Hoof-Boots-newsletter-header-image-mobile-view.jpg" alt="Cavallo Hoof Boots newsletter header image - mobile view." class="wp-image-350767"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":350768,"sizeSlug":"full","linkDestination":"none","align":"center","UAGHideMob":true,"UAGResponsiveConditions":true} -->
+<figure class="wp-block-image aligncenter size-full uag-hide-mob"><img src="http://cavallo.local/wp-content/uploads/2026/06/Cavallo-Newsletter-Header-image-20-year-of-Cavallo-mobile-view-scaled.jpg" alt="Cavallo Newsletter Header image - 20 year of Cavallo mobile view" class="wp-image-350768"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:group {"layout":{"type":"flex","orientation":"vertical","justifyContent":"center"}} -->
+<div class="wp-block-group"><!-- wp:heading {"level":4,"style":{"typography":{"textAlign":"center"}}} -->
+<h4 class="wp-block-heading has-text-align-center"><em>"When you solve a real problem, people—and animals—respond quickly."</em></h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"typography":{"textAlign":"center"}}} -->
+<p class="has-text-align-center">- Carole </p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|xs","bottom":"var:preset|spacing|xs"},"blockGap":"var:preset|spacing|xs"}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group" style="padding-top:var(--wp--preset--spacing--xs);padding-bottom:var(--wp--preset--spacing--xs)"><!-- wp:heading {"style":{"spacing":{"padding":{"bottom":"var:preset|spacing|xs"}},"typography":{"textAlign":"center"}}} -->
+<h2 class="wp-block-heading has-text-align-center" style="padding-bottom:var(--wp--preset--spacing--xs)">Quiz Time: Is Your Horse Giving Summer Vibes or Summer Sass?</h2>
+<!-- /wp:heading --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"bottom":"var:preset|spacing|0"},"margin":{"bottom":"var:preset|spacing|0"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group" style="margin-bottom:var(--wp--preset--spacing--0);padding-bottom:var(--wp--preset--spacing--0)"><!-- wp:image {"id":350759,"sizeSlug":"full","linkDestination":"none","style":{"border":{"radius":{"topLeft":"15px","topRight":"15px","bottomLeft":"15px","bottomRight":"15px"}},"spacing":{"margin":{"top":"var:preset|spacing|0","bottom":"var:preset|spacing|0"}}},"UAGHideDesktop":true,"UAGHideTab":true,"UAGResponsiveConditions":true} -->
+<figure class="wp-block-image size-full has-custom-border uag-hide-desktop uag-hide-tab" style="margin-top:var(--wp--preset--spacing--0);margin-bottom:var(--wp--preset--spacing--0)"><img src="http://cavallo.local/wp-content/uploads/2026/06/Summer-Hoof-Vibes-latest-version.jpg" alt="Cavallo Hoof Boots Summer Hoof Vibes Quiz" class="wp-image-350759" style="border-top-left-radius:15px;border-top-right-radius:15px;border-bottom-left-radius:15px;border-bottom-right-radius:15px"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":350760,"sizeSlug":"full","linkDestination":"none","style":{"border":{"radius":{"topLeft":"15px","topRight":"15px","bottomLeft":"15px","bottomRight":"15px"}},"spacing":{"margin":{"top":"var:preset|spacing|0","bottom":"var:preset|spacing|0"}}},"UAGHideMob":true,"UAGResponsiveConditions":true} -->
+<figure class="wp-block-image size-full has-custom-border uag-hide-mob" style="margin-top:var(--wp--preset--spacing--0);margin-bottom:var(--wp--preset--spacing--0)"><img src="http://cavallo.local/wp-content/uploads/2026/06/Summer-Hoof-Vibes-latest-version2.jpg" alt="Cavallo Hoof Boots Summer Hoof Vibes Quiz desktop" class="wp-image-350760" style="border-top-left-radius:15px;border-top-right-radius:15px;border-bottom-left-radius:15px;border-bottom-right-radius:15px"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"level":3,"style":{"typography":{"textAlign":"center"},"spacing":{"margin":{"top":"var:preset|spacing|0","bottom":"var:preset|spacing|0"}}}} -->
+<h3 class="wp-block-heading has-text-align-center" style="margin-top:var(--wp--preset--spacing--0);margin-bottom:var(--wp--preset--spacing--0)">What's Your Horse's Summer Hoof Personality?</h3>
+<!-- /wp:heading --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"align":"full","layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignfull"><!-- wp:paragraph -->
+<p>Summer is full of horsey fun, but it can also be full of hidden challenges. Your horse may feel great in the pasture, then suddenly get careful on gravel, hard roads, rocky trails, or sun-baked ground when you head out for a ride.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>This quick quiz helps you spot the little clues your horse may already be giving you!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading">How to Play:</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Pick the answer that sounds most like your horse. At the end, count how many A’s, B’s, and C’s you picked to calculate your score! ?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"layout":{"selfStretch":"fit","flexSize":null}},"backgroundColor":"light-red-1"} -->
+<p class="has-light-red-1-background-color has-background"><strong>1.</strong> <strong>You head down a gravel path. Your horse says…</strong><br><br><strong>A. </strong>“No problem, let’s go!”?<br><strong>B.</strong> “I’ll go, but I’m choosing my steps.”?<br><strong>C.</strong> “Absolutely not. I’m walking on the soft shoulder.”?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"backgroundColor":"white"} -->
+<p class="has-white-background-color has-background"><strong>2.</strong> <strong>On hard summer ground, your horse usually…</strong><br><br><strong>A.</strong> Moves out happily - no changes. ?️<br><strong>B.</strong> Feels a little shorter or more careful at times. ?<br><strong>C. </strong>Slows down, hesitates, or hugs the soft edge. ?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"backgroundColor":"light-red-1"} -->
+<p class="has-light-red-1-background-color has-background"><strong>3.</strong> <strong>After a trim, your horse is…</strong><br><br><strong>A.</strong> Ready to hit the trails! ?<br><strong>B.</strong> A bit tender for a day or two.?<br><strong>C.</strong> Ouchy enough that you plan around it. ?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"backgroundColor":"white"} -->
+<p class="has-white-background-color has-background"><strong>4.</strong> <strong>Your horse lives mostly on…</strong><br><br><strong>A.</strong> 24/7 turnout on varied footing, like pasture, dirt, gravel, and rocky, uneven terrain. ?️<br><strong>B.</strong> 12-24-hour turnout daily on mostly soft footing, such as grass, sand, and loose dirt. ?️<br><strong>C.</strong> &lt;12 hours of turnout per day on soft footing (arena turnout, sandy dry lots, and stalls/stables). ?️</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"backgroundColor":"light-red-1"} -->
+<p class="has-light-red-1-background-color has-background"><strong>5.</strong> <strong>On trails, your horse prefers…</strong><br><br><strong>A.</strong> Any path, any surface - no hesitation, always happy to cruise over rocks! ?️<br><strong>B.</strong> Softer footing when they can find it, but will willingly go over hard ground if asked. ?<br><strong>C. </strong>The shoulder, the grass, the sand, or literally anything except rocks. Ouch! ⚠️</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"backgroundColor":"white"} -->
+<p class="has-white-background-color has-background"> <strong>6. By late summer, your horse’s hooves tend to be…</strong><br><br><strong>A.</strong> Beautiful! Solid hooves with minimal chips, cracks, and a healthy wear/growth ratio. ?<br><strong>B.</strong> Pretty good! They may chip, crack, or wear a little more than usual - but nothing some hydration and extra care can’t fix. ?️<br><strong>C.</strong> Sore - Wear down fast, chip and crack often, and need extra help regularly to stay comfortable. ?️</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"backgroundColor":"light-red-1"} -->
+<p class="has-light-red-1-background-color has-background"><strong>7. If your horse could text you before a ride, they would say…</strong><br><br><strong>A.</strong> “Barefoot and thriving. But maybe bring my boots juuuuuust in case”.?<br><strong>B. </strong>“Please bring my boots, especially if we are going over new terrain! ⛰️".<br><strong>C.</strong> “Don’t you DARE forget my Cavallos (or my carrots!?)"!</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|0","bottom":"var:preset|spacing|0"},"margin":{"top":"var:preset|spacing|xs","bottom":"var:preset|spacing|xs"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group" style="margin-top:var(--wp--preset--spacing--xs);margin-bottom:var(--wp--preset--spacing--xs);padding-top:var(--wp--preset--spacing--0);padding-bottom:var(--wp--preset--spacing--0)"><!-- wp:heading {"level":3,"style":{"typography":{"textAlign":"center"}}} -->
+<h3 class="wp-block-heading has-text-align-center">Your Quiz Results!</h3>
+<!-- /wp:heading --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"bottom":"var:preset|spacing|lg"}}},"backgroundColor":"light-red-1","layout":{"type":"constrained"}} -->
+<div class="wp-block-group has-light-red-1-background-color has-background" style="padding-bottom:var(--wp--preset--spacing--lg)"><!-- wp:heading {"level":5,"backgroundColor":"light-red-1"} -->
+<h5 class="wp-block-heading has-light-red-1-background-color has-background"><strong>Mostly A’s: Barefoot Beach Energy! ?</strong></h5>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"backgroundColor":"white"} -->
+<p class="has-white-background-color has-background">Your horse sounds pretty confident on summer footing! They may not need boots every day, but it is still smart to keep an eye on changing ground, longer rides, and extra hoof wear during busy months.<br><br>? <strong>Summer hoof tip:</strong> Even comfortable horses can appreciate boots on rocky trails, pavement, gravel roads, or long rides where the hoof wears faster than it grows!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":5,"backgroundColor":"light-red-1"} -->
+<h5 class="wp-block-heading has-light-red-1-background-color has-background"><strong>Mostly B’s: The “Helpful for Adventures” Horse ?</strong></h5>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"backgroundColor":"white"} -->
+<p class="has-white-background-color has-background">Your horse is probably comfortable most of the time, but certain surfaces make them think twice. Gravel, hard-packed trails, dry ground, or post-trim tenderness may be their way of saying, “A little support would be nice.”<br><br>Cavallo Hoof Boots are perfect for this type of horse because they do not have to be worn all the time. You can use them when the footing gets tough, then take them off when your horse is back on comfortable ground.<br><br>? <strong>Summer hoof tip: </strong>Try boots for longer rides, rocky trails, or hard roads. Your horse’s stride will usually tell you if they appreciate the extra protection!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"backgroundColor":"light-red-1"} -->
+<p class="has-light-red-1-background-color has-background"><strong>Mostly C’s: Your Horse Wants the Boots ?</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"backgroundColor":"white"} -->
+<p class="has-white-background-color has-background">Your horse would benefit from some Cavallo boots! Avoiding gravel, hugging the soft shoulder, slowing down on hard ground, and tenderness after trims are all signs that their hooves may need extra protection during summer work.<br><br>Cavallo Hoof Boots can help reduce wear, soften concussion, protect the sole, and give your horse more confidence on tricky terrain! Great for riding and turnout use.<br><br>? <strong>Summer hoof tip:</strong> Boots can be especially helpful for thin soles, barefoot transitions, rehab, laminitis history, rocky trails, or horses that live on soft footing but work on hard ground.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:spacer {"height":"6px"} -->
+<div style="height:6px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"style":{"typography":{"textAlign":"center"}}} -->
+<h2 class="wp-block-heading has-text-align-center">Spoiler Alert: Cavallo Boots Love Airtime!</h2>
+<!-- /wp:heading --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"bottom":"var:preset|spacing|lg","top":"var:preset|spacing|lg"}},"border":{"radius":{"topLeft":"12px","topRight":"12px","bottomLeft":"12px","bottomRight":"12px"}}},"backgroundColor":"light-red-1","layout":{"type":"constrained"}} -->
+<div class="wp-block-group has-light-red-1-background-color has-background" style="border-top-left-radius:12px;border-top-right-radius:12px;border-bottom-left-radius:12px;border-bottom-right-radius:12px;padding-top:var(--wp--preset--spacing--lg);padding-bottom:var(--wp--preset--spacing--lg)"><!-- wp:image {"id":350771,"width":"1177px","height":"auto","sizeSlug":"full","linkDestination":"none","align":"center","style":{"border":{"radius":{"topLeft":"12px","topRight":"12px","bottomLeft":"12px","bottomRight":"12px"}}}} -->
+<figure class="wp-block-image aligncenter size-full is-resized has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2026/06/@stallmansas-dina-and-collin-trek-boots-jumping.jpg" alt="@stallmansas dina and collin trek boots jumping" class="wp-image-350771" style="border-top-left-radius:12px;border-top-right-radius:12px;border-bottom-left-radius:12px;border-bottom-right-radius:12px;width:1177px;height:auto"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph {"style":{"typography":{"textAlign":"center"}}} -->
+<p class="has-text-align-center">Ready to take the leap? Cavallo Hoof Boots aren't just for trail rides—they're built to help horses handle the demands of jumping with comfort, stability, and hoof-friendly support. Read on!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:columns {"style":{"spacing":{"padding":{"bottom":"var:preset|spacing|0"}}}} -->
+<div class="wp-block-columns" style="padding-bottom:var(--wp--preset--spacing--0)"><!-- wp:column {"width":"450px","layout":{"type":"constrained"}} -->
+<div class="wp-block-column" style="flex-basis:450px"><!-- wp:embed {"url":"https://youtube.com/shorts/AO_zJOrcI6E","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-9-16 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-9-16 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://youtube.com/shorts/AO_zJOrcI6E
+</div></figure>
+<!-- /wp:embed -->
+
+<!-- wp:paragraph -->
+<p><em>Featured in video: Gracie Evans</em> </p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:group {"layout":{"type":"flex","orientation":"vertical"}} -->
+<div class="wp-block-group"><!-- wp:heading {"level":5} -->
+<h5 class="wp-block-heading">Why Should You Jump Your Horse in Cavallo Boots?</h5>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>When a horse lands from a jump, the weight of the horse and rider travels down through the front limbs and into the hooves. Their body is designed to absorb this impact, and the hoof plays a major role in how evenly that force is distributed. Additionally, impact on hard surfaces causes ground force reaction to be absorbed either in the sensitive tissue of the hoof or further up the horse's structure.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":5} -->
+<h5 class="wp-block-heading">More Surface Area = Better Load Sharing:</h5>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>As <a href="https://www.thehorseshoof.com/more-hoof-ideas-from-dr-robert-bowker/" target="_blank" rel="noreferrer noopener">Dr. Robert Bowker, DVM,</a> explained, if a bare hoof landing after a jump experiences 1,000 pounds of loading per square foot, a traditionally shod hoof experiences closer to 2,000 pounds per square foot because the load is concentrated over a smaller area (Bowker, 2006).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":5} -->
+<h5 class="wp-block-heading">This Means Cavallos Can Decrease Loading Pressure by 50%</h5>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="http://cavallo.local/product-category/hoof-boot/" target="_blank" rel="noreferrer noopener">Cavallo Hoof Boots</a> help by increasing ground contact and supporting more even pressure distribution. In an <a href="http://cavallo.local/wp-content/uploads/2022/10/PDF-2020-Published-reasearch-paper-Western-Kentucky-University-Hoof-Boots-Study-1.pdf" target="_blank" rel="noreferrer noopener">independent study at Western Kentucky University,</a> Dr. Jennifer Gill and Gabriella Lynn found that Cavallo Trek Boots increased surface contact and reduced hoof pressure compared with both barefoot hooves and traditional metal shoes (Gill &amp; Lynn, 2020).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":5} -->
+<h5 class="wp-block-heading">What this Means for Your Horse:</h5>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>More shock absorption on landing</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Better pressure distribution under the hoof</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Added traction for take-offs, landings, and turns</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Protection on firm, hard-packed, or variable footing</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p><span style="font-size: calc(0.91838rem + 0.08162vw);">Boots do not replace proper trimming or conditioning; however, a well-fitting Cavallo Boot will give your horse extra comfort and confidence when jumping</span>!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":5} -->
+<h5 class="wp-block-heading">The Takeaway:</h5>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Jumping horses need protection, traction, and stability. Cavallo Hoof Boots offer all three, while still allowing the hoof to function naturally! If you wish to support your horse's performance without locking their hooves into metal shoes, Cavallo is your practical, horse-friendly option.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":6} -->
+<h6 class="wp-block-heading">Photo credit: @Stallmanas</h6>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":6,"align":"left"} -->
+<h6 class="wp-block-heading">Sources:</h6>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item {"fontSize":"small"} -->
+<li class="has-small-font-size"><em>Bowker, R. M. (2006). Horse &amp; Rider, February 2006. Referenced in Cavallo educational articles.Gill, J., &amp; Lynn, G. (2020). </em></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item {"fontSize":"small"} -->
+<li class="has-small-font-size"><em>Evaluation of hoof pressure, contact area, and force using Fujifilm® in booted and shod horses. Western Kentucky University Equine Science Department.</em></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item {"fontSize":"small"} -->
+<li class="has-small-font-size"><em>Hobbs, S. J., et al. (2023). Effects of Jumping Phase, Leading Limb, and Arena Surface Type on Jumping Horse Hoof Movement. Animals.</em></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item {"fontSize":"small"} -->
+<li class="has-small-font-size"><em>Meershoek, L. S., Schamhardt, H. C., Roepstorff, L., &amp; Johnston, C. (2001). Forelimb loading at landing in jumping horses. American Journal of Veterinary Research.</em></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"style":{"typography":{"textAlign":"center"}}} -->
+<h2 class="wp-block-heading has-text-align-center">Who Won the "Keeping it Reel" Video Contest?</h2>
+<!-- /wp:heading --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading {"level":5} -->
+<h5 class="wp-block-heading">The votes are in! ?</h5>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>A huge thank you to everyone who watched and voted in our “Keeping It Reel” challenge. We loved seeing your enthusiasm and support for each of the creative entries! </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Congratulations to Rachel, who has officially been crowned our Cavallo Video Champion! ?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>If you missed the challenge in our last newsletter, you can watch the videos <strong><a href="http://cavallo.local/newsletter/may-2-journal-founders-insights/" target="_blank" rel="noreferrer noopener">HERE!</a></strong></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading {"level":5,"align":"left"} -->
+<h5 class="wp-block-heading">Here are the final results:</h5>
+<!-- /wp:heading -->
+
+<!-- wp:image {"id":350237,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="http://cavallo.local/wp-content/uploads/2026/05/Video-contest-winner.jpg" alt="Cavallo Staff Video contest winner" class="wp-image-350237"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:separator {"className":"is-style-wide","style":{"spacing":{"margin":{"top":"var:preset|spacing|xl","bottom":"var:preset|spacing|xl"}}}} -->
+<hr class="wp-block-separator has-alpha-channel-opacity is-style-wide" style="margin-top:var(--wp--preset--spacing--xl);margin-bottom:var(--wp--preset--spacing--xl)"/>
+<!-- /wp:separator --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|xxl","bottom":"var:preset|spacing|md","left":"var:preset|spacing|xs","right":"var:preset|spacing|xs"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group" style="padding-top:var(--wp--preset--spacing--xxl);padding-right:var(--wp--preset--spacing--xs);padding-bottom:var(--wp--preset--spacing--md);padding-left:var(--wp--preset--spacing--xs)"><!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column {"width":"600px","style":{"spacing":{"padding":{"right":"var:preset|spacing|sm","left":"var:preset|spacing|sm"}}}} -->
+<div class="wp-block-column" style="padding-right:var(--wp--preset--spacing--sm);padding-left:var(--wp--preset--spacing--sm);flex-basis:600px"><!-- wp:heading {"level":4,"style":{"typography":{"fontStyle":"normal","fontWeight":"200"}}} -->
+<h4 class="wp-block-heading" style="font-style:normal;font-weight:200">Wishing you many happy trails,</h4>
+<!-- /wp:heading -->
+
+<!-- wp:image {"id":201670,"width":"250px","aspectRatio":"2.9719663199603765","scale":"cover","sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full is-resized"><img src="http://cavallo.local/wp-content/uploads/2025/03/Carole-Herder-signature-no-background.png" alt="" class="wp-image-201670" style="aspect-ratio:2.9719663199603765;object-fit:cover;width:250px"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"level":4,"style":{"typography":{"fontSize":"22px"}}} -->
+<h4 class="wp-block-heading" style="font-size:22px"><strong>Carole Herder</strong></h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><strong>President and Founder of Cavallo Horse &amp; Rider Inc</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><em>Founder of Cavallo Hoof Boots, and a lifelong advocate for better, kinder hoof care.<br><br>For over two decades, I’ve worked to challenge traditional thinking and create solutions that support both performance and well-being—helping horses move freely and comfortably around the world.<br><br>This journey continues to be shaped by the horses themselves.</em></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":"600px"} -->
+<div class="wp-block-column" style="flex-basis:600px"><!-- wp:image {"id":348443,"width":"450px","sizeSlug":"full","linkDestination":"none","style":{"color":{"duotone":"unset"},"border":{"width":"0px","style":"none","radius":"10px"}}} -->
+<figure class="wp-block-image size-full is-resized has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2026/04/Carole-Herder-Cavallo-Hoof-Boots-founder-president.jpg" alt="" class="wp-image-348443" style="border-style:none;border-width:0px;border-radius:10px;width:450px"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->

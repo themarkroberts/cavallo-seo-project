@@ -1,0 +1,19 @@
+<!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="http://cavallo.local/wp-content/uploads/2024/09/digital-pulse.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>By Carole Herder</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>I am constantly mentioning the age old phrase, ‘no hoof, no horse’. A bad hoof can cause your horse not to perform well, and can even cause lameness. But the horse’s feet can tell us so much more, and not just by their visual appearance.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Do you know how to take a digital pulse? This is an excellent tool for all horse owners. Digital pulses can tell you if there is inflammation in the foot or leg, or if there is pain. An abnormal pulse in one hoof may indicate an abscess or a bruise; strong pulses on all four feet may indicate a bigger problem, perhaps laminitis.<br>Pulses are quite hard to take because a normal pulse is faint. It may be tricky to find the pulse initially and because all horses are different, by checking yours frequently you will get to know what is normal for your horse. And don’t forget to check and compare all four feet. A bounding pulse is when there may be a problem. Here is a really useful article on how to take digital pulses and when you should be concerned: <a href="http://www.ironfreehoof.com/equine-digital-pulses.html">http://www.ironfreehoof.com/equine-digital-pulses.html</a>.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Remember, you cannot diagnose just from taking a pulse. It is only an indication that something may be wrong. Other factors should be taken into consideration, like your horse’ behavior, temperature and eating habits (have they changed). Always seek veterinary advice if you suspect a serious injury.</p>
+<!-- /wp:paragraph -->

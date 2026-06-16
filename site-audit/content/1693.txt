@@ -1,0 +1,39 @@
+<!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading">&nbsp;</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Different weather patterns and vegetal growth have a significant impact on animals who live outside. Transitioning between seasons can be challenging, especially when conditions change dramatically. Properly managing some vital practices will provide your horse with the best chance for weathering these potentially severe fluctuations.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Exposure to excessive wind, rain and sun can take a toll on your horse’s immune system. Physical protection for your horse means a safe, adequately spacious, clean and dry shelter. We can easily get caught up in the glamour of building these big, plush, beautiful stables with all the bells and whistles. I have seen a few barns that are posher and more well equipped than some homes for humans. However, when it comes to shelter, all your horse really needs is cover from the rain or excessive sun and refuge from the wind.&nbsp; Although stalls are great shelter, they’re just shelter for your horse, not a place to store him. When stored in a stall, for too long, your horse feels sad, bored, lonely, forgotten and stressed out. This can happen when the weather is very bad. A horse in this situation can develop a disorder called <a href="https://en.wikipedia.org/wiki/Learned_helplessness" target="_blank" rel="noopener">‘learned helplessness’,</a> which happens when the horse feels he has no control to change or alter the circumstances of his life and further, that any step he might make results in unwanted results. This is a pre-cursor to what some refer to as the silent epidemic of equine depression and it’s the reason horses develop habits like cribbing, weaving and stomping. Your horse is essentially a wild animal and does not respond well to confinement, restriction or aloneness.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><em>&nbsp;“Care, and not fine stables, makes a good horse.”</em> - Danish Proverb</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><em>(Although, at Cavallo we believe that care and <a href="http://cavallo.local/product-category/hoof-boot/" target="_blank" rel="noopener">fine Hoof Boots</a> make a good horse, indeed!)</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":5} -->
+<h5 class="wp-block-heading"><strong>Happy Trails,</strong></h5>
+<!-- /wp:heading -->
+
+<!-- wp:image {"id":10645,"width":"365px","height":"auto"} -->
+<figure class="wp-block-image is-resized"><img src="//www.cavallo.local/wp-content/uploads/2017/12/CaroleSig.jpg" alt="Carole Herder's Signature" class="wp-image-10645" style="width:365px;height:auto"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":10798,"align":"left"} -->
+<figure class="wp-block-image alignleft"><img src="//www.cavallo.local/wp-content/uploads/2018/01/Caroles-Signature-2017.png" alt="Carole Herder's Signature" class="wp-image-10798"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->

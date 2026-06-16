@@ -1,0 +1,11 @@
+<!-- wp:image {"width":"328px","height":"auto","sizeSlug":"large","align":"left"} -->
+<figure class="wp-block-image alignleft size-large is-resized"><img src="http://cavallo.local/wp-content/uploads/2024/09/Jana-Echols-Thornton.jpg" alt="" style="width:328px;height:auto"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>I am passionate about the well-being of my horses. That is why I use Cavallo products. The Cavallo Total Comfort System Saddle Pad has an innovative design that has eliminated any hindrance to my horse's motion, yet still allows me to contact with him. I feel confident in knowing that my weight is distributed evenly across my horse's back and he will continue to feel great run after run. Cavallo, thanks for making such great products!</p>
+<!-- /wp:paragraph -->

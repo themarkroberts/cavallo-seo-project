@@ -1,0 +1,7 @@
+<!-- wp:image {"sizeSlug":"large","align":"left"} -->
+<figure class="wp-block-image alignleft size-large"><img src="http://cavallo.local/wp-content/uploads/2024/09/Baillie-Lombardo.jpg" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>My granddaughter, Baillie Lombardo, has only been riding a few months. She is <strong>10 years old</strong> and was so amazed that she <strong>could put her SIMPLE Hoof Boots on all by herself!</strong> We tried the Simple Boots on one of my Geldings last night and he was so happy and comfortable. He had never worn any kind of hoof protection before and it only took him a few minutes to get used to his new shoes. Thanks for such a GREAT product! Here is Baillie with Mr. Rajun Cajun and Baillie's own horse, Java Bean.</p>
+<!-- /wp:paragraph -->

@@ -1,0 +1,76 @@
+<!-- wp:spacer {"height":"32px"} -->
+<div style="height:32px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading {"textAlign":"center","style":{"spacing":{"margin":{"top":"18px","bottom":"18px","left":"30px","right":"30px"}},"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"textColor":"primary"} -->
+<h2 class="wp-block-heading has-text-align-center has-primary-color has-text-color has-link-color" style="margin-top:18px;margin-right:30px;margin-bottom:18px;margin-left:30px">A Small Change, and a Special Discount for You</h2>
+<!-- /wp:heading -->
+
+<!-- wp:spacer {"height":"7px"} -->
+<div style="height:7px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:group {"style":{"border":{"radius":{"topLeft":"15px","topRight":"15px","bottomLeft":"15px","bottomRight":"15px"}},"spacing":{"padding":{"top":"var:preset|spacing|sm","bottom":"var:preset|spacing|sm"}}},"backgroundColor":"light-red-1","layout":{"type":"constrained"}} -->
+<div class="wp-block-group has-light-red-1-background-color has-background" style="border-top-left-radius:15px;border-top-right-radius:15px;border-bottom-left-radius:15px;border-bottom-right-radius:15px;padding-top:var(--wp--preset--spacing--sm);padding-bottom:var(--wp--preset--spacing--sm)"><!-- wp:columns {"style":{"spacing":{"padding":{"top":"var:preset|spacing|md","bottom":"var:preset|spacing|md"}}}} -->
+<div class="wp-block-columns" style="padding-top:var(--wp--preset--spacing--md);padding-bottom:var(--wp--preset--spacing--md)"><!-- wp:column {"style":{"spacing":{"padding":{"right":"var:preset|spacing|sm","left":"var:preset|spacing|sm"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-column" style="padding-right:var(--wp--preset--spacing--sm);padding-left:var(--wp--preset--spacing--sm)"><!-- wp:image {"id":347379,"width":"444px","height":"auto","sizeSlug":"full","linkDestination":"none","align":"center","style":{"border":{"radius":{"topLeft":"13px","topRight":"13px","bottomLeft":"13px","bottomRight":"13px"}}}} -->
+<figure class="wp-block-image aligncenter size-full is-resized has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2026/03/Important-Message-from-Carole-1.jpg" alt="" class="wp-image-347379" style="border-top-left-radius:13px;border-top-right-radius:13px;border-bottom-left-radius:13px;border-bottom-right-radius:13px;width:444px;height:auto" title="Megan Hensley – on the ABC show Donkey King"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":"650px","layout":{"type":"constrained"}} -->
+<div class="wp-block-column" style="flex-basis:650px"><!-- wp:paragraph {"style":{"spacing":{"padding":{"right":"var:preset|spacing|sm","left":"var:preset|spacing|sm"}}}} -->
+<p style="padding-right:var(--wp--preset--spacing--sm);padding-left:var(--wp--preset--spacing--sm)"><em>Dear Cavallo Community,<br><br>As we celebrate 20 years of Cavallo Hoof Boots, we are reflecting on the incredible community that has made this journey possible. This includes you.<br><br>For two decades, our focus has remained steady: innovation, integrity, and creating hoof protection that truly makes a difference in horses’ lives. We are deeply grateful for your partnership and the trust you place in Cavallo Hoof Boots.<br><br>Like so many companies, we continue to experience rising costs in materials, manufacturing, and transportation. Over the years, we have worked hard to absorb these increases wherever possible. However, in order to maintain the quality, research, and service standards you expect from Cavallo, must implement a price adjustment effective March 1, 2026.<br><br>This decision was not made lightly. Our commitment remains the same: to deliver our exceptional hoof boots, stand behind them fully, and support you and your horse in every way we can.<br><br>Thank you for being part of the Cavallo story. We are proud to continue this journey with you.</em><br><br><em>With appreciation,<br>Carole Herder<br>Founder<br>Cavallo Hoof Boots</em></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:heading {"textAlign":"center"} -->
+<h2 class="wp-block-heading has-text-align-center">Sign up to get 10% off your first Cavallo Hoof Boots order:</h2>
+<!-- /wp:heading -->
+
+<!-- wp:spacer {"height":"57px"} -->
+<div style="height:57px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:acf/subscribe {"name":"acf/subscribe","data":{"title":"\u003ch2\u003eReceive Special Offers\u003c/h2\u003e\r\
+Sign up for our newsletter to get 10% off your first order, alongside exclusive promotions, industry news, tutorials, and more!","_title":"field_667bf8d5dd581","background_image":163,"_background_image":"field_667bfbf6dd582","form":"1","_form":"field_667bfc04dd583","html_anchor":"","_html_anchor":"field_672f5663be83a"},"mode":"edit"} /-->
+
+<!-- wp:spacer -->
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:group {"className":"reverse-order\u002d\u002dmobile","style":{"spacing":{"padding":{"top":"var:preset|spacing|xxl","bottom":"var:preset|spacing|xxl"},"margin":{"top":"0","bottom":"0"}}},"backgroundColor":"light-red-1","layout":{"type":"constrained","contentSize":"1440px"}} -->
+<div id="Pastern-Wraps-Carole-Happy-Trails" class="wp-block-group reverse-order--mobile has-light-red-1-background-color has-background" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--xxl);padding-bottom:var(--wp--preset--spacing--xxl)"><!-- wp:columns {"verticalAlignment":"center"} -->
+<div class="wp-block-columns are-vertically-aligned-center"><!-- wp:column {"verticalAlignment":"center","width":"57.7%"} -->
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis:57.7%"><!-- wp:heading {"level":4,"style":{"typography":{"fontStyle":"normal","fontWeight":"200"}}} -->
+<h4 class="wp-block-heading" style="font-style:normal;font-weight:200">With gratitude,</h4>
+<!-- /wp:heading -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"0","bottom":"0","left":"0","right":"0"},"margin":{"top":"47px","bottom":"0"}}},"layout":{"type":"constrained","contentSize":"227px","justifyContent":"left"}} -->
+<div class="wp-block-group" style="margin-top:47px;margin-bottom:0;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:image {"id":201670,"width":"186px","height":"auto","aspectRatio":"2.9719840783833433","sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full is-resized"><img src="http://cavallo.local/wp-content/uploads/2025/03/Carole-Herder-signature-no-background.png" alt="" class="wp-image-201670" style="aspect-ratio:2.9719840783833433;width:186px;height:auto"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:group -->
+
+<!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"0","bottom":"0","left":"0","right":"0"}}},"fontSize":"large"} -->
+<p class="has-large-font-size" style="margin-top:0;margin-right:0;margin-bottom:0;margin-left:0">Carole Herder</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"0","bottom":"0","left":"0","right":"0"}}}} -->
+<p style="margin-top:0;margin-right:0;margin-bottom:0;margin-left:0"> President and founder of Cavallo Horse &amp; Rider Inc</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"32px","bottom":"24px"}}}} -->
+<p style="margin-top:32px;margin-bottom:24px"><em>Carole Herder, President and founder of Cavallo Horse &amp; Rider Inc., is an internationally acclaimed figure in the equestrian community. Her books, There Are No Horseshoes in Heaven and Hoof Prints on the Journey, have become international bestsellers, further solidifying her status as a thought leader in the industry.&nbsp;Since 1993, Carole has been deeply involved in horse health. Cavallo is a global leader in developing, manufacturing, and distributing horse products. Carole’s passion for horse comfort is evident in her designs, including the innovative Cavallo Hoof Boots and Total Comfort System Saddle Pads.<br><br>A true pioneer in the equestrian community, Carole is widely recognized for her expertise and contributions. She champions the benefits of keeping horses in their natural state, advocates for overall hoof health, and works towards the alleviation of debilitating disorders. Her achievements include being an honoured award recipient of the Royal Bank of Canada Woman Entrepreneur of the Year, British Columbia’s Businesswoman of the Year, and North America Enterprising Woman of the Year.&nbsp;<br>Carole is a certified Dr. Deepak Chopra Yoga, Meditation and Ayurvedic Lifestyle Instructor and a proud member of the Women Presidents Organization, supporting female entrepreneurs in every industry.</em></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"center","width":"","style":{"spacing":{"padding":{"right":"0","left":"0","top":"0","bottom":"0"}}},"layout":{"type":"constrained","contentSize":"437px","justifyContent":"right","wideSize":""}} -->
+<div class="wp-block-column is-vertically-aligned-center" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:image {"id":201671,"scale":"cover","sizeSlug":"full","linkDestination":"none","style":{"color":{"duotone":"unset"},"border":{"width":"0px","style":"none","radius":"10px"}}} -->
+<figure class="wp-block-image size-full has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2025/03/Cavallo-Hoof-Boots-President-Carole-Herder-Web-signature-image-new-site-2025-LR.jpg" alt="" class="wp-image-201671" style="border-style:none;border-width:0px;border-radius:10px;object-fit:cover"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->

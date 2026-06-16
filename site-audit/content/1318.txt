@@ -1,0 +1,11 @@
+<!-- wp:image {"width":"332px","height":"auto","sizeSlug":"large","align":"left"} -->
+<figure class="wp-block-image alignleft size-large is-resized"><img src="http://cavallo.local/wp-content/uploads/2024/09/andalusian-1024x1006-e1405717586408.jpg" alt="" style="width:332px;height:auto"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>An excerpt from Dr. Thomas Teskey's - <em>Breaking Traditions: A Veterinary Medical and Ethical Perspective On the Modern Day Usage of Steel Horseshoes</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Man has relied on horses for their strength and speed for the past few thousand years. These cycles of life have continued on, and we are part of those cycles along with the horses that continue to accompany us. Ownership of horses today is still a necessity for some, but is becoming more and more a luxury and a privilege. As our relationship with horses evolves, many modern-day horse owners are becoming more thoughtful, sensitive and caring toward their horses; they are coming to understand that they are not merely owners of livestock, but stewards of these fine animals who serve us so well as companions in our sports and recreation. Those who have come to see themselves as stewards of their horses have become sensitive and responsive to all of their horse's needs. They realize they are personally responsible and obligated to provide what is best for their horses, even though doing so involves challenging many common, traditional horsekeeping practices--changes are being made that better respect the nature of the horses we hold so dear.</p>
+<!-- /wp:paragraph -->

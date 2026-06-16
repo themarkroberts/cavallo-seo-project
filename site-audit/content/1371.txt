@@ -1,0 +1,27 @@
+<!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="http://cavallo.local/wp-content/uploads/2024/09/horsemoney.jpg" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>By Carole Herder</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>What sort of person are you? Are you looking out for the best interests of your horse or are you looking out for the best interests for your bank account? Or perhaps a little of both? I suspect many of us are both, which is perfectly understandable. After all, we probably have many animals to feed and look after, maybe a family to take care of too (do they always come second on the list!!), car and house bills to pay, groceries to buy – and that is all before we get ourselves anything nice!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Going barefoot (your horse, not yourself) does wonders for your bank account, and so does buying hoof boots! Yes, it is true, some barefoot horses need regular trims, maybe even every 3-4 weeks, but many others can go for longer periods of time without needing a trim and given the right diet and environment, they may even self-trim! Imagine the savings on farrier bills there! And for those more needy hooves, there are more and more qualified trimmers offering their assistance all the time, and you can even help out by learning to keep the hooves looking great in-between trims.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Worried about the cost of hoof boots? Cavallo boots start at just $144 per pair (or only $119 on certain styles!) – how much does a farrier visit cost? $100? $110? Maybe even $140? So, for one farrier visit, you could easily have two boots! Or in just two visits, you could have a whole set. You don’t have to be a mathematician to work out the savings there – in just two shoeing visits, you could have four individual hoof boots that potentially could last you for years! With their durable construction of waterproof thread, rustproof metal and high performance TPU outsole, they certainly last longer than any metal shoe I know.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>And there are other ways going barefoot and booted can save money for you. A barefoot horse will be much healthier and happier and will be prone to less injury and illness, thus saving on high veterinary bills. If your horse should have any unexpected hoof issues, boots are perfect for rehabilitation (protection) and to help with poultices and soaking, thus speeding up healing and again, saving on bills. Injury can also be avoided during trailering and breeding if boots are used, saving again. And of course you won’t lose out on competitions, travel expenses or entry fees if you are guaranteed to ride – no lost shoes.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>So while we worry about feed and wormers and stabling costs and the price of diesel, if you really want a money saver, go barefoot and booted!</p>
+<!-- /wp:paragraph -->

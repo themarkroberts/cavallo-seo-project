@@ -1,0 +1,207 @@
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"textAlign":"center","level":1,"style":{"spacing":{"padding":{"bottom":"var:preset|spacing|md"}}}} -->
+<h1 class="wp-block-heading has-text-align-center" style="padding-bottom:var(--wp--preset--spacing--md)">Your Cavallo News! December, 2021</h1>
+<!-- /wp:heading -->
+
+<!-- wp:image {"id":4011,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="http://cavallo.local/wp-content/uploads/2024/10/news-banner.jpg" alt="" class="wp-image-4011"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"var:preset|spacing|xl","bottom":"var:preset|spacing|xl"},"margin":{"top":"0","bottom":"0"}}},"backgroundColor":"white","layout":{"type":"constrained","contentSize":""}} -->
+<div class="wp-block-group alignfull has-white-background-color has-background" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--xl);padding-bottom:var(--wp--preset--spacing--xl)"><!-- wp:columns {"style":{"spacing":{"padding":{"top":"0","bottom":"0"}}}} -->
+<div class="wp-block-columns" style="padding-top:0;padding-bottom:0"><!-- wp:column {"verticalAlignment":"top","width":"","style":{"spacing":{"padding":{"right":"0","left":"0","top":"0","bottom":"0"}}},"layout":{"type":"constrained","contentSize":"585px","justifyContent":"right","wideSize":""}} -->
+<div class="wp-block-column is-vertically-aligned-top" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:image {"id":4603,"scale":"cover","sizeSlug":"full","linkDestination":"none","style":{"color":{"duotone":"unset"},"border":{"width":"0px","style":"none","radius":"10px"}}} -->
+<figure class="wp-block-image size-full has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2024/10/Reggie-A-Millennial-Depression-Comedy-Movie.jpg" alt="" class="wp-image-4603" style="border-style:none;border-width:0px;border-radius:10px;object-fit:cover"/><figcaption class="wp-element-caption">Co-stars Kiwi and Jacques Belliveau</figcaption></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"center","width":"50%"} -->
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis:50%"><!-- wp:heading -->
+<h2 class="wp-block-heading">MOVIE RELEASED: Reggie, A Millennial Depression Comedy</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"fontSize":"large"} -->
+<p class="has-large-font-size">A Depression Comedy We Can All Relate To!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"spacing":{"margin":{"bottom":"27px"}}}} -->
+<p style="margin-bottom:27px"><span style="text-decoration: underline;"><a href="https://www.rottentomatoes.com/m/reggie_a_millenial_depression_comedy" target="_blank" rel="noreferrer noopener">The recently released feature film “Reggie”</a></span> shares the story of chronically depressed Mitch and his journey to find inner peace. After yet another breakup, Mitch’s friends stage an intervention and steer him toward therapy to help him battle his issues with communication, depression and anxiety. Mitch reaches a breaking point and in a moment of impulsivity, he adopts a miniature horse who is also wrangling anxiety issues (so many of us can relate…right?). The ending? Well…you all know the magic that happens when equines come into our lives!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Kiwi, <strong>Cavallo-Sponsored</strong> dwarf mini, plays Reggie, and he’s actually a therapy mini in real life! He works with renowned Stampede of Love Animal Assisted Therapy in Raleigh, NC.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"spacing":{"margin":{"bottom":"27px"}}}} -->
+<p style="margin-bottom:27px">Kiwi’s Mom, Tara Needham, talks about Kiwi’s involvement in the movie in this very special podcast interview on Everyday Horsewoman:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"textColor":"red","className":"is-style-fill c-button\u002d\u002dsimple","style":{"elements":{"link":{"color":{"text":"var:preset|color|red"}}},"spacing":{"padding":{"left":"0","right":"0","top":"0","bottom":"0"}},"color":{"background":"#ffffff00"}}} -->
+<div class="wp-block-button is-style-fill c-button--simple"><a class="wp-block-button__link has-red-color has-text-color has-background has-link-color wp-element-button" href="https://www.buzzsprout.com/1555667/9623623?fbclid=IwAR03QKnwb1AW8dx4Be_76UXPf4aUWmPRdgUtaL_0CPGoU_J-VN0ls-ujEJE" style="background-color:#ffffff00;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0">Listen Here!</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|xxl","bottom":"var:preset|spacing|xxl"},"margin":{"top":"0","bottom":"0"}}},"backgroundColor":"light-red-1","layout":{"type":"constrained","contentSize":""}} -->
+<div class="wp-block-group has-light-red-1-background-color has-background" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--xxl);padding-bottom:var(--wp--preset--spacing--xxl)"><!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column {"verticalAlignment":"top","width":"50%"} -->
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis:50%"><!-- wp:heading -->
+<h2 class="wp-block-heading">Christmas à la Cavallo!</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"fontSize":"large"} -->
+<p class="has-large-font-size">Trek is Topping Santa’s List for Shod and Barefoot Horses</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"4px","bottom":"27px"}}}} -->
+<p style="margin-top:4px;margin-bottom:27px">If you asked your horse what her top three Christmas gifts would be, her answers would be: COMFY FEET, COMFY FEET…and COMFY FEET! ????</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"4px","bottom":"27px"}}}} -->
+<p style="margin-top:4px;margin-bottom:27px">According to Santa himself, our Trek Boot is topping Christmas lists for both barefoot and shod horses this season! Cavallo is the source for holiday gift-giving for horses and equestrians. No matter your budget, check out our top offerings, as well as useful stocking stuffers for your beloved friends at the barn! Here’s a quick guide to the kindest gifts for your beloved:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"textColor":"red","className":"is-style-fill c-button\u002d\u002dsimple","style":{"elements":{"link":{"color":{"text":"var:preset|color|red"}}},"spacing":{"padding":{"left":"0","right":"0","top":"0","bottom":"0"}},"color":{"background":"#ffffff00"}}} -->
+<div class="wp-block-button is-style-fill c-button--simple"><a class="wp-block-button__link has-red-color has-text-color has-background has-link-color wp-element-button" href="http://cavallo.local/trek-tops-santas-list-for-shod-and-barefoot-horses/" style="background-color:#ffffff00;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0">Click here</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"top","width":"","style":{"spacing":{"padding":{"right":"0","left":"0","top":"0","bottom":"0"}}},"layout":{"type":"constrained","contentSize":"585px","justifyContent":"left","wideSize":""}} -->
+<div class="wp-block-column is-vertically-aligned-top" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:image {"id":4604,"scale":"cover","sizeSlug":"full","linkDestination":"none","style":{"color":{"duotone":"unset"},"border":{"width":"0px","style":"none","radius":"10px"}}} -->
+<figure class="wp-block-image size-full has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2024/10/Emma-Massingales-minis-CLB-Bling-Santa-Hats-LR.jpg" alt="" class="wp-image-4604" style="border-style:none;border-width:0px;border-radius:10px;object-fit:cover"/><figcaption class="wp-element-caption">Emma Massingale's minis in CLB Bling</figcaption></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"var:preset|spacing|xl","bottom":"var:preset|spacing|xl"},"margin":{"top":"0","bottom":"0"}}},"backgroundColor":"white","layout":{"type":"constrained","contentSize":""}} -->
+<div class="wp-block-group alignfull has-white-background-color has-background" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--xl);padding-bottom:var(--wp--preset--spacing--xl)"><!-- wp:columns {"style":{"spacing":{"padding":{"top":"0","bottom":"0"}}}} -->
+<div class="wp-block-columns" style="padding-top:0;padding-bottom:0"><!-- wp:column {"verticalAlignment":"top","width":"","style":{"spacing":{"padding":{"right":"0","left":"0","top":"0","bottom":"0"}}},"layout":{"type":"constrained","contentSize":"585px","justifyContent":"right","wideSize":""}} -->
+<div class="wp-block-column is-vertically-aligned-top" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:image {"id":324593,"scale":"cover","sizeSlug":"full","linkDestination":"none","style":{"color":{"duotone":"unset"},"border":{"width":"0px","style":"none","radius":"10px"}}} -->
+<figure class="wp-block-image size-full has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2025/10/Miriam-Braun-Associate-Seller-edited.jpg" alt="" class="wp-image-324593" style="border-style:none;border-width:0px;border-radius:10px;object-fit:cover"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"top","width":"50%"} -->
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis:50%"><!-- wp:heading -->
+<h2 class="wp-block-heading">Cavallo Trimmer Spotlight: Miriam Braun</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"fontSize":"large"} -->
+<p class="has-large-font-size">Miriam Braun, Trimmer and Cavallo Associate Seller, shares about her journey in caring for horses with us:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"4px","bottom":"27px"}}}} -->
+<p style="margin-top:4px;margin-bottom:27px"><em>“At the age of 20 I was hired as a stable manager at a training facility with about 20 to 30 horses. The facility specialized in stallion training, dangerous horses, breeding, etc. Therefore, many horses were stall-bound and only had an hour turnout daily, kept in 24×12-foot runs, or larger sand paddocks in small groups. One of my responsibilities was overall care for all these horses. Observing the environments these horses lived in made it very clear that the environments had an enormous impact on hoof health, or lack thereof. With some obvious afflictions, we often turned to our main farrier.</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"4px","bottom":"27px"}}}} -->
+<p style="margin-top:4px;margin-bottom:27px"><em>We had a fabulous, Olympic-level farrier named Jim Peterson, who worked with most of the horses on the property. I was responsible for booking, prepping and handling the horses for Jim. And so as I watched, listened and enquired (satisfying my curiosity), it became clear that I had a deeper passion. It would take another four years before falling into another opportunity that gave me the way to becoming a professional hoof-care provider, but I never looked back!”</em> – <strong>Miriam Braun</strong>, Stoke (Estrie), Quebec, Canada</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:columns {"style":{"spacing":{"padding":{"top":"0","bottom":"0"}}}} -->
+<div class="wp-block-columns" style="padding-top:0;padding-bottom:0"><!-- wp:column {"verticalAlignment":"top","width":"","style":{"spacing":{"padding":{"right":"0","left":"0","top":"0","bottom":"0"}}},"layout":{"type":"constrained","contentSize":"585px","justifyContent":"right","wideSize":""}} -->
+<div class="wp-block-column is-vertically-aligned-top" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:image {"id":331188,"scale":"cover","sizeSlug":"full","linkDestination":"none","style":{"color":{"duotone":"unset"},"border":{"width":"0px","style":"none","radius":"10px"}}} -->
+<figure class="wp-block-image size-full has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2021/12/Julia-Fisher-Barrel-Racer.jpg" alt="" class="wp-image-331188" style="border-style:none;border-width:0px;border-radius:10px;object-fit:cover"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"top","width":"50%"} -->
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis:50%"><!-- wp:heading -->
+<h2 class="wp-block-heading">What YOU'RE Saying</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"fontSize":"large"} -->
+<p class="has-large-font-size"><strong>Barrel&nbsp;Racing Horse with Front Heel Pain</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><em>“A couple of weeks ago, I bought my first pair of Cavallo Boots, second hand (to help with front hoof heel pain), and now … I am going for a brand new pair! </em>???? <em>It was a huge relief for my horse on our haul to Oklahoma. Held up great during turnouts and in the warmup pens. Naturally, this let me make conversation with the owners of the barrel horses I ran with! Now being back in NC, I am able to recommend these boots to my massage clients who come to me in a big variety of shapes/ conditions!”</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"4px","bottom":"27px"}}}} -->
+<p style="margin-top:4px;margin-bottom:27px">– Julia Fisher – Barrel Racer and Equine Massage Therapist</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"var:preset|spacing|xl","bottom":"var:preset|spacing|xl"},"margin":{"top":"0","bottom":"0"}}},"backgroundColor":"light-red-1","layout":{"type":"constrained","contentSize":""}} -->
+<div class="wp-block-group alignfull has-light-red-1-background-color has-background" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--xl);padding-bottom:var(--wp--preset--spacing--xl)"><!-- wp:columns {"style":{"spacing":{"padding":{"top":"0","bottom":"0"}}}} -->
+<div class="wp-block-columns" style="padding-top:0;padding-bottom:0"><!-- wp:column {"verticalAlignment":"top","width":"50%"} -->
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis:50%"><!-- wp:heading -->
+<h2 class="wp-block-heading">We Have a Winner!</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"4px","bottom":"27px"}}}} -->
+<p style="margin-top:4px;margin-bottom:27px">November’s winner of our Facebook contest for a free pair of Cavallos is Pam Rearick! She messaged us saying she is SO excited as she has never won anything before!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>For the contest, we asked if you ever recommended Cavallo Hoof Boots to a friend. WOW – Your answers and photos! Thank you all for sharing, we really believe all of you have helped so many horses!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"4px","bottom":"27px"}}}} -->
+<p style="margin-top:4px;margin-bottom:27px"><strong>Keep an eye on our newsletters – we’ll have an exciting contest for you each month to come!</strong></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"top","width":"","style":{"spacing":{"padding":{"right":"0","left":"0","top":"0","bottom":"0"}}},"layout":{"type":"constrained","contentSize":"585px","justifyContent":"right","wideSize":""}} -->
+<div class="wp-block-column is-vertically-aligned-top" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:image {"id":4611,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="http://cavallo.local/wp-content/uploads/2024/10/And-the-winner-is-1.png" alt="" class="wp-image-4611"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column {"width":"66.66%"} -->
+<div class="wp-block-column" style="flex-basis:66.66%"><!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Wishing you many happy trails</h3>
+<!-- /wp:heading -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"id":4076,"width":"237px","height":"auto","sizeSlug":"full","linkDestination":"none","align":"left"} -->
+<figure class="wp-block-image alignleft size-full is-resized"><img src="http://cavallo.local/wp-content/uploads/2024/10/5381858031fd2babec50665b30807366.png" alt="" class="wp-image-4076" style="width:237px;height:auto"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"0","bottom":"0"}}},"fontSize":"large"} -->
+<p class="has-large-font-size" style="margin-top:0;margin-bottom:0">Carole Herder</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"spacing":{"padding":{"right":"0","left":"0"}}}} -->
+<p style="padding-right:0;padding-left:0">President and founder of Cavallo Horse &amp; Rider Inc</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Carole Herder, President and founder of Cavallo Horse &amp; Rider Inc., is an internationally acclaimed figure in the equestrian community. Her books, There Are No Horseshoes in Heaven and Hoof Prints on the Journey, have become international bestsellers, further solidifying her status as a thought leader in the industry.&nbsp;Since 1993, Carole has been deeply involved in horse health. Cavallo is a global leader in developing, manufacturing, and distributing horse products. Carole’s passion for horse comfort is evident in her designs, including the innovative Cavallo Hoof Boots and Total Comfort System Saddle Pads.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>A true pioneer in the equestrian community, Carole is widely recognized for her expertise and contributions. She champions the benefits of keeping horses in their natural state, advocates for overall hoof health, and works towards the alleviation of debilitating disorders. Her achievements include being an honoured award recipient of the Royal Bank of Canada Woman Entrepreneur of the Year, British Columbia’s Businesswoman of The Year, and North America Enterprising Woman of The Year.&nbsp;<br>Carole is a certified Dr. Deepak Chopra Yoga, Meditation and Ayurvedic Lifestyle Instructor and a proud member of the Women Presidents Organization, supporting female entrepreneurs in every industry.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":"33.33%"} -->
+<div class="wp-block-column" style="flex-basis:33.33%"><!-- wp:image {"id":4084,"sizeSlug":"full","linkDestination":"none","style":{"border":{"radius":"10px"}}} -->
+<figure class="wp-block-image size-full has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2024/10/carole-herder.jpg" alt="" class="wp-image-4084" style="border-radius:10px"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":4085,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="http://cavallo.local/wp-content/uploads/2024/10/carole-books.jpg" alt="" class="wp-image-4085"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->

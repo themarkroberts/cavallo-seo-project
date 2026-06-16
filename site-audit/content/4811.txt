@@ -1,0 +1,357 @@
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"textAlign":"center","level":1,"style":{"spacing":{"padding":{"bottom":"var:preset|spacing|md"}}}} -->
+<h1 class="wp-block-heading has-text-align-center" style="padding-bottom:var(--wp--preset--spacing--md)">Your Cavallo News! February 2022</h1>
+<!-- /wp:heading -->
+
+<!-- wp:image {"id":4011,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="http://cavallo.local/wp-content/uploads/2024/10/news-banner.jpg" alt="" class="wp-image-4011"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|xl","bottom":"var:preset|spacing|xl"},"margin":{"top":"0","bottom":"0"}}},"backgroundColor":"light-red-1","layout":{"type":"constrained"}} -->
+<div class="wp-block-group has-light-red-1-background-color has-background" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--xl);padding-bottom:var(--wp--preset--spacing--xl)"><!-- wp:heading {"textAlign":"center","level":1,"style":{"spacing":{"padding":{"bottom":"var:preset|spacing|md"}}}} -->
+<h1 class="wp-block-heading has-text-align-center" style="padding-bottom:var(--wp--preset--spacing--md)">SPECIAL EDITION NEWSLETTER - Your Reviews of 2021!</h1>
+<!-- /wp:heading -->
+
+<!-- wp:image {"id":5793,"width":"475px","height":"auto","sizeSlug":"full","linkDestination":"none","align":"center"} -->
+<figure class="wp-block-image aligncenter size-full is-resized"><img src="http://cavallo.local/wp-content/uploads/2024/10/5-star-review-Cavallo-Hoof-Boots.webp" alt="5 star review Cavallo Hoof Boots" class="wp-image-5793" style="width:475px;height:auto"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center"><strong>You inspire us. You’re always trying to do better for your horse. When you know better, you do better and, because of this, you never rest in your quest for knowledge.</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">We received so many testimonials over 2021 that we couldn’t even post them all to Facebook! Do you know how much these stories you share help others? We keep your testimonials and reviews forever. Then when customers ask us how best to help their horse, we go through our records to find YOUR heartfelt words and recommendations – YOUR experiences – to help them.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">Welcome to this special edition of your Cavallo News – sharing some of our favourite stories YOU sent in 2021!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"center","backgroundColor":"light-red-1"} -->
+<p class="has-text-align-center has-light-red-1-background-color has-background"><strong>But First…</strong></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"var:preset|spacing|xl","bottom":"var:preset|spacing|xl"},"margin":{"top":"0","bottom":"0"}}},"layout":{"type":"constrained","contentSize":""}} -->
+<div class="wp-block-group alignfull" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--xl);padding-bottom:var(--wp--preset--spacing--xl)"><!-- wp:columns {"style":{"spacing":{"padding":{"top":"0","bottom":"0"}}}} -->
+<div class="wp-block-columns" style="padding-top:0;padding-bottom:0"><!-- wp:column {"verticalAlignment":"center","width":"50%"} -->
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis:50%"><!-- wp:heading -->
+<h2 class="wp-block-heading">Show us How to Store Boots - to WIN Boots!</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"fontSize":"large"} -->
+<p class="has-large-font-size">How do YOU store your Cavallos? ????</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"spacing":{"margin":{"bottom":"27px"}}}} -->
+<p style="margin-bottom:27px">Post a photo of your stored boots in the <a href="https://www.facebook.com/CavalloHoofboots/posts/10158568403768549?__cft__[0]=AZW0c6_cJHY62RCzRahtc4gF8TvSSUvgAhrwdwknfHnBDGGCcsySfqMIQUcnaxyqC1FRzypQrnK5Hxt4eZNIhXUUo21zNbljAjU1RfdqDvo7GRmRuvbAjbSBiEdyiZyPBa7LeSBlnzn5QEq22GxNc4zjRTPlYgbRtpv5bceyB1wciyz_nSpG2TpvV_jNO7lY9UU&amp;__tn__=%2CO%2CP-R"><span style="text-decoration: underline;">comments of our Facebook post</span></a> to be entered in our draw to win a FREE pair of Cavallo Hoof Boots… ANY STYLE, ANY COLOUR, ANY SIZE!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"spacing":{"margin":{"bottom":"27px"}}}} -->
+<p style="margin-bottom:27px">As a Cavallo user, you want your boots at their best – clean, dry, well-ventilated and ready to go. We’d love to see your creative ideas! How do you keep your boots organized and ready for your next ride?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"textColor":"red","className":"is-style-fill c-button\u002d\u002dsimple","style":{"elements":{"link":{"color":{"text":"var:preset|color|red"}}},"spacing":{"padding":{"left":"0","right":"0","top":"0","bottom":"0"}},"color":{"background":"#ffffff00"}}} -->
+<div class="wp-block-button is-style-fill c-button--simple"><a class="wp-block-button__link has-red-color has-text-color has-background has-link-color wp-element-button" href="https://www.facebook.com/CavalloHoofboots/posts/10158568403768549" style="background-color:#ffffff00;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0" target="_blank" rel="noreferrer noopener">ENTER CONTEST!</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"top","width":"","style":{"spacing":{"padding":{"right":"0","left":"0","top":"0","bottom":"0"}}},"layout":{"type":"constrained","contentSize":"585px","justifyContent":"right","wideSize":""}} -->
+<div class="wp-block-column is-vertically-aligned-top" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:image {"id":4571,"scale":"cover","sizeSlug":"full","linkDestination":"none","style":{"color":{"duotone":"unset"},"border":{"width":"0px","style":"none","radius":"10px"}}} -->
+<figure class="wp-block-image size-full has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2024/10/Storage-botts-show-us-to-win.jpg" alt="" class="wp-image-4571" style="border-style:none;border-width:0px;border-radius:10px;object-fit:cover"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"var:preset|spacing|xl","bottom":"var:preset|spacing|xl"},"margin":{"top":"0","bottom":"0"}}},"backgroundColor":"light-red-1","layout":{"type":"constrained","contentSize":""}} -->
+<div class="wp-block-group alignfull has-light-red-1-background-color has-background" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--xl);padding-bottom:var(--wp--preset--spacing--xl)"><!-- wp:columns {"style":{"spacing":{"padding":{"top":"0","bottom":"0"}}}} -->
+<div class="wp-block-columns" style="padding-top:0;padding-bottom:0"><!-- wp:column {"verticalAlignment":"top","width":"","style":{"spacing":{"padding":{"right":"0","left":"0","top":"0","bottom":"0"}}},"layout":{"type":"constrained","contentSize":"585px","justifyContent":"right","wideSize":""}} -->
+<div class="wp-block-column is-vertically-aligned-top" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:image {"id":4572,"scale":"cover","sizeSlug":"full","linkDestination":"none","style":{"color":{"duotone":"unset"},"border":{"width":"0px","style":"none","radius":"10px"}}} -->
+<figure class="wp-block-image size-full has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2024/10/Judith-Murtha-Rebel-Laminitis-Veterinarian-recommended2.jpg2-2.jpg" alt="" class="wp-image-4572" style="border-style:none;border-width:0px;border-radius:10px;object-fit:cover"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"center","width":"50%"} -->
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis:50%"><!-- wp:heading -->
+<h2 class="wp-block-heading">A Nod from One of America's Top Vet Hospitals</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"spacing":{"margin":{"bottom":"27px"}}}} -->
+<p style="margin-bottom:27px">Over the years, we’ve been happy to hear that many of our customers found out about their boots through their trusted veterinarians. Judith Murtha was able to help heal Rebel through a professional’s confident recommendation:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"spacing":{"margin":{"bottom":"27px"}}}} -->
+<p style="margin-bottom:27px">“Rebel has recovered from laminitis and has to be kept barefoot. Cavallo boots will allow him to go on gentle trail rides that he loves. He’s doing great as you can see adjusting to the boots. I followed your video on how to break them in and it was a big help. He’s a Rocky Mountain Horse. Rebel was a patient at Cornell Ruffian Equine Hospital in NY last year and they recommended the Cavallo boots. Just thought you would like to know how I found out about your product. I’m very careful to do whatever I can to keep those hoofs healthy. He’s really walking great!!!</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|xxl","bottom":"var:preset|spacing|xxl"},"margin":{"top":"0","bottom":"0"}}},"layout":{"type":"constrained","contentSize":""}} -->
+<div class="wp-block-group" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--xxl);padding-bottom:var(--wp--preset--spacing--xxl)"><!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column {"verticalAlignment":"top","width":"44.48%"} -->
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis:44.48%"><!-- wp:heading -->
+<h2 class="wp-block-heading">The Making of a Barefoot Performance Horse</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"fontSize":"normal"} -->
+<p class="has-normal-font-size"><em>Show Jumper Laura Bruneau is also a professional Mountain Biker. She knows how the best equipment can impact performance and make all the difference. We were thrilled when she reached out to us last year after discovering our Trek Boots, and now we’re lucky enough to have her on board as a <a href="https://www.instagram.com/laura.bruneau/?hl=en" target="_blank" rel="noreferrer noopener"><span style="text-decoration: underline;">Cavallo Barefoot Influencer!</span></a></em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><em>“I have been using the Cavallo Boots for three months now on my 17.1hh Selle Francais jumper. He had a damaged hoof after a bad shoeing experience and I decided to go barefoot. Of course, this is a process that can take time, and the boots allowed us to train while transitioning. I can even jump with them, as they stay in place perfectly. On trails it’s awesome to be able to trot, even on the road, or not have to worry about rocks etc. I highly recommend them!”</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"4px","bottom":"27px"}}}} -->
+<p style="margin-top:4px;margin-bottom:27px"><em>– Laura Bruneau, France/USA</em></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"top","width":"","style":{"spacing":{"padding":{"right":"0","left":"0","top":"0","bottom":"0"}}},"layout":{"type":"constrained","contentSize":"585px","justifyContent":"left","wideSize":""}} -->
+<div class="wp-block-column is-vertically-aligned-top" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:image {"id":4573,"scale":"cover","sizeSlug":"full","linkDestination":"none","style":{"color":{"duotone":"unset"},"border":{"width":"0px","style":"none","radius":"10px"}}} -->
+<figure class="wp-block-image size-full has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2024/10/Trek-Black-Laura-Bruneau-France-jumping-side-view.-1-452x438-1.jpg" alt="" class="wp-image-4573" style="border-style:none;border-width:0px;border-radius:10px;object-fit:cover"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"var:preset|spacing|xl","bottom":"var:preset|spacing|xl"},"margin":{"top":"0","bottom":"0"}}},"backgroundColor":"light-red-1","layout":{"type":"constrained","contentSize":""}} -->
+<div class="wp-block-group alignfull has-light-red-1-background-color has-background" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--xl);padding-bottom:var(--wp--preset--spacing--xl)"><!-- wp:columns {"style":{"spacing":{"padding":{"top":"0","bottom":"0"}}}} -->
+<div class="wp-block-columns" style="padding-top:0;padding-bottom:0"><!-- wp:column {"verticalAlignment":"top","width":"","style":{"spacing":{"padding":{"right":"0","left":"0","top":"0","bottom":"0"}}},"layout":{"type":"constrained","contentSize":"585px","justifyContent":"right","wideSize":""}} -->
+<div class="wp-block-column is-vertically-aligned-top" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:embed {"url":"https://www.youtube.com/watch?v=4TYXvzp48N0","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://www.youtube.com/watch?v=4TYXvzp48N0
+</div></figure>
+<!-- /wp:embed --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"top","width":"50%"} -->
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis:50%"><!-- wp:heading -->
+<h2 class="wp-block-heading">When they Say "Retreat", they MEAN it.</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"4px","bottom":"27px"}}}} -->
+<p style="margin-top:4px;margin-bottom:27px"><strong>What do you get when you donate to Rachehose Retreat UK?</strong> A sense that you’re helping horses that have been let down in the past. A wonderful feeling of knowing these horses are receiving the BEST care possible, and that you’re part of it. <strong>AND</strong>…we got this VIDEO!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"4px","bottom":"27px"}}}} -->
+<p style="margin-top:4px;margin-bottom:27px">When we received this video, we really understood how lucky these horses at Racehorse Retreat are. Their physical needs are taken care of, right down to the last detail. But their psychological needs are also addressed. After lives of sore feet and stress, we are honoured to be part of their next phase, which includes comfort and understanding.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"var:preset|spacing|xl","bottom":"var:preset|spacing|xl"},"margin":{"top":"0","bottom":"0"}}},"backgroundColor":"white","layout":{"type":"constrained","contentSize":""}} -->
+<div class="wp-block-group alignfull has-white-background-color has-background" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--xl);padding-bottom:var(--wp--preset--spacing--xl)"><!-- wp:columns {"style":{"spacing":{"padding":{"top":"0","bottom":"0"}}}} -->
+<div class="wp-block-columns" style="padding-top:0;padding-bottom:0"><!-- wp:column {"verticalAlignment":"top","width":"44.48%"} -->
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis:44.48%"><!-- wp:heading -->
+<h2 class="wp-block-heading">Back in Action Together After Laminitis</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"fontSize":"large"} -->
+<p class="has-large-font-size">Just what we like to see…</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"4px","bottom":"27px"}}}} -->
+<p style="margin-top:4px;margin-bottom:27px"><em>“Phenomenal day today, thanks to my Cavallo Boots. Thank you for your kindness, your stupendous customer service and your extra gift of pads. My mare has had Laminitis and is very, very tender.</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><em>Today she marched around very confident and pain-free, thanks to you all!</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><em>Super happy customer.</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><em>THANK YOU.”</em> ❤️</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"4px","bottom":"27px"}}}} -->
+<p style="margin-top:4px;margin-bottom:27px">Tracy Tumminello</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"top","width":"","style":{"spacing":{"padding":{"right":"0","left":"0","top":"0","bottom":"0"}}},"layout":{"type":"constrained","contentSize":"585px","justifyContent":"right","wideSize":""}} -->
+<div class="wp-block-column is-vertically-aligned-top" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:image {"id":4574,"scale":"cover","sizeSlug":"full","linkDestination":"none","style":{"color":{"duotone":"unset"},"border":{"width":"0px","style":"none","radius":"10px"}}} -->
+<figure class="wp-block-image size-full has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2024/10/Tracy-Tumminello-Cavallo-Sport-Hoof-Boots-kid-riding-Lmainitis-Gravel.-1.jpg" alt="" class="wp-image-4574" style="border-style:none;border-width:0px;border-radius:10px;object-fit:cover"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"var:preset|spacing|xl","bottom":"var:preset|spacing|xl"},"margin":{"top":"0","bottom":"0"}}},"backgroundColor":"light-red-1","layout":{"type":"constrained","contentSize":""}} -->
+<div class="wp-block-group alignfull has-light-red-1-background-color has-background" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--xl);padding-bottom:var(--wp--preset--spacing--xl)"><!-- wp:columns {"style":{"spacing":{"padding":{"top":"0","bottom":"0"}}}} -->
+<div class="wp-block-columns" style="padding-top:0;padding-bottom:0"><!-- wp:column {"verticalAlignment":"top","width":"","style":{"spacing":{"padding":{"right":"0","left":"0","top":"0","bottom":"0"}}},"layout":{"type":"constrained","contentSize":"585px","justifyContent":"right","wideSize":""}} -->
+<div class="wp-block-column is-vertically-aligned-top" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:image {"id":4575,"scale":"cover","sizeSlug":"full","linkDestination":"none","style":{"color":{"duotone":"unset"},"border":{"width":"0px","style":"none","radius":"10px"}}} -->
+<figure class="wp-block-image size-full has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2024/10/Mallory-1-1-300x300-1.jpg" alt="" class="wp-image-4575" style="border-style:none;border-width:0px;border-radius:10px;object-fit:cover"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"top","width":"50%"} -->
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis:50%"><!-- wp:heading -->
+<h2 class="wp-block-heading">Mallory Hits Every Nail on the Head!</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"4px","bottom":"27px"}}}} -->
+<p style="margin-top:4px;margin-bottom:27px"><em>“<strong>5/5 Customer service!!</strong> The boots are great, but I’m even more impressed by the company. I have one mare who is barefoot, that seems much happier to move around on hard, Winter ground when turned out in her <a href="http://cavallo.local/product-category/hoof-boot/trek-hoof-boots/"><span style="text-decoration: underline;">Cavallo Treks.</span></a> My gelding is shod, but plays pretty hard, so has a tendency to pull shoes, and he likes to take bell boots off with his teeth. The Cavallos are not only the perfect solution to keeping his shoes on, but they also provide extra protection for his thin soles and make it such that I don’t need to have the farrier rig him up with corks and snow pads in the Winter.</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><em>While purchasing the boots is a bit of an investment, it’s so nice to see my horses comfortable on hard ground and it’s definitely going to help with the farrier bill for the shod horse.</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><em>Cavallo’s customer care team will help you find the correct size if you send them photos of your horse’s feet with a tape measure. I highly recommend taking advantage of this service because fit is so important, and I’d accidentally bought a size big for both horses at first! All in all, I’ll be a long-time customer and don’t think I’ll ever turn my horses out without a pair of Cavallos on again!”</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Update – Jan 31, 2022: </strong>“<em>My story with Cavallo has actually expanded, just want you to know how happy I am! My gelding above had a really tough battle with Laminitis this past year. The Cavallos were the only reason he was able to come off stall rest and start getting some turnout time as early as he did. I’ve got 4 horses here now wearing their “sneakers” every single day for turnout. Trek, Simple, and Bling.</em>”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"4px","bottom":"27px"}}}} -->
+<p style="margin-top:4px;margin-bottom:27px">-Mallory McKewen</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"var:preset|spacing|xl","bottom":"var:preset|spacing|xl"},"margin":{"top":"0","bottom":"0"}}},"backgroundColor":"white","layout":{"type":"constrained","contentSize":""}} -->
+<div class="wp-block-group alignfull has-white-background-color has-background" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--xl);padding-bottom:var(--wp--preset--spacing--xl)"><!-- wp:columns {"style":{"spacing":{"padding":{"top":"0","bottom":"0"}}}} -->
+<div class="wp-block-columns" style="padding-top:0;padding-bottom:0"><!-- wp:column {"verticalAlignment":"top","width":"44.48%"} -->
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis:44.48%"><!-- wp:heading -->
+<h2 class="wp-block-heading">A Confident Man Has No Issue Wearing Pink…</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"fontSize":"normal"} -->
+<p class="has-normal-font-size">Michelle Vander Vlis and her family spend a lot of time driving and hanging out with their mini horses. We have met Michelle many times at a local horse show, Mane Event, Chilliwack. We decided to sneak a pair of free CLB Cushion Pads into her order to see how she liked them!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><em>“Today I received my 2nd pair of Unicorn Pink CLB Boots for my miniature horse, Lotto. In the box were some new CLB Cushion Pads. I added them to his front boots and decided to test them out so I took him for a drive. He was able to move out and forward like never before! I’ll be ordering some for the hind boots! Thank you so much for making such a great product for miniature horses and my Lotto! Bring on the trails!!!!”</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>– Michelle</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"4px","bottom":"27px"}}}} -->
+<p style="margin-top:4px;margin-bottom:27px">(Below is the sweetest photo of Michelle’s human &amp; mini horse herd!)</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"top","width":"","style":{"spacing":{"padding":{"right":"0","left":"0","top":"0","bottom":"0"}}},"layout":{"type":"constrained","contentSize":"585px","justifyContent":"right","wideSize":""}} -->
+<div class="wp-block-column is-vertically-aligned-top" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:image {"id":4578,"scale":"cover","sizeSlug":"full","linkDestination":"none","style":{"color":{"duotone":"unset"},"border":{"width":"0px","style":"none","radius":"10px"}}} -->
+<figure class="wp-block-image size-full has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2024/10/Van-Der-Vsis-2.jpg" alt="" class="wp-image-4578" style="border-style:none;border-width:0px;border-radius:10px;object-fit:cover"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:image {"id":4580,"sizeSlug":"full","linkDestination":"none","style":{"border":{"radius":"10px"}}} -->
+<figure class="wp-block-image size-full has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2024/10/Michelle-Van-der-vlis-Cavallo-CLB-Mud.jpg" alt="Cavallo February 2022 news - Michelle-Van-der-vlis-Cavallo-CLB-Mud" class="wp-image-4580" style="border-radius:10px"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"var:preset|spacing|xl","bottom":"var:preset|spacing|xl"},"margin":{"top":"0","bottom":"0"}}},"backgroundColor":"light-red-1","layout":{"type":"constrained","contentSize":""}} -->
+<div class="wp-block-group alignfull has-light-red-1-background-color has-background" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--xl);padding-bottom:var(--wp--preset--spacing--xl)"><!-- wp:columns {"style":{"spacing":{"padding":{"top":"0","bottom":"0"}}}} -->
+<div class="wp-block-columns" style="padding-top:0;padding-bottom:0"><!-- wp:column {"verticalAlignment":"top","width":"","style":{"spacing":{"padding":{"right":"0","left":"0","top":"0","bottom":"0"}}},"layout":{"type":"constrained","contentSize":"585px","justifyContent":"right","wideSize":""}} -->
+<div class="wp-block-column is-vertically-aligned-top" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:image {"id":4582,"scale":"cover","sizeSlug":"full","linkDestination":"none","style":{"color":{"duotone":"unset"},"border":{"width":"0px","style":"none","radius":"10px"}}} -->
+<figure class="wp-block-image size-full has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2024/10/Rhi-Banks-Asheville-NC-Testimonial-Trek-Boots-Barefoot-Horse-1.jpeg" alt="" class="wp-image-4582" style="border-style:none;border-width:0px;border-radius:10px;object-fit:cover"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"top","width":"50%"} -->
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis:50%"><!-- wp:heading -->
+<h2 class="wp-block-heading">Traditional Horseshoes were Just Not Cutting It…</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"fontSize":"large"} -->
+<p class="has-large-font-size">"Darwynn's" Evolution from Shod to Barefoot &amp; Booted!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"4px","bottom":"27px"}}}} -->
+<p style="margin-top:4px;margin-bottom:27px"><em>“I could not be more pleased with my hoof boots! Traditional horseshoes were not cutting it for my gelding, Darwynn. They seemed to cause more problems than they solved and still didn’t provide enough protection on rough terrain, which is important to us, since we do all of our riding out on trails, practicing for endurance rides.</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><em>I got Darwynn the Cavallo Hoof Boots, and he absolutely loves them! He now walks confidently over rocks, roots and anything we encounter. We’ve also worn them on roads, through creeks and in sticky mud, and I’m thrilled to say the boots haven’t budged during anything we’ve put them through.</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><em>The best part is when I’m done riding I can take the boots off, and turn him out barefoot in the pasture so his hooves can heal and regain their natural strength.”</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"4px","bottom":"27px"}}}} -->
+<p style="margin-top:4px;margin-bottom:27px">– Rhi Banks, Asheville, NC</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"textAlign":"center"} -->
+<h2 class="wp-block-heading has-text-align-center">Who Won our January Contest, you Ask?</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Who won the pair of ELB Bling Boots and a Winter Stud Kit <strong><span style="text-decoration: underline;"><a href="https://www.facebook.com/CavalloHoofboots/posts/10158524758198549?__cft__[0]=AZWJXrIGUHIfThAYisFzxQ5mCuvCIPY-OX1MkzFcS0KhurYVnOgAWpU2O2DwO1i3xoaDbKgjD0cqgLREhl_vs3-WwXn8Eg501vBwS7ayz2Vv91MAFg6_vBPAYHfP9dbjWkmSTRBX9dy0Uz5AGB_VpoYSb9jgfKQDJl96B1sCMRimSSEcb2e_Hw2ExK31ZeRhJ3o&amp;__tn__=%2CO%2CP-R">commenting on our Facebook post</a></span> what you’d like to see most on our Facebook page in 2022!</strong><br>Thanks to everyone who commented below to enter our January newsletter contest. We asked you what you enjoy most about our Facebook page. Your feedback has been very helpful to us!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>We are pleased to announce our random winner – congratulations to Marilène Paquet of Montreal, Quebec, Canada, who has now been notified!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Be sure to keep an eye on our newsletters – we’ll have an exciting contest for you each month to come!</strong></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column {"width":"66.66%"} -->
+<div class="wp-block-column" style="flex-basis:66.66%"><!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Wishing you many happy trails</h3>
+<!-- /wp:heading -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"id":4076,"sizeSlug":"full","linkDestination":"none","align":"left"} -->
+<figure class="wp-block-image alignleft size-full"><img src="http://cavallo.local/wp-content/uploads/2024/10/5381858031fd2babec50665b30807366.png" alt="" class="wp-image-4076"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"0","bottom":"0"}}},"fontSize":"large"} -->
+<p class="has-large-font-size" style="margin-top:0;margin-bottom:0">Carole Herder</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"spacing":{"padding":{"right":"0","left":"0"}}}} -->
+<p style="padding-right:0;padding-left:0">President and founder of Cavallo Horse &amp; Rider Inc</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Carole Herder, President and founder of Cavallo Horse &amp; Rider Inc., is an internationally acclaimed figure in the equestrian community. Her books, There Are No Horseshoes in Heaven and Hoof Prints on the Journey, have become international bestsellers, further solidifying her status as a thought leader in the industry.&nbsp;Since 1993, Carole has been deeply involved in horse health. Cavallo is a global leader in developing, manufacturing, and distributing horse products. Carole’s passion for horse comfort is evident in her designs, including the innovative Cavallo Hoof Boots and Total Comfort System Saddle Pads.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>A true pioneer in the equestrian community, Carole is widely recognized for her expertise and contributions. She champions the benefits of keeping horses in their natural state, advocates for overall hoof health, and works towards the alleviation of debilitating disorders. Her achievements include being an honoured award recipient of the Royal Bank of Canada Woman Entrepreneur of the Year, British Columbia’s Businesswoman of The Year, and North America Enterprising Woman of The Year.&nbsp;<br>Carole is a certified Dr. Deepak Chopra Yoga, Meditation and Ayurvedic Lifestyle Instructor and a proud member of the Women Presidents Organization, supporting female entrepreneurs in every industry.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":"33.33%"} -->
+<div class="wp-block-column" style="flex-basis:33.33%"><!-- wp:image {"id":4084,"sizeSlug":"full","linkDestination":"none","style":{"border":{"radius":"10px"}}} -->
+<figure class="wp-block-image size-full has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2024/10/carole-herder.jpg" alt="" class="wp-image-4084" style="border-radius:10px"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":4085,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="http://cavallo.local/wp-content/uploads/2024/10/carole-books.jpg" alt="" class="wp-image-4085"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->

@@ -1,0 +1,215 @@
+<!-- wp:image {"id":1199,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="http://cavallo.local/wp-content/uploads/2024/09/wormer.png" alt="" class="wp-image-1199"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph {"align":"left","className":"MsoNormal"} -->
+<p class="has-text-align-left MsoNormal">By Joe Camp</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"left","className":"MsoNormal"} -->
+<p class="has-text-align-left MsoNormal"><span style="font-size: 12.0pt;">When we began this journey with horses, now a whopping seven years ago, we were told to de-worm our horses regularly. Some said every six weeks. Every horse.</span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"left","className":"MsoNormal"} -->
+<p class="has-text-align-left MsoNormal"><span style="font-size: 12.0pt;"> “Isn’t that stuff poison?” I would ask.</span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"left","className":"MsoNormal"} -->
+<p class="has-text-align-left MsoNormal"><span style="font-size: 12.0pt;"> “Not really,” I would be told. </span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"left","className":"MsoNormal"} -->
+<p class="has-text-align-left MsoNormal"><span style="font-size: 12.0pt;"> Silence from me. And a skeptical look.</span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"left","className":"MsoNormal"} -->
+<p class="has-text-align-left MsoNormal"><span style="font-size: 12.0pt;"> “I mean, yeah, okay, it is poison. Sort of. But not <em>that</em> kind of poison.”</span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"left","className":"MsoNormal"} -->
+<p class="has-text-align-left MsoNormal"><span style="font-size: 12.0pt;"> That last line was usually accompanied by a sheepish smile.</span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"left","className":"MsoNormal"} -->
+<p class="has-text-align-left MsoNormal"><span style="font-size: 12.0pt;"> “It kills bugs doesn’t it?”</span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"left","className":"MsoNormal"} -->
+<p class="has-text-align-left MsoNormal"><span style="font-size: 12.0pt;"> “Well, yeah. That’s its job.”</span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"left","className":"MsoNormal"} -->
+<p class="has-text-align-left MsoNormal"><span style="font-size: 12.0pt;"> “Would you eat de-wormer?”</span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"left","className":"MsoNormal"} -->
+<p class="has-text-align-left MsoNormal"><span style="font-size: 12.0pt;"> “I don’t have parasites.”</span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"left","className":"MsoNormal"} -->
+<p class="has-text-align-left MsoNormal"><span style="font-size: 12.0pt;"> “Would you eat what you’re forcing your horse to eat?” I asked again.</span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"left","className":"MsoNormal"} -->
+<p class="has-text-align-left MsoNormal"><span style="font-size: 12.0pt;"> “No,” he finally said.</span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"left","className":"MsoNormal"} -->
+<p class="has-text-align-left MsoNormal"><span style="font-size: 12.0pt;"> “How do you know your horse has parasites,” I asked.</span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"left","className":"MsoNormal"} -->
+<p class="has-text-align-left MsoNormal"><span style="font-size: 12.0pt;"> “I know he does <em>not</em> have parasites because we de-worm him every six weeks.”</span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"left","className":"MsoNormal"} -->
+<p class="has-text-align-left MsoNormal"><span style="font-size: 12.0pt;"> “Whether he has any or not?”</span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"left","className":"MsoNormal"} -->
+<p class="has-text-align-left MsoNormal"><span style="font-size: 12.0pt;"> Like so many other things about horse care, for me, all of this was beginning to gnaw at the edges of logic. So many times folks told me that they de-wormed all their horses on the same schedule without a clue as to whether the horses needed it or not. With a product they wouldn’t dare put into their own bodies. There had to be a better way.</span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"left","className":"MsoNormal"} -->
+<p class="has-text-align-left MsoNormal"><span style="font-size: 12.0pt;">And there is. It took mere moments on Google with the prompt “How can you tell if your horse has parasites?” Click. An entire page of answers. All pretty much pointing the same way: Take a fecal sample to the vet and ask for a fecal egg count. It’s a simple, usually inexpensive process that tells you very quickly whether your horse has a problem or not. It turns out that it’s actually good for horses to have a few parasites. It’s good for their immune systems. And that’s good to know. But we had six horses at that time, now eight. Eight times “usually inexpensive” can become expensive pretty quickly, especially if done several times a year. So I researched the process. How does one do a fecal check? I discovered it’s really not complicated. A $200 microscope and a slide kit was all it took and I could do my own fecal checks. My birthday was coming up so that’s what I asked for. Kathleen balked at first. “A poop tester is not very romantic,” she said. But ultimately she relented and we were in business.</span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"left","className":"MsoNormal"} -->
+<p class="has-text-align-left MsoNormal"><span style="font-size: 12.0pt;">Except for one thing. This process would tell me who had parasites. But not how to get rid of them without poison.</span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"left","className":"MsoNormal"} -->
+<p class="has-text-align-left MsoNormal"><span style="font-size: 12.0pt;">Back to Google. Google is amazing. There are a lot of things I don’t like about the internet but I’ve grown to love Google. There is virtually no question you can ask these days that cannot be answered via Google.</span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"left","className":"MsoNormal"} -->
+<p class="has-text-align-left MsoNormal"><span style="font-size: 12.0pt;">And lo and behold there is something called Food Grade Diatomaceous Earth. DE for short. It’s non-toxic, and better yet, non-systemic. Most of it never enters the body’s systems or blood stream. It just passes through the intestines and out again exactly as it came in. Except it takes the parasites with it. And yes, I would feed it to myself. In fact, I do. A tablespoon a day.</span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"left","className":"MsoNormal"} -->
+<p class="has-text-align-left MsoNormal"><span style="font-size: 12.0pt;">Among other things, I discovered:</span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"left","className":"MsoNormal"} -->
+<p class="has-text-align-left MsoNormal"><span style="font-size: 12.0pt;">“DE is a naturally occurring siliceous sedimentary mineral compound from microscopic skeletal remains of unicellular algae-like plants called diatoms. These plants have been part of the earth’s ecology since prehistoric times. It is believed that 30 million years ago the diatoms built up into deep, chalky deposits of diatomite. The diatoms are mined and ground up to render a powder that looks and feels like talcum powder. DE is approximately 3% magnesium, 33% silicon, 19% calcium, 5% sodium, 2% iron and many other trace minerals such as titanium, boron, manganese, copper and zirconium.</span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"left","className":"MsoNormal"} -->
+<p class="has-text-align-left MsoNormal"><span style="font-size: 12.0pt; mso-no-proof: yes;"> </span><span style="font-size: 12.0pt;"> </span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"left","className":"MsoNormal"} -->
+<p class="has-text-align-left MsoNormal"><span style="font-size: 12.0pt;">“It is apparent from the research that food grade DE provides multiple health advantages for humans and animals as well. Diatomaceous earth is not only a remedy for parasites in our bodies. It can alleviate the potentially deadly risks of high cholesterol, high blood pressure, and obesity, ameliorate annoying and stressful issues stemming from intestinal bacteria and parasites, bronchia inflammation, kidney and urinary infections, irregular bowels, as well as assist with vertigo, headaches, tinnitus, insomnia, and acts as an anti-inflammatory. Studies show diatomaceous earth can help those suffering with diabetes and with arterial disease, joint pain and may prevent or alleviate Alzheimer’s disease by preventing the absorption of aluminum. Another of the benefits of Silica is that it helps to destroy bad fats. Diatomaceous Earth is Mother Nature’s product with no harm to the environment, pets or people.”</span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"left","className":"MsoNormal"} -->
+<p class="has-text-align-left MsoNormal"><span style="font-size: 12.0pt;">How does it work?</span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"left","className":"MsoNormal"} -->
+<p class="has-text-align-left MsoNormal"><span style="font-size: 12.0pt;">"Many harmful things entering the body have a positive charge. Silica is a semi-conductive mineral which when warmed by body heat becomes negatively charged and gives off electrons. These negatively charged mineral ions and/or individual shells attract bad microbes, free radicals, positively charged waste and other harmful things. Acting as magnets, the negatively charged shells and/or ions attract and absorb positive things that are small enough to go through the holes. In addition, any larger parasites that happen to be in the stomach of digestive tract are “cut up” and killed by the sharp edges of the DE (but DE does NOT kill the beneficial bacteria in the gut). Because of the strong charge, each shell can absorb a large number of positively charged substances, whether they be chemical or in the form of bacteria or viruses. They pass on through the stomach and intestine, taking these harmful substances out of the body.”</span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"left","className":"MsoNormal"} -->
+<p class="has-text-align-left MsoNormal"><span style="font-size: 12.0pt;">There are two links to good articles on DE at the end of this piece, but suffice to say this was the answer I was looking for. No more poison!</span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"left","className":"MsoNormal"} -->
+<p class="has-text-align-left MsoNormal"><span style="font-size: 12.0pt;">Does that mean I would never de-worm a horse with poison? I learned a long time ago to never say never. A couple of years ago, just before we started on our self-checks and DE program, we discovered that Pocket had gotten so infested we had no choice. So she got one big tube-in-the-tummy dose… but has been on the DE program since with no de-wormer, about two and a half years now. When we adopted our pregnant mustang Saffron she had pretty bad round worms, probably picked up in Mississippi at the BLM facility, and they were transferred to the baby, probably via poop (babies eat mom’s poop). So they each received a dose of the appropriate (if there is such a thing) de-wormer but both have been on the DE program since. About 13 months.</span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"left","className":"MsoNormal"} -->
+<p class="has-text-align-left MsoNormal"><span style="font-size: 12.0pt;">Now here’s an important part of the discussion. The worst thing folks do is put ALL horses on the same program (especially when poison is involved). From my very first turn at the microscope I discovered the fallacy in doing that. At least 4 of ours test regularly at or near zero eggs per gram. In other words very, very low. They get very little DE. A cup and a half a week. Two others get seven cups a week. One of the remaining two gets 10.5 cups a week, and the other gets 14. Pretty amazing that there is that much variance, huh?</span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"left","className":"MsoNormal"} -->
+<p class="has-text-align-left MsoNormal"><span style="font-size: 12.0pt;">Generally speaking I’m told that immune systems get better with age and our herd more or less follows that observation. Except for Pocket. She would be an exception. As there will always be. She is 16 but is the one receiving 10.5 cups a week.</span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"left","className":"MsoNormal"} -->
+<p class="has-text-align-left MsoNormal"><span style="font-size: 12.0pt;">Our program is as follows: The fearsome foursome as I call them are Cash, Noelle, Mariah, and Skeeter. They have been receiving only ½ cup a week until recently when I read about all the other benefits of DE besides parasites. So I upped them to a half cup on Monday, Wednesday, and Friday. Saffron and Stormy receive seven cups a week. Pocket: Ten and a half cups a week. And Mouse fourteen cups a week.</span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"left","className":"MsoNormal"} -->
+<p class="has-text-align-left MsoNormal"><span style="font-size: 12.0pt;">A 50 pound bag of DE at our feed store is $30 and it lasts forever, even with eight horses.</span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"left","className":"MsoNormal"} -->
+<p class="has-text-align-left MsoNormal"><span style="font-size: 12.0pt;">The program is designed for each horse by trial and error. I studied - which you should do - how fecal checks are done and what to look for. Google it. There are low, moderate, and high eggs per gram conclusions. Low is, of course the target. 100 eggs per gram or lower. Anything in the low range gets very low dosage. Anything in the moderate range (100- 500 eggs per gram) might get a change of program (more diatomaceous earth) depending upon where they are in the moderate range. The new dosage is based upon best judgment. Trial and error. If in the low end of the high range (above 500) we’d probably just crank up the dosage of DE… in the high end of high we’d consider doing a one time poison treatment. We haven’t had to do that now since we started the DE program more than two years ago.</span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"left","className":"MsoNormal"} -->
+<p class="has-text-align-left MsoNormal"><span style="font-size: 12.0pt;">What’s the downside? A lot of folks want a strict set of laws to go by every time with every horse under every condition. It just doesn’t work that way. Not if you care for your horses. Doing a one-size-fits-all generally leads to trouble. There is very rarely anything that we do for or with our horses that isn’t judgment based. That’s why I impress upon you, take what I’ve said as an intro, a loose guide to get you started… but do the homework, the research, to know what you’re doing so you can apply that “judgment” to each decision. But know that if it seems right after you’ve done all that, it most likely is right.</span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"left","className":"MsoNormal"} -->
+<p class="has-text-align-left MsoNormal"><span style="font-size: 12.0pt;">If you have a bunch of horses, like we do, I would definitely look into getting a microscope and kit. If you only have one or two you might want to just pay the vet to do the fecal checks. The time between our fecal checks is anywhere from three months to as much as six months. Again, judgment based. With the fearless foursome I’ve gone almost a year on one occasion. Pocket and Mouse are usually every three or four months.</span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"left","className":"MsoNormal"} -->
+<p class="has-text-align-left MsoNormal"><span style="font-size: 12.0pt;">Sometime soon we’ll discuss vaccines. A very slippery slope indeed.</span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"left","className":"MsoNormal"} -->
+<p class="has-text-align-left MsoNormal"><span style="font-size: 12.0pt;">Good DE article link: </span><a href="http://sacredmountainjourney.com/id21.html"><span style="font-size: 12.0pt; color: blue;">http://sacredmountainjourney.com/id21.html</span></a><span style="font-size: 12.0pt;"><br>
+Link specifically relating to animals, including horses:<br>
+</span><a href="http://sacredmountainjourney.com/id28.html"><span style="font-size: 12.0pt; color: blue;">http://sacredmountainjourney.com/id28.html</span></a><span style="font-size: 12.0pt;"> </span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"left","className":"MsoNormal"} -->
+<p class="has-text-align-left MsoNormal"><span style="font-size: 12.0pt;">Or just Google “Food Grade Diatomaceous Earth.” There’s a ton of stuff out there.</span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"left","className":"MsoNormal"} -->
+<p class="has-text-align-left MsoNormal"><span style="font-size: 12.0pt;">----------</span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":"MsoNormal"} -->
+<p class="MsoNormal"><span style="font-size: 12.0pt;">For those interested in the tools we use to do our own fecal checks, the list is below:</span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"left","className":"MsoNormal"} -->
+<p class="has-text-align-left MsoNormal"><span style="font-size: 12.0pt; mso-bidi-font-weight: bold;">Microscope:</span><span style="font-size: 12.0pt;"><br>
+Premiere MSK-01 Student Microscope<br>
+</span><a href="http://www.professionalmicroscopes.com/store/index.php?main_page=product_info&amp;cPath=3_657&amp;products_id=8283"><span style="font-size: 12.0pt; color: blue;">http://www.professionalmicroscopes.com/store/index.php?main_page=product_info&amp;cPath=3_657&amp;products_id=8283 </span></a><span style="font-size: 12.0pt;"><br>
+$125<br>
+$95 on Amazon</span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"left","className":"MsoNormal"} -->
+<p class="has-text-align-left MsoNormal"><span style="font-size: 12.0pt; mso-bidi-font-weight: bold;">Order:</span><span style="font-size: 12.0pt;"><br>
+Paracount-EPG Veterinary Quantitative Fecal Analysis Kit<br>
+With: McMaster Counting Slides – Green Grid – Two Chambers<br>
+From: Chalex Corporation<br>
+</span><a href="http://vetslides.com/paracount-epg-fecal-analysis-kit-with-mcmaster-type-counting-slides/"><span style="font-size: 12.0pt; color: blue;">http://vetslides.com/paracount-epg-fecal-analysis-kit-with-mcmaster-type-counting-slides/</span></a><span style="font-size: 12.0pt;"><br>
+$60<br>
+Home page: www.vetslides.com<br>
+Email: chalexcorp@att.net</span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"left","className":"MsoNormal"} -->
+<p class="has-text-align-left MsoNormal"><span style="font-size: 12.0pt; mso-bidi-font-weight: bold;">In addition, order:</span><span style="font-size: 12.0pt;"><br>
+Fecal Egg Count Kit<br>
+</span><a href="http://www.farmsteadhealth.com/microscope.html#fecal%20kit"><span style="font-size: 12.0pt; color: blue;">http://www.farmsteadhealth.com/microscope.html#fecal%20kit</span></a><span style="font-size: 12.0pt;"><br>
+$32.95</span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"left","className":"MsoNormal"} -->
+<p class="has-text-align-left MsoNormal"><a name="_GoBack"></a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"left","className":"MsoNormal"} -->
+<p class="has-text-align-left MsoNormal"><span style="font-size: 12.0pt;">Joe</span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":"MsoNormal"} -->
+<p class="MsoNormal"></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Joe Camp is the author of the national best seller The Soul of a  Horse – Life Lessons from the Herd, The Soul of a Horse Blogged – The  Journey Continues and his new series of eBook Nuggets from the Soul of a  Horse. He is also the creator of the canine superstar Benji and the  writer-director of all five Benji movies.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>You can visit his website here -<a href="http://www.thesoulofahorse.com/" target="_blank" rel="noopener">www.thesoulofahorse.com</a></p>
+<!-- /wp:paragraph -->

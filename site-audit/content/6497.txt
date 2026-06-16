@@ -1,0 +1,123 @@
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:image {"id":6498,"sizeSlug":"large","linkDestination":"none","align":"center"} -->
+<figure class="wp-block-image aligncenter size-large"><img src="http://cavallo.local/wp-content/uploads/2024/12/Cavallo-Life-is-Simple-Header-transparent-background-1024x177.webp" alt="Cavallo Horse Hoof Boots Header" class="wp-image-6498"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:media-text {"mediaPosition":"right","mediaId":6499,"mediaLink":"http://cavallo.local/?attachment_id=6499","mediaType":"image"} -->
+<div class="wp-block-media-text has-media-on-the-right is-stacked-on-mobile"><div class="wp-block-media-text__content"><!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|gutter","bottom":"var:preset|spacing|gutter","left":"0","right":"0"},"margin":{"top":"0","bottom":"0"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--gutter);padding-right:0;padding-bottom:var(--wp--preset--spacing--gutter);padding-left:0"><!-- wp:heading {"textAlign":"center"} -->
+<h2 class="wp-block-heading has-text-align-center">Thank you for ordering Cavallo Boots!</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>We’re holding your boot order safe and sound for you until we work together to find your equine’s best size.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>By sending us photos of your equine’s hoof, we can make the best possible size recommendation for your horse.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"center","placeholder":"Content…"} -->
+<p class="has-text-align-center"><strong>Please see the measuring photo examples below. When you're ready to send us your photos, or if you have questions along the way, just click this red button:</strong></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div><figure class="wp-block-media-text__media"><img src="http://cavallo.local/wp-content/uploads/2024/12/2018-Donation-J-M-Acres-order-dog-parcel-box-mail.jpg" alt="Cavallo horse hoof boots order" class="wp-image-6499 size-full"/></figure></div>
+<!-- /wp:media-text -->
+
+<!-- wp:buttons {"style":{"spacing":{"padding":{"top":"var:preset|spacing|lg","bottom":"var:preset|spacing|lg"}}},"layout":{"type":"flex","justifyContent":"center"}} -->
+<div class="wp-block-buttons" style="padding-top:var(--wp--preset--spacing--lg);padding-bottom:var(--wp--preset--spacing--lg)"><!-- wp:button {"textAlign":"center","backgroundColor":"red","style":{"border":{"radius":"50px"}}} -->
+<div class="wp-block-button"><a class="wp-block-button__link has-red-background-color has-background has-text-align-center wp-element-button" href="http://cavallo.local/ask-an-expert/" style="border-radius:50px">Send us photos here &gt;&gt;</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons -->
+
+<!-- wp:paragraph -->
+<p><strong>*Please note: there is no time limit for you to measure. We will hold your order until your best size is found, no matter how long it takes.</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:separator {"className":"is-style-wide","backgroundColor":"pale-silver"} -->
+<hr class="wp-block-separator has-text-color has-pale-silver-color has-alpha-channel-opacity has-pale-silver-background-color has-background is-style-wide"/>
+<!-- /wp:separator --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"textAlign":"center"} -->
+<h2 class="wp-block-heading has-text-align-center">Here's how to take length and width measurement photos:</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"fontSize":"large"} -->
+<p class="has-large-font-size"><strong>Important Pointers:</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>Be sure to measure right after a fresh trim</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>For the length, make sure to start the ‘zero’ of your tape measure right at the tip of the toe (as shown below)</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:image {"id":6500,"sizeSlug":"full","linkDestination":"none","align":"center"} -->
+<figure class="wp-block-image aligncenter size-full"><img src="http://cavallo.local/wp-content/uploads/2024/12/How-to-Take-Measuremnt-Photos.jpg" alt="How to Take Measurement Photos for Cavallo horse hoof boots" class="wp-image-6500"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:buttons {"style":{"spacing":{"padding":{"top":"var:preset|spacing|lg","bottom":"var:preset|spacing|lg"}}},"layout":{"type":"flex","justifyContent":"center"}} -->
+<div class="wp-block-buttons" style="padding-top:var(--wp--preset--spacing--lg);padding-bottom:var(--wp--preset--spacing--lg)"><!-- wp:button {"textAlign":"center","backgroundColor":"red","style":{"border":{"radius":"50px"}}} -->
+<div class="wp-block-button"><a class="wp-block-button__link has-red-background-color has-background has-text-align-center wp-element-button" href="http://cavallo.local/ask-an-expert/" style="border-radius:50px">Send photos or get help &gt;&gt;</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons -->
+
+<!-- wp:separator {"className":"is-style-wide","backgroundColor":"pale-silver"} -->
+<hr class="wp-block-separator has-text-color has-pale-silver-color has-alpha-channel-opacity has-pale-silver-background-color has-background is-style-wide"/>
+<!-- /wp:separator --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"textAlign":"center"} -->
+<h2 class="wp-block-heading has-text-align-center">You're In Good Hands - Cavallo Customer Service Reviews:</h2>
+<!-- /wp:heading -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:image {"id":5793,"width":"auto","height":"70px","sizeSlug":"full","linkDestination":"none","align":"center","style":{"spacing":{"margin":{"top":"var:preset|spacing|lg"}}}} -->
+<figure class="wp-block-image aligncenter size-full is-resized" style="margin-top:var(--wp--preset--spacing--lg)"><img src="http://cavallo.local/wp-content/uploads/2024/10/5-star-review-Cavallo-Hoof-Boots.webp" alt="5 star review Cavallo Hoof Boots" class="wp-image-5793" style="width:auto;height:70px"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">“Cavallo customer service is the absolute best. I sent them a message asking about using boots in snowy conditions and got a detailed and helpful answer within 24 hours. Oftentimes it’s even sooner.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">– Allyson Yearry Donaldson</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:image {"id":5793,"width":"auto","height":"70px","sizeSlug":"full","linkDestination":"none","align":"center","style":{"spacing":{"margin":{"top":"var:preset|spacing|lg"}}}} -->
+<figure class="wp-block-image aligncenter size-full is-resized" style="margin-top:var(--wp--preset--spacing--lg)"><img src="http://cavallo.local/wp-content/uploads/2024/10/5-star-review-Cavallo-Hoof-Boots.webp" alt="5 star review Cavallo Hoof Boots" class="wp-image-5793" style="width:auto;height:70px"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">“Legitimately the best company to deal with. Best customer service you’re ever going to get. Excellent product. I recommend the Cavallo TREK boots to all of my friends and anyone I know who shoes their horses and everyone is shocked at how incredible these boots are. We have gaited horses and they stay on!!!!”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">– Carly Cook</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:image {"id":5793,"width":"auto","height":"70px","sizeSlug":"full","linkDestination":"none","align":"center","style":{"spacing":{"margin":{"top":"var:preset|spacing|lg"}}}} -->
+<figure class="wp-block-image aligncenter size-full is-resized" style="margin-top:var(--wp--preset--spacing--lg)"><img src="http://cavallo.local/wp-content/uploads/2024/10/5-star-review-Cavallo-Hoof-Boots.webp" alt="5 star review Cavallo Hoof Boots" class="wp-image-5793" style="width:auto;height:70px"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">“Thanks, Cavallo, for providing the kind of customer service that is sorely lacking in most places today, but that we all long for when dealing with businesses that offer products and services.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">– Suzanne Cannon</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->

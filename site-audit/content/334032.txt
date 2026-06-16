@@ -1,0 +1,193 @@
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:image {"id":4011,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="http://cavallo.local/wp-content/uploads/2024/10/news-banner.jpg" alt="Cavallo Hoof Boots newsletter banner" class="wp-image-4011"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:group -->
+
+<!-- wp:heading {"textAlign":"center","level":1,"style":{"border":{"width":"0px","style":"none"},"spacing":{"margin":{"top":"0","bottom":"0"}},"typography":{"fontSize":"25px"}}} -->
+<h1 class="wp-block-heading has-text-align-center" style="border-style:none;border-width:0px;margin-top:0;margin-bottom:0;font-size:25px"><strong>Enjoy Your Latest Cavallo News - Full of Hoof-Saving Hacks &amp; Tips to Keep your Horse Brilliantly Booted!</strong></h1>
+<!-- /wp:heading -->
+
+<!-- wp:spacer {"height":"22px"} -->
+<div style="height:22px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:image {"id":334041,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="http://cavallo.local/wp-content/uploads/2026/01/Merry-Christmas.jpg" alt="Merry Christmas from Cavallo Hoof Boots" class="wp-image-334041"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:uagb/advanced-heading {"block_id":"1333c7fa","classMigrate":true,"headingDescToggle":false,"headingAlign":"center","headFontSize":42} -->
+<div class="wp-block-uagb-advanced-heading uagb-block-1333c7fa"><h2 class="uagb-heading-text"><strong>Lights, Camera… Donkeys!</strong>?</h2></div>
+<!-- /wp:uagb/advanced-heading --></div>
+<!-- /wp:group -->
+
+<!-- wp:block {"ref":334054} /-->
+
+<!-- wp:uagb/container {"block_id":"b0f4c81e","minHeightDesktop":484,"alignItemsTablet":"center","alignItemsMobile":"center","topPaddingDesktop":0,"bottomPaddingDesktop":0,"leftPaddingDesktop":0,"rightPaddingDesktop":0,"variationSelected":true,"rowGapDesktop":0,"rowGapMobile":0,"columnGapDesktop":0,"columnGapMobile":0,"isBlockRootParent":true} -->
+<div class="wp-block-uagb-container uagb-block-b0f4c81e alignfull uagb-is-root-container"><div class="uagb-container-inner-blocks-wrap"><!-- wp:group {"layout":{"type":"constrained","wideSize":""}} -->
+<div class="wp-block-group"><!-- wp:heading {"textAlign":"center","level":4} -->
+<h4 class="wp-block-heading has-text-align-center"><strong>Watch the first episode of Donkey King below!</strong></h4>
+<!-- /wp:heading -->
+
+<!-- wp:embed {"url":"https://youtu.be/eg5dNML3AqU?rel=0","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://youtu.be/eg5dNML3AqU?rel=0
+</div></figure>
+<!-- /wp:embed -->
+
+<!-- wp:spacer {"height":"15px"} -->
+<div style="height:15px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading {"textAlign":"center","level":4} -->
+<h4 class="wp-block-heading has-text-align-center"><strong>Want More? Read People Magazine's Article About Donkey King:</strong></h4>
+<!-- /wp:heading -->
+
+<!-- wp:spacer {"height":"15px"} -->
+<div style="height:15px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:buttons {"style":{"spacing":{"margin":{"top":"32px"}}},"layout":{"type":"flex","justifyContent":"center"}} -->
+<div class="wp-block-buttons" style="margin-top:32px"><!-- wp:button {"backgroundColor":"red","className":"has-red-color","style":{"border":{"radius":"100px"},"spacing":{"padding":{"left":"65px","right":"65px","top":"12px","bottom":"12px"}},"typography":{"fontStyle":"normal","fontWeight":"800","lineHeight":"1.25"}}} -->
+<div class="wp-block-button has-red-color"><a class="wp-block-button__link has-red-background-color has-background wp-element-button" href="https://people.com/exec-gives-up-coroprate-life-to-start-donky-rescue-donkey-king-show-11865658" style="border-radius:100px;padding-top:12px;padding-right:65px;padding-bottom:12px;padding-left:65px;font-style:normal;font-weight:800;line-height:1.25" target="_blank" rel="noreferrer noopener">Find Out More &gt;&gt;</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:group --></div></div>
+<!-- /wp:uagb/container -->
+
+<!-- wp:uagb/container {"block_id":"3aea2166","directionDesktop":"row","variationSelected":true,"isBlockRootParent":true} -->
+<div class="wp-block-uagb-container uagb-block-3aea2166 alignfull uagb-is-root-container"><div class="uagb-container-inner-blocks-wrap"><!-- wp:group {"layout":{"type":"flex","flexWrap":"nowrap","verticalAlignment":"top"}} -->
+<div class="wp-block-group"><!-- wp:uagb/container {"block_id":"9e0af799","widthDesktop":50,"widthSetByUser":true} -->
+<div class="wp-block-uagb-container uagb-block-9e0af799"><!-- wp:image -->
+<figure class="wp-block-image"><img src="http://cavallo.local/wp-content/uploads/2025/12/Megan-Hensley-Donkey-Hoof-Skool-for-1.jpg" alt="Megan Hensley Donkey Hoof Skool for $1." title="Megan Hensley Donkey Hoof Skool for $1."/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:uagb/container -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"level":4,"style":{"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"textColor":"primary"} -->
+<h4 class="wp-block-heading has-primary-color has-text-color has-link-color">Megan's Dream for Your Donkey: Ongoing Hoof Care Guidance for Just $1</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><strong>BIG NEWS:</strong>&nbsp;Megan Hensley, The Donkey Farrier, has a BIG vision for the future of donkey hoof care and how she shows up in the world as a donkey advocate! One of the leading voices in modern donkey hoof care, known for her deep understanding of donkey anatomy, soundness, and rehabilitation, Megan addresses complex hoof challenges through thoughtful, donkey-specific trimming and management.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Megan’s Question to YOU:</strong>&nbsp;Would you be willing to pay just $1 per month for her ongoing, in-depth, top-level guidance on donkey hoof care?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>If you found yourself yelling “YES!” out loud, you are READY!&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons {"style":{"spacing":{"margin":{"top":"32px"}}},"layout":{"type":"flex","justifyContent":"center"}} -->
+<div class="wp-block-buttons" style="margin-top:32px"><!-- wp:button {"backgroundColor":"red","className":"has-red-color","style":{"border":{"radius":"100px"},"spacing":{"padding":{"left":"65px","right":"65px","top":"12px","bottom":"12px"}},"typography":{"fontStyle":"normal","fontWeight":"800","lineHeight":"1.25"}}} -->
+<div class="wp-block-button has-red-color"><a class="wp-block-button__link has-red-background-color has-background wp-element-button" href="https://www.skool.com/donkeys/about" style="border-radius:100px;padding-top:12px;padding-right:65px;padding-bottom:12px;padding-left:65px;font-style:normal;font-weight:800;line-height:1.25" target="_blank" rel="noreferrer noopener">Join Hoof Skool!</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group --></div></div>
+<!-- /wp:uagb/container -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"textAlign":"center","level":4,"style":{"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"textColor":"primary"} -->
+<h4 class="wp-block-heading has-text-align-center has-primary-color has-text-color has-link-color">YOU'RE on Carole’s Christmas List!?</h4>
+<!-- /wp:heading -->
+
+<!-- wp:image {"width":"2000px","linkDestination":"custom","style":{"border":{"radius":{"topLeft":"12px","topRight":"12px","bottomLeft":"12px","bottomRight":"12px"}}}} -->
+<figure class="wp-block-image is-resized has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2025/12/Merry-Christmas-from-cavallo.jpg" alt="Merry Christmas books download from cavallo hoof boots" style="border-top-left-radius:12px;border-top-right-radius:12px;border-bottom-left-radius:12px;border-bottom-right-radius:12px;width:2000px" title="Merry Christmas books download from cavallo hoof boots"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>Carole has something special just for you and your horse (or donkey)! Her three essential guides are complimentary for you to download for a limited time! Hoof Prints on the Journey, There Are No Horseshoes in Heaven, and The Cavallo Barefoot Trim Guide were written to support, inspire, and guide horse owners like you on a kinder, more thoughtful journey of care.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Known for her practical wisdom and deep compassion for horses, Carole created these educational resources to offer reassurance, understanding, and simple guidance around hoof health, soundness and the horse–human connection. These are not just guides, they are companions to return to again and again:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Download Your Free Books &gt;&gt;</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"textAlign":"center","level":4} -->
+<h4 class="wp-block-heading has-text-align-center">Snow Happens. Ice Balls Are Optional ?</h4>
+<!-- /wp:heading -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:group {"style":{"dimensions":{"minHeight":"0px"},"border":{"width":"14px"}},"borderColor":"white","layout":{"type":"flex","flexWrap":"nowrap","verticalAlignment":"top"}} -->
+<div class="wp-block-group has-border-color has-white-border-color" style="border-width:14px;min-height:0px"><!-- wp:image {"className":"is-style-default","style":{"border":{"radius":{"topLeft":"12px","topRight":"12px","bottomLeft":"12px","bottomRight":"12px"}},"layout":{"selfStretch":"fixed","flexSize":"1200px"}}} -->
+<figure class="wp-block-image has-custom-border is-style-default"><img src="http://cavallo.local/wp-content/uploads/2025/12/Ice-Balling-Metal-horseshoes-Snow-Sue-Grice.jpg" alt="Ice Balling - Metal horseshoes Snow Sue Grice" style="border-top-left-radius:12px;border-top-right-radius:12px;border-bottom-left-radius:12px;border-bottom-right-radius:12px" title="Ice Balling – Metal horseshoes Snow Sue Grice"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:paragraph -->
+<p>Ice balling is one of those Winter problems that have been accepted for so long, it rarely gets questioned. Wet snow packs into a metal horseshoe, melts on contact, then refreezes into a hard, slippery mass with every step. The result is an unstable, high-heeled block of ice that compromises balance, increases the risk of slips and falls, and adds unnecessary strain to tendons and ligaments. It’s not a rare fluke of winter weather… It’s a predictable combination of cold metal, frozen moisture, and pressure.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Preventing ice balls usually means managing the shoe rather than the snow. Farriers may add anti-snowball, bubble, or rim pads.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Temporary fixes like petroleum jelly or cooking spray can help in a pinch, but they wear off quickly. Cavallo Hoof boots offer a practical alternative for both barefoot AND shod horses during turnout or riding, while improving traction. And for horses, going barefoot in the Winter months can dramatically reduce ice accumulation. Which raises the question so many horse owners ask themselves each year: if ice balling is caused by metal shoes, why keep the metal when there are ways to avoid the problem entirely?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="http://cavallo.local/we-winterize-our-houses-vehicles-why-not-winterize-your-horse/" target="_blank" rel="noreferrer noopener">Read more HERE</a>&nbsp;about how to winterize your horse!&nbsp;</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading">Curve Ball: Grinch Chooses to GIVE Christmas Instead of Stealing It!</h4>
+<!-- /wp:heading -->
+
+<!-- wp:group {"layout":{"type":"flex","flexWrap":"nowrap","verticalAlignment":"top"}} -->
+<div class="wp-block-group"><!-- wp:image {"style":{"border":{"radius":{"topLeft":"12px","topRight":"12px","bottomLeft":"12px","bottomRight":"12px"}}}} -->
+<figure class="wp-block-image has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2025/12/Red-Sonja-Raphael-Cavallo-Hoof-Boots-Grinch-Christmas-Boulder-City-police-Trek-hoof-boots.jpg" alt="Red Sonja Rafael Cavallo Hoof Boots Grinch Christmas Boulder City police Trek hoof boots" style="border-top-left-radius:12px;border-top-right-radius:12px;border-bottom-left-radius:12px;border-bottom-right-radius:12px" title="Red Sonja Rafael Cavallo Hoof Boots Grinch Christmas Boulder City police Trek hoof boots"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:paragraph -->
+<p>In Boulder City, Nevada, the local Mounted Unit isn’t just about community safety – it’s about bringing joy and connection to people of all ages. One of the faces you’ll often see around town is Liberty, the beloved horse ridden by volunteer Rafael, who regularly appears in his western “Grinch” outfit alongside Boulder City Police at parades, events, and community gatherings.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Liberty has become a local favourite for her calm presence and the way she brings smiles wherever she goes. She also enjoys feeling secure on the asphalt with her Cavallo Boots – she switches between her Black and Green Trek! This Dr. Suess-themed duo also recently&nbsp;<a href="https://www.facebook.com/share/r/1B6J7TiZFA/" target="_blank" rel="noreferrer noopener">t</a><a href="https://www.facebook.com/share/r/1B6J7TiZFA/" target="_blank" rel="noreferrer noopener">hrilled crowds at the National Finals Rodeo in Las Vegas!</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Rafael and his team embody a spirit of service, fun, and community pride that makes Boulder City so special.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Want to see what they get up to all year? Follow them on Facebook<a href="https://www.facebook.com/red.sonja.rafael" target="_blank" rel="noreferrer noopener">&nbsp;HERE.&nbsp;</a></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:spacer {"height":"6px"} -->
+<div style="height:6px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:paragraph -->
+<p>Wishing you very happy trails this holiday season,</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:image {"id":309574,"width":"843px","height":"auto","sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large is-resized"><img src="http://cavallo.local/wp-content/uploads/2022/11/carole-signature-transparent-background-1024x524.jpg" alt="Cavallo Hoof Boots president Carole Herder signature" class="wp-image-309574" style="width:843px;height:auto"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:group -->

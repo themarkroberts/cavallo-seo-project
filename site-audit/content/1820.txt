@@ -1,0 +1,67 @@
+<!-- wp:spacer {"height":"37px"} -->
+<div style="height:37px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading"><strong>Soften the Impact of Hard Winter Ground</strong></h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>We were thrilled to get a message all the way from <a href="https://en.wikipedia.org/wiki/Estonia" target="_blank" rel="noopener noreferrer">Estonia</a> and, guess what? Even though they are far across the ocean, they still deal with the same issues we do in North America. This poor horse wrangled Laminitis and is now braving the hard, frozen Winter ground.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><em>"Hello!  We are located in Estonia, on an island called Saaremaa. My horse name is Ralla, she is a Silver Bay mare. Her breed is the Estonian native horse. Sadly, in August 2019, she got a very bad Laminitis attack. Her hoofs were really, really sensitive after the treatment. So, this winter she uses <a href="http://cavallo.local/product-category/hoof-boot/" target="_blank" rel="noopener noreferrer">Cavallo Hoof Boots</a> for walking on frozen and hard ground. She also likes Cavallo Gel Pads inside. These boots are lifesavers! ??Thank you! ??</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>- Halliki Hanso, Estonia</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":346539,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="http://cavallo.local/wp-content/uploads/2020/01/Halliki-Hanso-Estonia-Laminitis-Cavallo-Simple-Horse-Hoof-Boots.jpg" alt="Halliki Hanso, Estonia - Laminitis Cavallo Cavallo Simple Horse Hoof Boots" class="wp-image-346539"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>At Cavallo, we're so happy to hear that Ralla's Simple Boots worked to get her through a painful Laminitis attack and are able to soften the impact of hard Winter ground!&nbsp; If you have a similar story, please connect with us , we'd love to hear it!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph -->

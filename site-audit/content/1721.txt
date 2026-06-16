@@ -1,0 +1,43 @@
+<!-- wp:paragraph -->
+<p>Has a Navicular diagnosis got you and your horse down?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading">A Pain Free Life</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>When treating a horse with Navicular disease, keeping your horse barefoot can encourage the blood to circulate with ease through the proper channels, carrying a host of nutrients throughout the hoof. <a href="https://en.wikipedia.org/wiki/Circulatory_system_of_the_horse" target="_blank" rel="noopener">The barefoot hoof can flex and expand</a> to allow shock absorption and relieve the strain to extensor tendons and lateral cartilage. Oxygen and nutrients help increase healthy new bone growth. Optimally functioning hoofs will naturally show a decrease in symptoms of discomfort and facilitate in healing the cause. Rehabilitating the hoof to perform its natural function is the only way to cure the condition. The hoofs will require proper trimming, hydration and adequate movement on appropriate terrain. <a href="http://cavallo.local/product-category/hoof-boot/" target="_blank" rel="noopener">Cavallo Hoof Boots</a> are an integral part of the rehabilitation process, as they provide comfort, protection and traction. Cavallos have a slightly raised rim to offset the weight of a tender sole, while still maintaining an inner surface functioning as a counter effect for the expansion of the hoof while weight bearing. Cavallos will assist to encourage blood circulation. In transition, <a href="http://cavallo.local/product-category/hoof-boot-accessories/hoof-boot-pads/gel-pads/" target="_blank" rel="noopener">Cavallo Gel pads</a> can be used to further stimulate blood flow. If more cushion is required, you have the option of inserting Comfort Pads. And if your horse is very tender and benefits by wearing boots all-day, every-day you may wish to use <a href="http://cavallo.local/product-category/hoof-boot-accessories/pastern-wraps/" target="_blank" rel="noopener">Cavallo Pastern Wraps or Sleeves</a>.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":12143,"align":"right","className":"size-medium wp-image-12143"} -->
+<figure class="wp-block-image alignright size-medium wp-image-12143"><img src="//www.cavallo.local/wp-content/uploads/2018/08/2018-04-22-Kelesha-Crew-and-Katie-in-Simple-226x300.jpg" alt="Kelesha Crew's horse Katie in Cavallo Simple Hoof Boots" class="wp-image-12143"/><figcaption class="wp-element-caption">Kelesha Crew's horse Katie in Cavallo Simple Hoof Boots</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:group {"layout":{"type":"constrained","justifyContent":"left"}} -->
+<div class="wp-block-group"></div>
+<!-- /wp:group -->
+
+<!-- wp:paragraph -->
+<p> Understanding the implications of the personal choice you make in the treatment of any diagnosis is your responsibility as a horse owner. You also can choose to accept or reject a prognosis, seek another opinion and do your own research. The important thing is the quality of life your horse enjoys. Soundness is living a pain free life.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Wishing you many happy miles in your Cavallos,</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":11988,"linkDestination":"custom","align":"left"} -->
+<figure class="wp-block-image alignleft"><a href="https://www.amazon.com/There-are-Horseshoes-Heaven-Tradition/dp/1523978163/ref=sr_1_1?ie=UTF8&amp;qid=1534807653&amp;sr=8-1&amp;keywords=there+are+no+horseshoes+in+heaven"><img src="//www.cavallo.local/wp-content/uploads/2018/08/Caroles-signature-with-click-here-452x261.jpg" alt="Carole herder's Signature and Book details" class="wp-image-11988"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->

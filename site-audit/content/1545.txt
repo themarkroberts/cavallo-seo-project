@@ -1,0 +1,39 @@
+<!-- wp:paragraph -->
+<p><strong><em>Now is a Great Time to Transition to Barefoot…</em></strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":6098,"linkDestination":"custom","align":"left"} -->
+<figure class="wp-block-image alignleft"><a href="//cavallo.local/wp-content/uploads/2015/10/snowy-horse.jpg"><img src="//cavallo.local/wp-content/uploads/2015/10/snowy-horse-452x302.jpg" alt="snowy horse" class="wp-image-6098"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>You’ve had another magnificent summer with your horse—Invigorating rides, cantering through emerald green country sides, lazy picnic lunches, and refreshing dips In your favorite local swimming spots. It’s been a fantastic season and it is now coming to an end.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Maybe you’ve considered <a href="https://www.youtube.com/watch?t=2&amp;v=TJlkd5FLXzA">pulling the metal shoes off</a> your horse for the winter. Perhaps you’ve heard about the benefits of re-establishing proper hoof mechanism. You like the idea of allowing blood to flow freely into the live tissue of the brilliant structures that support your horse. You are well aware of the axiom – no hoof, no horse and you want to do the best you can for your horse’s health and well-being. You want fresh blood circulating to provide nourishment and oxygen to your horse’s feet.You want their weight and the shock of impact to be properly absorbed. And you know all about those debilitating conditions that so many horses are plagued with; navicular disease, laminitis, ring bone, side bone, splints, arthritis and chronic thrush can all be deterred by a practice that is simple, beneficial and cost effective.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":6096,"linkDestination":"custom","align":"right"} -->
+<figure class="wp-block-image alignright"><a href="//cavallo.local/wp-content/uploads/2015/10/Blood-Supply-3.jpg"><img src="//cavallo.local/wp-content/uploads/2015/10/Blood-Supply-3-452x353.jpg" alt="Blood Supply (3)" class="wp-image-6096"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>Have I got your attention?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Now is the time to pull off those metal shoes. Allow the frog to make contact with the ground and pump fresh blood through all the coriums of the hoof—allow shock to be properly absorbed by the hoof, rather than referred back up the structure by the impact of jarring metal. With various studies concluding that horses receive an 800 Hz vibration as metal impacts a hard surface at a trot, now is a good time to relieve those debilitating effects and encourage the hoof to expand and contract as it should. Cavallo Hoof Boots can help make this happen!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":5697,"linkDestination":"custom","align":"left"} -->
+<figure class="wp-block-image alignleft"><a href="//cavallo.local/wp-content/uploads/2015/06/Carole.jpg"><img src="//cavallo.local/wp-content/uploads/2015/06/Carole-150x150.jpg" alt="SONY DSC" class="wp-image-5697"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph {"align":"left"} -->
+<p class="has-text-align-left"><em><strong>Take responsibility and be non-negotiable with your horse’s comfort and well being.</strong><br></em><br>Carole Herder has a genuine passion for educating horse owners worldwide, especially on all matters related to natural horse care. Given her strong belief that keeping horses barefoot assists to alleviate hoof problems, Carole designed and developed Cavallo Simple, Sport and Trek Boots. In 1993, she also designed and developed Total Comfort System Saddle Pads to address the other “hot spot” for horses ridden under saddle – sore backs. Providing comfort for horses is Carole’s passion. In 2010, she won the Royal Bank of Canada western division Trail Blazer Woman Entrepreneur of the year award. Carole is an author of several publications and is currently finalizing her first book. She presents training at numerous horse events worldwide. cavallo.local</p>
+<!-- /wp:paragraph -->

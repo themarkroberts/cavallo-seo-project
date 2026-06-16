@@ -1,0 +1,23 @@
+<!-- wp:paragraph -->
+<p>By Carole Herder</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":4989,"linkDestination":"custom","align":"left"} -->
+<figure class="wp-block-image alignleft"><a href="//cavallo.local/wp-content/uploads/2014/10/Spoga.jpg"><img src="//cavallo.local/wp-content/uploads/2014/10/Spoga-452x432.jpg" alt="Horse Hoof Boots" class="wp-image-4989"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>Rusty hues of gold and orange crinkle down through the filtered sinking sun. October arrives, seasons change and I get back to my desk after our annual excursion overseas. This trip is a big effort. It’s now been ten years of travelling to Europe in September to meet our World Wide Distributors. The meeting place is Germany and the main draw is a tradeshow called Spoga.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Attending from the USA and Canada, are our loyal good friends from Cavalier Equestrian and Toklat Originals. And joining us for this evening of merriment are the Principals of Cavallo Distribution companies from Italy, Spain, Germany, Holland, UK and France. These are some of the people around the world who are helping make a difference to the health and well being of horses. Here on this night, we celebrate, firstly that we can all be together with healthy vitality ourselves and secondly that we provide the education in combination with the product to help make a difference to the life of our horses.<br></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Most of these folks are big business owners who have been in the equine industry for many years, distributing various equipment, like saddles and strap goods. They joined the Cavallo team because they liked the idea of providing hoof boots for the comfort of horses. They felt they wanted to be part of the movement away from nailing metal shoes on horse’s feet. Happily their instincts served them well. Together we work to ensure Cavallo boots are available to horse owners around the world.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:spacer {"height":"40px"} -->
+<div style="height:40px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->

@@ -1,0 +1,7 @@
+<!-- wp:image {"id":1006,"sizeSlug":"full","linkDestination":"none","align":"left"} -->
+<figure class="wp-block-image alignleft size-full"><img src="http://cavallo.local/wp-content/uploads/2024/09/Cesar1-300x216-1.jpg" alt="" class="wp-image-1006"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>He is called “the Dog Whisperer” because he is clearly alert to the simple instincts of dog behaviour. &nbsp;Cesar spoke to us last night at the Chopra Centre’s “Journey Into Healing” here in Vancouver. He spoke of the social animal’s instinctual way of being. He spoke of the honesty, integrity and consistency that characterises our four legged friends. He spoke of the gentle intuition of those who act for the good of the animals in their care. Both our dogs and horses seek a truly calm and assertive leader. One who opts for the good of the animal, in true understanding of its nature. One who knows beyond any doubt that she can create a comfortable sense of well being and willingness in her animals. The similarities are clear. Training dogs and training horses requires an aware owner with the simple ability to assume her position at the top of the food chain- being a leader with firm kindness.&nbsp; Life Is Simple! And at Cavallo, we LOVE SIMPLE! So keep your horses comfortable, nurture their spirit, understand their nature and protect their hoofs with Cavallo Hoof Boots.</p>
+<!-- /wp:paragraph -->

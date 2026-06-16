@@ -1,0 +1,86 @@
+[
+  {
+    "id": "202121",
+    "content_format": "FAQ / informational",
+    "summary": "Explains how Cavallo hoof boots benefit mounted police and patrol units, covering traction, concussion reduction, hoof health, field results, and unit discounts.",
+    "key_components": ["Image gallery", "Table of contents/sections", "Bulleted list", "CTA button", "Testimonials"],
+    "primary_cta": "Shop hoof boots"
+  },
+  {
+    "id": "202207",
+    "content_format": "FAQ / informational",
+    "summary": "Details how Cavallo hoof boots help aging and arthritic horses by reducing concussion, improving traction, and distributing pressure to ease joint stiffness and soreness.",
+    "key_components": ["Image gallery", "Table of contents/sections", "Bulleted list", "CTA button", "Testimonials"],
+    "primary_cta": "Shop hoof boots"
+  },
+  {
+    "id": "202251",
+    "content_format": "FAQ / informational",
+    "summary": "Guide to transitioning a horse from metal shoes to barefoot using Cavallo hoof boots, covering benefits, common challenges, soreness, and hoof boot pads.",
+    "key_components": ["Image gallery", "Table of contents/sections", "Bulleted list", "CTA button", "Testimonials"],
+    "primary_cta": "Shop hoof boots"
+  },
+  {
+    "id": "202298",
+    "content_format": "FAQ / informational",
+    "summary": "Step-by-step instructions for sizing and measuring a horse's hooves for Cavallo hoof boots, including measuring after a trim, uploading photos, and special cases like shod or fine-boned horses.",
+    "key_components": ["Video embed", "Image gallery", "Table of contents/sections", "Bulleted list", "CTA button", "Testimonials"],
+    "primary_cta": "Measure your horse"
+  },
+  {
+    "id": "202315",
+    "content_format": "Landing / marketing page",
+    "summary": "Announcement page introducing the new Cavallo LEB (Long Ear Boot), the first hoof boot designed exclusively for donkeys, now available for purchase.",
+    "key_components": ["CTA button"],
+    "primary_cta": "View the LEB Donkey Boot"
+  },
+  {
+    "id": "202346",
+    "content_format": "Newsletter",
+    "summary": "April 2025 Cavallo newsletter announcing the LEB donkey hoof boot limited first release, a survey contest to win boots, and the March survey winner.",
+    "key_components": ["Image gallery", "Table of contents/sections", "CTA button"],
+    "primary_cta": "Sign Up for LEB First Run"
+  },
+  {
+    "id": "202419",
+    "content_format": "Newsletter",
+    "summary": "March 2025 Cavallo newsletter featuring a survey contest, a viral video of a Cavallo-booted horse meeting a wild rhino in South Africa, and other brand updates.",
+    "key_components": ["Video embed", "Image gallery", "Table of contents/sections", "CTA button"],
+    "primary_cta": "Take Survey"
+  },
+  {
+    "id": "202438",
+    "content_format": "Standard article (text + images)",
+    "summary": "Explains navicular syndrome (caudal heel pain), its subtle symptoms, and how Cavallo hoof boots serve as a dual-purpose riding and therapy boot to restore comfort and mobility.",
+    "key_components": ["Image gallery", "Bulleted list", "CTA button"],
+    "primary_cta": "Shop hoof boots"
+  },
+  {
+    "id": "202457",
+    "content_format": "Newsletter",
+    "summary": "February 2025 Cavallo newsletter announcing the SPOGA Horse Top Innovations 2025 award won with Consteed for the co-branded diagnostic smart hoof boot.",
+    "key_components": ["Video embed", "Image gallery", "Table of contents/sections", "CTA button"],
+    "primary_cta": "Follow Consteed on Instagram"
+  },
+  {
+    "id": "202476",
+    "content_format": "Newsletter",
+    "summary": "Cavallo 2024 Year in Review newsletter highlighting brand milestones including Beyonce's Netflix halftime show, the Queen's pony, Texas Tech Masked Rider, and team growth.",
+    "key_components": ["Image gallery", "Table of contents/sections", "CTA button"],
+    "primary_cta": "Listen to the Podcast"
+  },
+  {
+    "id": "202495",
+    "content_format": "FAQ / informational",
+    "summary": "Guide to properly cleaning, drying, and storing Cavallo hoof boots to extend their life, including TPU material care and avoiding hydrolysis damage.",
+    "key_components": ["Image gallery", "Table of contents/sections", "Bulleted list", "CTA button", "Testimonials"],
+    "primary_cta": "Shop hoof boots"
+  },
+  {
+    "id": "202548",
+    "content_format": "Landing / marketing page",
+    "summary": "Promotional page about Beyonce wearing Cavallo Trek hoof boots on her horse Marshmallow during the Christmas Day NFL Beyonce Bowl halftime show on Netflix.",
+    "key_components": ["Video embed", "Image gallery", "CTA button"],
+    "primary_cta": "Shop hoof boots"
+  }
+]

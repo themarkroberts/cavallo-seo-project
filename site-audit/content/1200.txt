@@ -1,0 +1,35 @@
+<!-- wp:image {"id":2638,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="http://cavallo.local/wp-content/uploads/2024/09/montyfield.jpg" alt="" class="wp-image-2638"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>By Carole Herder</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>We all know about Natural Horsemanship as its popularity just keeps increasing since its inception around the early 1980s. Here at Cavallo, we are big supporters of training techniques that work on kindly rapport with the horse and rejects abusive training methods.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>One of our favorite pioneers in this area, who not only advocates this type of work but is the creator of the world-renowned training technique called Join-Up, is the renowned Monty Roberts. From his study of wild horses, he uses body language to communicate with them and start a partnership. This is only one aspect of his program towards nonviolence in training horses.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Today I’d like to share some tips from Monty for preparing your young horse for the farrier/trimmer. To ensure a good, solid, initial relationship with your horse, Join-Up should be achieved first, followed by successful work with the dually halter. Once your horse will stand quietly and comfortably with you, you can ask them to pick up all four feet (one at a time, of course!) and keep them up while you tap them or hold a rasp against them. If all goes well, you are ready for the trimmer. Simple as that.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>If however, your horse would prefer to struggle against you or even to kick, you can use an artificial arm. Creating this apparatus can be an easy do it yourself job and involves a stick (like a broom handle, about 3 feet long), a work glove, a sleeve, duct tape and some straw or shavings. Place the glove over one end of the stick and fill with straw. Place the stick in the sleeve so the end of it can be attached to the glove. Fill the sleeve with straw, or some other purposeful material and tape both ends of the sleeve. Voila – an artificial arm! Make sure you have some uncovered pole/stick left to hold onto. This not only keeps you in a safer place, but allows you the physical strength to ‘stay’ with the horse while they learn to accept the arm. Remember to massage the rest of the horse slowly first before going down to the legs. Always release the pressure (the arm) as soon as the horse improves in its behavior – this is the reward. For flighty or dangerous horses, get an assistant to give you a hand. Don’t make things difficult for yourself, get help if need be. If they throw their leg, don’t hang on to it. Move with the horse or let it go, and then ask again. For horses very unsure of farriers, try wearing some loose fitting chaps to get them used to the feel and movement, before the farrier comes. Stay with your horse when the farrier is there – they trust you now. Choose a safe place to have the work done, with good lighting and a firm level surface, and preferably where you have already done a lot of your training.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":1479,"align":"left"} -->
+<figure class="wp-block-image alignleft"><img src="//cavallo.local/wp-content/uploads/2013/07/G_HI_PollyA2.jpg" alt="" class="wp-image-1479" title="horse hoof boots"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>The whole experience will make your horse much happier, and of course your farrier as well! It will also ensure a better trim takes place as everyone will be concentrating on the hooves and not the behavior of the horse.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>And now you can do the best part of all - measure for Cavallo hoof boots. Just try to measure within 7 days of your fresh trim. You can use our handy measuring chart! <a href="http://cavallo.local/how-to-measure/" target="_blank" rel="noopener">Click here to learn how to measure.</a></p>
+<!-- /wp:paragraph -->

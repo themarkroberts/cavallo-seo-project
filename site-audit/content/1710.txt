@@ -1,0 +1,39 @@
+<!-- wp:paragraph -->
+<p>Sometimes you get a great group of people together and something special happens. Get a great group of people together who also love horses? Well, something truly MAGICAL happens!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":11587,"align":"left","className":"size-medium wp-image-11587"} -->
+<figure class="wp-block-image alignleft size-medium wp-image-11587"><img src="//www.cavallo.local/wp-content/uploads/2018/06/2018-BCHBC-Rendezvous-Arlene-Ladd-339x452.jpg" alt="BCHBC Rendezvous - photo by BCHBC Member Arlene Ladd" class="wp-image-11587"/><figcaption class="wp-element-caption">BCHBC Rendezvous - photo by BCHBC Member Arlene Ladd</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>At the end of May we sent <a href="http://cavallo.local/about/" target="_blank" rel="noopener">Jenny</a> to the <a href="http://www.bchorsemen.org/" target="_blank" rel="noopener">Back Country Horsemen of British Columbia</a> 2018 <a href="http://www.bchorsemen.org/bchbc/rendezvous/rendezvous-2018" target="_blank" rel="noopener">Rendezvous</a> in gorgeous <a href="https://en.wikipedia.org/wiki/Barriere,_British_Columbia" target="_blank" rel="noopener">Barriere, British Columbia </a>to meet this great group. &nbsp;Cavallo enjoys a wonderful <a href="http://www.bchorsemen.org/bchbc/item/435-bchbc-and-cavallo-partnership" target="_blank" rel="noopener">partnership</a> with the BCHBC, and we often speak to members on the phone or run into them at the <a href="https://chilliwack.maneeventexpo.com/" target="_blank" rel="noopener">Mane Event</a> in Chilliwack.&nbsp; This was a chance to actually sit down and spend some time with them, to get a feel for who they are and what they do.They love their horses. They <a href="https://engage.gov.bc.ca/bcparksblog/2013/07/23/guest-blog-ec-manning-park-back-country-horsemen-opening-work-bee/" target="_blank" rel="noopener">build and maintain trails all over BC</a> for everyone to enjoy.&nbsp; <a href="http://www.bchorsemen.org/bchbc/events/events-by-chapter/cat.listevents/2018/06/14/-" target="_blank" rel="noopener">They organize rides</a> through the most stunning landscapes this province has to offer.&nbsp; These people make things happen!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":11591,"align":"right","className":"size-medium wp-image-11591"} -->
+<figure class="wp-block-image alignright size-medium wp-image-11591"><img src="//www.cavallo.local/wp-content/uploads/2018/06/BCHBC-Arlene-Ladd-Grenier-Lake-Barriere-BC-225x300.jpg" alt="Grenier Lake, Barriere BC- Photo by BCHBC Memeber Arlene Ladd" class="wp-image-11591"/><figcaption class="wp-element-caption">Grenier Lake, Barriere BC- Photo by BCHBC Member Arlene Ladd</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>During the Rendezvous many rides were scheduled through private land in Barriere.&nbsp; The BCHBC were quickly granted permission to ride on these private lands due to their excellent reputation.&nbsp; In the evenings communal dinners were held at the dining hall, and live cowboy music graced everyone’s ears!&nbsp; An auction fundraiser was held the third night, and we were proud to have offered hoof boots and saddle pads as auction items. Jenny also arranged for sought-after donations from <a href="https://www.montyroberts.com/ab_about_monty/ab_about_monty/" target="_blank" rel="noopener">Monty Roberts</a> and <a href="http://juliegoodnight.com/" target="_blank" rel="noopener">Julie Goodnight,</a> and their generosity was really appreciated by all.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>During the daytime Jenny manned our <a href="http://cavallo.local/" target="_blank" rel="noopener">Cavallo</a> booth and several people pulled their horses up to the back door of the vendor’s hall for personal Cavallo hoof boot fittings!&nbsp; The BCHBC members are savvy horse owners, and <a href="http://cavallo.local/product-category/hoof-boot/" target="_blank" rel="noopener">many a Cavallo Hoof Boot</a> was sold at this event.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>If you live in British Columbia and would like to join the Back Country Horsemen, please click here:&nbsp; <a href="http://www.bchorsemen.org/bchbc/join-us" target="_blank" rel="noopener">http://www.bchorsemen.org/bchbc/join-us</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":11603,"width":"473px","height":"auto","linkDestination":"custom","align":"left"} -->
+<figure class="wp-block-image alignleft is-resized"><a href="http://cavallo.local/product/there-are-no-horseshoes-in-heaven/"><img src="//www.cavallo.local/wp-content/uploads/2018/06/Carole-signatures-together.jpg" alt="Carole Herder's Signature" class="wp-image-11603" style="width:473px;height:auto"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph -->

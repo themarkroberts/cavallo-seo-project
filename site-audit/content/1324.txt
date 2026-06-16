@@ -1,0 +1,27 @@
+<!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="http://cavallo.local/wp-content/uploads/2024/09/chubbyhorse.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>By Carole Herder</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Most of us will weigh our horses regularly, or at least we know how to do it. Here is a reminder of the formula if you have forgotten! ‘Girth’ is calculated by placing the tape across the horse’s back just behind the withers and catching the other side under the horse so it passes across the girth groove and then measuring the circumference. ‘Length’ is calculated by measuring from the point of the shoulder to the point of the buttock (you may need someone to help you hold the tape).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Girth (cm) x Girth (cm) x Length (cm) / 11,900 = Weight (kg)<br>Girth (in) x Girth (in) x Length (in) / 330 = Weight (lb)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>And have you also done Body Scoring? Body Condition Scoring was developed in 1983 by Dr. Don Henneke. It is a way of evaluating the relationship of body fat to body musculature which is then translated into a nine point scale. This helps owners and trainers analyze a horse’s condition as a guide to nutrition, reproductive capability, performance ability and health.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>It is suggested that most horses have a body score of 5 or 6 (on a 1-9 scale, one being poor and 9 being extremely fat) but it will vary from horse to horse depending in their breed and job. For example, a polo or endurance horse’s weight would be more appropriate at a 4 while an equine in the show ring might be better at a 7.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Learn more at<a href="http://equimed.com/health-centers/nutrition/articles/an-illustrated-guide-to-body-scoring-your-horse" target="_blank" rel="noopener"> http://equimed.com/health-centers/nutrition/articles/an-illustrated-guide-to-body-scoring-your-horse</a>. There is even a handy guide you can print off and take to the barn with you.</p>
+<!-- /wp:paragraph -->

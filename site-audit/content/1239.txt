@@ -1,0 +1,23 @@
+<!-- wp:image {"id":5105,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="http://cavallo.local/wp-content/uploads/2013/09/cowhorse.webp" alt="" class="wp-image-5105"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>By Carole Herder</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Many of the issues our domesticated horses experience now are because they aren’t living off the land. Conditions like colic and influenza are more common in horses because they no longer live holistically, running around in the wide open tundra.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>We also introduce herds and horses to new diseases by traveling with them around the world. It isn’t much different than how we often get ill when we travel and are exposed to things that peoples native to that land tolerate naturally; or how we often get sick after sharing the air on an intercontinental flight or how one kid gets lice, and then the entire class has it.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Just as with us, there is an entire industry of products and services for horses to treat the conditions caused or exacerbated by not living holistically. These actions counteract nature’s survival of the fittest and keep the weak alive. Sure horses can catch things and take ill when they’re out in the wild, but it is compounded when they’re forced together, too often kept confined and fed foods unnatural to them. Getting back to a more natural, holistic way of living is better for both us and our horses.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Some of the products that are being offered in the horse community now are really not what a horse would eat in a natural environment. For example, the industry is starting to make feed based on beans. If given a choice a horse would not choose beans. The business is trying to design feed that isn’t always appropriate for horses and they often use sub-quality ingredients, such as waste products like lower quality beet pulp. Then they promote such ingredients as good. An example is the promotion of alfalfa for horses. It is really a better crop for cows, but we like the rich greenness and like how it looks and smells, so it is being included in horse feed. Then the marketing wizards are selling it to us as ‘sun-cured” to peak our health consciousness. Here’s the thing, there is no other way to cure alfalfa! We’re being sold as if we’re getting something that is better than it is or that we’re making a choice that we really don’t have. It is like the message over the loud speaker every time I come home, “Thank you for sailing British Columbia Ferries” It is the only option to cross the water, there is no other way.</p>
+<!-- /wp:paragraph -->

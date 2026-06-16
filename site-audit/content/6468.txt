@@ -1,0 +1,27 @@
+<!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|gap"}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"level":1} -->
+<h1 class="wp-block-heading">John Lyons - America's Most Trusted Horseman</h1>
+<!-- /wp:heading -->
+
+<!-- wp:media-text {"mediaId":6469,"mediaLink":"http://cavallo.local/?attachment_id=6469","mediaType":"image","mediaWidth":30,"imageFill":true,"backgroundColor":"light-red-1"} -->
+<div class="wp-block-media-text is-stacked-on-mobile is-image-fill-element has-light-red-1-background-color has-background" style="grid-template-columns:30% auto"><figure class="wp-block-media-text__media"><img src="http://cavallo.local/wp-content/uploads/2024/12/John-Lyons-1.jpg" alt="John Lyons Cavallo Horse Hoof Boots" class="wp-image-6469 size-full" style="object-position:50% 50%"/></figure><div class="wp-block-media-text__content"><!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|md","bottom":"var:preset|spacing|md","left":"0","right":"0"},"margin":{"top":"0","bottom":"0"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--md);padding-right:0;padding-bottom:var(--wp--preset--spacing--md);padding-left:0"><!-- wp:paragraph {"placeholder":"Content…"} -->
+<p>Horse trainer John Lyons, has long been called “America’s Most Trusted Horseman”. He’s been presenting training clinics and horsemanship symposia since 1980. HJohn has also written several books and is the founder of John Lyons’ Perfect Horse magazine. His son, Josh Lyons, has now furthered his father’s techniques and spends his days at horse training clinics, giving private instruction, and teaching at his equine events.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>John is currently active in the John and Josh Lyons Certification program and the Josh Lyons Accreditation program.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"placeholder":"Content…"} -->
+<p>Horse supplies and horse equipment have come a long way towards provide options to metal horse shoes. John likes the clean design and the use of use of Cavallos. See what John thinks about Cavallo Hoof Boots in this video below:</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div></div>
+<!-- /wp:media-text -->
+
+<!-- wp:embed {"url":"https://www.youtube.com/watch?v=hKObEDTghj4","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://www.youtube.com/watch?v=hKObEDTghj4
+</div></figure>
+<!-- /wp:embed --></div>
+<!-- /wp:group -->

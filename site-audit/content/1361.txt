@@ -1,0 +1,53 @@
+<!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="http://cavallo.local/wp-content/uploads/2024/09/angles.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>By Carole Herder</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>I read this intriguing article recently about how to achieve x-ray vision for horses’ hooves! Unfortunately not literally, but it is amazing what you can learn about your horse simply from just looking at the outside of their hoof.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>For instance, did you know that if the toes are too long, the break over point (where the toe rolls over as the horse picks up their hoof) probably isn’t correct and therefore the gait may be affected? And if the heels are too high or the bars are over-grown, there is probably pain across the sole of the foot which will affect the horse’s stride? Lameness and performance issues can come from many different sources, and the high complexity of the hoof with its many different components and functions can be a huge contributing factor. Take a guess at which is the better hoof in the image above and then ask yourself why.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The article was written by Lisa Huhn and A L MacDonald (find out more about their work at <a href="http://eqawakenings.com/" target="_blank" rel="noopener">http://eqawakenings.com/</a>) and here follows a summary of their seven simple ways to read your horse’s health through their hooves:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list {"ordered":true} -->
+<ol class="wp-block-list"><!-- wp:list-item -->
+<li>The sole of the foot should be smooth and flat, not sticky or flaky</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>When pressing on the frog, it should be hard or spring back but not be too soft or mushy</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>The horse should not exhibit any pain when you press on the frog</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>The bars should be well-defined and end just before the midline of the frog</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>The hairline should be in a straight line from the heel to the top of the hoof, not arched</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>The hairline angle should be at an angle of about 30 degrees to the ground (i.e. heels could be too high or underrun)</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>There should only be around one third of the hoof in front of the top of the hairline (i.e. a club foot will have less and where toes are too long there will be too much)</li>
+<!-- /wp:list-item --></ol>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>Have a look at your horse’s hooves the next time you get a chance. You’ll be amazed at what you find, good or bad and you will most definitely have a better understanding of your horse’s health in relation to his feet.</p>
+<!-- /wp:paragraph -->

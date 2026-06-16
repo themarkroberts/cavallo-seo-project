@@ -1,0 +1,15 @@
+<!-- wp:image {"width":"409px","height":"auto","sizeSlug":"large","align":"left"} -->
+<figure class="wp-block-image alignleft size-large is-resized"><img src="http://cavallo.local/wp-content/uploads/2024/09/PonySusieLakeRunoff.jpg" alt="" style="width:409px;height:auto"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p> As a Member of the Board of Directors for the Tahoe Rim Trail Association (a 165+ mile trail, consisting of eight segments that encircle Lake Tahoe), I am frequently consulted for advice on riding the Trail by horseback. Having only hiked the entire Rim Trail by foot, I have made it my mission to ride it and have chosen to do it on my Kentucky Mountain Spotted Saddle Horse, F&amp;R's Pony Girl. My girl Pony and I began this project last year and have now completed all but two of the segments.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The longest segment of the Tahoe Rim Trail is a 33-mile stretch that runs from the Echo Lakes to Barker Pass, and it is by far the rockiest segment of the eight. Pony and I completed this segment last year in 2 ½ days. We started out this 33-mile segment in a pair of two-year old Cavallo boots. My friends, well . . . they rode that segment in newer Easyboots, which ended up not being so easy. While my friends had difficulties getting their boots on their horses, Pony and I stood and patiently waited. While my friends had difficulties getting their boots to stay on their horses and had to stop to put them back on, Pony and I would take a break and patiently wait. When my friends had to tighten wires and replace lost screws, Pony and I waited. Pony and I walked right through piles and miles of rocks, lakes, streams, boggy meadows, mud and some pretty rugged terrain and never missed a step (or a boot for that matter).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Pony and I have now just finished up another season of riding in those exact same boots (for a total of four years), and I know we are gonna just keep on going. With only two more segments to complete the Rim Trail, Pony and I will not only have made then entire 165+ miles in just one set of (used) Cavallo boots, but we will have ridden lots and lots of other trail miles in those same boots. Pony and I want to thank Cavallo for making such a reliable, easy-to-use and enduring product.</p>
+<!-- /wp:paragraph -->

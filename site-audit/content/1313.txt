@@ -1,0 +1,11 @@
+<!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="http://cavallo.local/wp-content/uploads/2024/09/yearofthehorse.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>By Carole Herder</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Did you know that 2014 is the Year of the Horse, as seen on the Chinese zodiac calendar? This doesn’t mean much for most of us, unless you were born in a previous horse year (02/11/1918-01/31/1919, 01/30/1930-02/16/1931, 02/15/1942-02/04/1943, 02/03/1954-01/23/1955, 01/21/1966-02/08/1967, 02/07/1978-01/27/1979, 01/27/1990-02/14/1991, 02/12/2002-01/31/2003).Chinese astrology is similar to our own, in that it allocates certain characteristics to those born under that sign and attempts to predict what the future holds for those people. Here are some ‘interesting’ facts I read about in relation to Horse People: trustworthy, energetic and intelligent, sociable, friendly and good communicators (sound like any four-legged friends we know??). For the humans, 2014 is supposed to be good financially (if you learn to manage your money), good colors to wear are purple, blue and grey and lucky numbers are 7, 3 and 2.</p>
+<!-- /wp:paragraph -->

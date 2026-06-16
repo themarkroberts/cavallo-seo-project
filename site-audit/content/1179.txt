@@ -1,0 +1,11 @@
+<!-- wp:image {"id":1180,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="http://cavallo.local/wp-content/uploads/2024/09/lightning-and-silhouette-of-horse.jpg" alt="" class="wp-image-1180"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><strong>By Carole Herder</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Imagine your pasture covered with the glistening luminosity of the morning dew as your horse meanders through his grassy environment - his bare hoofs making direct connection to the earth. That’s right “connection” and also conductivity, especially with WET grass. We call this “grounding”. The transmission of electrical impulses from the earth is running freely up through his feet. Blood and body fluids are made up of these charged ions dissolved in water to comprise many fundamental functions in his body. The charged electrons run electrical energy throughout all the cells in his body. I am not sure how many cells your horse has, but we humans have about 30 trillion! So generating these electrical fields is essential to the transfer of free electrons from the ground into the body and throughout the tissues, keeping his body at the same negatively charged electrical potential as the Earth. Keeping your horse barefoot allows this direct natural connection. So that’s the science, and there’s a ‘feel good’ factor as well. Try it yourself. Walking barefoot out in the morning dew can make you feel alive, invigorated, full of life force energy and as healthy and vibrant as your barefoot horse. The 21st century barefoot movement is leading the way back to what nature intended. Leave your horse barefoot on his living environment and then use Horse Hoof Boots to protect his soles on terrain other than which those hoofs are accustomed to and/or when he has the additional weight of rider and tack. Happy Trails!</p>
+<!-- /wp:paragraph -->

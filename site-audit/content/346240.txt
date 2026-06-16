@@ -1,0 +1,87 @@
+<!-- wp:group {"style":{"spacing":{"margin":{"top":"0","bottom":"0"},"padding":{"top":"var:preset|spacing|md","bottom":"var:preset|spacing|md","left":"var:preset|spacing|sm","right":"var:preset|spacing|sm"}}},"backgroundColor":"light-red-1","layout":{"type":"constrained","contentSize":""}} -->
+<div class="wp-block-group has-light-red-1-background-color has-background" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--md);padding-right:var(--wp--preset--spacing--sm);padding-bottom:var(--wp--preset--spacing--md);padding-left:var(--wp--preset--spacing--sm)"><!-- wp:columns {"verticalAlignment":"top"} -->
+<div class="wp-block-columns are-vertically-aligned-top"><!-- wp:column {"verticalAlignment":"top","width":"44.48%"} -->
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis:44.48%"><!-- wp:image {"style":{"border":{"radius":{"topLeft":"12px","topRight":"12px","bottomLeft":"12px","bottomRight":"12px"}}}} -->
+<figure class="wp-block-image has-custom-border"><img src="https://old.cavallo.local/wp-content/uploads/2025/12/Carole-Herder-and-Greg-Giles-at-2025-RBC-Canadian-Women-Entrepreneur-Awards-LR.jpg" alt="Carole Herder and Greg Giles Cavallo Hoof Boots 2025 RBC Canadian Women Entrepreneur Awards LR" style="border-top-left-radius:12px;border-top-right-radius:12px;border-bottom-left-radius:12px;border-bottom-right-radius:12px" title="Carole Herder and Greg Giles at 2025 RBC Canadian Women Entrepreneur Awards LR"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"top","width":"","style":{"spacing":{"padding":{"right":"0","left":"0","top":"0","bottom":"0"}}},"layout":{"type":"constrained","contentSize":"585px","justifyContent":"right","wideSize":""}} -->
+<div class="wp-block-column is-vertically-aligned-top" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading -->
+<h2 class="wp-block-heading">Honoured at Home for Work That Reached the World</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>There are moments when recognition feels especially meaningful. Not because it’s public or prestigious, but because it comes from home. Seeing our journey reflected back through our local Sunshine Coast, BC, newspaper was one of those moments. It was heartwarming in a quiet, grounding way, a reminder that work rooted in a small, rural community can still ripple outward, touching horses and horse people far beyond our forested coastline.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"typography":{"fontSize":"18px"}}} -->
+<p style="font-size:18px"><a href="https://www.coastreporter.net/local-news/coast-entrepreneur-recives-national-recognition-11538015#google_vignette" target="_blank" rel="noreferrer noopener"><strong>Read Local Article &gt;&gt;</strong></a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading">A National Nod for Horse-First Innovation</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>This year-end 2025 brought a special moment that touched me deeply. I was&nbsp;<a href="https://www.womenofinfluence.ca/2025/09/11/meet-carole-herder-rbc-canadian-women-entrepreneur-awards-innovation-finalist/" target="_blank" rel="noreferrer noopener">named Regional Finalist in the 2025 RBC Canadian Women Entrepreneur Awards</a>&nbsp;– an honour shared in our local Sunshine Coast BC newspaper. Being chosen from more than 9,000 applicants for this award was humbling, and seeing it highlighted through our home news beacon reminded me how far thoughtful, horse-first work can travel.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:columns {"verticalAlignment":"center","style":{"spacing":{"padding":{"top":"var:preset|spacing|md","bottom":"var:preset|spacing|md"}}},"backgroundColor":"light-red-3"} -->
+<div class="wp-block-columns are-vertically-aligned-center has-light-red-3-background-color has-background" style="padding-top:var(--wp--preset--spacing--md);padding-bottom:var(--wp--preset--spacing--md)"><!-- wp:column {"verticalAlignment":"center","width":"","style":{"spacing":{"padding":{"right":"0","left":"0","top":"0","bottom":"0"}}},"layout":{"type":"constrained","contentSize":"585px","justifyContent":"left","wideSize":""}} -->
+<div class="wp-block-column is-vertically-aligned-center" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:embed {"url":"https://youtu.be/D5WZom9mKzc?rel=0","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://youtu.be/D5WZom9mKzc?rel=0
+</div></figure>
+<!-- /wp:embed --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"center","width":"44.48%"} -->
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis:44.48%"><!-- wp:heading -->
+<h2 class="wp-block-heading">From a Simple Question to a Global Community</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Cavallo began with a simple question: What if we truly listened to horses and designed hoof-care solutions around their hoof and health needs? From our rural&nbsp;<a href="https://www.supernaturalbc.com/places-routes/explore/sunshine-coast/" target="_blank" rel="noreferrer noopener">Sunshine Coast base in British Columbia,</a>&nbsp;that quiet curiosity has taken shape over nearly two decades — reaching riders, caretakers, and equine hoof and health care professionals in countries around the entire world. <br><br>What this local recognition affirms for me is that meaningful ideas to help horses don’t have to start in major equestrian urban centres to resonate with horse owners globally; they can grow from persistence, careful observation, and a willingness to keep learning.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:group {"style":{"spacing":{"margin":{"top":"0","bottom":"0"},"padding":{"top":"var:preset|spacing|md","bottom":"var:preset|spacing|md"}},"dimensions":{"minHeight":"0px"}},"backgroundColor":"light-red-1","layout":{"type":"constrained","contentSize":""}} -->
+<div class="wp-block-group has-light-red-1-background-color has-background" style="min-height:0px;margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--md);padding-bottom:var(--wp--preset--spacing--md)"><!-- wp:columns {"verticalAlignment":"top"} -->
+<div class="wp-block-columns are-vertically-aligned-top"><!-- wp:column {"verticalAlignment":"top","width":"44.48%"} -->
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis:44.48%"><!-- wp:image -->
+<figure class="wp-block-image"><img src="https://old.cavallo.local/wp-content/uploads/2025/09/Carole-Herder-RBC-Award-finalist-2025.jpg" alt="Carole Herder RBC Award finalist 2025" title="Carole Herder RBC Award finalist 2025"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"top","width":"","style":{"spacing":{"padding":{"right":"0","left":"0","top":"0","bottom":"0"}}},"layout":{"type":"constrained","contentSize":"585px","justifyContent":"right","wideSize":""}} -->
+<div class="wp-block-column is-vertically-aligned-top" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading -->
+<h2 class="wp-block-heading">When Many Voices Come Together, a Caring Herd Moves Forward</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>I see this recognition as belonging as much to the Cavallo community as to me – to the riders, owners, trimmers, and professionals across many countries who have shared their experiences, questions, and trust over the years. <br><br>I’m grateful to continue this work alongside people who care deeply about horses and who believe, as I do, that small, steady steps taken in the right direction can make such a meaningful difference.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:paragraph -->
+<p><em>Wishing you many happy trails,</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><em>Carole</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"align":"left"} -->
+<figure class="wp-block-image alignleft"><img src="https://old.cavallo.local/wp-content/uploads/2024/05/carole-signature-transparent-background.jpg" alt="Carole Herder signature - Cavallo Hoof Boots" title="Carole Herder signature – Cavallo Hoof Boots"/></figure>
+<!-- /wp:image -->

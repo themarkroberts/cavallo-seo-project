@@ -1,0 +1,86 @@
+[
+  {
+    "id": "1015",
+    "content_format": "Standard article (text + images)",
+    "summary": "Short blog post praising Cavalier Equestrian of Stratford, Ontario, as Cavallo's Canadian hoof-boot distributor for their customer service and product knowledge.",
+    "key_components": [],
+    "primary_cta": "None"
+  },
+  {
+    "id": "1017",
+    "content_format": "Standard article (text + images)",
+    "summary": "Customer testimonial from a rider recounting a wet, river-crossing trail ride at Deer Creek Preserve where Cavallo hoof boots stayed on through mud and water.",
+    "key_components": ["Pull quote/testimonial", "Testimonials"],
+    "primary_cta": "None"
+  },
+  {
+    "id": "1018",
+    "content_format": "Standard article (text + images)",
+    "summary": "Story about Dream Riders, a NARHA therapeutic riding center, using a donated set of Cavallo hoof boots on Chucky, a 25-year-old foundered racking horse.",
+    "key_components": ["Testimonials"],
+    "primary_cta": "None"
+  },
+  {
+    "id": "1020",
+    "content_format": "Standard article (text + images)",
+    "summary": "Recap of the Cavallo team's visit to the Cavalia equestrian show, reflecting on the performance and the benefit of hoof boots for hard-working show horses.",
+    "key_components": [],
+    "primary_cta": "None"
+  },
+  {
+    "id": "1022",
+    "content_format": "Standard article (text + images)",
+    "summary": "Announcement of Carole Herder's Equine Affaire Ohio talk on turning a horse passion into a business, plus a bio of the Cavallo founder and her inventions.",
+    "key_components": [],
+    "primary_cta": "None"
+  },
+  {
+    "id": "1023",
+    "content_format": "Standard article (text + images)",
+    "summary": "Announcement of Carole Herder's Equine Affaire talk comparing metal shoes, hoof boots, and barefoot, covering hoof functions and proper hoof care.",
+    "key_components": [],
+    "primary_cta": "None"
+  },
+  {
+    "id": "1028",
+    "content_format": "Standard article (text + images)",
+    "summary": "Carole Herder reviews Dutch Henry's novel 'We'll Have the Summer,' noting the author uses Cavallo saddle pads and hoof boots.",
+    "key_components": [],
+    "primary_cta": "None"
+  },
+  {
+    "id": "1030",
+    "content_format": "Standard article (text + images)",
+    "summary": "Lighthearted post from Carole Herder explaining the nicknames of the Cavallo team and factory partners during a week in Southern China.",
+    "key_components": [],
+    "primary_cta": "None"
+  },
+  {
+    "id": "1032",
+    "content_format": "Standard article (text + images)",
+    "summary": "Event announcement for a Doug Mills horse-training demo at Buckerfields in Abbotsford, BC, with Cavallo saddle pad and cooler-chair prize draws.",
+    "key_components": [],
+    "primary_cta": "None"
+  },
+  {
+    "id": "1034",
+    "content_format": "Standard article (text + images)",
+    "summary": "Travel post about meeting Cavallo customers and a California store rep, touting hoof-boot features and Cavallo's role as Official Hoof Boot of ACTHA.",
+    "key_components": [],
+    "primary_cta": "None"
+  },
+  {
+    "id": "1035",
+    "content_format": "Video page",
+    "summary": "Brief post framing the 'barefoot battle' over horse hoof care, linking to a comedic YouTube video for comic relief.",
+    "key_components": ["Video embed"],
+    "primary_cta": "Watch video"
+  },
+  {
+    "id": "1037",
+    "content_format": "Standard article (text + images)",
+    "summary": "Customer testimonial from Lois in Idaho describing four years of using the Simple Hoof Boot on barefoot horses across rough Teton mountain terrain.",
+    "key_components": ["Testimonials"],
+    "primary_cta": "None"
+  }
+]

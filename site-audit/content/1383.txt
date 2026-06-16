@@ -1,0 +1,15 @@
+<!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="http://cavallo.local/wp-content/uploads/2024/09/horse_hug-25661.jpg" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>By Carole Herder</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Horses don’t contrive to deceive you. I have heard people say, “My horse is lazy. She’s pretending to be lame because she doesn’t want to go out for a ride today ”. That’s ridiculous. Horses can’t do that; they can’t pretend or fake how they are feeling. It is natural, I suppose, to read more into your horse’s behavior and her intentions, because people often are not what they seem. However, that is truly not the case with horses. They aren’t like people. They don’t manipulate or play games. A horse limping is not faking an injury to get out of training the way a kid might put a thermometer to a light bulb to stay home from school. They don’t scheme. Horses are innocent, honest and of the highest integrity. We can teach them how to behave though and that’s another matter. Like when babies cry in the night because they don’t want to sleep alone. If you go to them they learn that crying alleviates their loneliness and they also learn that you will come when they cry, so may not learn to comfort themselves. It’s a complicated issue and I’m only drawing a comparison for the purposes of learned behavior.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Could it be that when we humans look for alternative meaning behind a horse’s actions or mood it is because we don’t want to accept that our horse may be displaying a level of discomfort or fear? If we acknowledge discomfort or fear from our horse then we must take responsibility for resolving it, and potentially owning that we may be the cause of it. That’s a lot more difficult to admit and accept than saying our horse is trying to pull a fast one. It’s an easy way out. If something’s not right then it’s not. Most people sense in their intuition or heart when something is wrong, but they may not want to look into it because they don’t know how to resolve the potential issues. That leaves many horses living with a little discomfort that is being glossed over because their owners can’t or don’t know what action to take to deepen their knowledge. It is easy to just follow the basics of what the industry says, i.e. nailing metal into their feet protects their hoofs. It takes courage and an open mind and heart to look for the answers and understanding beyond industry standards. The horse may be a complex animal physically, but emotionally he is simple and honest. He will show you how he feels if you can develop the savvy to see.</p>
+<!-- /wp:paragraph -->

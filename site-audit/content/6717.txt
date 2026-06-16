@@ -1,0 +1,49 @@
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"level":1} -->
+<h1 class="wp-block-heading">Tom Seay - Best of America by Horseback</h1>
+<!-- /wp:heading -->
+
+<!-- wp:media-text {"mediaId":6718,"mediaLink":"http://cavallo.local/?attachment_id=6718","mediaType":"image","mediaWidth":30,"imageFill":true,"backgroundColor":"light-red-1"} -->
+<div class="wp-block-media-text is-stacked-on-mobile is-image-fill-element has-light-red-1-background-color has-background" style="grid-template-columns:30% auto"><figure class="wp-block-media-text__media"><img src="http://cavallo.local/wp-content/uploads/2024/12/Tome-Seay-Best-of-America-by-Horseback-1.jpg" alt="Tome Seay - Best of America by Horseback" class="wp-image-6718 size-full" style="object-position:50% 50%"/></figure><div class="wp-block-media-text__content"><!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|md","bottom":"var:preset|spacing|md","left":"0","right":"0"},"margin":{"top":"0","bottom":"0"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--md);padding-right:0;padding-bottom:var(--wp--preset--spacing--md);padding-left:0"><!-- wp:paragraph {"placeholder":"Content…"} -->
+<p>Americas premier equine travel and trail riding show, Best of America by Horseback. BOABH is hosted by Tom Seay as he travels around the country, showcasing trail riding locations and meeting interesting people along the way. Tom Seay loves Cavallo Horse Hoof Boots as they are all-terrain, durable and secure. With a love for American history, Tom often re-creates historic rides on location, with memorable rides like the Chisholm Trail, Knights of the Golden Horseshoe, Jack Jouette, President Lincoln and many others. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"placeholder":"Content…"} -->
+<p>Tom lives the cowboy lifestyle. You can even join him and be part of the production of his television show. On epic rides, BOABH trusts Cavallo as part of the required horse equipment, especially if a horse throws a horseshoe.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"placeholder":"Content…"} -->
+<p>Let Tom Seay tell you about his experience with Cavallos:</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div></div>
+<!-- /wp:media-text --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column {"verticalAlignment":"top"} -->
+<div class="wp-block-column is-vertically-aligned-top"><!-- wp:heading {"fontSize":"huge"} -->
+<h2 class="wp-block-heading has-huge-font-size">Tom Seay Reviews Cavallo Horse Hoof Boots and Saddle Pads:</h2>
+<!-- /wp:heading -->
+
+<!-- wp:embed {"url":"https://www.youtube.com/watch?v=9aO6v77URrs","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-4-3 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://www.youtube.com/watch?v=9aO6v77URrs
+</div></figure>
+<!-- /wp:embed --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"top"} -->
+<div class="wp-block-column is-vertically-aligned-top"><!-- wp:heading {"fontSize":"huge"} -->
+<h2 class="wp-block-heading has-huge-font-size">Tom Seay Reviews Cavallo Horse Hoof Boots and Saddle Pads:</h2>
+<!-- /wp:heading -->
+
+<!-- wp:embed {"url":"https://www.youtube.com/watch?v=W_ZRxVg9EtY","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://www.youtube.com/watch?v=W_ZRxVg9EtY
+</div></figure>
+<!-- /wp:embed --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->

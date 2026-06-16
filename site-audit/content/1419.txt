@@ -1,0 +1,67 @@
+<!-- wp:paragraph -->
+<p>By Carole Herder</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Recently I found myself reviewing the week gone by and realized most mornings are spent out with the horses and most evenings are spent out with the horses. It’s summer time and it’s gorgeous out and although I am on it with Cavallo, everything else is way behind, but who cares? It got me thinking with a smile…….</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":4963,"linkDestination":"custom","align":"right"} -->
+<figure class="wp-block-image alignright"><a href="//cavallo.local/wp-content/uploads/2014/09/Blog63.jpg"><img src="//cavallo.local/wp-content/uploads/2014/09/Blog63.jpg" alt="Horse Hoof Boots" class="wp-image-4963"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>You know you are horse mad when:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>Every time a horse trailer passes you on the road, you check to see if there is a horse in it</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Your barn/stable/yard is cleaner than your house</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>You find yourself mucking out all day….and the evenings too</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>You spend more money on your horses’ brushes than your own</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>You feed your horses before you have your breakfast</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>You know you are horse crazy when:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>Your Cavallo hoof boots are kept on the shoe rack with your own shoes</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>The type of hay you buy is more important than what to cook for dinner</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Your idea of an afternoon shopping is going to the local equestrian store to browse head stalls, manure forks and salt licks</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Your horse has more shampoos, brushes and braids than you do</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>It doesn’t matter how many air fresheners you put in your pick up, it still smells of horse, with an underlying tone of manure ………. and you love it</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:spacer {"height":"40px"} -->
+<div style="height:40px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->

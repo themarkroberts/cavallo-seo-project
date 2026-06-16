@@ -1,0 +1,19 @@
+<!-- wp:paragraph -->
+<p>Cavallo Sport boots did not come off!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Tuesday (Aug 12, 2014) I went on a trail ride with my Rocky Mtn horse (Harley) wearing his front Cavallo Sport boots, which had 20+ miles on them at this point. We had received 3-4 inches of rain in the 3 days prior so the terrain was VERY muddy. We crossed many muddy areas where they sunk almost to their knees. At the worst point of the ride, we encountered a large tree that completely blocked the trail. The only way we could find to get around without turning around and backtracking for a couple of hours was to dismount and walk the horses through a soft grassy area into a Rhododendron patch and back across another soft grassy area. My horse, Harley, and I went through first. Unfortunately the grassy areas turned out to be muddy bogs. The first area Harley sunk up to his knees. The second area Harley sunk in almost to his belly. Thankfully he managed to get through on his own. And amazingly his Cavallo boots stayed on!! In fact, his boots stayed on the entire ride. There was only one time I dismounted to refasten the strap on each boot that had come undone after crossing mud. I wanted you to know how well these boots have been working in very difficult situations.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":4959,"align":"center"} -->
+<figure class="wp-block-image aligncenter"><a href="//cavallo.local/wp-content/uploads/2014/09/Harley-8-12-1.jpg"><img src="//cavallo.local/wp-content/uploads/2014/09/Harley-8-12-1.jpg" alt="A picture of Harley that I took right after we got back from that ride, with his boots still on. :)" class="wp-image-4959"/></a><figcaption class="wp-element-caption">A picture of Harley that I took right after we got back from that ride, with his boots still on. :)</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>Thanks!<br>Debbie</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:spacer {"height":"40px"} -->
+<div style="height:40px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->

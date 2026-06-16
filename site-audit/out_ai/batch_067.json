@@ -1,0 +1,86 @@
+[
+  {
+    "id": "6447",
+    "content_format": "Landing / marketing page",
+    "summary": "Short thank-you page for existing Cavallo customers, inviting them to follow Cavallo on Instagram and Facebook and read real customer stories.",
+    "key_components": ["Video embed", "Bulleted list"],
+    "primary_cta": "Follow on social / read Real Stories"
+  },
+  {
+    "id": "6451",
+    "content_format": "Video page",
+    "summary": "Profile of horseman Dan Steers (Double Dan Horsemanship) explaining why he uses Cavallo saddle pads in his liberty training, with an embedded YouTube video.",
+    "key_components": ["Video embed"],
+    "primary_cta": "Watch video"
+  },
+  {
+    "id": "6454",
+    "content_format": "Template / functional page",
+    "summary": "Education / Learning Center hub page with near-empty content, linking to Videos and Blogs & Articles sections.",
+    "key_components": ["CTA button"],
+    "primary_cta": "Browse Videos / Blogs & Articles"
+  },
+  {
+    "id": "6456",
+    "content_format": "Video page",
+    "summary": "Profile of horsewoman Emma Massingale and her herd using Cavallo Trek and CLB hoof boots for daily liberty work on rough terrain, with an embedded video.",
+    "key_components": ["Video embed"],
+    "primary_cta": "Watch video"
+  },
+  {
+    "id": "6460",
+    "content_format": "Video page",
+    "summary": "Profile of international horseman Guy McLean, a two-time Road to the Horse champion, on why he trusts Cavallo hoof boots on rugged terrain, with an embedded video.",
+    "key_components": ["Video embed"],
+    "primary_cta": "Watch video"
+  },
+  {
+    "id": "6466",
+    "content_format": "Video page",
+    "summary": "Video-only page titled 'Horse Hoof Problems Solved with Horse Boots' featuring an embedded YouTube video on using Cavallo boots for hoof issues.",
+    "key_components": ["Video embed"],
+    "primary_cta": "Watch video"
+  },
+  {
+    "id": "6468",
+    "content_format": "Video page",
+    "summary": "Profile of horse trainer John Lyons, 'America's Most Trusted Horseman,' on why he likes Cavallo hoof boots over metal shoes, with an embedded video.",
+    "key_components": ["Video embed"],
+    "primary_cta": "Watch video"
+  },
+  {
+    "id": "6471",
+    "content_format": "Landing / marketing page",
+    "summary": "Recruitment page for the Cavallo Associate Sellers' Program, inviting farriers, trimmers and large-animal vets to sell Cavallo boots and earn income via phone or email.",
+    "key_components": ["Image gallery"],
+    "primary_cta": "Call or email to join the program"
+  },
+  {
+    "id": "6479",
+    "content_format": "Long-form guide / pillar",
+    "summary": "Comprehensive laminitis and hoof-issue comfort guide covering what laminitis is, immediate action steps, daily horse care, and using Cavallo boots/pads for recovery.",
+    "key_components": ["Image gallery", "Video embed", "CTA button", "Lead form"],
+    "primary_cta": "Join mailing list for 10% off boots"
+  },
+  {
+    "id": "6496",
+    "content_format": "FAQ / informational",
+    "summary": "FAQ-style article explaining laminitis, an immediate action plan, and how Cavallo hoof boots with padded insoles and ice therapy support a horse's recovery. Marked DISREGARD.",
+    "key_components": ["Table of contents/sections"],
+    "primary_cta": "None"
+  },
+  {
+    "id": "6497",
+    "content_format": "Landing / marketing page",
+    "summary": "Order-now/size-later confirmation page guiding customers to send hoof photos for sizing, with length/width measurement tips and customer service testimonials.",
+    "key_components": ["Image gallery", "CTA button", "Bulleted list", "Testimonials"],
+    "primary_cta": "Send us photos / get sizing help"
+  },
+  {
+    "id": "6503",
+    "content_format": "Landing / marketing page",
+    "summary": "Page explaining Cavallo hoof boot technology, including patented tread, built-in breakover, breathable materials, and the Regular vs Slim sole width options.",
+    "key_components": ["Image gallery", "Video embed", "CTA button", "Bulleted list"],
+    "primary_cta": "Contact Customer Service for sizing"
+  }
+]

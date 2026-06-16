@@ -1,0 +1,15 @@
+<!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="http://cavallo.local/wp-content/uploads/2024/09/russ.jpg" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>By Carole Herder</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Professional sabre fencer for the country of Ukraine, now living in Ontario, Russ Krachun knows his way around horses. With a special talent and a unique upbringing, Russ infused an international flavour to the Mane Event Trainers Challenge. One of my favorite things at these events is learning the varied philosophy of riders from around the world.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Russ was raised in the historic city of Odessa, a seaport on the Black Sea. He had talent and a passion to learn the ways of his ancestors, the Kozaks, known for their riding abilities, tricks and use of the sword. Through his experience, Russ has now developed a program to achieve harmony and trust with a step-by-step process. Russ is charming and easy to understand. He is a man of many talents and has designed and developed his own range of riding equipment. He is committed to offering new ideas and methods to the horse industry by Building Partnerships Step by Step.</p>
+<!-- /wp:paragraph -->

@@ -1,0 +1,47 @@
+<!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading">Emma's Horseboarding Trip</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="http://www.emmamassingale.com/" target="_blank" rel="noopener">Emma Massingale</a> is amazing us once again. &nbsp;She will be traveling along the <a href="http://www.visitouterhebrides.co.uk/see-and-do/activities/hebridean-way" target="_blank" rel="noopener">Hebridean Way in the UK</a>, a&nbsp;185 mile long route off the West Coast of Scotland which crosses ten islands, six mind-blowing causeways, and involves several ferry rides in between. Not only will Emma be going &nbsp;this length alone with just her two ponies, she'll be making this journey while Horseboarding!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading">What is Horseboarding?</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Horseboarding is the newest and fastest growing equestrian sport in the UK. &nbsp;One person rides and takes control of the horse while the other person stands on a mountain board (a snowboard with wheels) while holding gear that's attached to the horse. &nbsp;On this newest adventure, Emma&nbsp;will &nbsp;be performing &nbsp;both roles, (working with her horse at Liberty while at the same time riding the board) &nbsp;and and she'll be the first person ever to do it!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading">Eriskay Ponies</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>One of the stops along Emma's Hebrides trip will be the island of Eriskay, which&nbsp;is the place of origin of the rarest native pony in the UK, named after the island itself.&nbsp; &nbsp;<a href="http://voices.nationalgeographic.com/2013/06/06/rare-breed-the-fight-to-save-eriskay-ponies/" target="_blank" rel="noopener">The Eriskay&nbsp;ponies are on the critically endangered list</a>, with less than 300 left in the world! &nbsp;Noah, Emma's Eriskay pony, will be along for the ride,&nbsp; and will be supplying the horse-power on this horseboarding trip (while dressed to the nines in his <a href="http://cavallo.local/product-category/hoof-boot/trek-hoof-boots/" target="_blank" rel="noopener">Cavallo Trek Boots!</a>). &nbsp;We can't wait to see the incredible pictures and video footage that Emma plans to capture along the way!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Safe travels and happy trails to you, Emma!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Happy Trails,</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":10645,"width":"300px"} -->
+<figure class="wp-block-image is-resized"><img src="//www.cavallo.local/wp-content/uploads/2017/12/CaroleSig.jpg" alt="Carole Herder's Signature" class="wp-image-10645" style="width:300px"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":8639,"align":"left"} -->
+<figure class="wp-block-image alignleft"><img src="//www.cavallo.local/wp-content/uploads/2017/05/Caroles-signiture-image.png" alt="Image of Cavallo President, Carole Herder" class="wp-image-8639"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->

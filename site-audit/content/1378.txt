@@ -1,0 +1,23 @@
+<!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="http://cavallo.local/wp-content/uploads/2024/09/RedLight1.jpg" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>By Carole Herder</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>There has been numerous postings and articles and forums on red light therapy recently so I thought I would investigate it a little further to find out exactly what all the fuss is about.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>We all know the benefits of light – who doesn’t feel happier on a sunny day! But what exactly is red light therapy and how does it work? It has been discovered that LED light technology in certain wavelengths and colors can drastically improve and heal your skin. Red light penetrates deep into the layers of the skin and tissue, repairing, renewing, regenerating and healing damage that has occurred. Skin is rejuvenated, pain is alleviated and inflammation is reduced.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The light and heat produce endorphins, increase lymphatic drainage and circulation, relax muscles, increase antibody and collagen production, and regulate serotonin levels. And for the technical bit: the red light basically vibrates damaged cells (a healthy cell vibrates at about 660 nanometers) which stimulates the mitochondria within the cells and thus increases the production of ATP which causes damaged cells to accept nutrients and eliminate toxins faster. Cellular death can be prevented and the body is encouraged to heal itself faster.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>And from a holistic perspective, the red light stimulates acu-points, balances chi, unblocks meridian lines and focuses on chakra work. Again, all of this promotes self-healing and increases energy throughout the body.<br>The therapy is especially good for muscle strains, tendon injuries, cuts, sores, wounds, body soreness and lameness. Even NASA use it to speed up the healing of their astronauts! It has been scientifically proven (researched for over 20 years) to increase healing by 60% over traditional methods. Not bad for a little torch! A company recommended to me is Photonic Health, so check them out for more information&nbsp;<a href="http://www.photonichealth.com/#" target="_blank" rel="noopener">http://www.photonichealth.com/#</a></p>
+<!-- /wp:paragraph -->

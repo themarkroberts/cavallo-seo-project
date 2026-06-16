@@ -1,0 +1,27 @@
+<!-- wp:image {"id":2649,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="http://cavallo.local/wp-content/uploads/2024/09/bootWorking5.png" alt="" class="wp-image-2649"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>By Carole Herder</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Have you checked out <a href="http://www.bestofamericabyhorseback.com" target="_blank" rel="noopener">www.bestofamericabyhorseback.com</a>? Also known as BOABH, this is a super site promoting a national trail riding TV show. Each week they take viewers to beautiful destinations around the country, showcasing different trail riding locations across America. The program also provides educational and informative segments on horses, travel, equine care and quality equine services and products. You can see Cavallo hoof boots in action on this <a href="http://vimeo.com/67586337" target="_blank" rel="noopener">video</a><a href="http://www.youtube.com/watch?v=H-z-CfNQYyY"></a>. Our all-terrain boots are perfect for this type of riding as they can be worn all the time or brought along in case the ground gets too rough. Easy to put on, they won’t hold up your ride and will keep your horse going forwards strongly, even through water.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The television programs even have information on how to plan and map a trip, how to find stop over locations for horses, trailer safety tips, vet tips and horse nutrition tips. Each feature location is a riding destination where viewers can go with their own horses or the locations are sites that provide horses for their guests. The show covers all of the details you would want to know before you visit, such as the trails and terrain, the footing and the difficulty level of the trails. They also show the lodging accommodations or camping facilities as well as ease of access with large rigs.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":1537,"align":"left"} -->
+<figure class="wp-block-image alignleft"><img src="//cavallo.local/wp-content/uploads/2013/07/trailriding.png" alt="" class="wp-image-1537" title="horse hoof boots"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Looking for somewhere different to go yourself? Well, <a href="http://www.bestofamericabyhorseback.com" target="_blank" rel="noopener">BOABH</a> are organizing two amazing rides in August, one on Lake Ride in Washington and an Alaskan Cruise. They sound fab. You can bring your own equine friend or rent a horse. Other great horse riding holidays can be found at <a href="http://www.leatherwoodmountains.com" target="_blank" rel="noopener">www.leatherwoodmountains.com</a> in North Carolina and <a href="http://www.mammothcavehorsecamp.com" target="_blank" rel="noopener">www.mammothcavehorsecamp.com</a> in Kentucky. You can bring your own horse to these super venues, they have amazing facilities and even better trails on which you can go. Have fun and go riding!</p>
+<!-- /wp:paragraph -->

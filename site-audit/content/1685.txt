@@ -1,0 +1,55 @@
+<!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading">The Dynamic Barbra Schulte</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>I was first exposed to <a href="http://barbraschulte.com/about-barbra/" target="_blank" rel="noopener">Barbra Schulte’s</a> work when I was struggling to find the confidence required as a novice barrel racing competitor. Barbra’s “Mentally Tough” program and visualization techniques helped me cowgirl up for this high speed event. Among her numerous accomplishments, Barbra was the first woman to wear the crowns of the 3 events: the <strong><a href="http://lynndeekemmet.com/barbra-schulte-paving-the-way-for-women-in-the-cutting-horse-world/" target="_blank" rel="noopener">1988 NCHA Derby</a></strong>, the <strong>1992 </strong><strong><a href="https://www.nchacutting.com/about-us/cutting-101" target="_blank" rel="noopener">NCHA Super Stakes Classic</a></strong>, and the <strong>1992 <a href="http://augustafuturity.com/" target="_blank" rel="noopener">Augusta Futurity.</a></strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Additionally, in 2000 Barbra was awarded the prestigious <strong><a href="http://www.infohorse.com/ShowAd.asp?id=5931" target="_blank" rel="noopener">National Female Equestrian of the Year Award</a></strong> given by the American Quarter Horse Association in conjunction with the Women’s Sports Foundation, recognizing outstanding performance and leadership in a female equestrian.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>In 2012 Barbra was inducted into the <a href="http://www.cowgirl.net/?s=barbra">National Cowgirl Hall of Fame</a>, one of the most prestigious honors possible for women equestrians. This makes Barbra a distinctly impressive horsewoman and add to this - she is a delightful pleasure to enjoy a social evening with!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading">Friendship with Julie Goodnight</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Julie Goodnight&nbsp; and I have developed a relationship throughout the years which not only consists of a truly enjoyable friendship, but also I have a great admiration for her horse sense and ability. Julie has countless accolades that make her one amazing horsewoman. Every time we meet, I learn another important lesson and am dazzled by her humble and magical horsemanship. During the evening performances at Equine Affair, Julie took the lead as the only rider on a horse she had never been on before. Exceptional!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Don’t you think? I love both these women. They are an example for all of us in the horse world. Their continual accomplishments are an inspiration for both my personal and horsey life, and they inspire me to further my business and continually &nbsp;develop the amazing&nbsp;<a href="http://cavallo.local/product-category/hoof-boot/" target="_blank" rel="noopener">Cavallo Hoof Boots.</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Happy Trails,</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":10645,"width":"300px"} -->
+<figure class="wp-block-image is-resized"><img src="//www.cavallo.local/wp-content/uploads/2017/12/CaroleSig.jpg" alt="Carole Herder's Signature" class="wp-image-10645" style="width:300px"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":10798,"align":"left"} -->
+<figure class="wp-block-image alignleft"><img src="//www.cavallo.local/wp-content/uploads/2018/01/Caroles-Signature-2017.png" alt="Carole Herder's Signature" class="wp-image-10798"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph -->

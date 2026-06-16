@@ -1,0 +1,387 @@
+<!-- wp:image {"id":348738,"sizeSlug":"full","linkDestination":"none","align":"center","UAGHideMob":true,"UAGHideTab":true,"UAGResponsiveConditions":true} -->
+<figure class="wp-block-image aligncenter size-full uag-hide-tab uag-hide-mob"><img src="http://cavallo.local/wp-content/uploads/2026/04/DRAFT-Desktop-Your-Cavallo-Journal-April-2026-Newsletter-header-image-3.jpg" alt="" class="wp-image-348738"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:image {"id":348736,"sizeSlug":"full","linkDestination":"none","align":"center","UAGHideDesktop":true,"UAGResponsiveConditions":true} -->
+<figure class="wp-block-image aligncenter size-full uag-hide-desktop"><img src="http://cavallo.local/wp-content/uploads/2026/04/DRAFT-Your-Cavallo-Journal-April-2026-Newsletter-header-image.jpg" alt="Mobile version - Your Cavallo Journal Newsletter header image" class="wp-image-348736"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"textAlign":"center","level":4,"style":{"elements":{"link":{"color":{"text":"var:preset|color|dark-10"}}}},"textColor":"dark-10"} -->
+<h4 class="wp-block-heading has-text-align-center has-dark-10-color has-text-color has-link-color"><em>Our equines have a way of keeping us honest - and on our toes… It's those soft, quiet nudges that keep us pushing forward at Cavallo.</em><br><br>- Carole</h4>
+<!-- /wp:heading --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"textAlign":"center","style":{"elements":{"link":{"color":{"text":"var:preset|color|primary"}}},"spacing":{"padding":{"top":"var:preset|spacing|lg"}}},"textColor":"primary"} -->
+<h2 class="wp-block-heading has-text-align-center has-primary-color has-text-color has-link-color" style="padding-top:var(--wp--preset--spacing--lg)">Why Trek is The Proven Foundation Behind Consteed</h2>
+<!-- /wp:heading --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"backgroundColor":"white","layout":{"type":"constrained"}} -->
+<div class="wp-block-group has-white-background-color has-background"><!-- wp:columns {"verticalAlignment":"top","style":{"spacing":{"padding":{"top":"var:preset|spacing|md","bottom":"var:preset|spacing|md","left":"var:preset|spacing|sm","right":"var:preset|spacing|sm"}},"border":{"radius":{"topLeft":"15px","topRight":"15px","bottomLeft":"15px","bottomRight":"15px"}}},"backgroundColor":"white"} -->
+<div class="wp-block-columns are-vertically-aligned-top has-white-background-color has-background" style="border-top-left-radius:15px;border-top-right-radius:15px;border-bottom-left-radius:15px;border-bottom-right-radius:15px;padding-top:var(--wp--preset--spacing--md);padding-right:var(--wp--preset--spacing--sm);padding-bottom:var(--wp--preset--spacing--md);padding-left:var(--wp--preset--spacing--sm)"><!-- wp:column {"verticalAlignment":"top","width":"","style":{"spacing":{"padding":{"right":"0","left":"0","top":"0","bottom":"0"}}},"layout":{"type":"constrained","contentSize":"500px","justifyContent":"left","wideSize":""}} -->
+<div class="wp-block-column is-vertically-aligned-top" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:heading {"level":4,"style":{"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"textColor":"primary"} -->
+<h4 class="wp-block-heading has-primary-color has-text-color has-link-color">A Comfortable Horse Rewards Its Rider</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"textColor":"primary"} -->
+<p class="has-primary-color has-text-color has-link-color"><a href="https://www.consteed.com/en-de/page-viewer/forvets" target="_blank" rel="noreferrer noopener">For veterinarians,</a> this means a powerful new tool for monitoring movement, supporting rehabilitation, and keeping horses comfortable during treatment. <br><br><a href="https://www.consteed.com/en-de/page-viewer/forriders" target="_blank" rel="noreferrer noopener">For everyday riders and trainers, </a>it means confident hoof protection on difficult terrain, combined with valuable insight into performance and well-being. Every barn, riding facility and equine veterinary clinic strives for the same goal: keeping horses comfortable, sound, and able to perform at their best.<br><br>When horses move freely without pain and with full confidence, they reward their riders with better stride, greater willingness, and stronger performance. Consteed brings together trusted hoof protection and modern technology to help make this possible, giving both horses and the people who care for them a significant advantage.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"top","width":"45%"} -->
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis:45%"><!-- wp:image {"id":348346,"sizeSlug":"full","linkDestination":"none","style":{"border":{"radius":{"topLeft":"15px","topRight":"15px","bottomLeft":"15px","bottomRight":"15px"}}}} -->
+<figure class="wp-block-image size-full has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2026/03/Consteed-Smart-Horse-Sneaker-Collaboration-with-Cavallo-Hoof-Boots-e1774664373502.jpg" alt="Consteed Smart Horse Sneaker - Collaboration with Cavallo Hoof Boots" class="wp-image-348346" style="border-top-left-radius:15px;border-top-right-radius:15px;border-bottom-left-radius:15px;border-bottom-right-radius:15px"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:columns {"verticalAlignment":"top","style":{"spacing":{"padding":{"top":"var:preset|spacing|md","bottom":"var:preset|spacing|md","left":"var:preset|spacing|sm","right":"var:preset|spacing|sm"}},"border":{"radius":{"topLeft":"15px","topRight":"15px","bottomLeft":"15px","bottomRight":"15px"}}},"backgroundColor":"white"} -->
+<div class="wp-block-columns are-vertically-aligned-top has-white-background-color has-background" style="border-top-left-radius:15px;border-top-right-radius:15px;border-bottom-left-radius:15px;border-bottom-right-radius:15px;padding-top:var(--wp--preset--spacing--md);padding-right:var(--wp--preset--spacing--sm);padding-bottom:var(--wp--preset--spacing--md);padding-left:var(--wp--preset--spacing--sm)"><!-- wp:column {"verticalAlignment":"top","width":"","style":{"spacing":{"padding":{"right":"0","left":"0","top":"0","bottom":"0"}}},"layout":{"type":"constrained","contentSize":"500px","justifyContent":"left","wideSize":""}} -->
+<div class="wp-block-column is-vertically-aligned-top" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:heading {"level":4,"style":{"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"textColor":"primary"} -->
+<h4 class="wp-block-heading has-primary-color has-text-color has-link-color">Where Trust Meets Innovation</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"textColor":"primary"} -->
+<p class="has-primary-color has-text-color has-link-color">The <a href="https://www.consteed.com/en-de/page-viewer/forriders" target="_blank" rel="noreferrer noopener">Consteed Smart Horse Sneaker </a>is built on the Cavallo Trek Hoof Boot for a reason... Trek already provides one of the most trusted therapeutic and performance foundations in modern hoof care. <br><br>Known for its lightweight construction, durable upper, and flexible TPU upper, the Trek Hoof Boot protects the hoof while still allowing natural movement and circulation. By integrating Consteed’s smart monitoring technology into this proven platform, the Consteed Smart Horse Sneaker transforms a respected protective boot into an intelligent system that not only safeguards the hoof but also helps riders and veterinarians better understand the body mechanics of how a horse moves and loads its feet.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"top","width":"45%"} -->
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis:45%"><!-- wp:image {"id":347311,"sizeSlug":"full","linkDestination":"none","style":{"border":{"radius":{"topLeft":"15px","topRight":"15px","bottomLeft":"15px","bottomRight":"15px"}}}} -->
+<figure class="wp-block-image size-full has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2026/03/Consteed-Smart-Hoof-Sneaker-with-app-e1774664086508.jpg" alt="Consteed Smart Hoof Sneaker with app" class="wp-image-347311" style="border-top-left-radius:15px;border-top-right-radius:15px;border-bottom-left-radius:15px;border-bottom-right-radius:15px"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:uagb/separator {"block_id":"80f2eacf","separatorWidth":95,"separatorBorderHeight":4,"separatorColor":"#CDC6C1"} -->
+<div class="wp-block-uagb-separator uagb-block-80f2eacf"><div class="wp-block-uagb-separator__inner" style="--my-background-image:"></div></div>
+<!-- /wp:uagb/separator --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"textAlign":"center","level":1,"style":{"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"textColor":"primary"} -->
+<h1 class="wp-block-heading has-text-align-center has-primary-color has-text-color has-link-color">From Hoof Crack to Comeback! A Cavallo Case Study:</h1>
+<!-- /wp:heading --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:columns {"verticalAlignment":"top","style":{"border":{"radius":{"topLeft":"15px","topRight":"15px","bottomLeft":"15px","bottomRight":"15px"}},"spacing":{"padding":{"top":"var:preset|spacing|lg","bottom":"var:preset|spacing|lg","left":"var:preset|spacing|sm","right":"var:preset|spacing|sm"}}},"backgroundColor":"light-red-2"} -->
+<div class="wp-block-columns are-vertically-aligned-top has-light-red-2-background-color has-background" style="border-top-left-radius:15px;border-top-right-radius:15px;border-bottom-left-radius:15px;border-bottom-right-radius:15px;padding-top:var(--wp--preset--spacing--lg);padding-right:var(--wp--preset--spacing--sm);padding-bottom:var(--wp--preset--spacing--lg);padding-left:var(--wp--preset--spacing--sm)"><!-- wp:column {"verticalAlignment":"top","width":"50%","layout":{"type":"constrained"}} -->
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis:50%"><!-- wp:image {"id":347497,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="http://cavallo.local/wp-content/uploads/2026/03/Cavallo-Case-Study-February-2026-Hoof-Cracks-Cover-Page.jpg" alt="Cavallo Hoof Boots Case Study 2026 - Hoof Cracks " class="wp-image-347497"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"top","width":"","style":{"spacing":{"padding":{"right":"0","left":"0","top":"0","bottom":"0"}}},"layout":{"type":"constrained","contentSize":"550px","justifyContent":"left","wideSize":""}} -->
+<div class="wp-block-column is-vertically-aligned-top" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:heading {"textAlign":"left","level":4,"style":{"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"textColor":"primary"} -->
+<h4 class="wp-block-heading has-text-align-left has-primary-color has-text-color has-link-color">From Cracked to Confident!</h4>
+<!-- /wp:heading -->
+
+<!-- wp:spacer {"height":"13px"} -->
+<div style="height:13px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"textColor":"primary"} -->
+<p class="has-primary-color has-text-color has-link-color">Hoof cracks are a common concern for both horse owners and hoof care professionals. These vertical or horizontal fissures in the hoof wall can range from superficial surface lines to deeper structural splits that affect soundness.<br><br>Our case study for today is Mistie, a 16-year-old Welsh cross pony competing at Medium level dressage in Australia, who has always been barefoot. She trains five days per week and is trimmed every five weeks. After moving to a new agistment property with coarse sand, three of her four hooves began developing toe cracks. One front hoof showed a crack progressing up the center of the toe.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4,"style":{"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"textColor":"primary"} -->
+<h4 class="wp-block-heading has-primary-color has-text-color has-link-color">Symptoms:</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"textColor":"primary"} -->
+<p class="has-primary-color has-text-color has-link-color">Toe cracks often start subtly but can progress rapidly if left untreated. Common causes include:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item {"style":{"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"textColor":"primary"} -->
+<li class="has-primary-color has-text-color has-link-color">Hoof imbalance and conformational stress</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item {"style":{"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"textColor":"primary"} -->
+<li class="has-primary-color has-text-color has-link-color">Improper trimming or shoeing</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item {"style":{"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"textColor":"primary"} -->
+<li class="has-primary-color has-text-color has-link-color">Trauma and abscesses</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item {"style":{"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"textColor":"primary"} -->
+<li class="has-primary-color has-text-color has-link-color">Environment</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item {"style":{"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"textColor":"primary"} -->
+<li class="has-primary-color has-text-color has-link-color">Nutrition and hoof quality</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"textColor":"primary"} -->
+<p class="has-primary-color has-text-color has-link-color">For Mistie, she was starting to get toe cracks in three of her hooves, after the arena footing was topped up with coarse-grain sand. Mistie was training 5 days a week, and her owners were worried the cracks would progress further.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:columns {"verticalAlignment":"top","style":{"border":{"radius":{"topLeft":"15px","topRight":"15px","bottomLeft":"15px","bottomRight":"15px"}},"spacing":{"padding":{"top":"var:preset|spacing|lg","bottom":"var:preset|spacing|lg","left":"var:preset|spacing|sm","right":"var:preset|spacing|sm"}}},"backgroundColor":"light-red-2"} -->
+<div class="wp-block-columns are-vertically-aligned-top has-light-red-2-background-color has-background" style="border-top-left-radius:15px;border-top-right-radius:15px;border-bottom-left-radius:15px;border-bottom-right-radius:15px;padding-top:var(--wp--preset--spacing--lg);padding-right:var(--wp--preset--spacing--sm);padding-bottom:var(--wp--preset--spacing--lg);padding-left:var(--wp--preset--spacing--sm)"><!-- wp:column {"verticalAlignment":"top","width":"50%","layout":{"type":"constrained"}} -->
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis:50%"><!-- wp:image {"id":347503,"sizeSlug":"full","linkDestination":"none","style":{"border":{"radius":{"topLeft":"15px","topRight":"15px","bottomLeft":"15px","bottomRight":"15px"}}}} -->
+<figure class="wp-block-image size-full has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2026/03/Cavallo-Case-Study-February-2026-Hoof-Cracks-Page-2-1.jpg" alt="Cavallo Hoof Boots Case Study  2026 - Hoof Cracks " class="wp-image-347503" style="border-top-left-radius:15px;border-top-right-radius:15px;border-bottom-left-radius:15px;border-bottom-right-radius:15px"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"top","width":"","style":{"spacing":{"padding":{"right":"0","left":"0","top":"0","bottom":"0"}}},"layout":{"type":"constrained","contentSize":"500px","justifyContent":"left","wideSize":""}} -->
+<div class="wp-block-column is-vertically-aligned-top" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:heading {"level":4,"style":{"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"textColor":"primary"} -->
+<h4 class="wp-block-heading has-primary-color has-text-color has-link-color">Our Approach:</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"textColor":"primary"} -->
+<p class="has-primary-color has-text-color has-link-color">Addressing the underlying cause is key to treating and healing hoof cracks. This should include regular, balanced trimming to reduce excessive length and improve support. Correct breakover reduces leverage on weakened hoof walls and can prevent cracks from worsening. Nutrition should not be overlooked - ensure adequate amino acids and balanced minerals.<br><br>For Mistie, the cause was abrasive arena footing. To protect her feet while ridden, Cavallo recommended Trek Hoof Boots with pastern wraps.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4,"align":"left","style":{"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"textColor":"primary"} -->
+<h4 class="wp-block-heading has-primary-color has-text-color has-link-color">What The Trek Boots Brought to Mistie</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item {"style":{"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"textColor":"primary"} -->
+<li class="has-primary-color has-text-color has-link-color">Reduced sand abrasion and hoof wear</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item {"style":{"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"textColor":"primary"} -->
+<li class="has-primary-color has-text-color has-link-color">Protected the toe and enhanced breakover</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item {"style":{"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"textColor":"primary"} -->
+<li class="has-primary-color has-text-color has-link-color">Supported Mistie’s hoof cracks while growing out</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading {"level":4,"align":"left","style":{"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"textColor":"primary"} -->
+<h4 class="wp-block-heading has-primary-color has-text-color has-link-color">What The Pastern Wraps Offered Her:</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item {"style":{"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"textColor":"primary"} -->
+<li class="has-primary-color has-text-color has-link-color">Prevented sand from entering the boots</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item {"style":{"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"textColor":"primary"} -->
+<li class="has-primary-color has-text-color has-link-color">Added additional comfort and protection at the bulbs</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:columns {"verticalAlignment":"top","style":{"border":{"radius":{"topLeft":"15px","topRight":"15px","bottomLeft":"15px","bottomRight":"15px"}},"spacing":{"padding":{"top":"var:preset|spacing|lg","bottom":"var:preset|spacing|lg","left":"var:preset|spacing|sm","right":"var:preset|spacing|sm"}}},"backgroundColor":"light-red-2"} -->
+<div class="wp-block-columns are-vertically-aligned-top has-light-red-2-background-color has-background" style="border-top-left-radius:15px;border-top-right-radius:15px;border-bottom-left-radius:15px;border-bottom-right-radius:15px;padding-top:var(--wp--preset--spacing--lg);padding-right:var(--wp--preset--spacing--sm);padding-bottom:var(--wp--preset--spacing--lg);padding-left:var(--wp--preset--spacing--sm)"><!-- wp:column {"verticalAlignment":"top","width":"50%","layout":{"type":"constrained"}} -->
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis:50%"><!-- wp:bicb/carousel {"layout":"default","carousels":[{"image":{"id":347326,"url":"http://cavallo.local/wp-content/uploads/2026/03/Cavallo-Case-Study-February-2026-Hoof-Cracks-Page-5.jpg","alt":"","title":"Cavallo Case Study February 2026 - Hoof Cracks Page 5","caption":""},"action":"none","link":"","caption":""},{"image":{"id":347324,"url":"http://cavallo.local/wp-content/uploads/2026/03/Cavallo-Case-Study-February-2026-Hoof-Cracks-Page-4-1.jpg","alt":"Cavallo Hoof Boots Case Study February 2026 - Hoof Cracks Page","title":"Cavallo Hoof Boots Case Study February 2026 - Hoof Cracks Page","caption":""},"action":"none","link":"","caption":""}],"carouselOptions":{"columns":{"desktop":1,"tablet":2,"mobile":1},"columnGap":28,"rows":{"desktop":3},"rowGap":5,"rowHeights":["200px","240px","180px"],"isLoop":false,"allowTouchMove":false,"speed":5.05,"scrollSpeed":40,"autoplayOptions":{"enabled":true,"delay":1.8,"disableOnInteraction":false,"reverseDirection":false,"pauseOnMouseEnter":false,"stopOnLastSlide":false},"freeMode":{"enabled":false,"sticky":false},"effect":"slide","mousewheel":{"enabled":false},"pagination":{"inTablet":true,"inMobile":true,"clickable":true,"dynamicBullets":false,"border":[]},"navigation":{"inTablet":true,"inMobile":true}}} /--></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"top","width":"","style":{"spacing":{"padding":{"right":"0","left":"0","top":"0","bottom":"0"}}},"layout":{"type":"constrained","contentSize":"500px","justifyContent":"left","wideSize":""}} -->
+<div class="wp-block-column is-vertically-aligned-top" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:heading {"level":4,"align":"left","style":{"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"textColor":"primary"} -->
+<h4 class="wp-block-heading has-primary-color has-text-color has-link-color">Mistie's Progress Report: “Dressage horses can benefit from boots, too!"</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"textColor":"primary"} -->
+<p class="has-primary-color has-text-color has-link-color">Mistie loves her Trek Hoof Boots and Pastern wraps and uses them for dressage training, trail riding, and other outings. The boots were the perfect solution for her hoof cracks - helping them to heal, and protecting her feet from abrasive terrain.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"textColor":"primary"} -->
+<p class="has-primary-color has-text-color has-link-color">"<em>I had never thought about using boots on our dressage horses, as I always thought they were more for trail riding. We moved agistment and found that with my daughter Emily's pony Mistie, the sand was a bit more abrasive than what we were used to, and 3 out of her 4 hooves were showing signs of cracks forming in the toes.</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"textColor":"primary"} -->
+<p class="has-primary-color has-text-color has-link-color"><em>The farrier was starting to talk about the need for shoes, but Mistie is 16 years old and has never been shod, so we didn't really want to go down that path. We contacted Cavallo for advice and were recommended a full set of Trek boots with pastern wraps. Mistie trains in medium-level dressage, so we needed boots that would not affect her movement at all, but she moves and performs really well in her boots, with no change to her training at all. The pastern wraps are really good in the arena as they stop any sand that may get into the boots from rubbing.</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"textColor":"primary"} -->
+<p class="has-primary-color has-text-color has-link-color">I'm now thinking of transitioning my dressage horse to barefoot and using boots on him when needed too, the result has been that good!”<br><br>– Jenny Farthing, Australia</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"textColor":"primary","fontSize":"tiny"} -->
+<p class="has-primary-color has-text-color has-link-color has-tiny-font-size"><em>Article Sources:<br>Clayton, H. M., Gray, S., Kaiser, L. J., &amp; Bowker, R. M. (2011). Effects of barefoot trimming on hoof biomechanics.<br>MSD Veterinary Manual (2023). Hoof Cracks in Horses.<br>O’Grady, S. E. (2017). Managing Hoof Wall Cracks.</em></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:columns {"verticalAlignment":"top","style":{"border":{"radius":{"topLeft":"15px","topRight":"15px","bottomLeft":"15px","bottomRight":"15px"}},"spacing":{"padding":{"top":"var:preset|spacing|lg","bottom":"var:preset|spacing|md","left":"var:preset|spacing|sm","right":"var:preset|spacing|sm"},"margin":{"bottom":"var:preset|spacing|xs"}}},"backgroundColor":"light-red-2"} -->
+<div class="wp-block-columns are-vertically-aligned-top has-light-red-2-background-color has-background" style="border-top-left-radius:15px;border-top-right-radius:15px;border-bottom-left-radius:15px;border-bottom-right-radius:15px;margin-bottom:var(--wp--preset--spacing--xs);padding-top:var(--wp--preset--spacing--lg);padding-right:var(--wp--preset--spacing--sm);padding-bottom:var(--wp--preset--spacing--md);padding-left:var(--wp--preset--spacing--sm)"><!-- wp:column {"verticalAlignment":"top","width":"50%","layout":{"type":"constrained"}} -->
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis:50%"><!-- wp:image {"id":347489,"sizeSlug":"full","linkDestination":"none","style":{"border":{"radius":{"topLeft":"15px","topRight":"15px","bottomLeft":"15px","bottomRight":"15px"}},"spacing":{"margin":{"right":"var:preset|spacing|xs","left":"var:preset|spacing|xs"}}}} -->
+<figure class="wp-block-image size-full has-custom-border" style="margin-right:var(--wp--preset--spacing--xs);margin-left:var(--wp--preset--spacing--xs)"><img src="http://cavallo.local/wp-content/uploads/2026/03/Cavallo-Case-Study-February-2026-Hoof-Cracks-Page-6-1.jpg" alt="Cavallo Case Study February 2026 - Hoof Cracks " class="wp-image-347489" style="border-top-left-radius:15px;border-top-right-radius:15px;border-bottom-left-radius:15px;border-bottom-right-radius:15px"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"top","width":"","style":{"spacing":{"padding":{"right":"0","left":"0","top":"0","bottom":"0"}}},"layout":{"type":"constrained","contentSize":"500px","justifyContent":"left","wideSize":""}} -->
+<div class="wp-block-column is-vertically-aligned-top" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:image {"id":347329,"sizeSlug":"full","linkDestination":"none","style":{"border":{"radius":{"topLeft":"15px","topRight":"15px","bottomLeft":"15px","bottomRight":"15px"}}}} -->
+<figure class="wp-block-image size-full has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2026/03/Cavallo-Trek-Hoof-Boots-to-help-hoof-crack-Jenny-Farthing.jpg" alt="Cavallo Trek Hoof Boots to help hoof crack - Jenny Farthing" class="wp-image-347329" style="border-top-left-radius:15px;border-top-right-radius:15px;border-bottom-left-radius:15px;border-bottom-right-radius:15px"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"textAlign":"center","level":4,"style":{"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"textColor":"primary"} -->
+<h4 class="wp-block-heading has-text-align-center has-primary-color has-text-color has-link-color">Interested in learning more about hoof cracks and how Cavallo Hoof Boots can be used for treatment, management, and prevention? Head on over here for some great info:</h4>
+<!-- /wp:heading -->
+
+<!-- wp:spacer {"height":"35px"} -->
+<div style="height:35px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"}} -->
+<div class="wp-block-buttons"><!-- wp:button {"backgroundColor":"red"} -->
+<div class="wp-block-button"><a class="wp-block-button__link has-red-background-color has-background wp-element-button" href="http://cavallo.local/faq/hoof-cracks-with-cavallo-hoof-boots/" target="_blank" rel="noreferrer noopener">Read More About Hoof Cracks!</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons -->
+
+<!-- wp:spacer {"height":"11px"} -->
+<div style="height:11px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:uagb/separator {"block_id":"3e9928f9","separatorWidth":95,"separatorBorderHeight":4,"separatorColor":"#CDC6C1"} -->
+<div class="wp-block-uagb-separator uagb-block-3e9928f9"><div class="wp-block-uagb-separator__inner" style="--my-background-image:"></div></div>
+<!-- /wp:uagb/separator --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"textAlign":"center","style":{"elements":{"link":{"color":{"text":"var:preset|color|primary"}}},"spacing":{"padding":{"top":"var:preset|spacing|lg"}}},"textColor":"primary"} -->
+<h2 class="wp-block-heading has-text-align-center has-primary-color has-text-color has-link-color" style="padding-top:var(--wp--preset--spacing--lg)">A Better Fit for Every Hoof - How Cavallo Boots Adapt to the Horse, Not the Other Way Around:</h2>
+<!-- /wp:heading --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:columns {"verticalAlignment":"top"} -->
+<div class="wp-block-columns are-vertically-aligned-top"><!-- wp:column {"verticalAlignment":"top","width":"55%"} -->
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis:55%"><!-- wp:embed {"url":"https://youtube.com/shorts/P0TcZK42nUU?feature=share","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-9-16 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-9-16 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://youtube.com/shorts/P0TcZK42nUU?feature=share
+</div></figure>
+<!-- /wp:embed --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"top","width":"","style":{"spacing":{"padding":{"right":"0","left":"0","top":"0","bottom":"0"}}},"layout":{"type":"constrained","contentSize":"500px","justifyContent":"left","wideSize":""}} -->
+<div class="wp-block-column is-vertically-aligned-top" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"4px","bottom":"27px"}},"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"textColor":"primary"} -->
+<p class="has-primary-color has-text-color has-link-color" style="margin-top:4px;margin-bottom:27px">When it comes to hoof boots, not all brands approach fit the same way. Some hoof boot brands require specialized tools, adjustments, or even permanent modifications to achieve the correct fit for a horse. Trimming, stretching, heat-shaping, or altering components can sometimes be part of the process, which may add complexity, time and significant frustration to get boots ready for use.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"textColor":"primary"} -->
+<p class="has-primary-color has-text-color has-link-color">Cavallo Hoof Boots take a very different approach. Designed with equine comfort and adaptability in mind, Cavallos are engineered to achieve a secure, customized fit without the need for tools or structural modifications. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4,"style":{"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"textColor":"primary"} -->
+<h4 class="wp-block-heading has-primary-color has-text-color has-link-color">How to Achieve the Famous Customized Cavallo Fit:<br></h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"textColor":"primary"} -->
+<p class="has-primary-color has-text-color has-link-color">Achieving the custom Cavallo fit begins with proper sizing and a gradual break-in period. Once you’ve selected the correct size, <a href="https://youtu.be/5R881ZhjDwA" target="_blank" rel="noreferrer noopener">introduce the boots slowly in short, controlled sessions. </a>This allows the materials to respond naturally to your horse’s movement and hoof shape.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"textColor":"primary"} -->
+<p class="has-primary-color has-text-color has-link-color">During the break-in process, the soft leather around the heel bulbs gently shapes and contours to your horse’s individual anatomy, while the internal foam cushioning compresses and moulds to the precise shape of each hoof. Rather than requiring tools or structural modifications, Cavallo boots adapt conveniently through wear. As they are used consistently and correctly, they conform more closely to your horse’s unique dimensions.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"textColor":"primary"} -->
+<p class="has-primary-color has-text-color has-link-color">With this gradual introduction, the boots develop a secure, supportive, and truly customized fit, minimizing excess movement, reducing pressure points, and helping to prevent rubbing or discomfort while delivering the comfort and protection Cavallo is known for.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"4px","bottom":"27px"}},"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"textColor":"primary"} -->
+<p class="has-primary-color has-text-color has-link-color" style="margin-top:4px;margin-bottom:27px">The result is a boot that feels tailored to your horse - not forced to fit through modification, but naturally shaped through thoughtful design and proper break-in. At Cavallo, we prefer that comfort, protection, and ease of use come together naturally to support every stride.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"textAlign":"center","style":{"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"textColor":"primary"} -->
+<h2 class="wp-block-heading has-text-align-center has-primary-color has-text-color has-link-color">LEB Back in Stock - Turquoise &amp; Black in Every Size!</h2>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"textAlign":"center","level":4,"style":{"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"textColor":"primary"} -->
+<h4 class="wp-block-heading has-text-align-center has-primary-color has-text-color has-link-color">These Donkey Boots Were Made for "Bray-kin’" Trails!</h4>
+<!-- /wp:heading --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:columns {"verticalAlignment":"top","style":{"spacing":{"padding":{"top":"var:preset|spacing|md","bottom":"var:preset|spacing|md","left":"var:preset|spacing|sm","right":"var:preset|spacing|sm"}},"border":{"radius":{"topLeft":"15px","topRight":"15px","bottomLeft":"15px","bottomRight":"15px"}}},"backgroundColor":"white"} -->
+<div class="wp-block-columns are-vertically-aligned-top has-white-background-color has-background" style="border-top-left-radius:15px;border-top-right-radius:15px;border-bottom-left-radius:15px;border-bottom-right-radius:15px;padding-top:var(--wp--preset--spacing--md);padding-right:var(--wp--preset--spacing--sm);padding-bottom:var(--wp--preset--spacing--md);padding-left:var(--wp--preset--spacing--sm)"><!-- wp:column {"verticalAlignment":"top","width":"55%"} -->
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis:55%"><!-- wp:image {"id":348731,"sizeSlug":"full","linkDestination":"none","style":{"border":{"radius":{"topLeft":"15px","topRight":"15px","bottomLeft":"15px","bottomRight":"15px"}}}} -->
+<figure class="wp-block-image size-full has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2026/04/Bray-king-news-LEB-fully-stocked.jpg" alt="" class="wp-image-348731" style="border-top-left-radius:15px;border-top-right-radius:15px;border-bottom-left-radius:15px;border-bottom-right-radius:15px"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"top","width":"","style":{"spacing":{"padding":{"right":"0","left":"0","top":"0","bottom":"var:preset|spacing|md"}}},"layout":{"type":"constrained","contentSize":"500px","justifyContent":"left","wideSize":""}} -->
+<div class="wp-block-column is-vertically-aligned-top" style="padding-top:0;padding-right:0;padding-bottom:var(--wp--preset--spacing--md);padding-left:0"><!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading">THEY’RE BACK - JUST FOR YOU! </h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Our first release of LEB Donkey Hoof Boots flew off the shelves quicker than a donkey at dinner time! Proof that when comfort meets protection, every hoof wants in. If you missed out the first time… this is your donkey's moment.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>LEB, the world’s ONLY hoof boots designed specifically for donkeys, has been an international success. Easy to size accurately and easy to fit, sizes disappeared from our warehouse quickly in both Black and Turquoise, as donkey owners rushed to get their hands on them.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>And if  YOU were one of the lucky ones?<br>You already know the difference they make. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>✨ Been waiting patiently for more to arrive? Now it’s your turn!✨</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>A fresh shipment has just arrived, with:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>✔️ All LEB sizes available!<br>✔️ Both Turquoise &amp; Black back in stock<br>✔️ Ready for you and your donkey!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>? Get your LEB now! Your order will ship within 48 hours of ordering!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Give your donkey the comfort, protection, and performance they deserve — before sizes disappear again...</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"}} -->
+<div class="wp-block-buttons"><!-- wp:button {"backgroundColor":"red","style":{"border":{"radius":"50px"},"typography":{"fontSize":"20px"}}} -->
+<div class="wp-block-button"><a class="wp-block-button__link has-red-background-color has-background has-custom-font-size wp-element-button" href="http://cavallo.local/product-category/leb-long-ear-hoof-boots-for-donkeys/" style="border-radius:50px;font-size:20px" target="_blank" rel="noreferrer noopener">Get Your LEB NOW!</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:block {"ref":348454} /--></div>
+<!-- /wp:group -->

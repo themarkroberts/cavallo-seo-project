@@ -1,0 +1,41 @@
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading -->
+<h2 class="wp-block-heading">Welcome!</h2>
+<!-- /wp:heading -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"id":5288,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="http://cavallo.local/wp-content/uploads/2024/10/Evelyn-Santer-Alps-Black-Trek-cute-dog.jpg2_.jpg" alt="Cavallo horse hoof boots backs rear" class="wp-image-5288"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"top"} -->
+<div class="wp-block-column is-vertically-aligned-top"><!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading">Hello and welcome to your Cavallo Community!</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>You will receive current news, special offers and exclusive invitations. You’ll never be inundated with ‘stuff’ and will always be respected for both your valued time and your deserved privacy.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Feel free to reach out to us anytime to share your stories, questions or thoughts.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Please watch your inbox for an email to confirm your subscription.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Thanks for being part of our Cavallo family!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"backgroundColor":"red","style":{"border":{"radius":"50px"}}} -->
+<div class="wp-block-button"><a class="wp-block-button__link has-red-background-color has-background wp-element-button" href="http://cavallo.local/shop-cavallo/" style="border-radius:50px">Start Shopping</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->

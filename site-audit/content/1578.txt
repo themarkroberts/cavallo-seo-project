@@ -1,0 +1,23 @@
+<!-- wp:image {"id":6485,"linkDestination":"custom","align":"left"} -->
+<figure class="wp-block-image alignleft"><a href="//cavallo.local/wp-content/uploads/2016/03/FB_IMG_1443475901227.jpg"><img src="//cavallo.local/wp-content/uploads/2016/03/FB_IMG_1443475901227-452x339.jpg" alt="Horse Hoof Boots" class="wp-image-6485"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>I am very pleased with Apache's new Cavallo boots! She wore them on our Back Country Horsemen work project, for 4-5 hours today, on very rocky trails.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The boots ended up being easy to slip on. I put them on the opposite feet. My mare never gimped over or avoided rocks on the trails and the boots stayed secure all day and didn't give her any raw or sore spots. She really seemed comfortable all day. And that makes me happy!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Thank you!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Lisa</p>
+<!-- /wp:paragraph -->

@@ -1,0 +1,607 @@
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"textAlign":"center"} -->
+<h2 class="wp-block-heading has-text-align-center">Our Hoof Boot Technology</h2>
+<!-- /wp:heading -->
+
+<!-- wp:spacer {"height":"2px"} -->
+<div style="height:2px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:paragraph {"align":"center","fontSize":"large"} -->
+<p class="has-text-align-center has-large-font-size">Cavallo Hoof Boots are the most technically advanced hoof boots in the world—trusted by riders everywhere. No other hoof boot offers the same level of intelligent design, biomechanical support, and performance-enhancing features.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"center","fontSize":"large"} -->
+<p class="has-text-align-center has-large-font-size">Cavallos aren’t just hoof boots—they’re a complete performance system. Combining state-of-the-art innovation with the wisdom of nature, every element of Cavallo Hoof Boots' designs is driven by a deep understanding of the equine hoof and crafted with precision to support its natural shape, function, and movement. From patented tread patterns for superior traction, to built-in breakover for enhanced stride efficiency, to materials that shape, flex and breathe in sync with the hoof—nothing is overlooked.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:spacer {"height":"2px"} -->
+<div style="height:2px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:embed {"url":"https://www.youtube.com/watch?v=3dxxEjXlSPM","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://www.youtube.com/watch?v=3dxxEjXlSPM
+</div></figure>
+<!-- /wp:embed -->
+
+<!-- wp:spacer {"height":"13px"} -->
+<div style="height:13px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading {"textAlign":"center","level":3,"fontSize":"huge"} -->
+<h3 class="wp-block-heading has-text-align-center has-huge-font-size">Two Sole Width Options to Perfect Your Horse's Fit</h3>
+<!-- /wp:heading --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:paragraph {"align":"center","fontSize":"large"} -->
+<p class="has-text-align-center has-large-font-size">Choosing the right Cavallo Hoof Boot sole—Regular or Slim—ensures a secure fit, optimal performance, and hoof protection tailored to your equine’s natural hoof shape. To know which sole your horse needs, please <a href="http://cavallo.local/ask-an-expert/" target="_blank" rel="noreferrer noopener">contact Cavallo Customer Service</a> for expert sizing assistance.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:paragraph {"align":"center","fontSize":"large"} -->
+<p class="has-text-align-center has-large-font-size"><strong>Regular Sole</strong></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:paragraph {"align":"center","fontSize":"large"} -->
+<p class="has-text-align-center has-large-font-size"><strong>Slim Sole</strong></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:columns {"verticalAlignment":"center"} -->
+<div class="wp-block-columns are-vertically-aligned-center"><!-- wp:column {"verticalAlignment":"center","width":"15%"} -->
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis:15%"><!-- wp:image {"id":6678,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="http://cavallo.local/wp-content/uploads/2014/05/Simple_Outsole.jpg" alt="Cavallo Regular Hoof Boot sole - bottom view" class="wp-image-6678"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"center","width":"35%"} -->
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis:35%"><!-- wp:paragraph -->
+<p>The Cavallo Hoof Boot Regular Sole is specifically designed for horses with rounder-shaped hooves, where the width and length of the hoof are almost equal</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"center","width":"15%"} -->
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis:15%"><!-- wp:image {"id":202974,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="http://cavallo.local/wp-content/uploads/2025/05/Cavallo-Slim-Sole-w-Deeper-Sole-Tread-2019.jpg" alt="Cavallo Hoof Boot Slim Sole" class="wp-image-202974"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"center","width":"35%"} -->
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis:35%"><!-- wp:paragraph -->
+<p>The Cavallo Hoof Boot Slim Sole is made for horses with a more narrow, oval-shaped hoof, where the hoof is longer than it is wide.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:paragraph {"align":"center","style":{"border":{"radius":"12px"}},"backgroundColor":"gray-2","fontSize":"large"} -->
+<p class="has-text-align-center has-gray-2-background-color has-background has-large-font-size" style="border-radius:12px">Our famous Cavallo Hoof Boot soles are specially formulated with our high-performance thermoplastic urethane (TPU) compound, providing total hoof protection, shock absorption, and abrasion resistance.<br><br>Cavallo soles also offer built-in sole relief: the integrated high-density inner rim supports the load-bearing hoof wall, relieving pressure off the sole, bars and frog. This thoughtful design strategy enables the natural expansion and contraction of the weight-bearing hoof, promoting optimal nutritional blood circulation.<br><br>The built-in drainage system of all Cavallo soles allows water, mud, and sand to flow right through, preventing suction and keeping the boot in place on the hoof. On all boots, the molded-in back flap gives dependable bulb protection and abrasion resistance.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:group {"metadata":{"name":"Single product - Trek"},"style":{"spacing":{"blockGap":"var:preset|spacing|gap"}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:media-text {"mediaId":7195,"mediaLink":"http://cavallo.local/?attachment_id=7195","mediaType":"image","mediaWidth":34,"imageFill":true,"backgroundColor":"light-red-1"} -->
+<div class="wp-block-media-text is-stacked-on-mobile is-image-fill-element has-light-red-1-background-color has-background" style="grid-template-columns:34% auto"><figure class="wp-block-media-text__media"><img src="http://cavallo.local/wp-content/uploads/2024/12/Official-Trek-Pro-quarter-view-Low-Res-1.jpg" alt="Cavallo Trek Pro Horse Hoof Boot - side view" class="wp-image-7195 size-full" style="object-position:50% 50%"/></figure><div class="wp-block-media-text__content"><!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|md","bottom":"var:preset|spacing|md","left":"0","right":"0"},"margin":{"top":"0","bottom":"0"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--md);padding-right:0;padding-bottom:var(--wp--preset--spacing--md);padding-left:0"><!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading">Trek Hoof Boot Technology and Features</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"placeholder":"Content…"} -->
+<p>Trek, Cavallo's toughest trail boot, is lightweight, durable, and so easy to put on and take off, making it a favourite for both riders and horses for riding, driving, trailering, turnout or transitioning to barefoot. The durable sole, flexible design and built-in drainage system offer all-terrain comfort and protection on gravel, asphalt or rocky trails, while the honeycomb mesh upper provides breathability. Trek is also prized as a high-quality therapy and rehabilitation (turnout) hoof boot—ideal for horses recovering from Laminitis, Navicular, abscesses, hoof punctures, thrush, hoof cracks, or any other hoof condition or injury.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons {"layout":{"type":"flex","justifyContent":"left"}} -->
+<div class="wp-block-buttons"><!-- wp:button {"backgroundColor":"red","style":{"border":{"radius":"50px"}}} -->
+<div class="wp-block-button"><a class="wp-block-button__link has-red-background-color has-background wp-element-button" href="http://cavallo.local/product-category/hoof-boot/trek-hoof-boots/" style="border-radius:50px" target="_blank" rel="noreferrer noopener">Shop Trek Hoof Boot</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:group --></div></div>
+<!-- /wp:media-text -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"right":"0","left":"0"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group" style="padding-right:0;padding-left:0"><!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><strong>Durable TPU Pro-Mesh Upper</strong> – Made from tough, flexible thermoplastic urethane for long-lasting wear.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Breathable Honeycomb Design</strong> – Promotes airflow to keep the hoof cool and comfortable.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Lightweight Construction</strong> – Easy on the horse’s legs, ideal for riding or rehab.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Easy On, Easy Off </strong>– Simple Velcro fastening for quick and secure application.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>All-Terrain Sole</strong> – Provides excellent traction and shock absorption on any surface.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Drainage Slots</strong> – Built-in drainage allows water, mud, sand and debris to flow right through.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Comfort Foam Lining</strong> – Soft interior reduces rubbing and enhances comfort.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>360-Degree Protection</strong> – Shields the hoof wall, sole, and bulb from impact and abrasion.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Therapy &amp; Rehab Ready </strong>– Doubles as a therapy boot for Laminitis, Navicular, abscesses, and other conditions.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><strong>Use for Barefoot or Shod Horses</strong> – Versatile design accommodates a wide range of hoof types (even those with metal horseshoes)</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Sole Width </strong>offered in both Regular (equal length and width) and Slim (narrower than length) sole options to accommodate various hoof shapes.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><span style="margin: 0px; padding: 0px;"><strong>The easy front fastening system</strong>&nbsp;is so simple to use, requiring no additional tools, and is suitable for arthritic hands and users of all ages.</span></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Reflective logo on back, and optional Cavallo 3M Reflective Straps available.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><span style="margin: 0px; padding: 0px;"><strong>Provides comfort for chronic pain</strong>&nbsp;and hoof sensitivity, especially o</span>n uneven surfaces like rocks or gravel.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Boots STAY ON: </strong>Bell-shaped design mirrors the natural hoof for a secure fit, and layers of industrial-strength Velcro®, ensure that boots stay firmly in place (boots won't twist or come off when properly fitted).</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Trek Boots</strong> make excellent spare tires, and are also the perfect strategy for keeping shoes on before a show or event!</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|gap"}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:media-text {"mediaId":202266,"mediaLink":"http://cavallo.local/?attachment_id=202266","mediaType":"image","mediaWidth":32,"imageFill":true,"backgroundColor":"light-red-1"} -->
+<div class="wp-block-media-text is-stacked-on-mobile is-image-fill-element has-light-red-1-background-color has-background" style="grid-template-columns:32% auto"><figure class="wp-block-media-text__media"><img src="http://cavallo.local/wp-content/uploads/2025/03/Cavallo-Simple-Black-Horse-Hoof-Boots-LR.jpg" alt="Cavallo Simple Black Horse Hoof Boots " class="wp-image-202266 size-full" style="object-position:50% 50%"/></figure><div class="wp-block-media-text__content"><!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|md","bottom":"var:preset|spacing|md","left":"0","right":"0"},"margin":{"top":"0","bottom":"0"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--md);padding-right:0;padding-bottom:var(--wp--preset--spacing--md);padding-left:0"><!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading">Simple Hoof Boot Technology and Features</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"placeholder":"Content…"} -->
+<p>The Cavallo Simple Hoof Boot is built for durability on tough trails, with a genuine full-grain leather upper that’s tough enough to handle the rigours of daily riding on any terrain. Leather not only offers long-lasting strength, but also molds to the hoof over time for a custom, comfortable fit. This boot’s sturdy construction, combined with a padded interior and secure fastening system, makes it a dependable choice for all-day wear during turnout, as a barefoot transition boot or as a therapy and rehab boot for conditions such as abscess, Laminitis, Navicular, or any other hoof issues.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons {"layout":{"type":"flex","justifyContent":"left"}} -->
+<div class="wp-block-buttons"><!-- wp:button {"backgroundColor":"red","style":{"border":{"radius":"50px"}}} -->
+<div class="wp-block-button"><a class="wp-block-button__link has-red-background-color has-background wp-element-button" href="http://cavallo.local/product-category/hoof-boot/simple-hoof-boots/" style="border-radius:50px" target="_blank" rel="noreferrer noopener">Shop Simple Hoof Boot</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:group --></div></div>
+<!-- /wp:media-text -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"right":"0","left":"0"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group" style="padding-right:0;padding-left:0"><!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><strong>Premium Full-Grain Leather: </strong>Made from high-quality full-grain leather, offering exceptional abrasion resistance and flexibility.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Tried-and-True Original Cavallo Design: </strong>The Simple Boot is Cavallo’s flagship model, time-tested and renowned for reliability.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Comfortable and Adaptive:</strong> Leather upper softens with use and moulds to the shape of the hoof for a more customized, secure fit.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Naturally breathable: </strong>The leather breathable upper helps maintain a healthier hoof environment by reducing heat and moisture buildup.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Classic Look and Feel:</strong> Leather gives the Simple Boot its signature traditional aesthetic—timeless, professional, and trail-ready!</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Easy to clean: </strong>Just hose off after using and apply a good-quality leather conditioner to keep them looking and performing like new.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Convenient, replaceable side straps </strong>make it easy to refresh or replace worn parts without needing to buy a whole new pair.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Leather-padded collar is soft and supple,</strong> providing cushioning to the pastern area and preventing rubbing to ensure all-day comfort.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><strong>Therapy:</strong> Cavallo Simple Boots are a great choice for hoof rehabilitation because they provide cushioned support, protection from harsh terrain, and a breathable, flexible fit that promotes healing and comfort during recovery from hoof ailments or injuries.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Sole Width offered</strong> in both Regular (equal length and width) and Slim (narrower than length) sole options to accommodate various hoof shapes.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Side closure system</strong> is easy to use, requiring no additional tools, and is suitable for users of all ages.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Unique side drainage slots</strong> effectively expel mud, water, and sand.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Technically advanced TPU soles</strong> provide exceptional shock absorption, durability and comfort, supporting natural hoof expansion and movement on any terrain.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><span style="margin: 0px; padding: 0px;"><strong>Provides comfort for chronic pain</strong>&nbsp;and hoof sensitivity, especially o</span>n uneven surfaces like rocks or gravel.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Boots STAY ON: </strong>Bell-shaped design mirrors the natural hoof for a secure fit, and layers of industrial-strength Velcro®, ensure that boots stay firmly in place (boots won't twist or come off when properly fitted).</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Simple Boots</strong> make excellent spare tires, and are also the perfect strategy for keeping shoes on before a show or event!</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:separator {"backgroundColor":"pale-silver"} -->
+<hr class="wp-block-separator has-text-color has-pale-silver-color has-alpha-channel-opacity has-pale-silver-background-color has-background"/>
+<!-- /wp:separator -->
+
+<!-- wp:group {"metadata":{"name":"Single product - Simple"},"style":{"spacing":{"blockGap":"var:preset|spacing|gap"}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:media-text {"mediaId":6518,"mediaLink":"http://cavallo.local/?attachment_id=6518","mediaType":"image","mediaWidth":30,"imageFill":true,"backgroundColor":"light-red-1"} -->
+<div class="wp-block-media-text is-stacked-on-mobile is-image-fill-element has-light-red-1-background-color has-background" style="grid-template-columns:30% auto"><figure class="wp-block-media-text__media"><img src="http://cavallo.local/wp-content/uploads/2024/12/Cavallo-Sport-Slim-EU-Horse-Rider.jpg" alt="Cavallo Sport Slim Hoof Boots" class="wp-image-6518 size-full" style="object-position:50% 50%"/></figure><div class="wp-block-media-text__content"><!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|md","bottom":"var:preset|spacing|md","left":"0","right":"0"},"margin":{"top":"0","bottom":"0"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--md);padding-right:0;padding-bottom:var(--wp--preset--spacing--md);padding-left:0"><!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading">SPORT HOOF BOOT TECHNOLOGY &amp; FEATURES</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"placeholder":"Content…"} -->
+<p>The Cavallo Sport Hoof Boot combines advanced features, including durable TPU construction, a breathable 1680-Denier nylon upper and a soft leather collar, for all-day comfort. Its secure side peg closure with industrial-strength Velcro® ensures a snug, stay-put fit, while reflective accents add safety in low-light conditions. Offering premium performance and thoughtful design at an accessible price, the Sport is a smart, affordable choice for riding, turnout, trailering and hoof rehabilitation, as a spare tire or for equines transitioning to barefoot.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons {"layout":{"type":"flex","justifyContent":"left"}} -->
+<div class="wp-block-buttons"><!-- wp:button {"backgroundColor":"red","style":{"border":{"radius":"50px"}}} -->
+<div class="wp-block-button"><a class="wp-block-button__link has-red-background-color has-background wp-element-button" href="http://cavallo.local/product-category/hoof-boot/sport-hoof-boots/" style="border-radius:50px" target="_blank" rel="noreferrer noopener">Shop Sport Hoof Boot</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:group --></div></div>
+<!-- /wp:media-text -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><strong>Sleek, streamlined design:</strong> Cavallo Sport Boots feature a sporty, modern look—perfect for riders who want performance with style.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Secure side peg and Velcro® closure system,</strong> allowing for quick, easy fastening and a snug, stay-put fit.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Reflective Safety:</strong> Built-in reflective piping accents for enhanced visibility and safety during low-light rides or evening turnout.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>1680 Denier industrial-grade nylon</strong> boot upper, providing exceptional toughness and resistance to wear.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Great value: </strong>Sport is a smart, affordable choice that doesn’t compromise on quality, delivering trusted performance and comfort.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Comfortable Boot Collar: </strong>Soft, foam-padded leather collar that gently wraps the pastern, preventing rubbing, chafing, or pressure points.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>An affordable and effective </strong>choice for hoof rehabilitation or therapy, offering a secure fit and durable protection, helping injured hooves heal comfortably without breaking the bank.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Sole Width offered</strong> in both Regular (equal length and width) and Slim (narrower than length) sole options to accommodate various hoof shapes.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Side closure</strong> is easy to use, requiring no additional tools, and is suitable for users of all ages.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Technically advanced TPU soles</strong> provide exceptional shock absorption, durability and comfort, supporting natural hoof expansion and movement on any terrain.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><span style="margin: 0px; padding: 0px;"><strong>Provides comfort for chronic pain</strong>&nbsp;and hoof sensitivity, especially o</span>n uneven surfaces like rocks or gravel.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Boots STAY ON: </strong>Bell-shaped design mirrors the natural hoof for a secure fit, and layers of industrial-strength Velcro®, ensure that boots stay firmly in place (boots won't twist or come off when properly fitted).</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Sport Boot</strong>s make excellent spare tires, and are also the perfect strategy for keeping shoes on before a show or event!</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list --></div>
+<!-- /wp:group -->
+
+<!-- wp:separator {"backgroundColor":"pale-silver"} -->
+<hr class="wp-block-separator has-text-color has-pale-silver-color has-alpha-channel-opacity has-pale-silver-background-color has-background"/>
+<!-- /wp:separator -->
+
+<!-- wp:group {"metadata":{"name":"Single product - ELB"},"style":{"spacing":{"blockGap":"var:preset|spacing|gap"}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:media-text {"mediaId":6519,"mediaLink":"http://cavallo.local/?attachment_id=6519","mediaType":"image","mediaWidth":30,"imageFill":true,"backgroundColor":"light-red-1"} -->
+<div class="wp-block-media-text is-stacked-on-mobile is-image-fill-element has-light-red-1-background-color has-background" style="grid-template-columns:30% auto"><figure class="wp-block-media-text__media"><img src="http://cavallo.local/wp-content/uploads/2024/12/ELB-Black-Boots-product-Image-EU-LOW-RES-WEB.jpg" alt="Cavallo ELB Black Horse Hoof Boots" class="wp-image-6519 size-full" style="object-position:50% 50%"/></figure><div class="wp-block-media-text__content"><!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|md","bottom":"var:preset|spacing|md","left":"0","right":"0"},"margin":{"top":"0","bottom":"0"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--md);padding-right:0;padding-bottom:var(--wp--preset--spacing--md);padding-left:0"><!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading">ENTRY LEVEL HOOF BOOT TECHNOLOGY &amp; FEATURES</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"placeholder":"Content…"} -->
+<p>The Cavallo ELB is the most affordable hoof boot on the market - tough, lightweight, and packed with performance. With durable 1680 Denier nylon, a shock-absorbing TPU sole, and a soft foam collar for added comfort, it’s perfect for riding, hoof therapy, transport, transitioning to barefoot, or serving as your go-to “spare tire” on the trail. Total versatility, unbeatable value!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons {"layout":{"type":"flex","justifyContent":"left"}} -->
+<div class="wp-block-buttons"><!-- wp:button {"backgroundColor":"red","style":{"border":{"radius":"50px"}}} -->
+<div class="wp-block-button"><a class="wp-block-button__link has-red-background-color has-background wp-element-button" href="http://cavallo.local/product-category/hoof-boot/elb-hoof-boots/" style="border-radius:50px" target="_blank" rel="noreferrer noopener">Shop ELB Hoof Boot</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:group --></div></div>
+<!-- /wp:media-text -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><strong>The most affordable hoof boot</strong> in Cavallo’s lineup, the ELB is perfect for equines transitioning to barefoot.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Incredibly tough for its price point</strong>: ELB delivers long-lasting performance typically reserved for more premium models. The ELB keeps things affordable, lightweight, and breathable for everyday or occasional use.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>ELB makes the perfect “spare tire”</strong> boot on the trails. It's tough, reliable, and affordable. </li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Ideal for various </strong>equestrian activities, including hoof rehabilitation, trail riding, transport and as a reliable backup in case of lost shoes.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Industrial-grade 1680 Denier nylon</strong> uppers offer durability and resistance to wear, ensuring long-lasting use.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Features an exchangeable Velcro® strap</strong> system, allowing for easy use and extended boot life (without the need for tools).</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Sole Width offered</strong> in both Regular (equal length and width) and Slim (narrower than length) sole options to accommodate various hoof shapes.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Easy front fastening system</strong> is so simple to use, requiring no additional tools, suitable for arthritic hands and users of all ages.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Technically advanced TPU soles</strong> provide exceptional shock absorption, durability and comfort, supporting natural hoof expansion and movement on any terrain.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><span style="margin: 0px; padding: 0px;"><strong>Provides comfort for chronic pain</strong>&nbsp;and hoof sensitivity, especially o</span>n uneven surfaces like rocks or gravel.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Boots STAY ON: </strong>Bell-shaped design mirrors the natural hoof for a secure fit, and layers of industrial-strength Velcro®, ensure that boots stay firmly in place (boots won't twist or come off when properly fitted).</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>ELB Boots</strong> make excellent spare tires, and are also the perfect strategy for keeping shoes on before a show or event!</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list --></div>
+<!-- /wp:group -->
+
+<!-- wp:separator {"backgroundColor":"pale-silver"} -->
+<hr class="wp-block-separator has-text-color has-pale-silver-color has-alpha-channel-opacity has-pale-silver-background-color has-background"/>
+<!-- /wp:separator -->
+
+<!-- wp:group {"metadata":{"name":"Single product - BLB"},"style":{"spacing":{"blockGap":"var:preset|spacing|gap"}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:media-text {"mediaId":6520,"mediaLink":"http://cavallo.local/?attachment_id=6520","mediaType":"image","mediaWidth":37,"imageFill":true,"backgroundColor":"light-red-1"} -->
+<div class="wp-block-media-text is-stacked-on-mobile is-image-fill-element has-light-red-1-background-color has-background" style="grid-template-columns:37% auto"><figure class="wp-block-media-text__media"><img src="http://cavallo.local/wp-content/uploads/2024/12/BFB-Boot-Product-Image-EU-LOW-RES-WEB.jpg" alt="Cavallo BFB Hoof Boot for Draft size horses" class="wp-image-6520 size-full" style="object-position:50% 50%"/></figure><div class="wp-block-media-text__content"><!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|md","bottom":"var:preset|spacing|md","left":"0","right":"0"},"margin":{"top":"0","bottom":"0"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--md);padding-right:0;padding-bottom:var(--wp--preset--spacing--md);padding-left:0"><!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading">BIG FOOT DRAFT-SIZE HOOF BOOT TECHNOLOGY &amp; FEATURES</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"placeholder":"Content…"} -->
+<p>The Cavallo BFB (Big Foot Boot) is a technically advanced hoof care solution built specifically for draft-sized horses. The BFB offers the perfect combination of strength, comfort, and durability. With Cavallo’s signature shock-absorbing TPU sole and tough 1680 denier nylon upper, it’s designed to handle the weight and power of big hooves with ease. Whether for riding, driving, rehab, turnout, or even active use on working draft horses, the BFB delivers reliable protection and performance, finally giving large breeds the same thoughtful hoof care as every equine.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons {"layout":{"type":"flex","justifyContent":"left"}} -->
+<div class="wp-block-buttons"><!-- wp:button {"backgroundColor":"red","style":{"border":{"radius":"50px"}}} -->
+<div class="wp-block-button"><a class="wp-block-button__link has-red-background-color has-background wp-element-button" href="http://cavallo.local/product-category/hoof-boot/bfb-hoof-boots/" style="border-radius:50px" target="_blank" rel="noreferrer noopener">Shop BFB Hoof Boot</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:group --></div></div>
+<!-- /wp:media-text -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><strong>Specifically engineered to fit large</strong>, wide hooves—ideal for draft breeds and other big-hoofed horses.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Durable 1680 Denier Nylon Upper:</strong> Industrial-strength fabric for excellent abrasion resistance and long-term wear, even under heavy loads.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>The soft, foam-lined collar</strong> cushions the pastern area, helping to prevent chafing and rubbing during extended wear.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Wide, industrial-grade Velcro® straps</strong> provide a secure fit and are replaceable, extending the life of the boots.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Designed with a built-in breakover point</strong> to support efficient movement and reduce strain on joints and tendons.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Integrated drainage slots</strong> allow water, mud, and debris to escape easily - ideal for use in turnout, wet weather, or on varied terrain.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Designed for all activities</strong>, including riding, driving, turnout, therapy, and even for use on working draft horses in farm work or parades.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Engineered for ease of use:</strong> Boots open wide to slip on easily without slamming shut, even on larger hooves.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Wider Sole Base:</strong> Designed with an expanded sole width for greater stability and balance under the heavier weight of draft horses.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Reinforced seams </strong>and a rugged build ensure that boots withstand the extra stress and strain of draft horse movement.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Easy front fastening system</strong> is so simple to use, requiring no additional tools, suitable for arthritic hands and users of all ages.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Built to resist mud</strong> and debris build-up, reducing cleaning time even in tough working conditions like farms or trails.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><span style="margin: 0px; padding: 0px;"><strong>Provides comfort for chronic pain</strong>&nbsp;and hoof sensitivity, especially o</span>n uneven surfaces like rocks or gravel.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Boots STAY ON: </strong>Bell-shaped design mirrors the natural hoof for a secure fit, and layers of industrial-strength Velcro®, ensure that boots stay firmly in place (boots won't twist or come off when properly fitted).</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>BFB Boots </strong>make excellent spare tires, and are also the perfect strategy for keeping shoes on before a show or event!</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list --></div>
+<!-- /wp:group -->
+
+<!-- wp:separator {"backgroundColor":"pale-silver"} -->
+<hr class="wp-block-separator has-text-color has-pale-silver-color has-alpha-channel-opacity has-pale-silver-background-color has-background"/>
+<!-- /wp:separator -->
+
+<!-- wp:group {"metadata":{"name":"Single product - BLB"},"style":{"spacing":{"blockGap":"var:preset|spacing|gap"}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:media-text {"mediaId":6521,"mediaLink":"http://cavallo.local/?attachment_id=6521","mediaType":"image","mediaWidth":30,"imageFill":false,"backgroundColor":"light-red-1"} -->
+<div class="wp-block-media-text is-stacked-on-mobile has-light-red-1-background-color has-background" style="grid-template-columns:30% auto"><figure class="wp-block-media-text__media"><img src="http://cavallo.local/wp-content/uploads/2024/12/CLB-Black-Boot-Product-Photo-EU-LOW-RES-WEB.jpg" alt="Cavallo CLB Hoof Boot for miniature horses - Black" class="wp-image-6521 size-full"/></figure><div class="wp-block-media-text__content"><!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|md","bottom":"var:preset|spacing|md","left":"0","right":"0"},"margin":{"top":"0","bottom":"0"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--md);padding-right:0;padding-bottom:var(--wp--preset--spacing--md);padding-left:0"><!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading">CLB MINI HOOF BOOT TECHNOLOGY &amp; FEATURES</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"placeholder":"Content…"} -->
+<p>Each Cavallo hoof boot style has additional features unique to its design. Check out our <strong>Sport</strong>, <strong>Trek</strong>, and <strong>Simple Hoof Boots</strong> to learn more.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons {"layout":{"type":"flex","justifyContent":"left"}} -->
+<div class="wp-block-buttons"><!-- wp:button {"backgroundColor":"red","style":{"border":{"radius":"50px"}}} -->
+<div class="wp-block-button"><a class="wp-block-button__link has-red-background-color has-background wp-element-button" href="http://cavallo.local/product-category/hoof-boot/mini-hoof-boots/" style="border-radius:50px" target="_blank" rel="noreferrer noopener">Shop CLB Hoof Boot</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:group --></div></div>
+<!-- /wp:media-text -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><strong>Purpose-built for miniature horses, </strong>donkeys, and ponies—with proportionally accurate dimensions for tiny hooves and legs.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Durable 1680 Denier Nylon Upper </strong>offers exceptional strength, flexibility, and abrasion resistance in a lightweight form, ideal for minis.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Soft Foam-Padded Collar</strong> cushions the delicate pastern area of miniature equines to prevent rubbing and ensure comfortable, extended wear.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Exchangeable Velcro closures </strong>provide a snug fit and are easily replaceable, extending the boot's lifespan.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Reflective Safety Accents</strong> increase visibility during evening activities, adding an important safety feature for smaller animals.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Water Drainage Slots</strong> allow mud, water, and debris to exit the boot, keeping tiny hooves dry, clean, and healthy.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>TPU soles provide increased traction</strong> on slick, indoor flooring during hospital or care home therapy visits</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Provides comfort for chronic pain</strong>&nbsp;and hoof sensitivity, especially on uneven surfaces like rocks or gravel.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Cavallo CLB’s thoughtful design </strong>and durable, yet flexible materials make it the perfect all-purpose hoof boot for minis—ideal for driving, parades, indoor surfaces, and providing full hoof protection during healing from Laminitis, injuries, or other hoof ailments.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Easy front fastening system</strong> is so simple to use, requiring no additional tools, suitable for arthritic hands and users of all ages.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><span style="margin: 0px; padding: 0px;"><strong>Provides comfort for chronic pain</strong>&nbsp;and hoof sensitivity, especially o</span>n uneven surfaces like rocks or gravel.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Boots STAY ON: </strong>Bell-shaped design mirrors the natural hoof for a secure fit, and layers of industrial-strength Velcro®, ensure that boots stay firmly in place (boots won't twist or come off when properly fitted).</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>CLB Boots </strong>are the perfect strategy for keeping shoes on before a show or event!</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list --></div>
+<!-- /wp:group -->
+
+<!-- wp:block {"ref":203360} /-->

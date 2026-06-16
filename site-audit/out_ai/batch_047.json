@@ -1,0 +1,86 @@
+[
+  {
+    "id": "1764",
+    "content_format": "Product page",
+    "summary": "Product page for the Simple Ride Mask Without Ears, a transparent UV-protective fly mask that shields a horse's eyes from insects, dust and debris.",
+    "key_components": ["Product gallery", "Add-to-cart", "Product tabs", "Bulleted list"],
+    "primary_cta": "Add to cart"
+  },
+  {
+    "id": "1767",
+    "content_format": "Standard article (text + images)",
+    "summary": "Cavallo community roundup (March/April 2019) highlighting friends like Emma Massingale and her tricycle trip across Europe with miniature horses.",
+    "key_components": ["Image gallery", "Video embed"],
+    "primary_cta": "Read more"
+  },
+  {
+    "id": "1768",
+    "content_format": "Standard article (text + images)",
+    "summary": "Carole Herder's post admitting Cavallo's hoof pad plastic packaging was a mistake and announcing a move to eliminate plastic from pad packaging.",
+    "key_components": [],
+    "primary_cta": "None"
+  },
+  {
+    "id": "1769",
+    "content_format": "Standard article (text + images)",
+    "summary": "Customer reviews roundup (March/April 2019) sharing testimonials from Cavallo Trek and CLB hoof boot owners, including laminitis rehab and trail use.",
+    "key_components": ["Image gallery", "Testimonials"],
+    "primary_cta": "None"
+  },
+  {
+    "id": "1770",
+    "content_format": "Standard article (text + images)",
+    "summary": "Feature on natural horsemanship leader Emma Massingale's custom tricycle journey across Europe with her dog and two untrained miniature horses.",
+    "key_components": ["Video embed"],
+    "primary_cta": "Read more"
+  },
+  {
+    "id": "1771",
+    "content_format": "Standard article (text + images)",
+    "summary": "Reflective post using Solomon Asch's conformity experiment to encourage horse owners to choose adventure and their own beliefs over peer pressure.",
+    "key_components": ["Bulleted list"],
+    "primary_cta": "None"
+  },
+  {
+    "id": "1772",
+    "content_format": "Long-form guide / pillar",
+    "summary": "In-depth guide on how Cavallo hoof boots aid therapy, rehab and turnout for laminitis, founder, navicular, abscesses, white line disease and other hoof conditions.",
+    "key_components": ["Image gallery", "Video embed"],
+    "primary_cta": "Shop hoof boots"
+  },
+  {
+    "id": "1773",
+    "content_format": "Standard article (text + images)",
+    "summary": "Community link roundup pointing to magazine articles, newsletters and features (We Ride Sport & Trail, Trailmeister, Equi-Ads, Joe Camp) involving Cavallo.",
+    "key_components": ["Image gallery", "Video embed"],
+    "primary_cta": "Read more"
+  },
+  {
+    "id": "1774",
+    "content_format": "Standard article (text + images)",
+    "summary": "Carole Herder explains what white line disease is and how horse owners can recognize hoof anatomy and maintain healthy hooves.",
+    "key_components": [],
+    "primary_cta": "None"
+  },
+  {
+    "id": "1775",
+    "content_format": "Standard article (text + images)",
+    "summary": "Carole Herder's advice on keeping horse hooves hydrated and healthy during hot, dry weather and avoiding cracks and abscesses from sudden moisture changes.",
+    "key_components": ["Video embed"],
+    "primary_cta": "None"
+  },
+  {
+    "id": "1777",
+    "content_format": "Standard article (text + images)",
+    "summary": "Customer testimonial roundup featuring Cavallo Trek and CLB reviews, including the Horse Trail Chicks review and a laminitic mini named Valentine.",
+    "key_components": ["Image gallery", "Video embed", "Testimonials"],
+    "primary_cta": "None"
+  },
+  {
+    "id": "1781",
+    "content_format": "Standard article (text + images)",
+    "summary": "Carole Herder's article on five climate change issues affecting horses, covering wildfire smoke, heat, drought and respiratory health in British Columbia.",
+    "key_components": [],
+    "primary_cta": "None"
+  }
+]

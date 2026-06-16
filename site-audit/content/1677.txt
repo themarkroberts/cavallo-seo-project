@@ -1,0 +1,53 @@
+<!-- wp:embed {"url":"https://www.youtube.com/watch?v=-FRU71wLXpw","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://www.youtube.com/watch?v=-FRU71wLXpw
+</div></figure>
+<!-- /wp:embed -->
+
+<!-- wp:paragraph -->
+<p>A super fun part of Mane Event was launching the new Cavallo clothing line – hoodies &amp; slouchy T’s in soft, delicious pre-washed fabrics and with a gorgeous blingy Cavallo brand and hoofboot-print design!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":10348,"linkDestination":"custom","align":"right"} -->
+<figure class="wp-block-image alignright"><a href="http://www.bchorsemen.org/"><img src="//www.cavallo.local/wp-content/uploads/2017/10/2017-Mane-Event-Catherine-Davidson-Jenny-225x300.jpg" alt="Cavallo Meets BCH-BC at Mane Event" class="wp-image-10348"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Cavallo Community was out in full force at the <a href="https://chilliwack.maneeventexpo.com/">2017 Mane Event in </a><a href="https://chilliwack.maneeventexpo.com/">Chilliwack, </a><a href="https://chilliwack.maneeventexpo.com/">British Columbia! </a>&nbsp;One of the many stars who visited our booth was Darcie&nbsp;Kerkhoven, confirmed barefoot Champion 3- day Eventer, teacher and coach.&nbsp; Catherine Davidson of <a href="http://www.bchorsemen.org/bchbc/">BCH-BC (Back Country Horsemen of British Columbia)</a> came by with some of her members to&nbsp;do a little shopping.&nbsp; We love the BCH-BC. These are the people who really get out and ride those trails.&nbsp; If you are a member or are considering it: through Cavallo sponsorship you can get a pretty sweet deal.&nbsp; Jenny was thrilled because she got to put faces to names of all those folks she chats with by phone and email.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Our favorite Vet, <a href="http://geertsema.ca/about/">Hermen Geertsema</a> took some time to visit. Let me tell you, he trims a mean hoof when he has to! Unfortunately, of course we pay vet fees for this service.&nbsp; LOL.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":10351,"linkDestination":"custom","align":"left"} -->
+<figure class="wp-block-image alignleft"><a href="http://www.circlef.ca/"><img src="//www.cavallo.local/wp-content/uploads/2017/10/Circle-F-at-Mane-Event-2017-150x150.jpg" alt="Circle F Horse Rescue and Cavallo at Mane Event" class="wp-image-10351"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph {"className":"alignleft"} -->
+<p class="alignleft">We also love the hard-working volunteers from BC based&nbsp; <a href="http://www.circlef.ca/">Circle F Horse Rescue</a> .&nbsp; Cavallo is proud to support Circle F and you may consider supporting them too …. no donation is too small.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":5} -->
+<h5 class="wp-block-heading"><strong>Happy Trails,</strong></h5>
+<!-- /wp:heading -->
+
+<!-- wp:image {"id":10645,"width":"300px"} -->
+<figure class="wp-block-image is-resized"><img src="//www.cavallo.local/wp-content/uploads/2017/12/CaroleSig.jpg" alt="Carole Herder's Signature" class="wp-image-10645" style="width:300px"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":10798,"align":"left"} -->
+<figure class="wp-block-image alignleft"><img src="//www.cavallo.local/wp-content/uploads/2018/01/Caroles-Signature-2017.png" alt="Carole Herder's Signature" class="wp-image-10798"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->

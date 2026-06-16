@@ -1,0 +1,55 @@
+<!-- wp:paragraph -->
+<p><a href="http://cavallo.local" target="_blank" rel="noopener">Cavallo Horse &amp; Rider</a> is located on the spectacular <a href="https://sunshinecoastcanada.com/" target="_blank" rel="noopener">Sunshine Coast</a> in BC, Canada.&nbsp; It’s a small town (that’s quickly becoming a large one!). Our offices are here, in amongst the trees and pastures.&nbsp; We – and our animals, feel very fortunate to live here.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading">Cavallo Worldwide</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>At the present, <a href="http://cavallo.local/product-category/hoof-boot/" target="_blank" rel="noopener">Cavallo Hoof Boots</a> are sold in more than 26 countries Worldwide.&nbsp; Here, in this little town, when I am asked what I ‘do’, people are surprised when I tell them that my company, Cavallo, is a ‘hoof boot’ company.&nbsp; You mean “hoof” like horses? Yes -&nbsp; and I must then explain the function of the hoof, and why hoof boots are such a popular choice over metal shoes among horse owners.&nbsp; It’s always interesting to watch people’s faces as they process this information.&nbsp; “Wow!&nbsp; What a great idea! Why hasn’t anyone done this before?”&nbsp; It’s the pain free thing.&nbsp; And our inherent love for horses.&nbsp; Whether people have ridden or not or even been around horses, they see horses as the freedom, nature and wildness that we innately long for.&nbsp; We just want to see horses living naturally, pain free.&nbsp; And they get it.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading">Cavallo - Locally!</h4>
+<!-- /wp:heading -->
+
+<!-- wp:image {"id":11035,"align":"right"} -->
+<figure class="wp-block-image alignright"><a href="https://en.wikipedia.org/wiki/Roberts_Creek,_British_Columbia"><img src="//www.cavallo.local/wp-content/uploads/2018/03/2018-02-23-snow-close-up-221x300.jpg" alt="Roberts Creek in the Snow" class="wp-image-11035"/></a><figcaption class="wp-element-caption">Roberts Creek in the Snow</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>Recently, our local newspaper, <a href="http://www.coastreporter.net/" target="_blank" rel="noopener">The Coast Reporter</a>, printed an article about Cavallo.&nbsp; As you likely have seen, we had a <a href="https://www.facebook.com/emmamassingale/videos/1794099077554732/" target="_blank" rel="noopener">social media post about Cavallo go viral</a> at Christmas that got us a LOT of worldwide attention!&nbsp; This video post was produced by our favourite Female Equine Adventurer, <a href="http://www.emmamassingale.com/" target="_blank" rel="noopener">Emma Massingale.</a> Our local paper felt that our community would be interested to know that we are here in <a href="https://sunshinecoastcanada.com/explore/south-coast/roberts-creek/" target="_blank" rel="noopener">Roberts Creek</a>, tucked away, doing a VERY unique thing.&nbsp; We were completely bowled over by the local response to the article!&nbsp; Everywhere I go now, I have people coming up to me saying “So THAT’S what you do!&nbsp; That is SO COOL!”.&nbsp; People are fascinated.&nbsp; It has been a lot of fun for us, and we see it as one more small step toward educating the public about the needs of horses.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Here is a link to the Coast Reporter article – We hope you love it!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="http://www.coastreporter.net/news/local-news/creek-business-goes-worldwide-with-running-shoes-for-horses-1.23168990" target="_blank" rel="noopener">http://www.coastreporter.net/news/local-news/creek-business-goes-worldwide-with-running-shoes-for-horses-1.23168990</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Happy Trails,</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":10645} -->
+<figure class="wp-block-image"><img src="//www.cavallo.local/wp-content/uploads/2017/12/CaroleSig-300x101.jpg" alt="Carole Herder's Signature" class="wp-image-10645"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":10798,"linkDestination":"custom","align":"left"} -->
+<figure class="wp-block-image alignleft"><a href="http://cavallo.local/were-famous/"><img src="//www.cavallo.local/wp-content/uploads/2018/01/Caroles-Signature-2017-452x200.png" alt="Carole Herder's Signature" class="wp-image-10798"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph -->

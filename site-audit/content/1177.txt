@@ -1,0 +1,15 @@
+<!-- wp:image {"id":1260,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="http://cavallo.local/wp-content/uploads/2024/09/EVOLUTION-1024x341-e1405955578242.jpg" alt="" class="wp-image-1260"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><strong>By Carole Herder</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Horses are timeless and adaptable. The earliest known horses existed 55 million years ago. Their early evolution was mostly as a response to changes in climate and therefore their living environments. As recent as 10 million years ago over a dozen horse species inhabited the Great Plains of North America. Some lived in more forested areas and others preferred open grassland. At that time horses came in many shapes, sizes and colors, some as small as a large dog. Most horse species at that time had three toes. Over time, adapting to a predominantly prairie life, the hoof evolved to the one toe form we are familiar with today. Eventually the species Equus that we know today, dominated and survived.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>There is a little discrepancy about how long man has interacted with and domesticated the horse; anywhere from 6 to 12 thousand years. Our involvement with them contributed to how they evolved. Horses were hunted for meat and got bigger and faster to survive. As their stature increased, humans used them for work, or riding, which in turn made them larger and stronger. Even a hundred years ago they were primarily used for transportation, and for communication, i.e. The Pony Express. Now horses are used more for pleasure. They are bred less for work and more for competition or pleasure riding. Since domesticated we have created over 200 breeds of horses. How they continue to evolve will be determined by how we breed them; less wild and in human hands. And here is where my personal story comes in as my biggest concern for their survival is the treatment of their feet. I do not agree that nailing metal into their hooves serves them and in fact, their feet have been getting progressively more compromised as we continue to view this archaic practice as acceptable. We have been nailing metal shoes into their feet for about 1500 years. It is now time to exercise our options and make the switch to a more natural program. Leave your horses barefoot and natural on their living environment. We know they can handle it, because they have been on the planet for so long. Have your horse on a barefoot program and simply slip on Cavallos when you ride.They are survivors and the structure of their feet has indeed served them well. Why does man insist on improving on God’s amazing design?</p>
+<!-- /wp:paragraph -->

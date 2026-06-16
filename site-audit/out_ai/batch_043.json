@@ -1,0 +1,86 @@
+[
+  {
+    "id": "1700",
+    "content_format": "Standard article (text + images)",
+    "summary": "Cavallo blog post about the company's home on the Sunshine Coast of BC, its global reach in 26+ countries, and local press coverage in the Coast Reporter after a viral video.",
+    "key_components": ["Image gallery"],
+    "primary_cta": "Read more"
+  },
+  {
+    "id": "1701",
+    "content_format": "Standard article (text + images)",
+    "summary": "Reflective Cavallo blog post on a harsh Pacific Northwest winter, protecting horses through storms, and welcoming spring with references to yoga Sun Salutations.",
+    "key_components": ["Image gallery"],
+    "primary_cta": "None"
+  },
+  {
+    "id": "1702",
+    "content_format": "Standard article (text + images)",
+    "summary": "Customer testimonial from Mike Garrett of Crown Point, Indiana, praising Cavallo Hoof Boots for protecting his barefoot, tender-footed horse on gravel, mud, water, and snow.",
+    "key_components": ["Testimonials"],
+    "primary_cta": "None"
+  },
+  {
+    "id": "1703",
+    "content_format": "Standard article (text + images)",
+    "summary": "Short customer testimonial from Carol Wild (UK) describing how new Cavallo boots improved her horse Ariel's movement over jumps and on the road.",
+    "key_components": ["Testimonials"],
+    "primary_cta": "None"
+  },
+  {
+    "id": "1704",
+    "content_format": "Standard article (text + images)",
+    "summary": "Blog post on the Houston Mounted Police going barefoot and bitless, citing 1984 Swiss Cavalry research on the destructive impact and vibration forces of metal horseshoes.",
+    "key_components": ["Image gallery"],
+    "primary_cta": "None"
+  },
+  {
+    "id": "1705",
+    "content_format": "Standard article (text + images)",
+    "summary": "Guide-style post helping riders choose the right Cavallo hoof boot style, with embedded videos comparing boot models and demonstrating measuring and fitting.",
+    "key_components": ["Video embed"],
+    "primary_cta": "Measure your horse"
+  },
+  {
+    "id": "1706",
+    "content_format": "Standard article (text + images)",
+    "summary": "Customer testimonial from Sheila in Coulterville, California, on using Cavallo Simple and Sport Boots to resolve abscesses from thin walls and nailing shoes.",
+    "key_components": ["Testimonials"],
+    "primary_cta": "None"
+  },
+  {
+    "id": "1708",
+    "content_format": "Standard article (text + images)",
+    "summary": "Informational blog post on White Line Disease in horses: its possible causes, early detection, and natural treatments like apple cider vinegar and tea tree oil with Cavallo boots.",
+    "key_components": ["Image gallery"],
+    "primary_cta": "None"
+  },
+  {
+    "id": "1709",
+    "content_format": "Standard article (text + images)",
+    "summary": "Teaser blog post hinting at a new green Cavallo trail product to be unveiled in the next newsletter, inviting readers to guess.",
+    "key_components": ["Image gallery"],
+    "primary_cta": "Subscribe"
+  },
+  {
+    "id": "1710",
+    "content_format": "Standard article (text + images)",
+    "summary": "Event recap of Cavallo attending the Back Country Horsemen of BC 2018 Rendezvous in Barriere, BC, including rides, dinners, and an auction fundraiser with donated hoof boots.",
+    "key_components": ["Image gallery"],
+    "primary_cta": "None"
+  },
+  {
+    "id": "1711",
+    "content_format": "Standard article (text + images)",
+    "summary": "Brief post promoting Carole Herder's article 'The Hoof We See and a Disease of the White Line' in Natural Horse Magazine (Jul/Aug/Sep 2018), with a link to read it.",
+    "key_components": ["Image gallery"],
+    "primary_cta": "Read more"
+  },
+  {
+    "id": "1714",
+    "content_format": "Standard article (text + images)",
+    "summary": "Customer testimonial from Deborah Renz (Vancouver Island, BC) on using Cavallo ELBs with gel pads to help a flat-footed quarter horse go from limping to cantering.",
+    "key_components": ["Testimonials"],
+    "primary_cta": "None"
+  }
+]

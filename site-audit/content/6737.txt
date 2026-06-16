@@ -1,0 +1,15 @@
+<!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|gap"}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"textAlign":"left","level":1} -->
+<h1 class="wp-block-heading has-text-align-left">Why Horses Can't Go Barefoot</h1>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><strong>Why Horses Can’t Go Barefoot - Video with Dr. Tomas Teskey, DVM</strong> (Insight to Equus)<br>Dr.Tomas Teskey delivers an in-depth look into horse physiology. He explains overall horse care requirements, both physically and psychologically, including the importance of equine dentistry and its effect on horses’ hoofs:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:embed {"url":"https://www.youtube.com/watch?v=-52eeBPaLew","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://www.youtube.com/watch?v=-52eeBPaLew
+</div></figure>
+<!-- /wp:embed --></div>
+<!-- /wp:group -->

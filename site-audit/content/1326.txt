@@ -1,0 +1,23 @@
+<!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="http://cavallo.local/wp-content/uploads/2024/09/eye.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>By Carole Herder</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>When many of us look at our horses we see gentle yet strong, beautiful animals that are part of our families. Taking care of horses means paying attention to the details of their physical body and behavior. When I first approach my horse, and walk around him I take note of what I see. Is his tail swishing? Can I tell if he is moving it out of playfulness or frustration? I check for peaked eyelids or guard hairs which can indicate a level of discomfort or depleted immunity, respectively.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>I see how he reacts when I enter his space and interact with him. Is he happy or agitated? I look at the state of his body. It is the little signs that can alert you to his discomfort: is he relaxed or tense; does his hair appear rough or smooth? There is a certain line in a horse’s hair pattern that moves up from his haunches and across his lower abdomen. When that line is pronounced or there is a visible tightness you know his gut may not be digesting properly or there may be some bloating. It is also prudent to look around the area and examine the consistency and color of your horse’s manure. A change in color, texture or consistency could be a sign of digestive or hydration issues. If the manure is too tight your horse may need electrolytes or you may need to give him salt to encourage him to drink more. If his stool is too loose or runny then he may have issues digesting his food, i.e. the hay may be too green or the feed may have drying agents in it. If your horse is experiencing diarrhea it may mean that parasites are overrunning his system.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Above all, I look at his feet. Is he comfortable on them? Does he need a little hoof tidy up? How is the last trim growing out? We’ve all heard the adage ‘no hoof no horse’ and in my line of work I have certainly found that to be true. The hoofs are an incredible apparatus and must be cared for properly in order to carry our beautiful friends in a healthy functioning manner.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>As much you may love riding, it can also be enjoyable watching your horses run and play. Beyond the joy, watching your horse walk or run from a distance allows you the opportunity to observe his gait and the mechanical workings of his body. Does he seem to be favoring a leg? Is there a hitch in his giddy-up as the saying goes? Sometimes you can see things from a distance that you might not notice if you are always walking beside him or riding. It is also easy to get used to how he walks or runs and not realize it is really not entirely without some level of discomfort. It is similar to how you may have hurt your knee or something and favored it for such a long time that it became second nature. Then any discomfort became the norm. It isn’t until you meet up with a friend for lunch who says, “Why are you limping,” that you realize what you are doing and that you haven’t truly healed. I encourage you to watch your horse with fresh eyes. If something seems off, check his hoofs and address any issues. Give him an experience of being barefoot or wearing hoof boots. Also, if you notice a difference in how he runs with and without being saddled, he may benefit from a more technically advanced and ergonomically correct saddle pad. Check out Cavallo’s Total Comfort System saddle pads. They will help with alignment and movement and improve his ability and comfort when carrying you, his rider.</p>
+<!-- /wp:paragraph -->

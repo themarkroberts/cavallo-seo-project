@@ -1,0 +1,35 @@
+<!-- wp:image {"id":5981,"align":"right","className":"wp-image-5981 size-large"} -->
+<figure class="wp-block-image alignright wp-image-5981 size-large"><img src="//cavallo.local/wp-content/uploads/2015/08/screen1136x1136-263x452.jpeg" alt="Horse Hoof Boots" class="wp-image-5981"/><figcaption class="wp-element-caption">www.horsetrailapp.com</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>Wrapping my head around today’s technology can be a bit challenging. It all changes so fast and the actual process behind smart phones, GPS, and Wi-Fi baffles me. My kids are fluent - They don’t know any different. Yet, I almost dread the learning curve required for the gadgets and devices the next generation will be using!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The equestrian world has not been left out of this advancement in technology, and just for fun, I’ve outlined two trail-riding apps below.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The <span style="color: #0000ff;"><a href="http://www.horsetrailapp.com/" target="_blank" rel="noopener"><span style="color: #0000ff;">Horse Trail App</span></a></span> is perfect for those trail riding enthusiasts wanting to explore new trails to ride. It is an ever-changing database as users can continually add and update information. Each trail listing includes map style directions, description of trail scenery and difficulty, lists of amenities available for horse and rider, and locations of local equine vets and overnight stables.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>There is also the option to upload photos and descriptions of your own experiences on the trails. A special key feature, which is excellent for safety, ensures that you can text your co-ordinates to a friend or relative so that in the event of an emergency, your location is known.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><span style="color: #0000ff;"><a href="http://www.equitrailapp.com/" target="_blank" rel="noopener"><span style="color: #0000ff;">EQUITrail</span></a></span> is another great app for trail riders. It has real-time GPS tracking, trail mapping and the ability to ‘mark’ different obstacles or landmarks along the route using photos. A mileage tracking feature is included, making this perfect for competitive distance riders. Your route is tracked in the background while you ride (no need to hold on to the phone!) and you can access the data later, viewing the distance you traveled, your speed, and duration of your ride. You can also share this information with your friends and access their trails! And of course, your horses will be most comfortable on all terrain, at any speed, in Cavallo Horse Hoof Boots.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Happy trail riding, Cavallo fans!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":5795,"align":"left"} -->
+<figure class="wp-block-image alignleft"><img src="//cavallo.local/wp-content/uploads/2015/06/Caroles-452x181.png" alt="horse hoof boots" class="wp-image-5795"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->

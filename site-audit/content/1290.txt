@@ -1,0 +1,31 @@
+<!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="http://cavallo.local/wp-content/uploads/2024/09/tuckercavallopadWEB1-e1405952364189.jpg" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>By Carole Herder</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>When I was first trying to ride I noticed the rhythm of my horse. When I was able to connect to his rhythm the ride was easier. If you get with their cadence when you’re riding you give your horse a lot more freedom of movement and create fluidity. If you can’t or choose not to realize that rhythm then you must use equipment like bits and draw reins or more leg strength and muscle. If you can surrender to the natural rhythms of your horse and his nature, riding him is like dancing with your partner.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"left"} -->
+<p class="has-text-align-left">One year I was at a reigning competition called Super Slide. All these western riders were involved and the ride included fast spins, sliding, maneuvering horses in different patterns and showing off their abilities. While it is a more western style, it is based in Dressage – control and movement together in a certain rhythm that is trained.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The discipline called Dressage Kur is a more formal English style of riding where the rider moves together with their horse in a dance movement to music. It is stunningly beautiful. At the end of this evening, three Dressage riders wanted to show the western riders what they do. I was at the event with a booth to promote Cavallo Saddle Pads. One of the Dressage riders stopped by my booth. I told her all about my saddle pad designs. She shared with me that her horse seemed really stiff in the shoulders. She was frustrated because he was a big investment that she had paid to fly in from Holland. He was supposed to be a fluid mover. I gave her a saddle pad to try; to my shock she tried it in competition right then. Most people don’t put on a new piece of equipment in competition, but she did.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>As a result, her horse discovered that he had freedom of movement in the scapula. He was a big Dutch warm blood, bred to perform and move. Saddled up and ready to go, just as this rider started her dance, the Dressage Kur, her horse moved out, realizing he felt freedom of movement for the first time. The rider wasn’t ready for it and fell off!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>She came back to me at the booth afterward with her saddle pad in hand and with a stern look said, “I fell off my horse.” I felt terrible. She laughed and went on to say, “All of a sudden I realized that my horse was moving properly the way he was meant to move for the breeding and money I paid to import him. Now I know he can really move and I got what I paid for…but I wasn’t ready and fell off.” That’s the difference that a free movement can make. The scope of movement is limited for a horse that is hitched, not in cadence or if you’re not in balance with him. If you’re moving with him and he is free, you can have a lovely dance.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>"Love doesn't make the world go round. Love is what makes the ride worthwhile." - Franklin P. Jones</p>
+<!-- /wp:paragraph -->

@@ -1,0 +1,7 @@
+<!-- wp:image {"id":1103,"width":"240px","height":"auto","sizeSlug":"full","linkDestination":"none","align":"left"} -->
+<figure class="wp-block-image alignleft size-full is-resized"><img src="http://cavallo.local/wp-content/uploads/2024/09/myrtlebeach-1024x947-e1405692247258.jpg" alt="" class="wp-image-1103" style="width:240px;height:auto"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>On the road with Cavallo Hoof Boots at the American Heart Association ride &nbsp;in Myrtle Beach,&nbsp; South Carolina. Over $200,000 raised!&nbsp; For more information visit - <a href="http://www.ahabeachride.org/" target="_blank" rel="noopener">www.ahabeachride.org/</a></p>
+<!-- /wp:paragraph -->

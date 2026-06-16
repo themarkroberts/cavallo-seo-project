@@ -1,0 +1,27 @@
+<!-- wp:image {"id":5010,"align":"left"} -->
+<figure class="wp-block-image alignleft"><img src="//cavallo.local/wp-content/uploads/2014/10/halloween.jpg" alt="halloween" class="wp-image-5010"/></figure>
+<!-- /wp:image -->
+
+<ul>
+<li> ‘Puca’ was an Irish spirit and shape shifter and often took the form of a horse</li>
+<li> Horses can eat pumpkin (in small doses!). Or why not scoop one out and fill it with goodies like apple and carrot junks! Your horse will root out the treats (before or after they smash the pumpkin with their hooves!)</li>
+<li>In traditional folklore, The Headless Horseman (from the short story, ‘The Legend of Sleepy Hollow’ by Washington Irving) was a Hessian artilleryman who was killed during the Battle of White Plains in 1776</li>
+<li>Our pink and red hoof boots are a great addition to a Halloween horse costume!</li>
+<li>The Kentucky Derby Museum is holding a ‘Horses and Haunts Tour’ every Thursday this month</li>
+</ul>
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+
+<ul>
+<li>The Celtic goddess of fertility, Epona, is the protector of horses, mules and donkeys and is also the goddess of breeding</li>
+<li>Superstitiously, horses tails were plaited with ribbons to keep them safe from witches</li>
+<li>Supposedly, copper pennies in a tank will prevent moody behavior in mares (I must try this one!)</li>
+<li>If you break a mirror, the misfortune can be averted if you lead a horse through the house (great excuse to bring the horse in!)</li>
+<li>It was thought that warts could be cured by circling them in horse hair</li>
+</ul>
+
+<!-- wp:spacer {"height":"40px"} -->
+<div style="height:40px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->

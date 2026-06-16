@@ -1,0 +1,91 @@
+<!-- wp:heading {"level":1} -->
+<h1 class="wp-block-heading">Proudly Sponsored by Cavallo - Here's Some Team Cavallo Happenings - May 2020</h1>
+<!-- /wp:heading -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">A Grand Welcome to Thea of Crazy Shetlands!</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The CLB Boot has been trotting the globe lately, and they've just landed in Norway, the <a href="https://www.instagram.com/crazyshetlands/?hl=en" target="_blank" rel="noopener noreferrer">Crazy Shetlands Instagram page!&nbsp;</a> Welcome to the team!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Thea is an extremely active horsewoman who never seems to sit still for very long!&nbsp; Her pony, Luna, was suffering from hoof sensitivity on gravel and hard ground.&nbsp; NOT ANYMORE!&nbsp;&nbsp;We can't wait to see more photos and videos of what they get up to in their <a style="font-size: 14px; background-color: #ffffff;" href="http://cavallo.local/product-category/hoof-boot/mini-hoof-boots/" target="_blank" rel="noopener noreferrer">new CLB Boots!&nbsp;&nbsp;</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:embed {"url":"https://www.youtube.com/watch?v=awwpdbGL-sQ","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://www.youtube.com/watch?v=awwpdbGL-sQ
+</div></figure>
+<!-- /wp:embed -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">When Lockdown Gives her Lemons - Emma Makes Lemonade!</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>During Lockdown, <a href="https://www.emmamassingale.com/about" target="_blank" rel="noopener noreferrer">Emma Massingale</a> and her ponies can't get out to the beach as they normally would. So, of course, the next best thing is a paddling pool, right?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Check out what her 11 mini ponies thought about this new water feature in their yard!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:embed {"url":"https://www.youtube.com/watch?v=I0RbX1K9vIY","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://www.youtube.com/watch?v=I0RbX1K9vIY
+</div></figure>
+<!-- /wp:embed -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">We'll Miss You, Sarah and Merry!</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Some are realizing that the best isolation goals are to have no goals at all, and just enjoy life as it is...</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Goodbye, Sarah and Merry of Multiple Sclerosis, Merry &amp; Me. We've watched them climb to nearly 1000 likes on Facebook, with Sarah's thoughtful blog and photos. But it's to move on to new things!&nbsp;They inspired us, they made us laugh, and said lovely things about their<a style="font-size: 14px; background-color: #ffffff;" href="http://cavallo.local/product-category/hoof-boot/trek-hoof-boots/" target="_blank" rel="noopener noreferrer"> Trek Boots!</a> We respect Sarah's decision to close her page (although secretly, we're thinking - nooooooo, don't go!) Thanks for taking us along for the ride!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>If you hurry, You may still have a day or two to say goodbye and send well-wishes to their page before it closes down <a href="https://www.facebook.com/MSMerryandMe/?tn-str=k*F" target="_blank" rel="noopener noreferrer">HERE</a>!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="http://cavallo.local/wp-content/uploads/2020/05/Sarah-Kirk-Multiple-Sclerosis-Merry-Me-1-450x315.jpg" alt="Sarah Kirk Multiple Sclerosis Merry &amp; Me"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Journey the Mustang - 100 Days to go from Wild to Mild</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Molly Kline was honoured to be accepted to participate in the <a href="https://extrememustangmakeover.com/events/kentucky/" target="_blank" rel="noopener noreferrer">2020 Kentucky Extreme Mustang Challenge</a>. She's been given a wild mustang named Journey for 100 days to tame and train. She'll compete with Journey in the Challenge and will also work hard to find her an excellent to find her an excellent new home.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Molly noticed that Journey's feet seemed quite sore on rocky trails.&nbsp; She contacted us and we just didn't want to see Journey's natural mustang-feet shod.&nbsp; We sent them a pair of Trek Hoof Boots and welcomed the pair to Team Cavallo!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Join the 2020 Kentucky Mustang Makeover <a href="https://www.facebook.com/groups/1273125992717101/" target="_blank" rel="noopener noreferrer">Facebook group HERE to get more info and follow the excitement</a>!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="http://cavallo.local/wp-content/uploads/2020/05/Molly-Klein-Journey-2020-kentucky-mustang-makeover-2-1-450x315.jpg" alt="Cavallo Trek Hoof Boots 2020 Kentucky Extreme mustang makeover"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">&nbsp;</h2>
+<!-- /wp:heading -->

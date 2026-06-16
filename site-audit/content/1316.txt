@@ -1,0 +1,15 @@
+<!-- wp:image {"width":"357px","height":"auto","sizeSlug":"large","align":"left"} -->
+<figure class="wp-block-image alignleft size-large is-resized"><img src="http://cavallo.local/wp-content/uploads/2024/09/gaited-e1405717650645.jpg" alt="" style="width:357px;height:auto"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>Ever wonder if you can use Cavallo Hoof boots on your gaited horse? We received this feedback from another happy Cavallo customer.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Just a note to let you know how great the Simple boot is. I have a 15 year old Peruvian Paso that I no longer show and wanted him to be a good trail horse. My Peruvian Paso is barefoot and the trails that I ride are quite rocky and steep. I finished a ride today with the Simple boot on his back hooves and the Sport boot on his front hooves. Best ride I have had with him. He scrambled over the rocks at a paso llano (similar to a trot) and a sobreandando (fast trot) and even cantered, which is not a normal gait for him. His feet were in perfect condition at the end of the ride and he was a very happy horse. Thanks for the great boots.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>- Dennis Makemson, USA</p>
+<!-- /wp:paragraph -->

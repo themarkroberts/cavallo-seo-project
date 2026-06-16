@@ -1,0 +1,351 @@
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"textAlign":"center","level":1,"style":{"spacing":{"padding":{"bottom":"var:preset|spacing|md"}}},"fontSize":"normal"} -->
+<h1 class="wp-block-heading has-text-align-center has-normal-font-size" style="padding-bottom:var(--wp--preset--spacing--md)">Your Cavallo News – September/October 2023</h1>
+<!-- /wp:heading -->
+
+<!-- wp:image {"id":4011,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="http://cavallo.local/wp-content/uploads/2024/10/news-banner.jpg" alt="" class="wp-image-4011"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"var:preset|spacing|xl","bottom":"var:preset|spacing|xl"},"margin":{"top":"0","bottom":"0"}}},"backgroundColor":"light-red-1","layout":{"type":"constrained","contentSize":""}} -->
+<div class="wp-block-group alignfull has-light-red-1-background-color has-background" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--xl);padding-bottom:var(--wp--preset--spacing--xl)"><!-- wp:columns {"style":{"spacing":{"padding":{"top":"0","bottom":"0"}}}} -->
+<div class="wp-block-columns" style="padding-top:0;padding-bottom:0"><!-- wp:column {"verticalAlignment":"center","width":"44.48%"} -->
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis:44.48%"><!-- wp:heading -->
+<h2 class="wp-block-heading">PURPLE TREK BOOTS JUST DAYS AWAY!</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"spacing":{"margin":{"bottom":"27px"}}}} -->
+<p style="margin-bottom:27px">When it comes to making hoof boots for you, it has always been FUNCTION, ease of use and durability. But what follows after all this is mastered? We asked, and you said, “How about <strong>COLOUR</strong>?” And the colour you most often chose was PURPLE, the colour of royalty, individuality, and rebellion.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"4px","bottom":"27px"}}}} -->
+<p style="margin-top:4px;margin-bottom:27px"><strong>So keep an eye on our emails, our Facebook &amp; IG account and our website to be first to know when the PURPLE TREK is released next week!</strong></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"top","width":"","style":{"spacing":{"padding":{"right":"0","left":"0","top":"0","bottom":"0"}}},"layout":{"type":"constrained","contentSize":"585px","justifyContent":"right","wideSize":""}} -->
+<div class="wp-block-column is-vertically-aligned-top" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:image {"id":4297,"scale":"cover","sizeSlug":"full","linkDestination":"none","style":{"color":{"duotone":"unset"},"border":{"width":"0px","style":"none","radius":"10px"}}} -->
+<figure class="wp-block-image size-full has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2024/10/thios-one2.webp" alt="" class="wp-image-4297" style="border-style:none;border-width:0px;border-radius:10px;object-fit:cover"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|xxl","bottom":"var:preset|spacing|xxl"},"margin":{"top":"0","bottom":"0"}}},"layout":{"type":"constrained","contentSize":""}} -->
+<div class="wp-block-group" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--xxl);padding-bottom:var(--wp--preset--spacing--xxl)"><!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column {"verticalAlignment":"top","width":"","style":{"spacing":{"padding":{"right":"0","left":"0","top":"0","bottom":"0"}}},"layout":{"type":"constrained","contentSize":"585px","justifyContent":"left","wideSize":""}} -->
+<div class="wp-block-column is-vertically-aligned-top" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:embed {"url":"https://www.youtube.com/watch?v=c6tzG7owZ7E","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://www.youtube.com/watch?v=c6tzG7owZ7E
+</div></figure>
+<!-- /wp:embed --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"top","width":"44.48%"} -->
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis:44.48%"><!-- wp:heading -->
+<h2 class="wp-block-heading">How Does Dan James Perform Stunts Safely?</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"fontSize":"normal"} -->
+<p class="has-normal-font-size">Do you follow Dan James? That’s right, THE Dan James of Double Dan Horsemanship who prepares liberty horses for the Heartland TV Show!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"4px","bottom":"27px"}}}} -->
+<p style="margin-top:4px;margin-bottom:27px">Watch this video to find out some of Dan’s secrets for performing some of his best-known stunts! (Spoiler alert: his horses’ footwear plays a major role!)<br>Want to see more of Dan in action? We can’t blame you! Watch Dan training in an epic outdoor setting <a href="https://youtu.be/zWMpbGyiSuA"><span style="text-decoration: underline;">HERE!</span></a></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"var:preset|spacing|xl","bottom":"var:preset|spacing|xl"},"margin":{"top":"0","bottom":"0"}}},"backgroundColor":"light-red-1","layout":{"type":"constrained","contentSize":""}} -->
+<div class="wp-block-group alignfull has-light-red-1-background-color has-background" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--xl);padding-bottom:var(--wp--preset--spacing--xl)"><!-- wp:columns {"style":{"spacing":{"padding":{"top":"0","bottom":"0"}}}} -->
+<div class="wp-block-columns" style="padding-top:0;padding-bottom:0"><!-- wp:column {"verticalAlignment":"top","width":"44.48%"} -->
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis:44.48%"><!-- wp:heading -->
+<h2 class="wp-block-heading">Why Road Safety &amp; the Right Gear are EVERYTHING:</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"fontSize":"large"} -->
+<p class="has-large-font-size">At Cavallo, we receive a lot of unsolicited testimonials, but THIS ONE HIT HOME. This one shook us up. We can’t get it out of our heads… Please read this heartfelt message from Carolyn Gaedtke of Florida:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"4px","bottom":"27px"}}}} -->
+<p style="margin-top:4px;margin-bottom:27px">“Thankful for our Cavallo Boots. Two months ago, my four boys and our three ponies were out driving when a woman decided to run a stop sign and plowed into the back of my cart. The police believe she was on her phone and estimate she hit us at about 40 mph.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Her front bumper got caught in my carriage wheel, and she pushed my pony, Anna, about 35 feet. Above is a picture of the cart. You can see the wheel where the woman’s bumper was stuck so that we couldn’t get away, and she was pushing us. My 8-year-old son was in the cart with me.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"4px","bottom":"27px"}}}} -->
+<p style="margin-top:4px;margin-bottom:27px">It’s a miracle my pony, my son and I are alive! Anna’s Cavallo Boots got really beat up! If our pony hadn’t been wearing them it is highly likely her feet would have been destroyed and she would have likely had to be put down. Her boots protected her feet!</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"top","width":"","style":{"spacing":{"padding":{"right":"0","left":"0","top":"0","bottom":"0"}}},"layout":{"type":"constrained","contentSize":"585px","justifyContent":"right","wideSize":""}} -->
+<div class="wp-block-column is-vertically-aligned-top" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:image {"id":4303,"width":"380px","height":"auto","scale":"cover","sizeSlug":"full","linkDestination":"none","style":{"color":{"duotone":"unset"},"border":{"width":"0px","style":"none","radius":"10px"}}} -->
+<figure class="wp-block-image size-full is-resized has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2024/10/Carolyn-Gaedtke-CLB-in-accident-with-mini-cart-driving-cart-wheel4-393x452-1.jpg" alt="" class="wp-image-4303" style="border-style:none;border-width:0px;border-radius:10px;object-fit:cover;width:380px;height:auto"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:columns {"style":{"spacing":{"padding":{"top":"0","bottom":"0"}}}} -->
+<div class="wp-block-columns" style="padding-top:0;padding-bottom:0"><!-- wp:column {"verticalAlignment":"top","width":"","style":{"spacing":{"padding":{"right":"0","left":"0","top":"0","bottom":"0"}}},"layout":{"type":"constrained","contentSize":"585px","justifyContent":"right","wideSize":""}} -->
+<div class="wp-block-column is-vertically-aligned-top" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:image {"id":4304,"width":"352px","height":"auto","scale":"cover","sizeSlug":"full","linkDestination":"none","style":{"color":{"duotone":"unset"},"border":{"width":"0px","style":"none","radius":"10px"}}} -->
+<figure class="wp-block-image size-full is-resized has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2024/10/Carolyn-Gaedtke-Mini-horse-Cart-in-driving-accident-Cavallo-CLB-Hoof-Boots2-393x452-1.jpg" alt="" class="wp-image-4304" style="border-style:none;border-width:0px;border-radius:10px;object-fit:cover;width:352px;height:auto"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"top","width":"50%"} -->
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis:50%"><!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"4px","bottom":"27px"}}}} -->
+<p style="margin-top:4px;margin-bottom:27px">The accident shredded parts of the boot bottoms and ripped the closing tabs. She was in the back and got the direct hit and was pushed over 35 feet into my boys and the pony in front of her.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Our other pony and my three boys in the other cart were only mildly injured from us being pushed into their cart and the boots protected their pony, too. It’s a miracle we are all ok and I know the boots were a big part of that.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>When I looked at the boots my stomach hurt to think what if that had been her hooves!!!!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"4px","bottom":"27px"}}}} -->
+<p style="margin-top:4px;margin-bottom:27px">None of the ponies panicked. All of our ponies are small, under 50 inches. I am amazed they are ok.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:columns {"style":{"spacing":{"padding":{"top":"0","bottom":"0"}}}} -->
+<div class="wp-block-columns" style="padding-top:0;padding-bottom:0"><!-- wp:column {"verticalAlignment":"top","width":"44.48%"} -->
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis:44.48%"><!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"4px","bottom":"27px"}}}} -->
+<p style="margin-top:4px;margin-bottom:27px">Please share in any way that might be helpful for horse people or others. If we can help or save one person from going through what we have it is worth it.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>I can’t believe it’s been 9 weeks now since the accident and the ponies have been cleared by the vet and chiropractor and are driving again! I will take more time and might have permanent back pain.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>We had a “SLOW-MOVING” sign on our cart with flashing red lights like for bikes, even though it wasn’t yet dark. The driver admitted she wasn’t paying attention. It is but by the grace of God my children and I and and our ponies are all alive.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"4px","bottom":"27px"}}}} -->
+<p style="margin-top:4px;margin-bottom:27px">– Carolyn Gaedtke</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"top","width":"","style":{"spacing":{"padding":{"right":"0","left":"0","top":"0","bottom":"0"}}},"layout":{"type":"constrained","contentSize":"585px","justifyContent":"right","wideSize":""}} -->
+<div class="wp-block-column is-vertically-aligned-top" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:image {"id":4305,"width":"346px","height":"auto","scale":"cover","sizeSlug":"full","linkDestination":"none","style":{"color":{"duotone":"unset"},"border":{"width":"0px","style":"none","radius":"10px"}}} -->
+<figure class="wp-block-image size-full is-resized has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2024/10/Carolyn-Gaedtke-CLB-in-accident-with-mini-cart-driving1-393x452-1.jpg" alt="September and October 2023 Cavallo Newsletter Carting " class="wp-image-4305" style="border-style:none;border-width:0px;border-radius:10px;object-fit:cover;width:346px;height:auto"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"var:preset|spacing|xl","bottom":"var:preset|spacing|xl"},"margin":{"top":"0","bottom":"0"}}},"layout":{"type":"constrained","contentSize":""}} -->
+<div class="wp-block-group alignfull" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--xl);padding-bottom:var(--wp--preset--spacing--xl)"><!-- wp:columns {"style":{"spacing":{"padding":{"top":"0","bottom":"0"}}}} -->
+<div class="wp-block-columns" style="padding-top:0;padding-bottom:0"><!-- wp:column {"verticalAlignment":"top","width":"","style":{"spacing":{"padding":{"right":"0","left":"0","top":"0","bottom":"0"}}},"layout":{"type":"constrained","contentSize":"585px","justifyContent":"right","wideSize":""}} -->
+<div class="wp-block-column is-vertically-aligned-top" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:image {"id":4306,"width":"479px","height":"auto","scale":"cover","sizeSlug":"full","linkDestination":"none","style":{"color":{"duotone":"unset"},"border":{"width":"0px","style":"none","radius":"10px"}}} -->
+<figure class="wp-block-image size-full is-resized has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2024/10/Horse-Trails-of-America-HTA-member-benefits.webp" alt="Horse-Trails-of-America-HTA-member-benefits" class="wp-image-4306" style="border-style:none;border-width:0px;border-radius:10px;object-fit:cover;width:479px;height:auto"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"center","width":"50%"} -->
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis:50%"><!-- wp:heading -->
+<h2 class="wp-block-heading">HUGE DISCOUNTS for HTA Members!</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"spacing":{"margin":{"bottom":"27px"}}}} -->
+<p style="margin-bottom:27px">Horse Trails of America (HTA) Members are rewarded with BIG discounts and incentives – <a href="https://www.horsetrailsofamerica.com/membership-benefits"><span style="text-decoration: underline;">Including 30% OFF Cavallo Boots &amp; Saddle Pads</span></a> for the month of October!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Why Join Horse Trails of America? They are devoted to helping their members find and easily access the best trails, connect with like-minded riders, gain horsemanship education, and find great camps that are open to horses.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>HTA was created in 2012 by trail riders (like you!). They quickly became the largest trail riding community and #1 trail riding resource in America.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"4px","bottom":"27px"}}}} -->
+<p style="margin-top:4px;margin-bottom:27px">With access to a community of trail riders, partnered clinicians, content in <a href="https://www.horsetrailsofamerica.com/the-trail-journal" target="_blank" rel="noreferrer noopener"><span style="text-decoration: underline;">The Trail Journal magazine</span></a>, and a <a href="https://www.horsetrailsofamerica.com/travel-resources" target="_blank" rel="noreferrer noopener"><span style="text-decoration: underline;">website full of valuable info</span></a>, they’ve helped thousands of trail riders and horses to plan their exciting adventures across America!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"textColor":"red","className":"is-style-fill c-button\u002d\u002dsimple","style":{"elements":{"link":{"color":{"text":"var:preset|color|red"}}},"spacing":{"padding":{"left":"0","right":"0","top":"0","bottom":"0"}},"color":{"background":"#ffffff00"}}} -->
+<div class="wp-block-button is-style-fill c-button--simple"><a class="wp-block-button__link has-red-color has-text-color has-background has-link-color wp-element-button" href="https://www.horsetrailsofamerica.com/membership-benefits" style="background-color:#ffffff00;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0" target="_blank" rel="noreferrer noopener">See HTA Member Discounts<svg xmlns="http://www.w3.org/2000/svg" width="16" height="17">    <path d="m9.356 3.644 4.5 4.5a.512.512 0 0 1 0 .712l-4.5 4.5a.507.507 0 0 1-.712-.712L12.294 9H2.5a.5.5 0 1 1 0-1h9.794l-3.65-3.644a.506.506 0 0 1 .712-.712Z"></path></svg><br></a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|xl","bottom":"var:preset|spacing|xl"},"margin":{"top":"0","bottom":"0"}}},"backgroundColor":"light-red-1","layout":{"type":"constrained"}} -->
+<div class="wp-block-group has-light-red-1-background-color has-background" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--xl);padding-bottom:var(--wp--preset--spacing--xl)"><!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"id":4307,"sizeSlug":"full","linkDestination":"none","style":{"border":{"radius":"10px"}}} -->
+<figure class="wp-block-image size-full has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2024/10/Patrick-the-Pony-2024-Calendar-452x339-1.jpg" alt="" class="wp-image-4307" style="border-radius:10px"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"id":4308,"sizeSlug":"full","linkDestination":"none","style":{"border":{"radius":"10px"}}} -->
+<figure class="wp-block-image size-full has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2024/10/Patrick-the-Pony-2024-Calendar-back-452x339-1.jpg" alt="" class="wp-image-4308" style="border-radius:10px"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Christmas Gift Alert! Patrick the Pony Calendar:</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="https://youtu.be/V611bEB92mA" target="_blank" rel="noreferrer noopener"><span style="text-decoration: underline;">Patrick the Pony (and Mayor of Cockington)</span></a> wants to let you know that his 2024 Calendars are now available for just £10 (plus postage &amp; packaging). Please private message his people on Facebook or WhatsApp (at 07912992818) or by email at info@communityponycic.org.uk – they will have yours sent out right away!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>What a perfect gift for any horse lover of any age! There is a limited quantity available and they are expected to sell out, so don’t hesitate!</strong></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"var:preset|spacing|xl","bottom":"var:preset|spacing|xl"},"margin":{"top":"0","bottom":"0"}}},"layout":{"type":"constrained","contentSize":""}} -->
+<div class="wp-block-group alignfull" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--xl);padding-bottom:var(--wp--preset--spacing--xl)"><!-- wp:columns {"style":{"spacing":{"padding":{"top":"0","bottom":"0"}}}} -->
+<div class="wp-block-columns" style="padding-top:0;padding-bottom:0"><!-- wp:column {"verticalAlignment":"top","width":"44.48%"} -->
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis:44.48%"><!-- wp:heading -->
+<h2 class="wp-block-heading">NEW Cavallo Partnership wth TREC GB!</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"spacing":{"margin":{"bottom":"27px"}}}} -->
+<p style="margin-bottom:27px">CEO Greg Giles and TREC GB Chair, Christine Paine recently met in person at the BETA (British Equestrian Trade Association) show in the UK.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>They had a lot to talk about! <a href="https://trecgb.com/about/" target="_blank" rel="noreferrer noopener"><span style="text-decoration: underline;">TREC GB</span></a>‘s commitment to a fair, inclusive and friendly equestrian sport really resonates with Cavallo values, and we’re building a new partnership based on these principles!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Cavallo is happy to announce we are now official sponsors of TREC GB! Many TREC riders use Cavallo Boots because they frequently move through beautiful, rugged areas where horses are generally not allowed to go. Hoof boots that STAY ON are an absolute must, and we are very proud to be their choice.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"4px","bottom":"27px"}}}} -->
+<p style="margin-top:4px;margin-bottom:27px"><a href="https://www.horseandhound.co.uk/features/trec-work-434044" target="_blank" rel="noreferrer noopener"><span style="text-decoration: underline;">TREC</span></a> is designed to increase the knowledge, awareness and enjoyment of the countryside for a diverse range of riders of all skill levels. It’s known as a really friendly sport, first-timers are always very welcome!</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"top","width":"","style":{"spacing":{"padding":{"right":"0","left":"0","top":"0","bottom":"0"}}},"layout":{"type":"constrained","contentSize":"585px","justifyContent":"right","wideSize":""}} -->
+<div class="wp-block-column is-vertically-aligned-top" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:image {"id":4317,"scale":"cover","sizeSlug":"full","linkDestination":"none","style":{"color":{"duotone":"unset"},"border":{"width":"0px","style":"none","radius":"10px"}}} -->
+<figure class="wp-block-image size-full has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2024/10/A-Beautiful-Partnership-with-TREC-GB.webp" alt="" class="wp-image-4317" style="border-style:none;border-width:0px;border-radius:10px;object-fit:cover"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"var:preset|spacing|xl","bottom":"var:preset|spacing|xl"},"margin":{"top":"0","bottom":"0"}}},"backgroundColor":"light-red-1","layout":{"type":"constrained","contentSize":""}} -->
+<div class="wp-block-group alignfull has-light-red-1-background-color has-background" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--xl);padding-bottom:var(--wp--preset--spacing--xl)"><!-- wp:columns {"style":{"spacing":{"padding":{"top":"0","bottom":"0"}}}} -->
+<div class="wp-block-columns" style="padding-top:0;padding-bottom:0"><!-- wp:column {"verticalAlignment":"top","width":"","style":{"spacing":{"padding":{"right":"0","left":"0","top":"0","bottom":"0"}}},"layout":{"type":"constrained","contentSize":"585px","justifyContent":"right","wideSize":""}} -->
+<div class="wp-block-column is-vertically-aligned-top" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:image {"id":4324,"scale":"cover","sizeSlug":"full","linkDestination":"none","style":{"color":{"duotone":"unset"},"border":{"width":"0px","style":"none","radius":"10px"}}} -->
+<figure class="wp-block-image size-full has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2024/10/Check-ou-tthe-Cavallo-articles-library-for-barefoot-horses.jpg" alt="" class="wp-image-4324" style="border-style:none;border-width:0px;border-radius:10px;object-fit:cover"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"top","width":"50%"} -->
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis:50%"><!-- wp:heading -->
+<h2 class="wp-block-heading">LOVE Learning about Helping your Horse?<br>Nerd Out with Us!</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"spacing":{"margin":{"bottom":"27px"}}}} -->
+<p style="margin-bottom:27px">Looking for a fresh resource for barefoot horse keeping or booting your shod horse?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>With our continually updated Cavallo articles library, I aim to help you in your transition to barefoot riding or support you in your journey if you’re already barefoot &amp; booted. I’ve also added articles to support riders of shod horses who use boots for extra traction, trailering, and protection!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"4px","bottom":"27px"}}}} -->
+<p style="margin-top:4px;margin-bottom:27px">Have a little one? Many of my articles apply to mini horses, and some are specific to their needs.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"textColor":"red","className":"is-style-fill c-button\u002d\u002dsimple","style":{"elements":{"link":{"color":{"text":"var:preset|color|red"}}},"spacing":{"padding":{"left":"0","right":"0","top":"0","bottom":"0"}},"color":{"background":"#ffffff00"}}} -->
+<div class="wp-block-button is-style-fill c-button--simple"><a class="wp-block-button__link has-red-color has-text-color has-background has-link-color wp-element-button" href="http://cavallo.local/category/horsecare-educational-resources/" style="background-color:#ffffff00;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0">Visit Our Article Library<svg xmlns="http://www.w3.org/2000/svg" width="16" height="17">    <path d="m9.356 3.644 4.5 4.5a.512.512 0 0 1 0 .712l-4.5 4.5a.507.507 0 0 1-.712-.712L12.294 9H2.5a.5.5 0 1 1 0-1h9.794l-3.65-3.644a.506.506 0 0 1 .712-.712Z"></path></svg><br></a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:paragraph -->
+<p>Use our search bar to find articles on any topic at <a href="http://cavallo.local/">www.cavallo.local</a> (shown below). This resource includes unsolicited testimonials from horse owners, trainers, and veterinarians. Read about booting to help heal Laminitis, Navicular disease and so many other hoof ailments!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":331248,"sizeSlug":"full","linkDestination":"none","align":"center"} -->
+<figure class="wp-block-image aligncenter size-full"><img src="http://cavallo.local/wp-content/uploads/2023/09/img.jpg" alt="" class="wp-image-331248"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"var:preset|spacing|xl","bottom":"var:preset|spacing|xl"},"margin":{"top":"0","bottom":"0"}}},"layout":{"type":"constrained","contentSize":""}} -->
+<div class="wp-block-group alignfull" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--xl);padding-bottom:var(--wp--preset--spacing--xl)"><!-- wp:group {"layout":{"type":"flex","orientation":"vertical"}} -->
+<div class="wp-block-group"><!-- wp:heading -->
+<h2 class="wp-block-heading">Thank you - We had a Really Good Belly Laugh!</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"spacing":{"margin":{"bottom":"27px"}}}} -->
+<p style="margin-bottom:27px">We had a difficult time choosing the winner of a free pair of Trek Pro Boots from last month’s contest!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Why was it so difficult, you ask? We asked you all to tell us the lengths their horse would go to for a pair of Trek Pro, and the winning comment on our <a href="https://www.facebook.com/CavalloHoofboots/posts/pfbid02e2VipCota4h6UZW9HeetgoQCELKDG12SwPw8t9k7JcLbme92oXUDuyAS1Rn7Gx1fl?__cft__[0]=AZU3opsDgQdAl7JZu_Wo6gIM4xRI3v4kEBMbUuanz4r7v5fIYuPK4pmI-CYmnIj2baF7Ht4Wg9lbhsnbPobf-N-g43CtJjT_bNm_WkEiSZw8RQwaqai6CFNJLdzO8NPPKTkEpqjoBKpEgRBaIQAPDTDE89vQkweDcqcUM4p-Ij6PTqobKX-XfIwMYmluij8J3JuFgHDD1eCxxpO0hBIT9Et7&amp;__tn__=%2CO%2CP-R"><span style="text-decoration: underline;">Facebook post</span></a> would be the one that made us laugh the most. Well, we had no idea how FUNNY you all are! The comments were pure GOLD!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>- A WINNER HAS BEEN CHOSEN!!! - Congrats to Kelly West, who posted a hilarious video of her spooky and utterly ridonkulous pirate horse playing tambourine! Thank you to EVERYONE who made a comment to enter, We enjoyed every single one!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":4329,"scale":"cover","sizeSlug":"full","linkDestination":"none","style":{"color":{"duotone":"unset"},"border":{"width":"0px","style":"none","radius":"10px"}}} -->
+<figure class="wp-block-image size-full has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2024/10/Trek-Pro-all-sides-LR.jpg" alt="" class="wp-image-4329" style="border-style:none;border-width:0px;border-radius:10px;object-fit:cover"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column {"width":"66.66%"} -->
+<div class="wp-block-column" style="flex-basis:66.66%"><!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Wishing you many happy trails</h3>
+<!-- /wp:heading -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"id":4076,"sizeSlug":"full","linkDestination":"none","align":"left"} -->
+<figure class="wp-block-image alignleft size-full"><img src="http://cavallo.local/wp-content/uploads/2024/10/5381858031fd2babec50665b30807366.png" alt="" class="wp-image-4076"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"0","bottom":"0"}}},"fontSize":"large"} -->
+<p class="has-large-font-size" style="margin-top:0;margin-bottom:0">Carole Herder</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"spacing":{"padding":{"right":"0","left":"0"}}}} -->
+<p style="padding-right:0;padding-left:0">President and founder of Cavallo Horse &amp; Rider Inc</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Carole Herder, President and founder of Cavallo Horse &amp; Rider Inc., is an internationally acclaimed figure in the equestrian community. Her books, There Are No Horseshoes in Heaven and Hoof Prints on the Journey, have become international bestsellers, further solidifying her status as a thought leader in the industry.&nbsp;Since 1993, Carole has been deeply involved in horse health. Cavallo is a global leader in developing, manufacturing, and distributing horse products. Carole’s passion for horse comfort is evident in her designs, including the innovative Cavallo Hoof Boots and Total Comfort System Saddle Pads.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>A true pioneer in the equestrian community, Carole is widely recognized for her expertise and contributions. She champions the benefits of keeping horses in their natural state, advocates for overall hoof health, and works towards the alleviation of debilitating disorders. Her achievements include being an honoured award recipient of the Royal Bank of Canada Woman Entrepreneur of the Year, British Columbia’s Businesswoman of The Year, and North America Enterprising Woman of The Year.&nbsp;<br>Carole is a certified Dr. Deepak Chopra Yoga, Meditation and Ayurvedic Lifestyle Instructor and a proud member of the Women Presidents Organization, supporting female entrepreneurs in every industry.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":"33.33%"} -->
+<div class="wp-block-column" style="flex-basis:33.33%"><!-- wp:image {"id":4084,"sizeSlug":"full","linkDestination":"none","style":{"border":{"radius":"10px"}}} -->
+<figure class="wp-block-image size-full has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2024/10/carole-herder.jpg" alt="" class="wp-image-4084" style="border-radius:10px"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":4085,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="http://cavallo.local/wp-content/uploads/2024/10/carole-books.jpg" alt="" class="wp-image-4085"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->

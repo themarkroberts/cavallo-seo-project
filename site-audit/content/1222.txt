@@ -1,0 +1,24 @@
+<!-- wp:image {"id":5080,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="http://cavallo.local/wp-content/uploads/2013/08/muscles.webp" alt="" class="wp-image-5080"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>By Carole Herder</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Horses like dry, arid environments. Living in a rainforest, this is something I pay close attention to for my horses. If it is too wet, they can develop problems like rain scald. When my horse is out in the field even when a storm is roaring he just wants cover from the rain and a wall to block the wind (a lean-to).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>We think our horses need to be all snug and tucked in, like our children, so we blanket them. There are different weights of blankets for seasons and type of weather. There are blankets of different colour, style and design, with hood attachments, matching other accessories and on it goes.  Every year the blanket companies develop new trends. It’s no different than the human fashion industry, shaking things up with the next hot thing each season, whether we need it or not. The thing is, the horse’s largest muscle mass is just under the skin. If your horse is cold or hot, this muscle activates to raise and adjust the hair follicles for insulation or cooling. Blankets can suppress this natural warming and cooling system, and lack or absence of this natural function can deplete your horse’s immune system.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>I see horses that are heavily blanketed all year around and I just have to wonder if it’s right. What’s happening under there? Can they breathe?  If you aren’t quite sure whether your horse needs a blanket, my suggestion is to use them sparingly. You can work up from there if required. The only blanket I use is during this time of year. It is 100% cotton sheet and if the flies are particularly pesky, my horses get their sheets to give some relief for a few hours a day. And again for this time of year, the Cavallo Fly Free Mask with the Cavallo Breakaway Halter combination serves as comfort and protection for your horse.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>You can check them out here:<br>
+<a href="http://cavallo.local/?products=fly-masks-and-halters" target="_blank" rel="noopener">Fly Masks and Halters</a></p>
+<!-- /wp:paragraph -->

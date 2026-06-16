@@ -1,0 +1,326 @@
+<!-- wp:heading {"textAlign":"center","level":1,"style":{"spacing":{"padding":{"bottom":"var:preset|spacing|md"}}}} -->
+<h1 class="wp-block-heading has-text-align-center" style="padding-bottom:var(--wp--preset--spacing--md)">Your Cavallo News – July 2024</h1>
+<!-- /wp:heading -->
+
+<!-- wp:image {"id":4011,"width":"975px","height":"auto","sizeSlug":"full","linkDestination":"none","align":"center"} -->
+<figure class="wp-block-image aligncenter size-full is-resized"><img src="http://cavallo.local/wp-content/uploads/2024/10/news-banner.jpg" alt="" class="wp-image-4011" style="width:975px;height:auto"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|lg","bottom":"var:preset|spacing|lg","left":"var:preset|spacing|md","right":"var:preset|spacing|md"}}},"backgroundColor":"light-red-1","layout":{"type":"constrained"}} -->
+<div class="wp-block-group has-light-red-1-background-color has-background" style="padding-top:var(--wp--preset--spacing--lg);padding-right:var(--wp--preset--spacing--md);padding-bottom:var(--wp--preset--spacing--lg);padding-left:var(--wp--preset--spacing--md)"><!-- wp:group {"backgroundColor":"light-red-1","layout":{"type":"constrained"}} -->
+<div class="wp-block-group has-light-red-1-background-color has-background"><!-- wp:heading {"textAlign":"center","style":{"spacing":{"padding":{"bottom":"var:preset|spacing|sm"}}}} -->
+<h2 class="wp-block-heading has-text-align-center" style="padding-bottom:var(--wp--preset--spacing--sm)">Carole &amp; Greg Wrangle Some Fun at the Calgary Stampede:</h2>
+<!-- /wp:heading -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column {"width":"33.33%"} -->
+<div class="wp-block-column" style="flex-basis:33.33%"><!-- wp:image {"id":190503,"style":{"border":{"radius":"10px"}}} -->
+<figure class="wp-block-image has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2024/07/Carole-herderat-2024-Calgary-Stampede.jpg" alt="Carole Herder &amp; Greg Giles have a great time at the Calgary Stampede Parade" class="wp-image-190503" style="border-radius:10px"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":"66.66%"} -->
+<div class="wp-block-column" style="flex-basis:66.66%"><!-- wp:paragraph -->
+<p>Greg and I were invited to attend The Greatest Outdoor Show on Earth by Alberta Carriage Supply, who booted all their Big Drafts in&nbsp;<a href="http://cavallo.local/product/big-foot-draft-size-hoof-boots/" target="_blank" rel="noreferrer noopener">Cavallo BFB Hoof Boots.&nbsp;</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The Stampede in Calgary is a tremendous event known for its world-famous rodeo, concert series, constant midway action, and various other daily entertaining shows.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The nighttime light show with drones was not just a light show but a progressive spectacle that was the best and most advanced we’ve ever seen.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The parade was sensational, with many horses wearing comfortable Cavallos to absorb the shock and concussion on asphalt.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>If you get a chance to go, I highly recommend it!</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:embed {"url":"https://www.youtube.com/watch?v=cJqDqWrQ6N4","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://www.youtube.com/watch?v=cJqDqWrQ6N4
+</div></figure>
+<!-- /wp:embed --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|lg","bottom":"var:preset|spacing|md"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group" style="padding-top:var(--wp--preset--spacing--lg);padding-bottom:var(--wp--preset--spacing--md)"><!-- wp:heading {"textAlign":"center"} -->
+<h2 class="wp-block-heading has-text-align-center">A.K. Canadian Horses at the Stampede:</h2>
+<!-- /wp:heading -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"id":190564,"width":"269px","height":"auto","style":{"border":{"radius":"10px"}}} -->
+<figure class="wp-block-image is-resized has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2024/07/Kelly-Hamzic-AK.CanadianHorses_Calgary-Stampede-5-1-340x452.jpg" alt="Canadian Horses in Cavallo Hoof Boots at Calgary Stampede" class="wp-image-190564" style="border-radius:10px;width:269px;height:auto"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"id":331385,"width":"239px","height":"auto","sizeSlug":"full","linkDestination":"none","style":{"border":{"radius":"10px"}}} -->
+<figure class="wp-block-image size-full is-resized has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2024/07/Kelly-Hamzic-@ak.canadianhorses-parade-5-1-1.jpg" alt="Canadian Horses in Cavallo Hoof Boots at Calgary Stampede 3" class="wp-image-331385" style="border-radius:10px;width:239px;height:auto"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"id":190565,"style":{"border":{"radius":"10px"}}} -->
+<figure class="wp-block-image has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2024/07/Kelly-Hamzic-@ak.canadianhorses-parade-4-375x452.jpg" alt="Canadian Horses in Cavallo Hoof Boots at Calgary Stampede 2" class="wp-image-190565" style="border-radius:10px"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"backgroundColor":"light-red-1","layout":{"type":"constrained"}} -->
+<div class="wp-block-group has-light-red-1-background-color has-background"><!-- wp:heading {"textAlign":"center","style":{"spacing":{"padding":{"top":"var:preset|spacing|lg","bottom":"0"}}}} -->
+<h2 class="wp-block-heading has-text-align-center" style="padding-top:var(--wp--preset--spacing--lg);padding-bottom:0">Honour and History</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"spacing":{"padding":{"top":"0"}}}} -->
+<p style="padding-top:0">Well… We certainly celebrated two incredible countries with gusto this month! Canada Day was July 1st, and Independence Day in the USA, of course, was July 4th!&nbsp; Two Cavallo Community members sent us exceptional photos of their celebrations, and we just had to share them with you!&nbsp; The photo of the regal Canadian Mounties in their Red Serge on Canadian horses came in from Kelly Hamzic of @ak.canadianhorses (Instagram) from a Canada Day parade in Airdrie, Alberta, and the gorgeous photo of the horse proudly wearing the US flag is from the talented Paige Stracener of @bigskyhooves (Instagram). Just beautiful!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:columns {"style":{"spacing":{"padding":{"bottom":"var:preset|spacing|md"}}}} -->
+<div class="wp-block-columns" style="padding-bottom:var(--wp--preset--spacing--md)"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"width":"356px","height":"auto","style":{"border":{"radius":"10px"}}} -->
+<figure class="wp-block-image is-resized has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2024/12/RCMP-using-Cavallo-horse-Hoof-Boots-in-parade.jpg" alt="RCMP using Cavallo horse Hoof Boots on asphalt in parade" style="border-radius:10px;width:356px;height:auto" title="RCMP using Cavallo horse Hoof Boots in parade"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"style":{"border":{"radius":"10px"}}} -->
+<figure class="wp-block-image has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2024/07/@bigskyhooves-USA-Flag-Black-Trek-Simple-Boots-Paige-Stracener.jpg" alt="@bigskyhooves - USA Flag &amp; Black Trek &amp; Simple Cavallo Hoof Boots - Paige Stracener" style="border-radius:10px" title="@bigskyhooves – USA Flag &amp; Black Trek &amp; Simple Cavallo Hoof Boots – Paige Stracener"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"textAlign":"center"} -->
+<h2 class="wp-block-heading has-text-align-center">Here Comes the Pony!</h2>
+<!-- /wp:heading -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="http://cavallo.local/wp-content/uploads/2024/07/National-Pony-Express-map.jpg" alt="National Pony Express map" title="National Pony Express map"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><a href="https://nationalponyexpress.org/about/" target="_blank" rel="noreferrer noopener">The National Pony Express</a>&nbsp;has fascinated Americans since its first riders hit the leather in April 1860! This mail service lasted only 19 months, but won a permanent place in the history of the American West.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The National Pony Express Association (NPEA) was established in 1978 to honor the memory and endeavors of the Pony Express riders and to identify, preserve, and mark the original Pony Express route.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading">National Pony Express Rider Patsy Lange's Report on the 2024 Re-Ride:</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>“I have been using Cavallo hoof boots on my daughter’s and my own horses for at least 20 years! I’ve used them on mountain rides of all types of terrain: rocky, muddy, etc. I have never had any of them come off or tear. The main use of the boots for us has been on the National Pony Express Re-ride, which I have participated in for 32 years. This year my Trail was from the Wyoming/Utah border to Murray Park in Salt Lake City, Utah. We try to stay as close to the original Pony Express Trail as possible. I had 13 Riders and we covered about 72 miles in 9 hours.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>“The Pony left St. Joseph, Missouri, on 6/17/2024 and arrived in Old Sacramento, California, on 6/27/2024, 10 days later. We ride 24/7, covering 1,966 miles, as the original riders did in 1860. The Pony travels through eight states: Missouri, Kansas, Nebraska, Colorado, Wyoming, Utah, Nevada and California.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>“There are approximately 650 to 700 Riders and their horses carrying between 1100 and 1200 historical vignettes and personal letters (YES, you can send a personal letter by Pony Express!). The letters are carried in a mochila, a leather blanket-type device designed to fit securely over a McClellan saddle. It can be easily taken off the saddle and placed on the saddle of the new horse and rider at the relay stations.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>“Each state has its own Facebook page. There are some great pictures, videos, and stories from this year’s Re-ride and previous Re-rides as well. Our mission is to preserve, mark and maintain the original Trail and to KEEP THE HISTORY ALIVE! See ya up the Trail!”&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>– Patsy Lange, Utah State President</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>For more information, please visit the National Pony Express website&nbsp;<strong><a href="http://nationalponyexpress.org/" target="_blank" rel="noreferrer noopener">HERE!&nbsp;</a></strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"linkDestination":"custom"} -->
+<figure class="wp-block-image"><a href="http://cavallo.local/wp-content/uploads/2024/07/Pony-Express-5-rotated-1.jpg"><img src="http://cavallo.local/wp-content/uploads/2024/07/Pony-Express-5-150x150.jpg" alt="Cavallo Hoof Boots used on National Pony Express"/></a></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"linkDestination":"custom"} -->
+<figure class="wp-block-image"><a href="http://cavallo.local/wp-content/uploads/2024/07/Pony-Express-7.jpg"><img src="http://cavallo.local/wp-content/uploads/2024/07/Pony-Express-7-150x150.jpg" alt="Cavallo Hoof Boots used on National Pony Express"/></a></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"linkDestination":"custom"} -->
+<figure class="wp-block-image"><a href="http://cavallo.local/wp-content/uploads/2024/07/Pony-Express-6.jpg"><img src="http://cavallo.local/wp-content/uploads/2024/07/Pony-Express-6-150x150.jpg" alt="Cavallo Hoof Boots used on National Pony Express"/></a></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"linkDestination":"custom"} -->
+<figure class="wp-block-image"><a href="http://cavallo.local/wp-content/uploads/2024/07/Pony-Express-2024-3.jpg"><img src="http://cavallo.local/wp-content/uploads/2024/07/Pony-Express-2024-3-150x150.jpg" alt="Cavallo Hoof Boots used on National Pony Express"/></a></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"linkDestination":"custom"} -->
+<figure class="wp-block-image"><a href="http://cavallo.local/wp-content/uploads/2024/07/Pony-Express-8.jpg"><img src="http://cavallo.local/wp-content/uploads/2024/07/Pony-Express-8-150x150.jpg" alt="Cavallo Hoof Boots used on National Pony Express"/></a></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|lg","bottom":"var:preset|spacing|lg"}}},"backgroundColor":"light-red-1","layout":{"type":"constrained"}} -->
+<div class="wp-block-group has-light-red-1-background-color has-background" style="padding-top:var(--wp--preset--spacing--lg);padding-bottom:var(--wp--preset--spacing--lg)"><!-- wp:heading {"textAlign":"center"} -->
+<h2 class="wp-block-heading has-text-align-center">Amber Marshall at the 2024 Liberty Festival</h2>
+<!-- /wp:heading -->
+
+<!-- wp:image {"id":188228,"width":"604px","height":"auto","align":"center"} -->
+<figure class="wp-block-image aligncenter is-resized"><img src="http://cavallo.local/wp-content/uploads/2024/04/2024-Liberty-Festival-Cavallo-Poste@@@.jpg" alt="2024 Liberty Festival poster - sponsored by Cavallo Hoof Boots" class="wp-image-188228" style="width:604px;height:auto"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>The 2024 Liberty Festival (brought to you by yours truly,&nbsp;<a href="https://www.cavallo.local/" target="_blank" rel="noreferrer noopener">Cavallo Hoof Boots),</a>&nbsp;has proudly announced that Amber Marshall, beloved star of the hit TV show Heartland, will be making her inaugural US event appearance at the 2024 Liberty Festival!&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Amber Marshall has captured the hearts of millions with her portrayal of Amy Fleming on Heartland. Her presence at the Liberty Festival promises to be a highlight for fans of the show and equestrian enthusiasts alike!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>In addition to Amber’s appearance, the 2024 Liberty Festival will feature a diverse lineup of international clinicians, educational demonstrations, the International Liberty Horse Association Championship Show, exciting entertainment for horse enthusiasts of all levels and a night show produced by Double Dan Horsemanship and Ben Atkinson Action Horses!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>This highly anticipated event will take place from October 10th – 13th at the Kentucky Horse Park.For more information and to secure your tickets, visit www.libertyfestival.com !</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:acf/custom-reviews {"name":"acf/custom-reviews","data":{"heading":"\u003cdiv class=\u0022elementor-element elementor-element-4247204 elementor-widget elementor-widget-heading\u0022 data-id=\u00224247204\u0022 data-element_type=\u0022widget\u0022 data-widget_type=\u0022heading.default\u0022\u003e\r\
+\u003cdiv class=\u0022elementor-widget-container\u0022\u003e\r\
+\u003ch2 class=\u0022elementor-heading-title elementor-size-default\u0022 style=\u0022text-align: center;\u0022\u003eWhat YOU'RE Saying: Cavallo Hoof Boot Reviews\u003c/h2\u003e\r\
+\u003c/div\u003e\r\
+\u003c/div\u003e","_heading":"field_678f5c6d7ab11","items_0_image":331331,"_items_0_image":"field_678f6fd99eead","items_0_name":"-Alondra Howard","_items_0_name":"field_678f70129eeae","items_0_title":"\u0022She is so happy and relieved...\u0022","_items_0_title":"field_678f70459eeb0","items_0_cta":"","_items_0_cta":"field_678f7c4c46a5d","items_0_small_content":"“This is Daisy!! She is so happy and relieved now that she has her new…","_items_0_small_content":"field_678f701e9eeaf","items_0_full_content":"…boots! All of you are so amazing… it’s so refreshing to do business with a team that you can tell actually cares!! We are forever grateful.”\r\
+","_items_0_full_content":"field_678f70679eeb1","items_1_image":331330,"_items_1_image":"field_678f6fd99eead","items_1_name":"– Trina Gant","_items_1_name":"field_678f70129eeae","items_1_title":"\u0022Rocky terrain \u0026 crossing creeks...\u0022","_items_1_title":"field_678f70459eeb0","items_1_cta":"","_items_1_cta":"field_678f7c4c46a5d","items_1_small_content":"“Love that big smile!!! ????❤️ I’ve switched my horses from shoes to boots and… ","_items_1_small_content":"field_678f701e9eeaf","items_1_full_content":"…couldn’t be happier. Just rode in the mountains of Virginia in rocky terrain and crossing creeks with no issues. Here is my daughter Hadley on her horse, Captain, in his boots.”","_items_1_full_content":"field_678f70679eeb1","items_2_image":331329,"_items_2_image":"field_678f6fd99eead","items_2_name":"– Louise Jennings, UK","_items_2_name":"field_678f70129eeae","items_2_title":"\u0022Wouldn’t stand a chance without his Cavallos...\u0022","_items_2_title":"field_678f70459eeb0","items_2_cta":"","_items_2_cta":"field_678f7c4c46a5d","items_2_small_content":"“I have a Thoroughbred ex-racehorse who has been barefoot for…","_items_2_small_content":"field_678f701e9eeaf","items_2_full_content":"…a year now. With his typical TB feet, he wouldn’t stand a chance without his Cavallos… I have tried lots of different types of hoof boots, and these outshine the rest.”","_items_2_full_content":"field_678f70679eeb1","items":3,"_items":"field_678f5c917ab12","html_anchor":"","_html_anchor":"field_672f5663be83a"},"mode":"edit"} /-->
+
+<!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"var:preset|spacing|xl","bottom":"var:preset|spacing|xl"},"margin":{"top":"0","bottom":"0"}}},"layout":{"type":"constrained","contentSize":""}} -->
+<div class="wp-block-group alignfull" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--xl);padding-bottom:var(--wp--preset--spacing--xl)"><!-- wp:columns {"style":{"spacing":{"padding":{"top":"0","bottom":"0"}}}} -->
+<div class="wp-block-columns" style="padding-top:0;padding-bottom:0"><!-- wp:column {"verticalAlignment":"center","width":"50%"} -->
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis:50%"><!-- wp:heading -->
+<h2 class="wp-block-heading">Meet Chad, the Cavallo-Comfy Disney Horse</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"fontSize":"normal"} -->
+<p class="has-normal-font-size"><strong>Friends Stay in Touch…</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Tawnie made a fabulous video for Cavallo some years back and we were excited to find an email from her. She wrote to tell us about how she is seeing Cavallo Hoof Boots on Disney Horses! She shared this super cute photo of Chad, a well-known horse, that gives carriage rides at the Disneyland Resort in California.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Chad is a BIG BOY!</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>He’s a Percheron Draft horse and he’s proudly rocking his comfy BFB (Big Foot Boots) here! The boots help to keep his feet and legs from becoming fatigued while providing protection, comfort, traction and support for his big job of pulling carriages on asphalt and hard surfaces.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Chad and the other Disneyland horses were specially chosen for their intelligence and their willingness to learn. You can read more about Chad becoming part of the Disney Team and see a photo of him when he was younger and darker in colour <a href="https://www.mickeynews.com/disneylandresortnews/meet-the-newest-disneyland-resort-horses/" target="_blank" rel="noreferrer noopener"><span style="text-decoration: underline;">HERE!</span></a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"spacing":{"margin":{"bottom":"27px"}}}} -->
+<p style="margin-bottom:27px">Mad for Chad? See photos of Chad and the other beautiful Horses of Disneyland on their Instagram page <a href="https://www.instagram.com/horsesofdisneyland/"><span style="text-decoration: underline;">HERE!</span></a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"}} -->
+<div class="wp-block-buttons"><!-- wp:button {"textColor":"red","className":"is-style-fill c-button\u002d\u002dsimple","style":{"elements":{"link":{"color":{"text":"var:preset|color|red"}}},"spacing":{"padding":{"left":"0","right":"0","top":"0","bottom":"0"}},"color":{"background":"#ffffff00"}}} -->
+<div class="wp-block-button is-style-fill c-button--simple"><a class="wp-block-button__link has-red-color has-text-color has-background has-link-color wp-element-button" href="https://www.instagram.com/p/CpEvnQWstP_/" style="background-color:#ffffff00;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0" target="_blank" rel="noreferrer noopener">Meet the Disneyland Horses</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"top","width":"","style":{"spacing":{"padding":{"right":"0","left":"0","top":"0","bottom":"0"}}},"layout":{"type":"constrained","contentSize":"585px","justifyContent":"right","wideSize":""}} -->
+<div class="wp-block-column is-vertically-aligned-top" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:image {"id":4356,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="http://cavallo.local/wp-content/uploads/2024/10/Disney-Cavallo-BFB.jpg" alt="" class="wp-image-4356"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"textAlign":"center"} -->
+<h2 class="wp-block-heading has-text-align-center">Gallops &amp; Giggles: Your Horsey Joke of the Month!</h2>
+<!-- /wp:heading -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"width":"491px","height":"auto"} -->
+<figure class="wp-block-image is-resized"><img src="http://cavallo.local/wp-content/uploads/2024/07/A-nightmare-horse.jpg" alt="A nightmare horse" style="width:491px;height:auto" title="A nightmare horse"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"width":"568px","height":"auto"} -->
+<figure class="wp-block-image is-resized"><img src="http://cavallo.local/wp-content/uploads/2024/07/nightmare-horse2.jpg" alt="nightmare horse" style="width:568px;height:auto" title="nightmare horse"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">Have a favourite horsey joke that makes you whinny every time? Send it to us&nbsp;<strong><a href="http://cavallo.local/contact-us/" target="_blank" rel="noreferrer noopener">HERE!</a></strong></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"margin":{"top":"0"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group" style="margin-top:0"><!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column {"width":"66.66%"} -->
+<div class="wp-block-column" style="flex-basis:66.66%"><!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Wishing you many happy trails</h3>
+<!-- /wp:heading -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"id":4076,"sizeSlug":"full","linkDestination":"none","align":"left"} -->
+<figure class="wp-block-image alignleft size-full"><img src="http://cavallo.local/wp-content/uploads/2024/10/5381858031fd2babec50665b30807366.png" alt="" class="wp-image-4076"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"0","bottom":"0"}}},"fontSize":"large"} -->
+<p class="has-large-font-size" style="margin-top:0;margin-bottom:0">Carole Herder</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"spacing":{"padding":{"right":"0","left":"0"}}}} -->
+<p style="padding-right:0;padding-left:0">President and founder of Cavallo Horse &amp; Rider Inc</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Carole Herder, President and founder of Cavallo Horse &amp; Rider Inc., is an internationally acclaimed figure in the equestrian community. Her books, There Are No Horseshoes in Heaven and Hoof Prints on the Journey, have become international bestsellers, further solidifying her status as a thought leader in the industry.&nbsp;Since 1993, Carole has been deeply involved in horse health. Cavallo is a global leader in developing, manufacturing, and distributing horse products. Carole’s passion for horse comfort is evident in her designs, including the innovative Cavallo Hoof Boots and Total Comfort System Saddle Pads.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>A true pioneer in the equestrian community, Carole is widely recognized for her expertise and contributions. She champions the benefits of keeping horses in their natural state, advocates for overall hoof health, and works towards the alleviation of debilitating disorders. Her achievements include being an honoured award recipient of the Royal Bank of Canada Woman Entrepreneur of the Year, British Columbia’s Businesswoman of The Year, and North America Enterprising Woman of The Year.&nbsp;<br>Carole is a certified Dr. Deepak Chopra Yoga, Meditation and Ayurvedic Lifestyle Instructor and a proud member of the Women Presidents Organization, supporting female entrepreneurs in every industry.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":"33.33%"} -->
+<div class="wp-block-column" style="flex-basis:33.33%"><!-- wp:image {"id":4084,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="http://cavallo.local/wp-content/uploads/2024/10/carole-herder.jpg" alt="" class="wp-image-4084"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":4085,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="http://cavallo.local/wp-content/uploads/2024/10/carole-books.jpg" alt="" class="wp-image-4085"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->

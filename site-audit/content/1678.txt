@@ -1,0 +1,63 @@
+<!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading">Is NOW Your Time?</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>For many of us this year, the Summer lasted on into the Fall, and we're now just starting to feel the cooler weather rolling in.&nbsp; Unwelcome flashbacks of slush and snow are&nbsp;returning&nbsp;to mind, as we're slowly (and somewhat reluctantly!) accepting this time of change.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>But the change to Winter can bring great things!&nbsp; Barefoot things!&nbsp; Perhaps you’ve heard about the benefits of re-establishing proper hoof mechanism?&nbsp; Do you like the idea of allowing blood to flow freely into the live tissue of the structures that support your horse?&nbsp; And you know all about the debilitating conditions that so many horses are plagued with: navicular disease, laminitis, ring bone, side bone, splints, arthritis and chronic thrush...&nbsp; But did you know that these conditions can all be deterred by a practice that is simple, beneficial and cost effective?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading"><strong>Have I got your attention?</strong></h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Now is the time to pull off those metal shoes!&nbsp; To allow the frog to make contact with the ground and pump fresh blood through the coriums of the hoof.&nbsp; To allow shock to be properly absorbed by the hoof, rather than referred back up the leg.&nbsp;<a href="https://www.thehorseshoof.com/Sshoeing.html" target="_blank" rel="noopener"><strong>&nbsp;Studies have shown that horses endure an 800 Hz vibration</strong></a>&nbsp;each time metal shoe impacts a hard surface at a trot.&nbsp; Imagine how that feels after tens of thousands of steps?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>You've likely heard that the&nbsp;cost of hoof boots (even with trimming costs included) amounts to less than regular shoeing.&nbsp; This financial difference is significant, but the real savings are the veterinary fees! Your horse’s overall strength, respiratory, circulatory and immune system will benefit.&nbsp; A properly functioning hoof has the effect of nourishing and revitalizing the whole horse.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":10369,"linkDestination":"custom","align":"left"} -->
+<figure class="wp-block-image alignleft"><a href="http://cavallo.local/product-category/hoof-boot-accessories/hoof-boot-studs/" target="_blank" rel="noopener"><img src="//www.cavallo.local/wp-content/uploads/2017/10/stud3.jpg" alt="Cavallo Hoof Boot Studs for Snow and Ice" class="wp-image-10369"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>Most of us don’t ride as frequently during the winter months, so this time can be a great time for Hoof Boots: the most useful, practical and no-nonsense tool to assist in returning those feet to their rightful healthy state.&nbsp; And if you do love a winter ride,&nbsp;&nbsp;<a href="http://cavallo.local/?products=hoof-boot" target="_blank" rel="noopener"><strong>Cavallo Hoof Boots</strong></a>&nbsp;can be used in snowy conditions!&nbsp; &nbsp;The boot soles naturally deter snow and ice from balling up inside the sole concavity,&nbsp; and we have special&nbsp;<a href="http://cavallo.local/product-category/hoof-boot-accessories/hoof-boot-studs/" target="_blank" rel="noopener"><strong>Hoof Boot</strong><strong>&nbsp;Studs,&nbsp;</strong></a>which&nbsp;provide traction on icy surfaces.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Are you feeling inspired to make going barefoot your Winter project? Please contact us for support with your horse’s best comfort and protection in mind.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="mailto:info@cavallo.local" target="_blank" rel="noopener"><strong>info@cavallo.local</strong></a>&nbsp;, or Toll-Free at 1-877-818-0037.&nbsp; We're here for you!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":5} -->
+<h5 class="wp-block-heading"><strong>Happy Trails,</strong></h5>
+<!-- /wp:heading -->
+
+<!-- wp:image {"id":10645,"width":"300px"} -->
+<figure class="wp-block-image is-resized"><img src="//www.cavallo.local/wp-content/uploads/2017/12/CaroleSig.jpg" alt="Carole Herder's Signature" class="wp-image-10645" style="width:300px"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":10798,"align":"left"} -->
+<figure class="wp-block-image alignleft"><img src="//www.cavallo.local/wp-content/uploads/2018/01/Caroles-Signature-2017.png" alt="Carole Herder's Signature" class="wp-image-10798"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->

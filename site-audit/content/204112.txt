@@ -1,0 +1,309 @@
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="http://cavallo.local/wp-content/uploads/2022/02/Celebrating-Dynamic-Lives-header-2021-1.png" alt="Cavallo Hoof Boots Newsletter Heading" title="Cavallo Hoof Boots Newsletter Heading"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"textAlign":"center","level":6} -->
+<h6 class="wp-block-heading has-text-align-center">Enjoy Your Latest Cavallo News - Your Cavallo Monthly: Hoof-Saving Hacks, Hero Horses &amp; Behind-the-Scenes Buzz!</h6>
+<!-- /wp:heading -->
+
+<!-- wp:spacer {"height":"38px"} -->
+<div style="height:38px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading {"textAlign":"center"} -->
+<h2 class="wp-block-heading has-text-align-center">Dog and Pony Show... At the Airport?</h2>
+<!-- /wp:heading -->
+
+<!-- wp:spacer {"height":"13px"} -->
+<div style="height:13px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading {"textAlign":"center","level":4} -->
+<h4 class="wp-block-heading has-text-align-center">Mini Therapy Ponies Calm Before-Flight Jitters!</h4>
+<!-- /wp:heading -->
+
+<!-- wp:gallery {"linkTo":"none","layout":{"type":"flex","flexWrap":null}} -->
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped"><!-- wp:image -->
+<figure class="wp-block-image"><img src="http://cavallo.local/wp-content/uploads/2025/07/Magic-Tinkerbell-boarding-passes-YRV-Vancouver-Airport-Mini-horse-pony-therapy.avif" alt="Magic &amp; Tinkerbell Green Acres therapy ponies at Vancouver Airport" title="Magic &amp; Tinkerbell Green Acres therapy ponies at Vancouver Airport"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="http://cavallo.local/wp-content/uploads/2025/07/Green-Acres-Therapy-Ponies-at-YVR-Vancouver-Airport-HR.jpg" alt="Green Acres Therapy Ponies at YVR Vancouver Airport wearing Cavallo CLB Horse Hoof Boots" title="Green Acres Therapy Ponies at YVR Vancouver Airport wearing Cavallo CLB Horse Hoof Boots"/></figure>
+<!-- /wp:image --></figure>
+<!-- /wp:gallery -->
+
+<!-- wp:heading {"textAlign":"center","level":3} -->
+<h3 class="wp-block-heading has-text-align-center">Hold onto your boarding passes—Vancouver Airport just turned the terminal into a mini-fairytale!</h3>
+<!-- /wp:heading -->
+
+<!-- wp:embed {"url":"https://www.youtube.com/watch?v=t4mpzTYVRCQ","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://www.youtube.com/watch?v=t4mpzTYVRCQ
+</div></figure>
+<!-- /wp:embed -->
+
+<!-- wp:paragraph -->
+<p><strong><a href="https://www.greenacrestherapyhorses.com/" target="_blank" rel="noreferrer noopener">Green Acres Therapy Horses</a></strong>&nbsp;has teamed up with Vancouver International Airport (YVR) to bring adorable therapy ponies to socialize with weary travellers, making it the first airport in North America to include miniature horses in its animal-assisted stress-relief program. Normally a role held by canines, Magic and Tinkerbell, two Cavallo-booted therapy ponies, hoofed their way into YVR’s “Less Airport Stress Initiative” (LASI) and are now helping travellers feel calm and connected in an otherwise stressful environment.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>This dinky dynamic duo rocks the cutest in hoof fashion—<a href="http://cavallo.local/product-category/hoof-boot/mini-hoof-boots/" target="_blank" rel="noreferrer noopener"><strong>Cavallo CLB “Cute Little Boots”</strong></a>! Not only do they protect tiny hooves from busy terminal floors, they add exceptional flair to the job.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>So, Next time you fly out of YVR, Magic and Tinkerbell may just be waiting in the terminal, ready to add some pony-powered Zen to your journey!</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"textAlign":"center"} -->
+<h2 class="wp-block-heading has-text-align-center">People Magazine Special Edition Celebrating Beyoncé’s Cowboy Carter Era</h2>
+<!-- /wp:heading -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column {"width":"50%"} -->
+<div class="wp-block-column" style="flex-basis:50%"><!-- wp:image -->
+<figure class="wp-block-image"><img src="http://cavallo.local/wp-content/uploads/2025/07/Beyonce-on-horse-with-Cavallo-Hoof-Boots-in-People-Magazine.gif" alt="Beyonce on horse with Cavallo Hoof Boots in People Magazine" title="Beyonce on horse with Cavallo Hoof Boots in People Magazine"/><figcaption class="wp-element-caption">Cavallo Trek Boots seen on Beyoncé's horse during Beyoncé Bowl</figcaption></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":"50%"} -->
+<div class="wp-block-column" style="flex-basis:50%"><!-- wp:paragraph -->
+<p>Beyoncé’s Horse Rocks Cavallo Hoof Boots – Because Only the Best Will Do</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>If they’re good enough for Queen Bey’s horse, imagine what they can do for yours.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>When a global icon like Beyoncé chooses gear for her majestic performance horse, she doesn’t settle for second best. That’s why Cavallo Hoof Boots made the cut. Designed for comfort, performance, and style—Cavallos are turning heads in arenas, on trails, and now… on the world stage.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Trusted by riders in over 20 countries—and now endorsed by a living legend.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Cavallo Hoof Boots: Where Innovation Meets Stardom.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"textAlign":"center"} -->
+<h2 class="wp-block-heading has-text-align-center">Tips from the Cavallo Hoof Care Cavalry!</h2>
+<!-- /wp:heading -->
+
+<!-- wp:spacer {"height":"30px"} -->
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading {"textAlign":"center","level":4} -->
+<h4 class="wp-block-heading has-text-align-center">Hoofing it Out Before the Havoc: Getting Horses to Safety When Disaster Strikes</h4>
+<!-- /wp:heading -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="http://cavallo.local/wp-content/uploads/2025/01/Kalyna-Fedorowycz-Saved-horse-from-California-Fires.jpg" alt="Kalyna Fedorowycz - Saved horse from 2025 California Fires" title="Kalyna Fedorowycz – Saved horse from 2025 California Fires"/><figcaption class="wp-element-caption">Kalyna Fedorowycz: Brave teen who saved horse from 2025 L.A. Fires</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>How far would you go to save your horse? And what if you were a 16-year-old girl, with fire closing in all around you and only one way out? In January, Kalyna Fedorowycz was faced with all these questions and more.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>This young woman risked her own life so Sovereignty (a horse that was not even hers) was not left behind to die.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Sovereignty was safely booted with&nbsp;<a href="http://cavallo.local/product-category/hoof-boot/sport-hoof-boots/">Cavallo Sport Boots</a>&nbsp;on the hard pavement during their terrifying,&nbsp; 14-mile ride out of the canyon.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>While Kalyna’s story is one of triumph, it also comes with a sobering reminder that not every animal makes it out of such disasters. This brings up the question of preparedness for all horse owners – what would YOU do if there was a major fire, flood or hurricane in your area? How would you get your horses to safety?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"textAlign":"center","level":3} -->
+<h3 class="wp-block-heading has-text-align-center">Fleeing the Flames: Watch Kalyna &amp; Sovereignty Escape the Burning Canyon</h3>
+<!-- /wp:heading -->
+
+<!-- wp:embed {"url":"https://youtu.be/H7Zk5fktDSM","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://youtu.be/H7Zk5fktDSM
+</div></figure>
+<!-- /wp:embed --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"textAlign":"center"} -->
+<h2 class="wp-block-heading has-text-align-center">Read This Guide Before Disaster Strikes:</h2>
+<!-- /wp:heading -->
+
+<!-- wp:spacer {"height":"18px"} -->
+<div style="height:18px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column {"width":"50%"} -->
+<div class="wp-block-column" style="flex-basis:50%"><!-- wp:image -->
+<figure class="wp-block-image"><img src="http://cavallo.local/wp-content/uploads/2025/07/Emergency-guide-for-horses-Cavallo-Hoof-Boots.jpg" alt="Emergency guide for horses - Cavallo Hoof Boots" title="Emergency guide for horses – Cavallo Hoof Boots"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":"50%"} -->
+<div class="wp-block-column" style="flex-basis:50%"><!-- wp:paragraph -->
+<p>Produced by Horse Council BC,&nbsp;<strong>‘Fire! Flood! Earthquake! What Do I Do With My Horse?!’&nbsp;</strong>is a must-read guide packed with practical, expert-backed advice to help you protect your horses when every second counts.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Clearly organized into easy-to-follow sections and checklists, it walks you through planning, evacuation prep, and how to keep your animals calm and safe in any emergency.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|dark-red"}}}},"textColor":"dark-red"} -->
+<p class="has-dark-red-color has-text-color has-link-color"><a href="https://hcbc.ca/wp-content/uploads/2015/07/Fire-Flood-Eathquake-2015.pdf" target="_blank" rel="noreferrer noopener"><strong>Read Guide Here!</strong></a></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:spacer {"height":"51px"} -->
+<div style="height:51px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading {"textAlign":"center"} -->
+<h2 class="wp-block-heading has-text-align-center">Hoof Saving Advantage: A Horse’s Emergency Lifeline</h2>
+<!-- /wp:heading -->
+
+<!-- wp:spacer {"height":"31px"} -->
+<div style="height:31px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading">Keeping Cavallo Hoof Boots in your trailer or barn can help protect your horse’s health—and, in some cases, might even help save their life:</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>✅<strong>&nbsp;During Evacuation</strong>&nbsp;<strong>to Help Older, Injured Horses or Horses In Pain</strong><br>Conditions such as arthritis, abscesses, laminitis, or navicular disease can make horses reluctant to keep moving or to travel long distances in an emergency; see an immediate difference in movement and comfort once boots are on.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>✅&nbsp;<strong>Able to Be Used over Metal Horseshoes or Bare Hooves</strong><br>Which means they can be part of your emergency safety kit whether your horse is barefoot, partially shod, or fully shod.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>✅ Protection from Heat-Scorched, Burned, or Slippery Ground</strong><br>Cavallo TPU soles insulate hooves from hot pavement, cinders, or other hazardous surfaces encountered during evacuation.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>✅&nbsp;<strong>Burned or Injured Hooves –</strong>&nbsp;<strong>As a Poultice and Soaking Boot</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Helpful for horses dealing with burned feet or hoof injuries—wrap or pack the hoof inside, and Cavallos will hold the poultice securely and keep the hoof clean. For soaking, simply cover the sole drainage holes with duct tape, and you have an instant soaking boot to help abscesses, bruises, or burns.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>✅&nbsp;<strong>Comfort in Challenging Situations</strong><br>After evacuation, horses may be sore, sensitive, or walking over rougher, hotter ground than they’re used to—Cavallos add immediate cushion and relief.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>✅&nbsp;<strong>Trailering with Safety During Emergencies</strong><br>Cavallos help protect hooves (and the horses around them) of panicked horses during trailering, while adding shock absorption and comfort for long hauls.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:spacer {"height":"24px"} -->
+<div style="height:24px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading {"textAlign":"center","level":4} -->
+<h4 class="wp-block-heading has-text-align-center">Maren, Cavallo Customer Service Expert, shares a close call that happened near the Cavallo offices:</h4>
+<!-- /wp:heading -->
+
+<!-- wp:spacer {"height":"19px"} -->
+<div style="height:19px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column {"width":"50%"} -->
+<div class="wp-block-column" style="flex-basis:50%"><!-- wp:image -->
+<figure class="wp-block-image"><img src="http://cavallo.local/wp-content/uploads/2025/07/Using-Cavallo-Hoof-Boots-for-emergency-evacuation-scaled.jpg" alt="Using Cavallo Hoof Boots for emergency evacuation" title="Using Cavallo Hoof Boots for emergency evacuation"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":"50%"} -->
+<div class="wp-block-column" style="flex-basis:50%"><!-- wp:paragraph -->
+<p><em>“A few years ago, we faced a fire in our area and had to prepare for a possible evacuation. </em><br><br><em>One of the first things I did was pack my Cavallo Hoof Boots in the trailer. I have a few horses who can be tender on gravel or hard surfaces, and since I wasn’t sure where we might end up, I wanted to be ready for anything.&nbsp;</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><em>Thankfully, the fire was contained without any complications, but having my Cavallo Boots on hand gave me peace of mind, knowing I could keep my horses as comfortable as possible.”</em></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:spacer {"height":"50px"} -->
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading {"textAlign":"center","level":4} -->
+<h4 class="wp-block-heading has-text-align-center">Help for Horses with Hoof Damage Due to Fire, Hot Ground and Terrain</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>In the Pacific Northwest in October 2021, fires tore through land and homes and displaced families -and their horses. Wildfires had burned 5.9 million acres in the United States, and another 10.33 million acres burned in Canada.&nbsp;<a href="https://equimed.com/news/general/cavallo-horse-rider-benefits-horses-displaced-during-northwest-forest-fires" target="_blank" rel="noreferrer noopener">Cavallo helped the horses displaced by these fires by donating hundreds of hoof boots</a>&nbsp;and supplies to key rescue programs in British Columbia and Washington State. Cavallo also offered support as the rescuers learned how to use the boots as medical aids to support horses injured during the fires.&nbsp;</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"textAlign":"center"} -->
+<h2 class="wp-block-heading has-text-align-center">Fresh Hoofprints Online: The Horse’s Hoof Unveils a New Website!</h2>
+<!-- /wp:heading -->
+
+<!-- wp:spacer {"height":"26px"} -->
+<div style="height:26px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column {"width":"50%"} -->
+<div class="wp-block-column" style="flex-basis:50%"><!-- wp:image -->
+<figure class="wp-block-image"><img src="http://cavallo.local/wp-content/uploads/2025/07/New-Horses-Hoof-website-announced.jpg" alt="The all new Horse's hoof barefoot website announced!" title="The all new Horse’s hoof barefoot website announced!"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":"50%"} -->
+<div class="wp-block-column" style="flex-basis:50%"><!-- wp:paragraph -->
+<p>The Horse’s Hoof has officially unveiled its brand‑new website, relaunching a trusted barefoot hoof care hub that’s been building expertise since the year 2000.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Now more accessible, user‑friendly, and packed with resources, this revamped platform brings the latest in barefoot trimming, natural horse care, and ethical horsemanship front and center. Whether you’re transitioning a shod horse, refining trims, or simply deepening hoof‑health knowledge, this upgrade is a game-changer for horse owners committed to holistic hoof health and sustainable care.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.thehorseshoof.com/" target="_blank" rel="noreferrer noopener">Visit Now!</a></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:heading {"textAlign":"center"} -->
+<h2 class="wp-block-heading has-text-align-center">A Shout-Out from Equestrian Life!</h2>
+<!-- /wp:heading -->
+
+<!-- wp:spacer {"height":"34px"} -->
+<div style="height:34px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:image {"linkDestination":"custom"} -->
+<figure class="wp-block-image"><a href="https://www.equestrianlife.com.au/magazine/issue-112/beyonce-steals-the-show-on-horseback/" target="_blank" rel="noreferrer noopener"><img src="http://cavallo.local/wp-content/uploads/2025/07/Article-in-Equestrian-Life-magazine-featuring-Cavallo-Hoof-Boots.jpg" alt="Article in Equestrian Life magazine featuring Cavallo Hoof Boots" title="Article in Equestrian Life magazine featuring Cavallo Hoof Boots"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>A huge thank you to&nbsp;<a href="https://www.equestrianlife.com.au/magazine/issue-112/beyonce-steals-the-show-on-horseback/" target="_blank" rel="noreferrer noopener">Equestrian Life magazine</a>&nbsp;for the mention in their article featuring none other than Beyoncé stealing the NFL Halftime Show on horseback!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:block {"ref":201617} /-->

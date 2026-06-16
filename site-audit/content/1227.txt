@@ -1,0 +1,27 @@
+<!-- wp:image {"id":5089,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="http://cavallo.local/wp-content/uploads/2013/08/jody-childs.jpg" alt="" class="wp-image-5089"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>By Carole Herder</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>ACTHA (American Competitive Trail Horses Association) is the perfect place to start if you are looking for something more out of your riding.Casual trail riding with natural obstacles to allow you to enjoy your ride with a little bit of a challenge thrown in, and arena based obstacle courses to further enhance your horsemanship skills. There are different divisions so you can enter at whatever level suits you and your horse. They organize rides all over the USA. This is a great way to have fun (I have seen some ladies simply laugh their way through a competition as they forgot the course route and mixed up the obstacles – all in the name of fun!), meet new people, learn different skills, win prizes and raise money for much needed horse charities. Check out <a href="https://www.actha.us/events">https://www.actha.us/events</a> for a list of their many upcoming events.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>There are many similarities in this sport to TREC (Tourist Related Equestrian Competition) in Europe. Again, a highly social modality, this three-phase competition focuses on horsemanship skills, partnership and of course, fun. It consists of mounted orienteering, a demonstration of control of the horse’s paces and an obstacle course. There are four different levels and plenty of clubs, training days, leagues and competitions out there to keep you busy.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The beauty of sports like these are that anyone can join, and with any type of horse. You don’t even have to be competitive, you can just go along and enjoy the day. They are a great way to learn new skills and build confidence in horse and rider. I know one lady who had a terrible show jumping accident and as a result was very nervous on her horse and terrified to jump. After joining TREC and receiving some much- needed support, she quickly jumped up the levels, started dressage and even went on a mini endurance ride. Cavallo is the official Hoof Boot for these two brilliant sport associations and I can’t recommend them more for something different and a lot of fun.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":1598,"align":"center"} -->
+<figure class="wp-block-image aligncenter"><img src="//cavallo.local/wp-content/uploads/2013/08/actha.png" alt="" class="wp-image-1598" title="horse hoof boots"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->

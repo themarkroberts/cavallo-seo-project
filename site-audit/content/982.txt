@@ -1,0 +1,17 @@
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:image {"id":983,"sizeSlug":"full","linkDestination":"none","align":"left"} -->
+<figure class="wp-block-image alignleft size-full"><img src="http://cavallo.local/wp-content/uploads/2024/09/lisanichols-300x200-1.jpg" alt="" class="wp-image-983"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Here's a photo of me, Carole, and my new friend Lisa Nichols. We are having a fabulous time in Costa Rica. Lisa is an amazing woman and I am so pleased to hang out with her this week. She starred in the hit film "The Secret" and has appeared on Oprah, Extra, Larry King and on NBC’s Emmy Award-winning show, "Starting Over." Lisa and I are planning to do some incredible things together this year. I am sooooo excited!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->

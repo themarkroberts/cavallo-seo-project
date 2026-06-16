@@ -1,0 +1,164 @@
+<!-- wp:group {"style":{"background":{"backgroundImage":{"url":"http://cavallo.local/wp-content/uploads/2024/09/image-29.gif","id":760,"source":"file","title":"image 29"},"backgroundPosition":"100% 50%"},"spacing":{"margin":{"top":"0","bottom":"0"},"padding":{"top":"40px","bottom":"40px"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group" style="margin-top:0;margin-bottom:0;padding-top:40px;padding-bottom:40px"><!-- wp:heading {"textAlign":"center","level":1,"style":{"elements":{"link":{"color":{"text":"var:preset|color|white"}}}},"textColor":"white"} -->
+<h1 class="wp-block-heading has-text-align-center has-white-color has-text-color has-link-color">What's New?</h1>
+<!-- /wp:heading --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|xxl","bottom":"var:preset|spacing|xxl"},"margin":{"top":"0","bottom":"0"}}},"backgroundColor":"light-red-1","layout":{"type":"constrained","contentSize":""}} -->
+<div class="wp-block-group has-light-red-1-background-color has-background" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--xxl);padding-bottom:var(--wp--preset--spacing--xxl)"><!-- wp:columns {"verticalAlignment":"center"} -->
+<div class="wp-block-columns are-vertically-aligned-center"><!-- wp:column {"verticalAlignment":"center","width":"44.48%"} -->
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis:44.48%"><!-- wp:heading -->
+<h2 class="wp-block-heading">Cavallo Newsletter</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"fontSize":"large"} -->
+<p class="has-large-font-size">Join the Cavallo Herd — News, Deals &amp; More!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Don’t miss out on the ride! The Cavallo Newsletter is your VIP ticket to exclusive Cavallo Hoof Boot promos, expert hoof care tips, real-life success stories of happily-booted horses, and new product announcements! Read here or have it delivered monthly to your inbox. You’ll discover fresh hoof care ideas, special savings, and a true connection to your Cavallo Community. Saddle up and subscribe — your horse will thank you!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"textColor":"red","className":"is-style-fill c-button\u002d\u002dsimple","style":{"elements":{"link":{"color":{"text":"var:preset|color|red"}}},"spacing":{"padding":{"left":"0","right":"0","top":"0","bottom":"0"}},"color":{"background":"#ffffff00"}}} -->
+<div class="wp-block-button is-style-fill c-button--simple"><a class="wp-block-button__link has-red-color has-text-color has-background has-link-color wp-element-button" href="http://cavallo.local/newsletter/" style="background-color:#ffffff00;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0" target="_blank" rel="noreferrer noopener">Read your news!<br> <path d="m9.356 3.644 4.5 4.5a.512.512 0 0 1 0 .712l-4.5 4.5a.507.507 0 0 1-.712-.712L12.294 9H2.5a.5.5 0 1 1 0-1h9.794l-3.65-3.644a.506.506 0 0 1 .712-.712Z"></path><br></a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"center","width":"","style":{"spacing":{"padding":{"right":"0","left":"0","top":"0","bottom":"0"}}},"layout":{"type":"constrained","contentSize":"585px","justifyContent":"right","wideSize":""}} -->
+<div class="wp-block-column is-vertically-aligned-center" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:image {"id":203985,"scale":"cover","sizeSlug":"full","linkDestination":"none","style":{"color":{"duotone":"unset"},"border":{"width":"0px","style":"none","radius":"10px"}}} -->
+<figure class="wp-block-image size-full has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2025/07/Cavallo-Hoof-Boots-Newsletter-Website-Image.jpg" alt="" class="wp-image-203985" style="border-style:none;border-width:0px;border-radius:10px;object-fit:cover"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:group {"style":{"spacing":{"margin":{"top":"0","bottom":"0"},"padding":{"right":"0","left":"0"}}},"backgroundColor":"white","layout":{"type":"constrained","contentSize":""}} -->
+<div class="wp-block-group has-white-background-color has-background" style="margin-top:0;margin-bottom:0;padding-right:0;padding-left:0"><!-- wp:columns {"verticalAlignment":"center"} -->
+<div class="wp-block-columns are-vertically-aligned-center"><!-- wp:column {"verticalAlignment":"center","width":"","style":{"spacing":{"padding":{"right":"0","left":"0","top":"0","bottom":"0"}}},"layout":{"type":"constrained","contentSize":"585px","justifyContent":"left","wideSize":""}} -->
+<div class="wp-block-column is-vertically-aligned-center" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:image {"lightbox":{"enabled":false},"id":202636,"scale":"cover","sizeSlug":"full","linkDestination":"custom","style":{"color":{"duotone":"unset"},"border":{"width":"0px","style":"none","radius":"10px"}}} -->
+<figure class="wp-block-image size-full has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2025/04/Beyonce-with-Cavallo-Trek-Hoof-Boots-NFL-Show-1.gif" alt="Beyonce-with-Cavallo-Trek-Hoof-Boots-NFL-Show (1)" class="wp-image-202636" style="border-style:none;border-width:0px;border-radius:10px;object-fit:cover"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"center","width":"44.48%"} -->
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis:44.48%"><!-- wp:heading -->
+<h2 class="wp-block-heading">Cavallo in the Media</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"fontSize":"normal"} -->
+<p class="has-normal-font-size">From iconic halftime shows to royal paddocks, Cavallo Hoof Boots have stepped into some pretty remarkable places. Trusted by horse lovers everywhere (including a few famous names), our boots have been spotted on Beyoncé’s horse during her unforgettable 2024 Beyoncé Bowl performance, on a mini horse at the Oscars with Jimmy Fallon, and even on Queen Elizabeth II’s cherished pony, Carltonlima Emma. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"fontSize":"normal"} -->
+<p class="has-normal-font-size">Explore how Cavallos have found their way into the hearts (and hooves) of horses across the world — both on and off the screen!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"textColor":"red","className":"is-style-fill c-button\u002d\u002dsimple","style":{"elements":{"link":{"color":{"text":"var:preset|color|red"}}},"spacing":{"padding":{"left":"0","right":"0","top":"0","bottom":"0"}},"color":{"background":"#ffffff00"}}} -->
+<div class="wp-block-button is-style-fill c-button--simple"><a class="wp-block-button__link has-red-color has-text-color has-background has-link-color wp-element-button" href="http://cavallo.local/cavallo-in-the-media/" style="background-color:#ffffff00;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0" target="_blank" rel="noreferrer noopener">See where Cavallos have been lately...<br> <path d="m9.356 3.644 4.5 4.5a.512.512 0 0 1 0 .712l-4.5 4.5a.507.507 0 0 1-.712-.712L12.294 9H2.5a.5.5 0 1 1 0-1h9.794l-3.65-3.644a.506.506 0 0 1 .712-.712Z"></path><br></a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"right":"0","left":"0"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group" style="padding-right:0;padding-left:0"><!-- wp:columns {"verticalAlignment":"center"} -->
+<div class="wp-block-columns are-vertically-aligned-center"><!-- wp:column {"verticalAlignment":"center","width":"","style":{"spacing":{"padding":{"right":"0","left":"0","top":"0","bottom":"0"}}},"layout":{"type":"constrained","contentSize":"585px","justifyContent":"left","wideSize":""}} -->
+<div class="wp-block-column is-vertically-aligned-center" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:image {"lightbox":{"enabled":false},"id":203962,"scale":"cover","sizeSlug":"full","linkDestination":"custom","style":{"color":{"duotone":"unset"},"border":{"width":"0px","style":"none","radius":"10px"}}} -->
+<figure class="wp-block-image size-full has-custom-border"><a href="http://cavallo.local/videos/" target="_blank" rel=" noreferrer noopener"><img src="http://cavallo.local/wp-content/uploads/2025/07/Cavallo-Hoof-Boots-Video-Library-website-image-1.jpg" alt="" class="wp-image-203962" style="border-style:none;border-width:0px;border-radius:10px;object-fit:cover"/></a></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"center","width":"44.48%"} -->
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis:44.48%"><!-- wp:heading -->
+<h2 class="wp-block-heading">Cavallo Video Library</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"fontSize":"large"} -->
+<p class="has-large-font-size">Press "Play" for Smarter Hoof Care</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"4px","bottom":"27px"}}}} -->
+<p style="margin-top:4px;margin-bottom:27px">You’re in luck! The Cavallo Hoof Boots Video Library is your go-to hub for everything hoof-related—packed with expert Cavallo Hoof Boot product knowledge, helpful hoof care tips for both barefoot and shod horses alike, Cavallo Boots filmed in action, and inspiring videos created by your fellow Cavallo Community members. Dive in to discover the difference Cavallo can make for you and your equine!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"textColor":"red","className":"is-style-fill c-button\u002d\u002dsimple","style":{"elements":{"link":{"color":{"text":"var:preset|color|red"}}},"spacing":{"padding":{"left":"0","right":"0","top":"0","bottom":"0"}},"color":{"background":"#ffffff00"}}} -->
+<div class="wp-block-button is-style-fill c-button--simple"><a class="wp-block-button__link has-red-color has-text-color has-background has-link-color wp-element-button" href="http://cavallo.local/videos/" style="background-color:#ffffff00;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0" target="_blank" rel="noreferrer noopener">Watch Cavallo Videos<svg xmlns="http://www.w3.org/2000/svg" width="16" height="17"></svg><br>    <path d="m9.356 3.644 4.5 4.5a.512.512 0 0 1 0 .712l-4.5 4.5a.507.507 0 0 1-.712-.712L12.294 9H2.5a.5.5 0 1 1 0-1h9.794l-3.65-3.644a.506.506 0 0 1 .712-.712Z"></path><br></a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|xxl","bottom":"var:preset|spacing|xxl"},"margin":{"top":"0","bottom":"0"}}},"backgroundColor":"light-red-1","layout":{"type":"constrained","contentSize":""}} -->
+<div class="wp-block-group has-light-red-1-background-color has-background" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--xxl);padding-bottom:var(--wp--preset--spacing--xxl)"><!-- wp:columns {"verticalAlignment":"center"} -->
+<div class="wp-block-columns are-vertically-aligned-center"><!-- wp:column {"verticalAlignment":"center","width":"44.48%"} -->
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis:44.48%"><!-- wp:heading -->
+<h2 class="wp-block-heading">Educational Articles</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"fontSize":"large"} -->
+<p class="has-large-font-size">Your Gateway to Modern Hoof Care Wisdom</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"4px","bottom":"27px"}}}} -->
+<p style="margin-top:4px;margin-bottom:27px">Discover the Cavallo Educational Articles Library – <br>Unlock a treasure trove of knowledge from Carole Herder, the inventor of Cavallo Hoof Boots and internationally recognized authority on barefoot hoof care. Through her deeply personal and insightful articles, Carole shares decades of experience as an author, equine wellness advocate, and passionate educator. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"4px","bottom":"27px"}}}} -->
+<p style="margin-top:4px;margin-bottom:27px">Whether you’re new to barefoot hoof care or are a seasoned horse owner, browsing this rich library empowers you with proven techniques and fresh perspectives to keep your horse healthy, comfortable, and performing at their best.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"textColor":"red","className":"is-style-fill c-button\u002d\u002dsimple","style":{"elements":{"link":{"color":{"text":"var:preset|color|red"}}},"spacing":{"padding":{"left":"0","right":"0","top":"0","bottom":"0"}},"color":{"background":"#ffffff00"}}} -->
+<div class="wp-block-button is-style-fill c-button--simple"><a class="wp-block-button__link has-red-color has-text-color has-background has-link-color wp-element-button" href="http://cavallo.local/category/horsecare-educational-resources/" style="background-color:#ffffff00;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0" target="_blank" rel="noreferrer noopener">Browse articles <svg xmlns="http://www.w3.org/2000/svg" width="16" height="17"></svg><br>    <path d="m9.356 3.644 4.5 4.5a.512.512 0 0 1 0 .712l-4.5 4.5a.507.507 0 0 1-.712-.712L12.294 9H2.5a.5.5 0 1 1 0-1h9.794l-3.65-3.644a.506.506 0 0 1 .712-.712Z"></path><br></a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"center","width":"","style":{"spacing":{"padding":{"right":"0","left":"0","top":"0","bottom":"0"}}},"layout":{"type":"constrained","contentSize":"585px","justifyContent":"right","wideSize":""}} -->
+<div class="wp-block-column is-vertically-aligned-center" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:image {"id":203968,"scale":"cover","sizeSlug":"full","linkDestination":"none","style":{"color":{"duotone":"unset"},"border":{"width":"0px","style":"none","radius":"10px"}}} -->
+<figure class="wp-block-image size-full has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2025/07/Cavallo-Hoof-Boots-Educational-Articles-with-Carole-Herder.jpg" alt="Cavallo Hoof Boots Educational Articles with Carole Herder" class="wp-image-203968" style="border-style:none;border-width:0px;border-radius:10px;object-fit:cover"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|xxl","bottom":"var:preset|spacing|xxl"},"margin":{"top":"0","bottom":"0"}}},"backgroundColor":"white","layout":{"type":"constrained","contentSize":""}} -->
+<div class="wp-block-group has-white-background-color has-background" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--xxl);padding-bottom:var(--wp--preset--spacing--xxl)"><!-- wp:columns {"verticalAlignment":"center"} -->
+<div class="wp-block-columns are-vertically-aligned-center"><!-- wp:column {"verticalAlignment":"center","width":"","style":{"spacing":{"padding":{"right":"0","left":"0","top":"0","bottom":"0"}}},"layout":{"type":"constrained","contentSize":"585px","justifyContent":"left","wideSize":""}} -->
+<div class="wp-block-column is-vertically-aligned-center" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:image {"lightbox":{"enabled":false},"id":203984,"scale":"cover","sizeSlug":"full","linkDestination":"custom","style":{"color":{"duotone":"unset"},"border":{"width":"0px","style":"none","radius":"10px"}}} -->
+<figure class="wp-block-image size-full has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2025/07/Cavallo-Hoof-Boots-Blog-image-website.jpg" alt="" class="wp-image-203984" style="border-style:none;border-width:0px;border-radius:10px;object-fit:cover"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"center","width":"44.48%"} -->
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis:44.48%"><!-- wp:heading -->
+<h2 class="wp-block-heading">Cavallo Blog</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"fontSize":"large"} -->
+<p class="has-large-font-size">Trot into the Cavallo Blog Corral!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"4px","bottom":"27px"}}}} -->
+<p style="margin-top:4px;margin-bottom:27px">Psst… want the inside scoop? You’re invited to explore our Cavallo Hoof Boots Blog — your backstage pass to the very best in hoof boot know-how. Discover expert hoof care tips for barefoot and shod horses alike, honest Cavallo Boot product reviews, and inspiring stories from your fellow Cavallo riders and equine owners. Follow along to be part of our close-knit Cavallo community that loves sharing the secrets to happier, healthier hooves!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"textColor":"red","className":"is-style-fill c-button\u002d\u002dsimple","style":{"elements":{"link":{"color":{"text":"var:preset|color|red"}}},"spacing":{"padding":{"left":"0","right":"0","top":"0","bottom":"0"}},"color":{"background":"#ffffff00"}}} -->
+<div class="wp-block-button is-style-fill c-button--simple"><a class="wp-block-button__link has-red-color has-text-color has-background has-link-color wp-element-button" href="http://cavallo.local/blog/" style="background-color:#ffffff00;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0" target="_blank" rel="noreferrer noopener">Dig into the Cavallo Blog<br> <path d="m9.356 3.644 4.5 4.5a.512.512 0 0 1 0 .712l-4.5 4.5a.507.507 0 0 1-.712-.712L12.294 9H2.5a.5.5 0 1 1 0-1h9.794l-3.65-3.644a.506.506 0 0 1 .712-.712Z"></path><br></a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:acf/subscribe {"name":"acf/subscribe","data":{"title":"\u003ch2\u003eReceive Special Offers\u003c/h2\u003e\r\
+Sign up for our newsletter to get 10% off your first order, alongside exclusive promotions, industry news, tutorials, and more!","_title":"field_667bf8d5dd581","background_image":163,"_background_image":"field_667bfbf6dd582","form":"1","_form":"field_667bfc04dd583","html_anchor":"","_html_anchor":"field_672f5663be83a"},"mode":"edit"} /-->

@@ -1,0 +1,11 @@
+<!-- wp:image {"sizeSlug":"large","align":"left"} -->
+<figure class="wp-block-image alignleft size-large"><img src="http://cavallo.local/wp-content/uploads/2024/09/benton-e1385162064922-225x300-1.jpg" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>We have 9 horses and they all wear Cavallo Hoof boots when ridden. We Absolutely love them as do my horses. I am enclosing a picture of my niece on her first trail ride. She was very excited when other riders asked about them. She made sure to read up on them so she could explain to other trail riders how to measure and put them on their horses. "Simple On, Simple Off and Stay On!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Laurie Benton, USA</p>
+<!-- /wp:paragraph -->

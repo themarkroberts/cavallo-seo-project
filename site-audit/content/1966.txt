@@ -1,0 +1,151 @@
+<!-- wp:spacer {"height":"37px"} -->
+<div style="height:37px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading">Wonderful Winter Riding</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>When we feel like Winter is coming, we winterize our houses, winterize our vehicles and we buy boots and jackets to Winterize ourselves. What about Winterizing our horses? Winter is the perfect time to pull off metal shoes and keep your horse moving through the colder season. Allow your horse's hooves to be natural and barefoot at home...then pop on your <a href="http://cavallo.local/product-category/hoof-boot/" target="_blank" rel="noopener">Cavallo Hoof Boots</a> and <a href="http://cavallo.local/product-category/hoof-boot-accessories/hoof-boot-studs/" target="_blank" rel="noopener">Studs</a> when it’s time for a ride!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":346532,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="http://cavallo.local/wp-content/uploads/2022/12/Evelyn-Santer-Black-Trek-Snow-Ice-Studs-2.jpg" alt="Evelyn Santer Black Cavallo Trek Snow Ice Studs mountain trail" class="wp-image-346532"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4,"style":{"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"textColor":"primary"} -->
+<h4 class="wp-block-heading has-primary-color has-text-color has-link-color">Why Risk Injuries or Bruising? We've Got Another Way:</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Whether your horse is barefoot <a href="http://cavallo.local/cavallo-the-top-choice-for-boots-over-metal-shoes/" target="_blank" rel="noopener">or shod,</a> Cavallo Boot soles prevent snow and ice from balling up inside the hoof sole concavity and from freezing onto metal shoes. We've all seen it - compressed snow can cause painful, sub-solar bruising. Partially thawed snow in the hoof often refreezes, creating ice balls that can result in abscesses, hoof discomfort, strained tendons, and ligaments. This effect compromises your horse's balance and can cause injuries from falls. Frozen, uneven ground can also cause painful sole bruises. Metal shoes can even get caught on debris hidden in the snow.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":346535,"width":"1065px","height":"auto","aspectRatio":"4.000156780768226","sizeSlug":"full","linkDestination":"none","align":"center"} -->
+<figure class="wp-block-image aligncenter size-full is-resized"><img src="http://cavallo.local/wp-content/uploads/2022/12/Cavallo-Winter-Stud-Kit-vertical-transparent-background.png" alt="" class="wp-image-346535" style="aspect-ratio:4.000156780768226;width:1065px;height:auto"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading">Tame that Treacherous Terrain</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Terrain changes can create treacherous conditions. Freezing temperatures can quickly turn what once was soft, smooth footing into uneven, rigid ground, full of frozen protuberances. With Cavallos, your horse's entire hoof is protected. This means zero damage to his soles, bulbs, and other soft tissue areas.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading">Secure Footing is Everything</h4>
+<!-- /wp:heading -->
+
+<!-- wp:image {"id":346536,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="http://cavallo.local/wp-content/uploads/2022/12/Black-Trek-all-fours-front-back-Tracy-Kerestesh-Winter-snow-driving.jpg" alt="Black Trek all fours front back - Tracy Kerestesh Winter snow driving" class="wp-image-346536"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading">Water, Water Everywhere But Not a Drop to Drink</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>As humans, we know that we can eat snow if we ever really need to hydrate, but for horses, this thought doesn't come to mind. Remember that water intake is important to hoof health and overall body function. Keep a kettle in the barn to warm the water buckets when needed. A little salt in the feed will encourage your horse to keep drinking. This goes for doggies, too!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading">Who Says a Trail Boot Can't Double as a Poultice Boot?</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>If you need to apply a poultice, bandage, or medication, you can easily leave boots on overtop for turnout. Use your Cavallos to combat the effects of ice shards or any other aggressive terrain in your horse's environment that could impact a tender, healing hoof. <a href="http://cavallo.local/8-uses-for-cavallo-boots-that-might-surprise-you/" target="_blank" rel="noopener">The use and benefits of Cavallo Boots are extensive</a>, and hoof rehabilitation and therapy are important features of our boots.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading">Best Practices</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Barefoot and unrestricted hoofs allow the frog and sole to make direct contact with the ground, pumping fresh blood throughout all of the coriums of the hoof. This supports hoof tissue and encourages overall hoof health.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading">Because Hard, Winter Ground HURTS</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>If you notice your horse is feeling tender on frozen, hard ground, boot up to give her quick and lasting relief. Cavallos can be left on nearly 24/7 during turnout (we recommend taking boots off at least once a day to monitor for any signs of irritation and to air them out). You'll see an immediate difference in the comfort level of your horse - and you'll enjoy the beauty of Winter more, knowing your horse is at ease.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong><a href="http://cavallo.local/soften-the-impact-of-hard-winter-ground/" target="_blank" rel="noopener">READ HERE</a></strong> to find out about a post-Laminitic horse in Estonia who has been greatly helped by Cavallo Boots during Winters!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading">Don't Watch Winter Happen from the Window!</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><em>“I purchased Cavallo Trek horse boots, and how amazing it is to do a decent pace over gravel roads without fear of stone bruises. Driving 6 miles on gravel roads is no problem with my Cavallo boots! Here's a video to show you...”</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>– Tracy Kerestesh, Saskatchewan, Canada</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Want more info on using your Cavallos in the Winter months? <strong><a href="http://cavallo.local/winter-horse-care-2025/" target="_blank" rel="noreferrer noopener">READ MORE HERE! </a></strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:embed {"url":"https://youtu.be/gY5HlaEd8IY","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://youtu.be/gY5HlaEd8IY
+</div></figure>
+<!-- /wp:embed -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>In this short video, Monica and Tupelo of<b>&nbsp;<a href="https://horsetrailchicks.com/home/" target="_blank" rel="noopener">the Horse Trail Chicks</a>&nbsp;</b>are walking on glare ice; you can see Tupelo's back feet slip, but the fronts (with studded Trek Boots) do not:</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:embed {"url":"https://youtu.be/RvJ8wzPDi3c","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://youtu.be/RvJ8wzPDi3c
+</div></figure>
+<!-- /wp:embed -->
+
+<!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading">Contact Us - We're Here for You!</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>If you have any questions or are curious to find out more about booting, remember that assistance is always available from the trusty Cavallo Team!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><b>Just give us a call, toll-free at 1-877-818-0037, email us at info@cavallo.local or&nbsp;<a href="http://cavallo.local/contact-us/" target="_blank" rel="noopener">find us HERE!</a></b></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Wishing you many bright, happy Winter trails,</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>- Carole</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":309574,"width":"1013px","height":"auto","aspectRatio":"1.9542228349673203","sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large is-resized"><img src="http://cavallo.local/wp-content/uploads/2022/11/carole-signature-transparent-background-1024x524.jpg" alt="Cavallo Hoof Boots president Carole Herder signature" class="wp-image-309574" style="aspect-ratio:1.9542228349673203;width:1013px;height:auto" title="Carole Herder Cavallo Hoof Boots Signature"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->

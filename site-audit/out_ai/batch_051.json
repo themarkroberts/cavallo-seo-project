@@ -1,0 +1,86 @@
+[
+  {
+    "id": "1827",
+    "content_format": "Newsletter",
+    "summary": "April 2020 Cavallo community roundup sharing news from the equine world during COVID lockdown, including Emma Massingale's mini Shetlands, Monty Roberts events, Trailmeister, and Pure Liberty training.",
+    "key_components": ["Image gallery", "Video embed", "Table of contents/sections"],
+    "primary_cta": "None"
+  },
+  {
+    "id": "1829",
+    "content_format": "Newsletter",
+    "summary": "April 2020 Team Cavallo update featuring sponsored riders and miniature therapy horses, including Kiwi's film, Hughie's CLB Bling boots, and Cathy Jo and Blue at Boise State games.",
+    "key_components": ["Video embed"],
+    "primary_cta": "None"
+  },
+  {
+    "id": "1830",
+    "content_format": "Standard article (text + images)",
+    "summary": "Announcement that Cavallo has become an Affiliate Partner of the United States Pony Club (USPC), offering member discounts on hoof boots and saddle pads with sales benefiting USPC.",
+    "key_components": ["Table of contents/sections"],
+    "primary_cta": "None"
+  },
+  {
+    "id": "1831",
+    "content_format": "Standard article (text + images)",
+    "summary": "Invitation to join the International Liberty Horse Association founded by Dan and Elizabeth James, with a Cavallo membership discount and background on the Double Dans horsemanship duo.",
+    "key_components": ["Image gallery", "Video embed", "Table of contents/sections", "Bulleted list"],
+    "primary_cta": "Join the ILHA"
+  },
+  {
+    "id": "1832",
+    "content_format": "Standard article (text + images)",
+    "summary": "Coverage of a Western Kentucky University study comparing Cavallo Trek hoof boots to metal shoes, finding the boots offer better hoof protection, traction, and reduced pressure via FujiFilm imaging.",
+    "key_components": ["Video embed"],
+    "primary_cta": "Read the study"
+  },
+  {
+    "id": "1834",
+    "content_format": "Standard article (text + images)",
+    "summary": "Customer testimonials on using Cavallo Trek boots as overboots over metal horseshoes during turnout to stop horses from throwing shoes, featuring Diane V. from Ontario and others.",
+    "key_components": ["Video embed", "Testimonials"],
+    "primary_cta": "None"
+  },
+  {
+    "id": "1835",
+    "content_format": "Standard article (text + images)",
+    "summary": "Explainer on using Cavallo hoof boots as overboots for shod horses, covering shoe retention, all-terrain shock absorption, and protection during jumping and hoof rehab.",
+    "key_components": ["Image gallery", "Video embed", "Bulleted list"],
+    "primary_cta": "Shop hoof boots"
+  },
+  {
+    "id": "1836",
+    "content_format": "Listicle",
+    "summary": "Three tips for successfully transitioning a horse out of metal shoes to barefoot-and-booted, framed as advice from Carole Herder responding to a reader's letter about going barefoot.",
+    "key_components": ["Video embed"],
+    "primary_cta": "None"
+  },
+  {
+    "id": "1837",
+    "content_format": "Product page",
+    "summary": "Overview of Cavallo Comfort Pads, a removable polymer insole for hoof boots that absorbs shock, tightens fit, and aids hoof therapy/rehabilitation; fits all Cavallo boots size 0-6.",
+    "key_components": ["Image gallery", "Video embed", "Table of contents/sections", "Bulleted list", "Product gallery", "Add-to-cart", "Product tabs"],
+    "primary_cta": "Add to cart"
+  },
+  {
+    "id": "1838",
+    "content_format": "Newsletter",
+    "summary": "May 2020 Team Cavallo happenings featuring sponsored riders and their boots, including Thea of Crazy Shetlands in Norway, Emma Massingale's mini ponies, and a farewell to Sarah and Merry.",
+    "key_components": ["Video embed", "Table of contents/sections"],
+    "primary_cta": "None"
+  },
+  {
+    "id": "1839",
+    "content_format": "Newsletter",
+    "summary": "May 2020 Cavallo community roundup linking out to We Ride Sport & Trail Magazine, Trailmeister, Monty Roberts' award-nominated podcast, and Best of America by Horseback.",
+    "key_components": ["Image gallery", "Table of contents/sections"],
+    "primary_cta": "None"
+  },
+  {
+    "id": "1840",
+    "content_format": "Standard article (text + images)",
+    "summary": "May 2020 collection of customer testimonials about Cavallo hoof boots, including a foundered BLM Mustang fitted with Trek boots and Comfort Pads, and using boots over metal shoes.",
+    "key_components": ["Image gallery", "Table of contents/sections", "Testimonials"],
+    "primary_cta": "None"
+  }
+]

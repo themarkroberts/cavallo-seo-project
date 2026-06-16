@@ -1,0 +1,263 @@
+<!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading"><em><span style="color: #008080;">At Cavallo we have many friends who we like to keep track of, as they're always up to something interesting!</span></em></h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading"><figure><a href="https://www.emmamassingale.com/tricycle-for-3"><img class="alignleft size-medium wp-image-14580" src="http://cavallo.local/wp-content/uploads/2019/02/2019-Ride-Across-Europe-Emma-Massingale-2-2-265x300.jpg" alt="2019 Ride Across Europe one smile at a time Emma Massingale " width="265" height="300"></a></figure>Emma Massingale - Crossing Europe - One Smile at a Time!</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Emma and two of her small horses are soon embarking on a tricycle&nbsp; trip across Europe doing what she loves best - making people smile!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><em>"I knew this year I wanted to do an adventure that included my miniatures…but where to start as they are too small to ride and have very short legs, not ideal for travelling long distances!&nbsp; I knew it had to be something personally challenging for me but fun and easy for the ponies..."</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.emmamassingale.com/tricycle-for-3" target="_blank" rel="noopener">READ MORE HERE!</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:embed {"url":"https://youtu.be/m1daYyD3vEg?list=PL4lWo1K7wurcFMjpKkL6xkzpGhqYWeEWf","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://youtu.be/m1daYyD3vEg?list=PL4lWo1K7wurcFMjpKkL6xkzpGhqYWeEWf
+</div></figure>
+<!-- /wp:embed -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Sarah Kirk - Multiple Sclerosis, Merry &amp; Me</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Sarah Kirk from Cornwall, UK posts about how her beloved, barefoot, Norwegian Fjord Horse helps her in her daily life as a person living with Multiple Sclerosis. Her Facebook page is a very positive and worthy page to follow - you can like her page <a href="https://www.facebook.com/MSMerryandMe/" target="_blank" rel="noopener">Here!</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Here's part of a great review she wrote for our Trek and Simple Hoof Boots that recently appeared in The Barefoot Horse Magazine!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":14569,"linkDestination":"custom","align":"left"} -->
+<figure class="wp-block-image alignleft"><a href="https://www.facebook.com/MSMerryandMe/photos/a.2347447861976765/2347440655310819/?type=3&amp;permPage=1"><img src="http://cavallo.local/wp-content/uploads/2019/02/Sarah-Kirk-Barefoot-Horse-Magazine-Review-of-Cavallo-Hoof-Boots-1.jpg" alt="Sarah Kirk - Barefoot Horse Magazine Review of Cavallo Hoof Boots" class="wp-image-14569"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:spacer {"height":"1px"} -->
+<div style="height:1px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Monty Roberts - The Movement 2019</h3>
+<!-- /wp:heading -->
+
+<!-- wp:image {"id":14571,"width":"413px","height":"auto","linkDestination":"custom","align":"left"} -->
+<figure class="wp-block-image alignleft is-resized"><a href="https://www.montyroberts.com/ab_about_monty_calendar/see-monty/"><img src="http://cavallo.local/wp-content/uploads/2019/02/2019-Monty-Roberts-Symposium-Cavallo-Hoof-Boots-1.jpg" alt="2019 Monty Roberts Symposium - Cavallo Hoof Boots" class="wp-image-14571" style="width:413px;height:auto"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>Demonstrations, Discoveries, Pathways.&nbsp; The Movement was a huge success in 2018 and you will want to get your tickets early this year!&nbsp;&nbsp;Monty Roberts hosts this exciting symposium about the unique qualities of the flight animal. There will be presentations about non-violent communication, mindfulness and leadership,<br>to help humans and horses live a better life!&nbsp; Stay tuned for more info coming soon!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>See Monty's Schedule <a href="https://www.montyroberts.com/ab_about_monty_calendar/see-monty/" target="_blank" rel="noopener">HERE!</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p> </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:spacer {"height":"1px"} -->
+<div style="height:1px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Best of America by Horseback Newsletter</h3>
+<!-- /wp:heading -->
+
+<!-- wp:image {"id":14614,"linkDestination":"custom","align":"left"} -->
+<figure class="wp-block-image alignleft"><a href="http://www.bestofamericabyhorseback.com/newsletter.html"><img src="http://cavallo.local/wp-content/uploads/2019/02/BOABH-Tom-Seay-Riding-2-1-300x278.jpg" alt="Best of America by Horseback - Tom Seay on horse" class="wp-image-14614"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>Read about what the folks at Best of America are up to this month!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="https://myemail.constantcontact.com/Ordinary-People-Who-Love-Riding-in-Extraordinary-Places---February-2019-Newsletter---Issue-106.html?soid=1122440115424&amp;aid=5T9Vcs-15P4" target="_blank" rel="noopener">Read Newsletter HERE!</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading"> </h3>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Equi-Ads Magazine - Feb 2019</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>In Equi-Ads February issue, read my article “Something to Chew on”, which delves into how to care for your equine’s teeth – a task that, as you know, is not as simple as it sounds!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="https://en.calameo.com/read/0000043064049ec973762" target="_blank" rel="noopener">READ IT HERE!</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:embed {"url":"https://en.calameo.com/read/000004306dbe6a843b181","type":"wp-embed","providerNameSlug":"calam-o"} -->
+<figure class="wp-block-embed is-type-wp-embed is-provider-calam-o wp-block-embed-calam-o"><div class="wp-block-embed__wrapper">
+https://en.calameo.com/read/000004306dbe6a843b181
+</div></figure>
+<!-- /wp:embed -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading"></h3>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading"><figure><a href="https://weride-magazine.com/january-february-2019/"><img class="alignleft size-large wp-image-14603" src="http://cavallo.local/wp-content/uploads/2019/02/We-Ride-Sport-Trail-Magazine-Jan-Feb-2019-Issue-Cover-2-300x300.jpg" alt="We Ride Sport &amp; Trail Magazine Jan-Feb 2019 Issue Cover" width="322" height="452"></a></figure>We Ride Sport &amp; Trail Magazine - Jan/Feb Issue</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>In this issue you'll find my handy article 'Functional Hoof Tips'. Also, read about the Gypsian Registry, featuring Lord Xalvador, and Jeff Wilson's story of his Morgan mare who found and returned home after being discovered in a kill pen.&nbsp; Parelli Professional Nancy Slater shares training tips and experiences with an abused Mustang in rehabilitation, be inspired by horsewoman Barbra Schulte and discover non-profit Hosanna Horse Haven!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="https://weride-magazine.com/january-february-2019/" target="_blank" rel="noopener">READ IT HERE!</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">The Barefoot Horse Magazine</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>What a magazine!&nbsp; The Barefoot Horse Magazine has now gone worldwide, and is known as the best barefoot horse magazine you can read.&nbsp; I'm proud to have a regular article in this beautiful publication and I think you'll find this magazine's informative content and incredible photos are powerful tools to support you and your horse on your barefoot journey!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>To subscribe to the Barefoot Horse Magazine, click <a href="https://barefoothorsemag.com/product-category/subscriptions/" target="_blank" rel="noopener">HERE!</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Wishing you many happy trails,</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":11988,"linkDestination":"custom","align":"left"} -->
+<figure class="wp-block-image alignleft"><a href="https://www.amazon.com/There-Are-Horseshoes-Heaven-Tradition-ebook/dp/B01BMYYRZ6"><img src="http://cavallo.local/wp-content/uploads/2018/08/Caroles-signature-with-click-here-452x261.jpg" alt="Carole Herder's book - There are no Horseshoes in Heaven" class="wp-image-11988"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->

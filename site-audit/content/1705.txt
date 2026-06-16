@@ -1,0 +1,51 @@
+<!-- wp:paragraph -->
+<p>So, you know you want Hoof Boots, and you heard that<a href="http://cavallo.local/product-category/hoof-boot/" target="_blank" rel="noopener"> Cavallos ARE THE BEST</a> and it’s true! But which style is right for you?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading"><strong>Which Cavallos are YOUR Cavallos?&nbsp; </strong></h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Here’s the Lowdown. Every style has the same <a href="http://cavallo.local/cavallos-have-sole-either-sole-for-any-style/" target="_blank" rel="noopener">tough and durable soles</a>, complete with the features you love. All you need to do is get the correct size. Then choose the upper from the different materials, benefits and price that suits YOU.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>I’ve been working hard to create this video to give you an overview that can help you decide. decide which boot suits you best!&nbsp; This video introduces <a href="http://cavallo.local/product-category/hoof-boot/" target="_blank" rel="noopener">each Cavallo boot</a>, one by one, listing the features and differences.&nbsp; Simply watch the video and if you need more advice, <a href="http://cavallo.local/contact-us/" target="_blank" rel="noopener">we are here waiting for your call, live chat or email.</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:embed {"url":"https://youtu.be/3dxxEjXlSPM","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://youtu.be/3dxxEjXlSPM
+</div></figure>
+<!-- /wp:embed -->
+
+<!-- wp:paragraph -->
+<p>Oh, and you might check out this measuring and fitting video to help you get the right size:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:embed {"url":"https://youtu.be/FqRLMm4u-6M","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://youtu.be/FqRLMm4u-6M
+</div></figure>
+<!-- /wp:embed -->
+
+<!-- wp:heading {"level":5} -->
+<h5 class="wp-block-heading">Wishing you many happy trails,</h5>
+<!-- /wp:heading -->
+
+<!-- wp:image {"id":10645,"width":"288px","height":"auto"} -->
+<figure class="wp-block-image is-resized"><img src="//www.cavallo.local/wp-content/uploads/2017/12/CaroleSig-452x152.jpg" alt="Carole Herder's Signature" class="wp-image-10645" style="width:288px;height:auto"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":10798,"align":"left"} -->
+<figure class="wp-block-image alignleft"><img src="//www.cavallo.local/wp-content/uploads/2018/01/Caroles-Signature-2017-452x200.png" alt="Carole Herder's Signature" class="wp-image-10798"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->

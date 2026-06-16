@@ -1,0 +1,31 @@
+<!-- wp:paragraph -->
+<p>By Carole Herder</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>There has been some great events on recently around the globe and all have promoted the ever-increasing culture of barefoot or booted.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":4998,"linkDestination":"custom","align":"left"} -->
+<figure class="wp-block-image alignleft"><a href="//cavallo.local/wp-content/uploads/2014/10/Blog-69.jpg"><img src="//cavallo.local/wp-content/uploads/2014/10/Blog-69-452x302.jpg" alt="Horse Hoof Boots" class="wp-image-4998"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>June 2014 saw the Man versus Horse Marathon in Wales take place. This race started in 1980, runs over 22 miles and showcases the merits of men and horses running over mountainous terrain. This varied terrain also includes rivers, mud slides, steep forest tracks, shale cliffs, roads, grassy stretches and bog! It took 25 years before a man finally beat a horse. This was repeated 3 years later but the horse has remained unbeaten for 7 years now. In 2014 there was an entry of over 600 runners and 65 horses and there were barefoot/booted entrants.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Jenny Crouch, based in the UK and pictured here with her New Forest pony, has used Cavallo boots for many years. She admits that training, correct feed, work and our hoof boots have all contributed to the success of barefoot with Little Joey. They competed in the annual Boxing Day New Forest Point to Point. It is the only remaining original format point to point race left in the UK and consists of a 3 mile race across the New Forest, as fast as you can go and over all terrain. There is no course, riders can choose where they go but they don’t know where the start or finish is until arrival, just before the race starts!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The World and European TREC Championships held in Italy in September also saw barefoot horses strutting their stuff. TREC is a 3-phase discipline consisting of orienteering, obstacle courses and a control of paces test. Check out the USA website for more information: <a href="http://www.trec-usa.org/index.html" target="_blank" rel="noopener">http://www.trec-usa.org/index.html</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:spacer {"height":"40px"} -->
+<div style="height:40px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->

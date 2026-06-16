@@ -1,0 +1,7 @@
+<!-- wp:image {"sizeSlug":"large","align":"left"} -->
+<figure class="wp-block-image alignleft size-large"><img src="http://cavallo.local/wp-content/uploads/2024/09/Les-Timmons-pic_001.jpg" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>"I regularly use Cavallo All-Purpose Saddle Pads on the horses I’m riding. They provide lots of support, yet you can still feel your horse. I also use the Built-Up for my under-developed horses. It helps the saddle feel like it’s sitting right. They’re easy to clean and care for."</p>
+<!-- /wp:paragraph -->

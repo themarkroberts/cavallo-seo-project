@@ -1,0 +1,123 @@
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading -->
+<h2 class="wp-block-heading">The Science and Research Behind Cavallo Hoof Boots</h2>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Western Kentucky University Research Recommends Cavallo Trek Hoof Boots for Hoof Protection, Traction, and Reduced Pressure.</h3>
+<!-- /wp:heading --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:columns {"verticalAlignment":"center"} -->
+<div class="wp-block-columns are-vertically-aligned-center"><!-- wp:column {"verticalAlignment":"center"} -->
+<div class="wp-block-column is-vertically-aligned-center"><!-- wp:paragraph -->
+<p><strong>First Independent University Hoof Boot Study</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.wku.edu/agriculture/staff/jennifer_gill" target="_blank" rel="noreferrer noopener">Dr. Jennifer Gill</a>&nbsp;and Gabriella Lynn of the Western Kentucky University Equine Science Department have just completed the first independent university study comparing hoof boots to traditional metal shoes. They chose their preferred boots,&nbsp;<a href="http://cavallo.local/product-category/hoof-boot/" target="_blank" rel="noreferrer noopener">Cavallos,</a>&nbsp;for this study. Results confirmed what we in the horse community have been witnessing since 2006.&nbsp;<a href="http://cavallo.local/product-category/hoof-boot/trek-hoof-boots/" target="_blank" rel="noreferrer noopener">Cavallo Trek Hoof Boots&nbsp;</a>benefit horses by providing comfort, protection, and minimizing potential hoof damage.<br><br></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"center"} -->
+<div class="wp-block-column is-vertically-aligned-center"><!-- wp:embed {"url":"https://www.youtube.com/watch?v=wY7DYZTNSPs","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://www.youtube.com/watch?v=wY7DYZTNSPs
+</div></figure>
+<!-- /wp:embed --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading -->
+<h2 class="wp-block-heading">Specialized Film Measures Hoof Pressure</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The study focused on surface area, force, and pressure exerted on a horse’s hooves while travelling on the hard surface of asphalt. The Scientists used FujiFilm imaging to determine the amount of pressure felt in the horse’s hooves. This film procedure allowed the scientists to see dynamic pressure through colour mapping.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading -->
+<h2 class="wp-block-heading"><strong>First Independent University Hoof Boot Study</strong></h2>
+<!-- /wp:heading -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:paragraph -->
+<p>“The Cavallo Hoof Boots protected the entire hoof itself, which we thought was very beneficial, especially over some other types of hoof protection, such as horseshoes,” Dr. Gill said. “We also found that the tread of the Cavallo Trek Hoof Boots was thicker and would provide more space to contact with the ground than a metal horseshoe.”<br></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"id":6420,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="http://cavallo.local/wp-content/uploads/2024/12/Cavallo-Hoof-Pressure-Graph-WKU-2019-Low-Res-1024x576.jpg" alt="Western Kentucky university Cavallo Hoof Boot study results" class="wp-image-6420"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"id":6421,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="http://cavallo.local/wp-content/uploads/2024/12/WKU-2019-Study-Results-slide-2-from-Powerpoint-report-768x432-1.jpg" alt="Western Kentucky university Cavallo Hoof Boot study results" class="wp-image-6421"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"id":6422,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="http://cavallo.local/wp-content/uploads/2024/12/WKU-2019-Report-Conclusion-slide-Powerpoint-768x432-1.jpg" alt="Western Kentucky university Cavallo Hoof Boot study results" class="wp-image-6422"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:paragraph -->
+<p>“We found that the Cavallo Trek Hoof Boots was significantly lower in pressure than the other two treatments,” Gill said. “And this is what we expected from our data. We would have expected that the Trek Boots would have been lower —especially with a hard terrain. This was good news for what we were expecting to see.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading -->
+<h2 class="wp-block-heading">The Research is Clear</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>“The contacting surface area with the Trek Boots was significantly higher than the other two treatments,” Gill continued. There was more tread that was in contact with the ground than would be with the steel horseshoe and the steel horseshoe with Equi-Pak.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>“Based on this result, we would say that horses would have better traction in the Trek Boots and be better able to dissipate those forces and pressure because of the increases in surface area,” Gill said.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Gill says the research is clear that horses are helped when wearing Cavallo Hoof Boots. “In conclusion, horses ridden on hard surfaces may benefit from Cavallo Trek Hoof Boots to mitigate damage to the foot,” Gill said. “We’ve found this to be very positive, and confirm our other results with barefoot horses. But now we’re also looking at other forms of protection. The Cavallo Trek Hoof Boots is looking to be the more positive outcome and a more positive choice.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>To read the published study in the <strong>Journal of Equine Veterinary Science, <a href="http://cavallo.local/wp-content/uploads/2024/12/PDF-2020-Published-reasearch-paper-Western-Kentucky-University-Hoof-Boots-Study.pdf" target="_blank" rel="noreferrer noopener">CLICK HERE</a></strong>.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Gabriella and Jennifer Describe Why Cavallos were Chosen Over any Other Brand:</h3>
+<!-- /wp:heading -->
+
+<!-- wp:embed {"url":"https://www.youtube.com/watch?v=FRD2rBGVn5Q","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://www.youtube.com/watch?v=FRD2rBGVn5Q
+</div></figure>
+<!-- /wp:embed --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">The Vital Role Hoof Boots Play</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Gill finishes, “We believe that hoof health is very important to the athletic horse’s career, and taking the best care of a horse’s feet is of primary importance. We really do stress that. It’s so important to take very good care of your horse’s feet to live happy, sound lives. Hoof boots may play a vital role in achieving soundness in the athletic, barefoot horse. It’s an option that is available to horse owners out there, and can be very good for horses that are ridden on harder terrains.”</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->

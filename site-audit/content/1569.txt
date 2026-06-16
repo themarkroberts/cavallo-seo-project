@@ -1,0 +1,39 @@
+<!-- wp:paragraph -->
+<p><span lang="en-US">Welcome to the most rewarding addiction in the world: horses. What is an addiction? "An addiction is a condition that results when a person engages in an activity that can be pleasurable, but the continued act of which becomes compulsive and interferes with ordinary life responsibilities.”</span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><span lang="en-US">Sound familiar? I can certainly think of many an occasion when I spent time with my horses rather than cleaning the house, doing the shopping or sorting my taxes!!! And while you may spend a hard day slogging in the barn, scrubbing tack, mucking out, grooming those horses until they shine, schooling until you both sweat…… you still get up the next day and do it again, and again, and again……. for the love of the horse, for the addiction of equestrianism.</span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":6326,"linkDestination":"custom","align":"left"} -->
+<figure class="wp-block-image alignleft"><a href="//cavallo.local/wp-content/uploads/2016/01/elb.png"><img src="//cavallo.local/wp-content/uploads/2016/01/elb-300x188.png" alt="elb" class="wp-image-6326"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><span lang="en-US">Yes, we can live with it being an addiction but the expense can be hard to swallow sometimes. Well, Cavallo has the solution, not only to ease this expensive habit but also to help keep your horse healthy and the hoof functioning as it should! <a href="http://cavallo.local/?products=hoof-boot" target="_blank" rel="noopener">Cavallo Hoof Boots</a>! Remember – No Hoof, No Horse </span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><span lang="en-US">**The world’s most affordable hoof boot**</span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p> <span lang="en-US">Yes, introducing ELB - ONLY $<u><b>49.95</b></u>!!! (USA pricing)</span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><span lang="en-US">The ELB (Entry Level Boot) Hoof Boot comes to market allowing for a perfect solution to those still nervous about transitioning to barefoot and for those who only need a boot occasionally. The ELB is ideal for rehabilitation and therapeutic purposes and makes an excellent ‘spare tire’ for a lost shoe. With the industrial grade nylon, replaceable Velcro, drainage slots, two sole width options and seven size options, it is most definitely on a par with all our other boots so you do not lose on quality.</span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><span lang="en-US">And best of all? There is a </span><span lang="en-US"><u><b>180 day ‘repair or replace’ warranty</b></u></span><span lang="en-US">, so you really have nothing to worry about! Get your <a href="http://cavallo.local/?products=hoof-boot" target="_blank" rel="noopener">Cavallo Hoof Boots </a>today. </span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":5795,"linkDestination":"custom","align":"left"} -->
+<figure class="wp-block-image alignleft"><a href="//cavallo.local/wp-content/uploads/2015/06/Caroles.png"><img src="//cavallo.local/wp-content/uploads/2015/06/Caroles.png" alt="horse hoof boots" class="wp-image-5795"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->

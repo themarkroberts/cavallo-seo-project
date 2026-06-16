@@ -1,0 +1,127 @@
+<!-- wp:image {"id":346839,"sizeSlug":"full","linkDestination":"none","align":"center"} -->
+<figure class="wp-block-image aligncenter size-full"><img src="http://cavallo.local/wp-content/uploads/2026/02/Cavallo-Case-Studies-2026-Website-Cover-2.jpg" alt="Cavallo Case Study Submission Form" class="wp-image-346839"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:columns {"style":{"spacing":{"padding":{"top":"var:preset|spacing|lg","bottom":"var:preset|spacing|lg","left":"var:preset|spacing|xs","right":"var:preset|spacing|xs"}}}} -->
+<div class="wp-block-columns" style="padding-top:var(--wp--preset--spacing--lg);padding-right:var(--wp--preset--spacing--xs);padding-bottom:var(--wp--preset--spacing--lg);padding-left:var(--wp--preset--spacing--xs)"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Every single week, we hear incredible stories about how Cavallo Boots make a real difference.</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>From helping a horse take their first sound steps after laminitis, to giving comfort and confidence through navicular challenges, thrush recovery, ringbone, rehab, or rough terrain. The messages, photos, and updates you share mean a great deal to us.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Now, we want to feature more of those personal journeys via the Cavallo Case Study Submission Form.</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Cavallo Case Studies are open to every horse and every story. Whether your horse needed short-term support or long-term protection, we want to hear how Cavallos helped them move better, feel better, and live better. No case is too big or too small. If Cavallo boots played a role in your horse’s comfort, recovery, or performance, your experience matters.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">How will my study be used?</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Case studies may be shared publicly on our website, social media, email newsletters, or educational materials. If your story is selected, you will be able to view it and share it proudly with your community!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Other submissions are used internally to support our Customer Service team, guide product development, and strengthen our educational resources. Even if your case study is not published, your experience still helps shape how we serve horses and riders every day. All case study submissions can opt out of public sharing if preferred.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Your feedback does more than inspire other horse owners. It also helps our Cavallo team learn, improve, and continue creating products that truly support horses in the real world.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">What do I get?</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>As our appreciation for sharing your horse’s Cavallo case study, <strong>we would love to offer you 15% off</strong> your next pair of boots. Simply complete the form, and your special Case Study Discount will be available for you!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Your feedback does more than inspire other horse owners. It also helps our Cavallo team learn, improve, and continue creating products that truly support horses in the real world.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:image {"id":346810,"width":"911px","height":"auto","aspectRatio":"5.953907815631262","sizeSlug":"large","linkDestination":"none","align":"center"} -->
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="http://cavallo.local/wp-content/uploads/2026/02/Cavallo-Case-Studies-2026-Website-Cover-4-1024x172.jpg" alt="Cavallo Hoof Boots for Riding, Therapy, Turnout, and more" class="wp-image-346810" style="aspect-ratio:5.953907815631262;width:911px;height:auto"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:columns {"style":{"spacing":{"padding":{"top":"var:preset|spacing|lg","bottom":"var:preset|spacing|lg","left":"var:preset|spacing|xs","right":"var:preset|spacing|xs"}}}} -->
+<div class="wp-block-columns" style="padding-top:var(--wp--preset--spacing--lg);padding-right:var(--wp--preset--spacing--xs);padding-bottom:var(--wp--preset--spacing--lg);padding-left:var(--wp--preset--spacing--xs)"><!-- wp:column -->
+<div class="wp-block-column"></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading">Don't have time to submit a Case Study?</h4>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading"><a href="http://cavallo.local/reviews-submit/" type="link" id="http://cavallo.local/reviews-submit/">Submit a review</a> instead to quickly share your Cavallo Story! ❤️</h4>
+<!-- /wp:heading --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"textAlign":"left","level":3,"style":{"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"textColor":"primary"} -->
+<h3 class="wp-block-heading has-text-align-left has-primary-color has-text-color has-link-color">Please Submit Your Cavallo Case Study Here:</h3>
+<!-- /wp:heading --></div>
+<!-- /wp:group -->
+
+<!-- wp:html -->
+[gravityform id="12" title="true"]
+<!-- /wp:html --></div>
+<!-- /wp:group -->
+
+<!-- wp:acf/short-hero {"name":"acf/short-hero","data":{"title":"Thank you for filling out the Cavallo Case Study Submission Form!","_title":"field_667e4fd89780c","html_anchor":"","_html_anchor":"field_672f5663be83a"},"mode":"preview"} /-->
+
+<!-- wp:spacer {"height":"59px"} -->
+<div style="height:59px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"right":"var:preset|spacing|xl","left":"var:preset|spacing|xl"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group" style="padding-right:var(--wp--preset--spacing--xl);padding-left:var(--wp--preset--spacing--xl)"><!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:group {"className":"reverse-order\u002d\u002dmobile","style":{"spacing":{"padding":{"top":"var:preset|spacing|xxl","bottom":"var:preset|spacing|xxl"},"margin":{"top":"0","bottom":"0"}}},"layout":{"type":"constrained","contentSize":"1440px"}} -->
+<div id="Pastern-Wraps-Carole-Happy-Trails" class="wp-block-group reverse-order--mobile" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--xxl);padding-bottom:var(--wp--preset--spacing--xxl)"><!-- wp:columns {"verticalAlignment":"center"} -->
+<div class="wp-block-columns are-vertically-aligned-center"><!-- wp:column {"verticalAlignment":"center","width":"57.7%"} -->
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis:57.7%"><!-- wp:heading {"level":4,"style":{"typography":{"fontStyle":"normal","fontWeight":"200"}}} -->
+<h4 class="wp-block-heading" style="font-style:normal;font-weight:200">Wishing you many happy trails,</h4>
+<!-- /wp:heading -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"0","bottom":"0","left":"0","right":"0"},"margin":{"top":"47px","bottom":"0"}}},"layout":{"type":"constrained","contentSize":"227px","justifyContent":"left"}} -->
+<div class="wp-block-group" style="margin-top:47px;margin-bottom:0;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:image {"id":201670,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="http://cavallo.local/wp-content/uploads/2025/03/Carole-Herder-signature-no-background.png" alt="" class="wp-image-201670"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:group -->
+
+<!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"0","bottom":"0","left":"0","right":"0"}}},"fontSize":"large"} -->
+<p class="has-large-font-size" style="margin-top:0;margin-right:0;margin-bottom:0;margin-left:0">Carole Herder</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"0","bottom":"0","left":"0","right":"0"}}}} -->
+<p style="margin-top:0;margin-right:0;margin-bottom:0;margin-left:0"> President and founder of Cavallo Horse &amp; Rider Inc</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"32px","bottom":"24px"}}}} -->
+<p style="margin-top:32px;margin-bottom:24px">Carole Herder, President and founder of Cavallo Horse &amp; Rider Inc., is an internationally acclaimed figure in the equestrian community. Her books, There Are No Horseshoes in Heaven and Hoof Prints on the Journey, have become international bestsellers, further solidifying her status as a thought leader in the industry.&nbsp;Since 1993, Carole has been deeply involved in horse health. Cavallo is a global leader in developing, manufacturing, and distributing horse products. Carole’s passion for horse comfort is evident in her designs, including the innovative Cavallo Hoof Boots and Total Comfort System Saddle Pads.<br><br>A true pioneer in the equestrian community, Carole is widely recognized for her expertise and contributions. She champions the benefits of keeping horses in their natural state, advocates for overall hoof health, and works towards the alleviation of debilitating disorders. Her achievements include being an honoured award recipient of the Royal Bank of Canada Woman Entrepreneur of the Year, British Columbia’s Businesswoman of The Year, and North America Enterprising Woman of The Year.&nbsp;<br>Carole is a certified Dr. Deepak Chopra Yoga, Meditation and Ayurvedic Lifestyle Instructor and a proud member of the Women Presidents Organization, supporting female entrepreneurs in every industry.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"center","width":"","style":{"spacing":{"padding":{"right":"0","left":"0","top":"0","bottom":"0"}}},"layout":{"type":"constrained","contentSize":"437px","justifyContent":"right","wideSize":""}} -->
+<div class="wp-block-column is-vertically-aligned-center" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:image {"id":201671,"scale":"cover","sizeSlug":"full","linkDestination":"none","style":{"color":{"duotone":"unset"},"border":{"width":"0px","style":"none","radius":"10px"}}} -->
+<figure class="wp-block-image size-full has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2025/03/Cavallo-Hoof-Boots-President-Carole-Herder-Web-signature-image-new-site-2025-LR.jpg" alt="" class="wp-image-201671" style="border-style:none;border-width:0px;border-radius:10px;object-fit:cover"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->

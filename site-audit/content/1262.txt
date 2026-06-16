@@ -1,0 +1,15 @@
+<!-- wp:image {"id":5076,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="http://cavallo.local/wp-content/uploads/2013/10/wild-e1405955514809.jpg" alt="" class="wp-image-5076"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>By Carole Herder</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Even wild horses are somewhat dependent on humans nowadays. Farming and cattle ranching as well as government requirements have limited the access wild horses have to land, food and water.  In some areas, wild horses aren’t surviving very well and can get trapped, literally and figuratively, when natural disasters strike, such as fire, floods or drought. For example, the Bureau of Land management trucks in water for wild horses suffering during a drought. And because horses arouse empathy in us humans, in an effort to control the wild horse population, avoid excessive deaths on confined land and the inevitable bad publicity that would come with it, the government is sterilizing and adopting out many wild horses. There are 30-40 thousand wild horses in North America. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>In Australia, where they are called Brumbies, there are over 1.2 million wild horses in the Outback.  With numbers such as those, the Australian government has been forced to cull the herds, flying over in helicopters, shooting them. It seems sad and certainly is controversial, but they see it as a nasty yet necessary measure. Between the 1.2 million brumbies and 2 million camels wandering the Australian wild, food and water sources have become scarce with the impact extending to the natural wildlife. On a trip to Australia a couple of years ago there was a monstrous flood. It killed a lot of domestic and wild horses. The wild horses couldn’t be rescued. While the ASPCA and other organizations could rescue some domestic horses, wild horses were mostly left to fend for themselves. One sad story was a rancher who felt he had to shoot his 40 horses and 100 head of cattle, and then took his own life.  The animals hadn’t eaten for over a week and the water kept rising. Not too long ago there was a huge fire that swept across the mid United States and threatened the wild horse population. They got surrounded by fire and had nowhere to go. Horses can’t make a phone call; 911 come rescue me. As we become more involved in the natural eco system, and we add to global warming, more natural disasters seem to be happening. Now fire, flood and drought threaten horses as even more than their natural predators.</p>
+<!-- /wp:paragraph -->

@@ -1,0 +1,19 @@
+<!-- wp:image {"id":1152,"sizeSlug":"full","linkDestination":"none","align":"center"} -->
+<figure class="wp-block-image aligncenter size-full"><img src="http://cavallo.local/wp-content/uploads/2024/09/gb-e1405630445309.jpg" alt="" class="wp-image-1152"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>The TREC World Championships take place 7 - 9 September 2012 in Mafra, Portugal. The Great Britain Team are competing on hired horses as their own would not be used to the Portugese terrain or biting insects.  The team will be using the Cavallo saddle pads to get good saddle fit.  The pads were presented at the Great Britain Championships at Hilton of Beath Farm, Fife on 12 August.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The team members are (L to R): Hilary Barnard, Anthea Kendrick (Chef d'equipe), Anna Weston, Jackie Bennett, (john Barbour Horse and More), Daniel Nolan, Lynn Davies, Dot Still.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Cavallo is proud to sponsor the Great Britain TREC Team! Good luck!!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->

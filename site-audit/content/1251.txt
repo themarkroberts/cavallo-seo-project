@@ -1,0 +1,15 @@
+<!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="http://cavallo.local/wp-content/uploads/2024/09/carolespoga-185x300-1.jpg" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>By Carole Herder</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The complex flavour of multiculturalism flowed freely as fine wine throughout the evening, as Cavallo hosted our Worldwide Distributor gathering during the Spoga Equine Trade Fair in Cologne, Germany. We sang and danced and celebrated our community of Barefoot &amp; Booted advocates. Changing the world one horse at a time, Greg and I were proud to gather with our delegates from Belgium, France, Germany, Holland, Australia, the USA and Canada. Next year we are hoping to have the pleasure of including even more of our partners from the 28 countries Cavallo services around this truly amazing world.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":1702,"align":"center","className":"size-medium wp-image-1702"} -->
+<figure class="wp-block-image aligncenter size-medium wp-image-1702"><img src="//cavallo.local/wp-content/uploads/2013/09/gregspoga-300x225.jpg" alt="" class="wp-image-1702"/><figcaption class="wp-element-caption">Greg Giles, Cavallo CEO telling Jeff Carruthers of Cavalier and Rick Mreen of Toklat about a big surprise we're all very excited about.</figcaption></figure>
+<!-- /wp:image -->

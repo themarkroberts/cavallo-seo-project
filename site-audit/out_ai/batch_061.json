@@ -1,0 +1,86 @@
+[
+  {
+    "id": "3521",
+    "content_format": "Product page",
+    "summary": "Cavallo multi-purpose pocketknife with scissors, corkscrew, screwdriver heads and knife blades, pitched as a trail-riding survival pack addition. Includes the standard 180-day Best Boot warranty text.",
+    "key_components": ["Product gallery", "Add-to-cart", "Product tabs"],
+    "primary_cta": "Add to cart"
+  },
+  {
+    "id": "3524",
+    "content_format": "Product page",
+    "summary": "Cavallo tail brush for detangling a horse's mane and tail. Page also carries the standard Cavallo guarantee and 180-day warranty details.",
+    "key_components": ["Product gallery", "Add-to-cart", "Product tabs"],
+    "primary_cta": "Add to cart"
+  },
+  {
+    "id": "3530",
+    "content_format": "Product page",
+    "summary": "Product page for the book 'There Are No Horseshoes in Heaven', which examines horses' natural way of being and husbandry changes for hoof health and soundness.",
+    "key_components": ["Product gallery", "Add-to-cart", "Product tabs"],
+    "primary_cta": "Add to cart"
+  },
+  {
+    "id": "3536",
+    "content_format": "Team / bio",
+    "summary": "Bio of Carole Herder, President of Cavallo, covering her path into equine well-being, the barefoot movement, and her stance against nailing metal shoes into hooves.",
+    "key_components": [],
+    "primary_cta": "None"
+  },
+  {
+    "id": "3552",
+    "content_format": "Team / bio",
+    "summary": "Bio of Greg Giles, CEO of Cavallo Horse & Rider Inc., detailing his footwear design background, Old Macs history, and leadership in barefoot hoof-boot development for laminitis and navicular.",
+    "key_components": [],
+    "primary_cta": "None"
+  },
+  {
+    "id": "3554",
+    "content_format": "Team / bio",
+    "summary": "Minimal team page for Patricia, Cavallo's Chief Financial Officer; only the role is listed.",
+    "key_components": [],
+    "primary_cta": "None"
+  },
+  {
+    "id": "3556",
+    "content_format": "Team / bio",
+    "summary": "Bio of Krystle Davies, Cavallo Customer Experience Manager, covering her horse background, joining Cavallo in 2009, and her psychology degree and hobby farm in B.C.",
+    "key_components": [],
+    "primary_cta": "None"
+  },
+  {
+    "id": "3557",
+    "content_format": "Team / bio",
+    "summary": "Bio of Jennifer Mundell, Cavallo Relations Coordinator, who handles social media, marketing and equine-industry partnerships since 2015.",
+    "key_components": [],
+    "primary_cta": "None"
+  },
+  {
+    "id": "3558",
+    "content_format": "Product page",
+    "summary": "Product page for the Mustad 'Double S' Loop Hoof Knife, an ambidextrous, ergonomically designed hoof knife with a hardened steel blade for trimming the sole, frog and bar.",
+    "key_components": ["Product gallery", "Add-to-cart", "Product tabs"],
+    "primary_cta": "Add to cart"
+  },
+  {
+    "id": "3559",
+    "content_format": "Team / bio",
+    "summary": "Bio of Yvonne Welz, a lifelong horsewoman, former dressage rider, and founder of The Horse's Hoof Magazine, who promotes barefoot hoof care and uses Cavallo boots daily.",
+    "key_components": [],
+    "primary_cta": "None"
+  },
+  {
+    "id": "3562",
+    "content_format": "Team / bio",
+    "summary": "Bio of Brigitta Luettge, Cavallo Customer Experience Expert, with 28 years of horse experience from owning SweetWater Ranch in Whistler, BC.",
+    "key_components": [],
+    "primary_cta": "None"
+  },
+  {
+    "id": "3564",
+    "content_format": "Team / bio",
+    "summary": "Bio of Heidi Melocco, Cavallo's Public Relations & Press contact, a longtime equine publishing author and PATH International instructor who promotes new products and equine wellness.",
+    "key_components": [],
+    "primary_cta": "None"
+  }
+]

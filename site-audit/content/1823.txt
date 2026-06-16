@@ -1,0 +1,163 @@
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading"><strong>Exciting New Products for YOU!</strong></h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>New Products, New Sizes, New Year!&nbsp; Cavallo is always evolving to fill your horse's needs.&nbsp; Here’s what's coming over next couple of months:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading"><strong>BFB (Big Foot Boot) NEW sizes 7 and 9</strong></h3>
+<!-- /wp:heading -->
+
+<!-- wp:image {"id":24027,"linkDestination":"custom","align":"left"} -->
+<figure class="wp-block-image alignleft"><a href="http://cavallo.local/product-category/hoof-boot/bfb-hoof-boots/"><img src="http://cavallo.local/wp-content/uploads/2020/01/Feathers-Cavallo-Hoof-Boots-BFB-New-Draft-Sizes-1-300x225.png" alt="Feathers - Cavallo Hoof Boots BFB New Draft Sizes" class="wp-image-24027"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>These long-awaited <a href="http://cavallo.local/product-category/hoof-boot/bfb-hoof-boots/" target="_blank" rel="noopener noreferrer">sizes are coming!</a> – Expected to arrive by late February!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><em>“Jack and Flame, my team of Suffolk Punch horses, were driven at the 2019 Calgary Stampede parade. They’re older, and Flame has a bit of arthritis. After pavement work, he sometimes seems sore.&nbsp; With Cavallo BFB and Pads, he's able to do many miles and remains comfortable. We’re all are grateful for this; it makes so much sense to have a comfortable option that helps absorb the shock of the pavement. Luke, our 8-year-old Clydesdale, was wearing Cavallo BFBs under his feathers, and they were amazing for the whole event!&nbsp; Even on the crushed road gravel!”&nbsp; </em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>– Connie Challice, Cavallo Associate and Barefoot Trimmer (Success with Horses, Alberta)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:spacer {"height":"1px"} -->
+<div style="height:1px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading"><strong>CLB (Cute Little Boot</strong>) Regular Soles!</h3>
+<!-- /wp:heading -->
+
+<!-- wp:image {"id":24028,"linkDestination":"custom","align":"left"} -->
+<figure class="wp-block-image alignleft"><a href="http://cavallo.local/product-category/hoof-boot/mini-hoof-boots/"><img src="http://cavallo.local/wp-content/uploads/2020/01/Team-Rowdy-Cavallo-CLB-Mini-horse-hoof-boot-cart-driving-1.png" alt="Team Rowdy - Cavallo CLB Mini horse hoof boot cart driving." class="wp-image-24028"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>NEW CLB sole widths for the rounder shaped mini/pony hoof will be arriving late February!&nbsp; All sizes (M1 – M4) will be available on the CLB Regular Sole AND the Slim sole.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><em>“WOW!</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><em>I recently purchased the <a href="http://cavallo.local/product-category/hoof-boot/mini-hoof-boots/" target="_blank" rel="noopener noreferrer">CLB mini boots</a> for Rowdy--my cart horse, show horse, and my best friend. He is enthusiastic about his work, but a diagnosis of thin soles dampened his spirits. I put the CLB mini boots on Rowdy, and WOW!!! We watched his short, choppy, tender-footed stride immediately transform into a long, confident, ground-covering gait. The boots and comfort pads were easy to size, easy to apply and, most importantly, "Rowdy approved". Thanks for getting us back in the cart and show ring!"</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><em>- Team Rowdy.</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading"><strong>NEW Cavallo 3M Scotchlite Reflective Strap Reflective Velcro Closures</strong></h3>
+<!-- /wp:heading -->
+
+<!-- wp:image {"id":24030,"align":"left"} -->
+<figure class="wp-block-image alignleft"><img src="http://cavallo.local/wp-content/uploads/2020/01/NEW-Cavallo-3M-Scotchlite-Reflective-Strap-Reflective-Velcro-Closures-1.png" alt="NEW Cavallo 3M Scotchlite Reflective Strap Reflective Velcro Closures" class="wp-image-24030"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><strong>Be Safe, Be Seen!</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Enjoy increased safety during evenings or low-light conditions with these incredibly reflective closures.&nbsp; They light up at a distance when illuminated by car headlights. Available Spring 2020.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:spacer {"height":"1px"} -->
+<div style="height:1px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading"><strong>NEW Cavallo CLB and ELB/Simple Buckle Straps</strong></h3>
+<!-- /wp:heading -->
+
+<!-- wp:image {"id":24031,"align":"left"} -->
+<figure class="wp-block-image alignleft"><img src="http://cavallo.local/wp-content/uploads/2020/01/Cavallo-Hoof-Boots-new-CLB-and-ELB-and-Simple-Buckle-Straps-1.png" alt="Cavallo Hoof Boots new CLB and ELB and Simple Buckle Straps" class="wp-image-24031"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Attractive, reliable, and they stay put!&nbsp; Easy to attach for a whole new classic look.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Buckle straps due to arrive Spring 2020.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:spacer {"height":"1px"} -->
+<div style="height:1px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading"><strong>New Updated Cavallo Measuring Tool!</strong></h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Also - now online and due to arrive in print soon, is the <a href="http://cavallo.local/how-to-measure/" target="_blank" rel="noopener noreferrer">NEW Cavallo Hoof Boot Measuring Tool</a>!&nbsp; This new chart reflects our full range of sizing from CLB and BFB (including new sizes)!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":24033,"linkDestination":"custom"} -->
+<figure class="wp-block-image"><a href="http://cavallo.local/how-to-measure/"><img src="http://cavallo.local/wp-content/uploads/2020/01/New-Cavallo-Horse-Hoof-Boots-measuring-tool-2020-1.png" alt="New Cavallo Horse Hoof Boots measuring tool 2020" class="wp-image-24033"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Ring us this Spring!</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Spring is right around the corner! Please call us toll-free at 1-877-818-0037 to discuss these new products and find out if they're just right for your horse. This season will be your best one yet!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Wishing you many happy trails this coming Spring,</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":11988,"linkDestination":"custom","align":"left"} -->
+<figure class="wp-block-image alignleft"><a href="https://www.amazon.com/There-Are-Horseshoes-Heaven-Tradition-ebook/dp/B01BMYYRZ6/ref=sr_1_1?keywords=there+are+no+horseshoes&amp;qid=1580503623&amp;sr=8-1"><img src="http://cavallo.local/wp-content/uploads/2018/08/Caroles-signature-with-click-here-452x261.jpg" alt="Carole Herder's book - There are no Horseshoes in Heaven" class="wp-image-11988"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->

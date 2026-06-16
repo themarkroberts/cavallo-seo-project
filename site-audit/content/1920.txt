@@ -1,0 +1,119 @@
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading"><span style="color: #000000;">It's Been Quite a Year, Hasn't It?</span></h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><span style="color: #000000;">&nbsp;</span><br><span style="color: #000000;">People like you - customers who become friends - don't come along every day. 2021 was quite a year, and I want to give you three book gifts to show my appreciation for being part of our Cavallo Community.</span><br><span style="color: #000000;">&nbsp;</span><br><span style="color: #000000;"><span lang="EN-US" style="font-size: 12pt; font-family: Arial, sans-serif;">Please download digital PDF copies of my </span><span lang="EN-US" style="font-size: 12pt; font-family: Arial, sans-serif;">hoof-care education books today. You can give them as gifts to the special horse lovers in your life and/or keep these holiday gifts for yourself. Your book gifts are </span><span lang="EN-US" style="font-size: 12pt; font-family: Arial, sans-serif;"><a href="https://www.amazon.com/Hoof-Prints-Journey-Owners-Simple/dp/1999285514" target="_blank" rel="noopener"><i>Hoof Prints on the Journey</i></a>, <i><a href="https://www.amazon.com/There-Are-Horseshoes-Heaven-Tradition-ebook/dp/B01BMYYRZ6" target="_blank" rel="noopener">There Are No Horseshoes in Heaven</a>, </i>and <i><a href="http://cavallo.local/product/trimming-guide-with-dvd/" target="_blank" rel="noopener">Cavallo’s Barefoot Trim Guide</a>. </i>These three book gifts will be available to you until January 15, 2022:</span></span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading"><span style="color: #000000;"><b><span lang="EN-US" style="font-size: 12pt; font-family: Arial, sans-serif;">Hoof Prints on the Journey - My Latest Book:</span></b></span></h3>
+<!-- /wp:heading -->
+
+<!-- wp:image {"id":58785,"align":"left"} -->
+<figure class="wp-block-image alignleft"><img src="http://cavallo.local/wp-content/uploads/2022/02/Hoof-Prints-on-the-Journey-book-by-Carole-Herder-Transparent-background3-1.png" alt="Hoof Prints on the Journey book by Carole Herder" class="wp-image-58785"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><span lang="EN-US" style="font-size: 12pt; font-family: Arial, sans-serif; color: #000000;">Worries about your horse's soundness and well-being have humbled all horse owners. Feeling powerless to cure lameness or disease can overwhelm us with denial, despair, and guilt. At the forefront of revolutionary new wisdom, this book will help you navigate issues such as Laminitis and Navicular Disease. Discover actionable steps that every horse owner can take. Consider statements from top experts and scientists. This book is full of pictures and anecdotes that will engage and entertain you while providing solutions for your deepest fears. You are not powerless, but If you don't take control of your horse's future, outside forces will. Get curious. A few small changes can move you from regret to inspiration. <i>Hoofprints on The Journey</i> will show you how.</span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><span lang="EN-US" style="font-size: 12pt; font-family: Arial, sans-serif; color: #000000;"><strong>Get your gift copy here:</strong> www.cavallo.local/Hoof-Prints-Gift</span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:spacer {"height":"1px"} -->
+<div style="height:1px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading"><span style="color: #000000;">There Are No Horseshoes in Heaven</span></h3>
+<!-- /wp:heading -->
+
+<!-- wp:image {"id":11778,"align":"left"} -->
+<figure class="wp-block-image alignleft"><img src="http://cavallo.local/wp-content/uploads/2022/02/book-1-300x300-2.jpg" alt="Carole Herder's Book There are no Horseshoes in Heaven" class="wp-image-11778"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><span style="color: #000000;">Effectively manage your horse’s well-being naturally. There Are No Horseshoes in Heaven offers a profound and passionate exploration of past patterns, guiding you through an entertaining and thought-provoking invitation to make alternative choices. Protect your horse from pain and discomfort, maximize your riding experience and gain insight into the ‘hot spots’ for horses, through scientific evidence and real-life stories. There Are No Horseshoes in Heaven exposes the passé ways of thinking that have impacted our horses. This book examines horses’ natural way of being and shows how small changes in our husbandry can yield big results. It calls us to apply the philosophy of empowerment with a healthy dose of curiosity and move forward into interesting new times.</span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><span style="color: #000000;"><strong>Get your gift copy now:</strong> www.cavallo.local/No-horseshoes-gift-to-you</span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:spacer {"height":"1px"} -->
+<div style="height:1px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading"><span style="color: #000000;">Cavallo Barefoot Trim Guide</span></h3>
+<!-- /wp:heading -->
+
+<!-- wp:image {"id":67488,"align":"left"} -->
+<figure class="wp-block-image alignleft"><img src="http://cavallo.local/wp-content/uploads/2022/02/Cavallo-Barefoot-Trim-1-194x300-3.jpg" alt="Cavallo Barefoot Trim Guide" class="wp-image-67488"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><span style="color: #000000;">From age 10, Lynn Seeley was shoeing horses. He developed a great respect, sensitivity and understanding for all breeds and their respective purpose and way of going. Most horses had the common assortment of problems. Reconstructions, resections, treating founder and laminitis were common practice. He understood how the hoof affects the entire horse and went on to improve their well-being through removing metal shoes and trimming barefoot horses to health and soundness. Now with over 60 years of practice, he shares his gentle trimming method through this illustrated manual and accompanying video hosted by Herder. This manual should be in every horse woman and man’s library either as reference for yourself or as guidance for your trimmer.</span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><span style="color: #000000;"><strong>Get your gift copy here:</strong> www.cavallo.local/you-barefoot-trim-guide&nbsp;</span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><span style="color: #000000;"><strong>Watch the accompanying Barefoot Trim Video: </strong><a style="color: #000000;" href="http://cavallo.local/barefoot-trim-video/" target="_blank" rel="noopener">www.cavallo.local/barefoot-trim-video/</a></span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><span style="color: #000000;">Please send me an email to let me know how you enjoyed my books! You can always reach me at caroleherder@cavallo.local .</span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><span style="color: #000000;"><em>Wishing you many trails and happy hours of reading,</em></span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><span style="color: #000000;"><em>-Carole Herder</em></span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":66829,"align":"left"} -->
+<figure class="wp-block-image alignleft"><img src="http://cavallo.local/wp-content/uploads/2022/02/1_2021-Carole-signature-DRAFT-452x263-2.png" alt="Carole Herder Cavallo President Signature" class="wp-image-66829"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:spacer {"height":"1px"} -->
+<div style="height:1px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:paragraph -->
+<p><strong><span style="color: #000000;">Our Cavallo website is loaded with research, testimonials, and FAQs to help guide you as you transition to barefoot and prepare to ride in any sport. Visit us at <a href="http://cavallo.local" target="_blank" rel="noopener">www.cavallo.local</a> for more help or join the discussion on our <a href="https://www.facebook.com/CavalloHoofboots" target="_blank" rel="noopener">Facebook page</a>. Sign up <a href="http://cavallo.local/subscribe-to-the-cavallo-horse-and-rider-newsletter/" target="_blank" rel="noopener">HERE</a> for Cavallo's free newsletter and special community discounts. Call us toll-free from the USA or Canada: at 1(877) 818-0037.</span></strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center"><span lang="EN-US" style="font-size: 12pt; font-family: Arial, sans-serif; color: #000000;">&nbsp;</span></p>
+<!-- /wp:paragraph -->

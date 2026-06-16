@@ -1,0 +1,185 @@
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">BLESSINGS TO THIS FARRIER!!</h3>
+<!-- /wp:heading -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:paragraph -->
+<p>"Gunner is a 10 year old Quarter horse, and he's the sweetest-natured animal I've ever had. Unfortunately, he had a previous owner who didn't care for him very much. I knew Gunner before and after the injury that changed the course of his life.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":21147,"width":"355px","linkDestination":"none","align":"left","className":"size-large wp-image-21147"} -->
+<figure class="wp-block-image alignleft is-resized size-large wp-image-21147"><img src="http://cavallo.local/wp-content/uploads/2019/11/Gunner-Ashley-Peake-Hoof-Recovery-Cavallo-Boots-1.jpg" alt="Gunner - Ashley Peake - Hoof Recovery Cavallo Boots" class="wp-image-21147" style="width:355px"/><figcaption class="wp-element-caption">Gunner with a new lease on life in his Cavallos</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>This sweet horse got tangled in loose barbed wire that never should have been left laying around. It gashed his pastern open and he received no vet care of any kind. I didn't own him then and did what I could to help him but he needed a vet badly. The poor horse's leg swelled up like a stove pipe. When the swelling went down, he was left with a large scar and a large, hard lump on his pastern. Soon he was 3-legged-lame, hobbling around a massive pasture for months, getting beaten up by other horses. :(</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading">Gunner Gets a New Start</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Finally, I was able to convince his owner to sell him and I loaded him on my trailer 10 seconds after they agreed!&nbsp; I drove him the hour and a half to my vet. He was examined and x-rayed.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Turns out the barbed wire had damaged his pastern joint and, because he was left without any medical care, he had developed arthritis. The large, hard lump on his pastern had calcified into bone and would always be there. His prognosis wasn't great.&nbsp; It was hard to say if he'd ever be sound enough to ride, or even sound enough to be a "pasture puff".</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>We began a course of injections that had little effect. Gunner was then put on an different medication and the improvement was rapid and dramatic. By the third day he was galloping!&nbsp; It was amazing to watch him gallop across the field after seeing him struggle to walk for 8 months.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading">A Suggestion that Changed Everything</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>We slowly began riding. But, if we encountered any kind of rocks at all, he immediately went lame. Pavement was another trouble area for Gunner. My first inclination was to shoe him, but bless my farrier's heart for caring more about the horse than his pocketbook! He suggested I try hoof boots first, as he believed the steel shoes would irritate his arthritis and do more harm than good.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>So, we searched and searched and I ordered a pair of Cavallos. The day they arrived I raced out to try them on him and they fit perfectly. We headed out for a ride, and he cruised over pavement and the rockiest terrain like it was nothing.&nbsp; Like a brand new horse!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>He's now had his <a href="http://cavallo.local/product-category/hoof-boot/" target="_blank" rel="noopener noreferrer">Cavallos</a> for a year and he never goes out on the trail without them. I'm going to order another pair so he has a backup and during the winter. When the ground gets very hard he wears his boots during turnout. They keep him comfortable and provide better traction.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading">A Second Chance</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Cavallo boots gave my horse a second chance at doing what he loves to do - go riding. I recommend them to everyone. Most of my friends have switched to Cavallo Boots for their horses after seeing what they've done for mine. They're easy to put on and take off, and I've never had problems with rubs or them coming off during a ride. Even in rough terrain and deep mud, the boots stay put.&nbsp; <a href="http://cavallo.local/product-category/hoof-boot-accessories/pastern-wraps/" target="_blank" rel="noopener noreferrer">The Pastern Wraps</a> are also great. I love how they mold to the horses heel bulbs and pastern to provide an exact fit. They keep him comfortable and protected from any potential cuts or scrapes.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>As long as I have horses I will have Cavallo Boots! Thank you for making such an amazing product for our beloved horses!"</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>- Ashley Peake</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">These Soft Soles are Melting our Soft Hearts!&nbsp;<span class="_47e3 _5mfr" title="heart emoticon"></span></h3>
+<!-- /wp:heading -->
+
+<!-- wp:columns {"verticalAlignment":"center"} -->
+<div class="wp-block-columns are-vertically-aligned-center"><!-- wp:column {"verticalAlignment":"center"} -->
+<div class="wp-block-column is-vertically-aligned-center"><!-- wp:image {"id":333604,"sizeSlug":"full","linkDestination":"none","align":"full","className":"wp-image-22196 size-large","style":{"spacing":{"margin":{"top":"0","bottom":"0"}}}} -->
+<figure class="wp-block-image alignfull size-full wp-image-22196 size-large" style="margin-top:0;margin-bottom:0"><img src="http://cavallo.local/wp-content/uploads/2019/12/Loki-Jeanette-Gladwin-soft-soles-helped-Cavallo-Trek-Hoof-Boot.jpg" alt="" class="wp-image-333604"/><figcaption class="wp-element-caption">Loki enjoying his new found freedom to move!</figcaption></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"center"} -->
+<div class="wp-block-column is-vertically-aligned-center"><!-- wp:paragraph -->
+<p>"My horse, who "needed shoes", has come such a long way! Loki loves his <a href="http://cavallo.local/product-category/hoof-boot/trek-hoof-boots/" target="_blank" rel="noopener noreferrer">Trek Boots!</a> Huge difference for his soft soles on rocky ground. I love the convenience of being able to give him protection when he needs it &amp; allowing him to stay barefoot the rest of the time!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>It's honestly amazing how much these have changed him and allowed him to take bolder steps!"</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Megan and Hughie - 2019 AMHA World Championship Winners</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><em>“Without a big indoor arena, the only place we can teach our miniature horses to drive a cart is on a long gravel driveway. <a href="http://cavallo.local/product-category/hoof-boot/mini-hoof-boots/" target="_blank" rel="noopener noreferrer">Our Cavallo CLB Hoof Boot</a>s protect their hooves from the rocks while driving. <a href="https://www.tkeqtheshop.com/blogs/news/small-but-mighty-megan" target="_blank" rel="noopener noreferrer">Hughie (TWFS Moonlight Playboy)</a>&nbsp;would not have been able to win <a href="http://www.amha.org/shows/results/world-championship" target="_blank" rel="noopener noreferrer">World Champion in an AMHA driving class</a> this year without his boots. He moves great in them and it does not affect his action. Also -&nbsp; he's never had a boot slide off while working.</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><em>The boots are great for all minis from therapy visits to anywhere you want to take your minis that might be slick or rocky.&nbsp; </em>As a fellow AMHA member, we are very excited to learn that Cavallo is the official boot of AMHA!”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>-Kerri, Eric, and Megan Postletheweight</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>You can follow Megan and Hughie on Instagram <strong><a href="https://www.instagram.com/my.2.minis/" target="_blank" rel="noopener noreferrer">HERE!</a>&nbsp;&nbsp;</strong></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading"><strong>Green Trek Boots do Double Duty...As ELF Boots!&nbsp; </strong></h3>
+<!-- /wp:heading -->
+
+<!-- wp:columns {"verticalAlignment":"center"} -->
+<div class="wp-block-columns are-vertically-aligned-center"><!-- wp:column {"verticalAlignment":"center"} -->
+<div class="wp-block-column is-vertically-aligned-center"><!-- wp:image {"id":22201,"align":"full","className":"wp-image-22201"} -->
+<figure class="wp-block-image alignfull wp-image-22201"><img src="http://cavallo.local/wp-content/uploads/2019/12/Chrissy-Cull-Christmas-Green-Trek-photos-3-2-1.jpg" alt="Cavallo Trek Green Hoof Boots Christmas Parade" class="wp-image-22201"/><figcaption class="wp-element-caption">Green Trek Boots become Elf Boot in a Christmas Parade!</figcaption></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"center"} -->
+<div class="wp-block-column is-vertically-aligned-center"><!-- wp:quote -->
+<blockquote class="wp-block-quote"><!-- wp:paragraph -->
+<p>"Thought I'd share some Xmas parade photos of our Paso Fino + elf and Tennessee walker + tree, both sporting their <a href="http://cavallo.local/product-category/hoof-boot/trek-hoof-boots/" target="_blank" rel="noopener noreferrer">Cavallo Green Trek Boots!</a> These characters were definitely fan favorites!!"</p>
+<!-- /wp:paragraph --><cite>Chrissy Cull</cite></blockquote>
+<!-- /wp:quote --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Blind, Yet Unstoppable</h3>
+<!-- /wp:heading -->
+
+<!-- wp:columns {"verticalAlignment":"center"} -->
+<div class="wp-block-columns are-vertically-aligned-center"><!-- wp:column {"verticalAlignment":"center"} -->
+<div class="wp-block-column is-vertically-aligned-center"><!-- wp:image {"id":22258,"sizeSlug":"full","linkDestination":"none","align":"full","className":"wp-image-22260 size-large","style":{"spacing":{"margin":{"top":"0","bottom":"0"}}}} -->
+<figure class="wp-block-image alignfull size-full wp-image-22260 size-large" style="margin-top:0;margin-bottom:0"><img src="http://cavallo.local/wp-content/uploads/2019/12/Casey-Bohon-Blind-horse-in-Green-Cavallo-Trek-Boots-2-1.jpg" alt="Casey Bohon - Blind horse in Green Cavallo Trek Boots" class="wp-image-22258"/><figcaption class="wp-element-caption">Magic - he's blind but confidently booted!</figcaption></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"center"} -->
+<div class="wp-block-column is-vertically-aligned-center"><!-- wp:paragraph -->
+<p>"I just wanted to say thank you!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:quote -->
+<blockquote class="wp-block-quote"><!-- wp:paragraph -->
+<p>My gelding, Major, went suddenly, completely blind in August.&nbsp; In his <a href="http://cavallo.local/product-category/hoof-boot/trek-hoof-boots/" target="_blank" rel="noopener noreferrer">Trek boots,</a> he can still walk confidently on the road or on the trail.&nbsp; He even gaits in them without a single issue!&nbsp; No one can tell he’s blind and they’re always shocked when I tell them!"</p>
+<!-- /wp:paragraph --><cite>Casey Bohon</cite></blockquote>
+<!-- /wp:quote --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">ELB on Patrol!</h3>
+<!-- /wp:heading -->
+
+<!-- wp:columns {"verticalAlignment":"center"} -->
+<div class="wp-block-columns are-vertically-aligned-center"><!-- wp:column {"verticalAlignment":"center"} -->
+<div class="wp-block-column is-vertically-aligned-center"><!-- wp:image {"id":22261,"align":"full","className":"wp-image-22261 size-medium","style":{"spacing":{"margin":{"top":"0","bottom":"0"}}}} -->
+<figure class="wp-block-image alignfull wp-image-22261 size-medium" style="margin-top:0;margin-bottom:0"><img src="http://cavallo.local/wp-content/uploads/2019/12/Cavallo-ELB-Hoof-Boots-Mounted-Patrol-Horse-1-295x300.png" alt="Cavallo ELB Hoof Boots Mounted Patrol Horse" class="wp-image-22261"/><figcaption class="wp-element-caption">Cavallo ELB Boots on Mounted Patrol!</figcaption></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"center"} -->
+<div class="wp-block-column is-vertically-aligned-center"><!-- wp:quote -->
+<blockquote class="wp-block-quote"><!-- wp:paragraph -->
+<p>Count me in on any boots made geared toward mounted police units! I am a volunteer for the <a href="http://www.escambiaso.com/mounted-unit/" target="_blank" rel="noopener noreferrer">Escambia County Sheriff’s Mounted Posse</a> and would LOVE something my boy could wear while working!&nbsp; Love my<a href="http://cavallo.local/product-category/hoof-boot/" target="_blank" rel="noopener noreferrer"> ELBs</a>, they are going on their third year.&nbsp; Had no idea they would last that long!&nbsp; I purchased these lower-cost boots thinking I’d be buying yearly... but with Cavallo’s superior quality these things just won’t wear out!</p>
+<!-- /wp:paragraph --><cite>Nancy Carroll</cite></blockquote>
+<!-- /wp:quote --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->

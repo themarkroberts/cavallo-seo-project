@@ -1,0 +1,86 @@
+[
+  {
+    "id": "6523",
+    "content_format": "Video page",
+    "summary": "Profile of natural horsemanship expert Pat Parelli and an embedded video explaining why he uses Cavallo hoof boots instead of metal horseshoes, with a nod to the book There are No Horseshoes in Heaven.",
+    "key_components": ["Video embed", "Pull quote/testimonial"],
+    "primary_cta": "Watch the video"
+  },
+  {
+    "id": "6527",
+    "content_format": "Video page",
+    "summary": "Minimal page hosting a YouTube video of Pat Parelli talking about Cavallo hoof boots, with almost no surrounding text.",
+    "key_components": ["Video embed"],
+    "primary_cta": "Watch the video"
+  },
+  {
+    "id": "6532",
+    "content_format": "Landing / marketing page",
+    "summary": "Overview of Cavallo Total Comfort System saddle pads and the Tri-Density Solution, listing horse benefits, construction features, and shock-absorption technology.",
+    "key_components": ["CTA button", "Bulleted list"],
+    "primary_cta": "Shop saddle pads"
+  },
+  {
+    "id": "6535",
+    "content_format": "Video page",
+    "summary": "Single embedded YouTube video showing places riders can go with Cavallo hoof boots, with no body text.",
+    "key_components": ["Video embed"],
+    "primary_cta": "Watch the video"
+  },
+  {
+    "id": "6537",
+    "content_format": "Policy / legal page",
+    "summary": "Explains the Cavallo Best Boot 180-day warranty terms, what is and isn't covered, retailer purchase requirements, plus shipping information.",
+    "key_components": ["CTA button", "Table of contents/sections"],
+    "primary_cta": "None"
+  },
+  {
+    "id": "6539",
+    "content_format": "Policy / legal page",
+    "summary": "Instructions for arranging a size exchange or return of Cavallo hoof boots, including the return-authorization checklist, as-new condition requirements, and North American return handling.",
+    "key_components": ["Video embed", "CTA button", "Bulleted list"],
+    "primary_cta": "Submit exchange/return form"
+  },
+  {
+    "id": "6544",
+    "content_format": "Newsletter",
+    "summary": "Sign-up page for the Cavallo Horse and Rider newsletter offering special deals, newsletters and community support.",
+    "key_components": [],
+    "primary_cta": "Subscribe"
+  },
+  {
+    "id": "6547",
+    "content_format": "Policy / legal page",
+    "summary": "Cavallo Horse & Rider website terms and conditions covering third-party links, linking/framing permissions, and usage rules.",
+    "key_components": ["Table of contents/sections"],
+    "primary_cta": "None"
+  },
+  {
+    "id": "6564",
+    "content_format": "Template / functional page",
+    "summary": "Post-signup thank-you confirmation welcoming new subscribers to the Cavallo community and noting the Barefoot Trim Manual will arrive by email.",
+    "key_components": [],
+    "primary_cta": "None"
+  },
+  {
+    "id": "6566",
+    "content_format": "Long-form guide / pillar",
+    "summary": "In-depth evidence page on why Cavallo boots are effective, centered on a Western Kentucky University study comparing Trek hoof boots to metal shoes for protection, traction and reduced hoof pressure.",
+    "key_components": ["Image gallery", "Video embed", "Table of contents/sections"],
+    "primary_cta": "None"
+  },
+  {
+    "id": "6588",
+    "content_format": "Landing / marketing page",
+    "summary": "Promotional page for Carole Herder's book There are No Horseshoes in Heaven, describing its message on natural horse care with endorsements from Monty Roberts and Pat Parelli.",
+    "key_components": ["Pull quote/testimonial", "Testimonials"],
+    "primary_cta": "None"
+  },
+  {
+    "id": "6710",
+    "content_format": "Form / contact page",
+    "summary": "Form for customers to request an exchange, return or warranty claim and receive a Return Authorization Number, noting boots must be in as-new condition.",
+    "key_components": ["Lead form"],
+    "primary_cta": "Submit exchange/return/warranty form"
+  }
+]

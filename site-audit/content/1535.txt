@@ -1,0 +1,7 @@
+<!-- wp:paragraph -->
+<p>After hearing such rave reviews of your boots on the Horses in the Morning podcast, on the Horse Radio Network, I decided to try them for my Mustang Fez. I have tried various brands and styles of boots on different horses in the past with poor results. Fez came to me with pretty poor feet, and has improved slowly with trimming and natural movement. He is, however, still a bit ouchy on some of the rocky roads and trails that we ride in Northern California. He loves!!! his Cavallo Boots. I love how easy they are to get on and off. I was so pleased with the amazing personal service that I got when I called to discuss my sizing and use concerns when I was ready to purchase boots. Jenny was very attentive, knowledgable, and helpfull. I needed to send the first set back because Fez was on the line between 2 sizes. Again, the customer service was stellar. I look forward to many miles of trails with Fez in his new boots.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:spacer {"height":"40px"} -->
+<div style="height:40px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->

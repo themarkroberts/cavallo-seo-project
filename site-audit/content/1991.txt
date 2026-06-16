@@ -1,0 +1,107 @@
+<!-- wp:image {"width":"720px","height":"auto"} -->
+<figure class="wp-block-image is-resized"><img src="http://cavallo.local/wp-content/uploads/2023/10/New-product-alert-purple-Trek-1.jpg" alt="New Product: Cavallo Purple Trek Horse Hoof Boots" style="width:720px;height:auto"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":1} -->
+<h1 class="wp-block-heading">PURPLE TREK IS HERE NOW!</h1>
+<!-- /wp:heading -->
+
+<!-- wp:embed {"url":"http://cavallo.local/wp-content/uploads/2023/10/Purple-Trek-for-hosting-site.mp4","type":"rich","providerNameSlug":"embed-handler"} -->
+<figure class="wp-block-embed is-type-rich is-provider-embed-handler wp-block-embed-embed-handler"><div class="wp-block-embed__wrapper">
+http://cavallo.local/wp-content/uploads/2023/10/Purple-Trek-for-hosting-site.mp4
+</div></figure>
+<!-- /wp:embed -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Your Horse has Been Very Patient... But the Wait is OVER.</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="http://cavallo.local/product/trek-purple-hoof-boot/" target="_blank" rel="noreferrer noopener"><br> Get Purple Trek NOW >><br> </a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">You're Not Dreaming!</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><strong>Your perfect hoof boot for trails, therapy, trailering and turnout NOW comes in PURPLE!</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Cavallo <a href="http://cavallo.local/product/trek-purple-hoof-boot/" target="_blank" rel="noopener"><strong>Purple Trek Hoof Boots </strong></a>are now on the shelves and ready to ship. Sizes 0-6 in Regular Sole currently available!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="http://cavallo.local/product/trek-purple-hoof-boot/" target="_blank" rel="noopener"><strong>Purple Trek Boots</strong></a> are stunning with any colour horse. Is your horse ready to make a statement?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Psstttt... Free Gift &amp; Free Shipping Included!</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Click &amp; Scroll to Get Up Close &amp; Personal:</h2>
+<!-- /wp:heading -->
+
+<!-- wp:image {"linkDestination":"custom","align":"left","className":"gallery-item"} -->
+<figure class="wp-block-image alignleft gallery-item"><a href="http://cavallo.local/wp-content/uploads/2023/09/purple-trek_in-studio-LR-2-1.jpg"><img src="http://cavallo.local/wp-content/uploads/2023/09/purple-trek_in-studio-LR-2-1-300x300.jpg" alt="Pair of Cavallo Trek Purple Horse Hoof Boots - side view"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"linkDestination":"custom","align":"left","className":"gallery-item"} -->
+<figure class="wp-block-image alignleft gallery-item"><a href="http://cavallo.local/wp-content/uploads/2023/09/purple-trek_in-studio-LR-14-1.jpg"><img src="http://cavallo.local/wp-content/uploads/2023/09/purple-trek_in-studio-LR-14-1-300x300.jpg" alt="Pair of Cavallo Trek Purple Horse Hoof Boots"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"linkDestination":"custom","align":"left","className":"gallery-item"} -->
+<figure class="wp-block-image alignleft gallery-item"><a href="http://cavallo.local/wp-content/uploads/2023/09/purple-trek_in-studio-LR-20-1.jpg"><img src="http://cavallo.local/wp-content/uploads/2023/09/purple-trek_in-studio-LR-20-1-300x300.jpg" alt="Pair of Cavallo Trek Purple Horse Hoof Boots - side view"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"linkDestination":"custom","align":"left","className":"gallery-item"} -->
+<figure class="wp-block-image alignleft gallery-item"><a href="http://cavallo.local/wp-content/uploads/2023/09/purple-trek_in-studio-LR-12-1.jpg"><img src="http://cavallo.local/wp-content/uploads/2023/09/purple-trek_in-studio-LR-12-1-300x245.jpg" alt="Cavallo Trek Purple Horse Hoof Boot - sole view"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"linkDestination":"custom","className":"gallery-item"} -->
+<figure class="wp-block-image gallery-item"><a href="http://cavallo.local/wp-content/uploads/2023/09/purple-trek_in-studio-LR-14.jpg"><img src="http://cavallo.local/wp-content/uploads/2023/09/purple-trek_in-studio-LR-14-300x300.jpg" alt="Pair of Cavallo Trek Purple Horse Hoof Boots - rear view"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>			<a href="http://cavallo.local/product/trek-purple-hoof-boot/" target="_blank" rel="noopener"><br>
+						Get Purple Trek NOW &gt;&gt;<br>
+					</a><br>
+															<img src="http://cavallo.local/wp-content/uploads/2023/10/thios-one222-1.jpg" title="Cavallo Purple Trek horse Hoof Boots are now available!" alt="Cavallo Purple Trek horse Hoof Boots are now available!" loading="lazy">															</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Get Purple Trek While You Can!</h2>
+<!-- /wp:heading -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Purple Trek is a Limited-Time Product Offered NOW in the USA &amp; Canada Only.</h2>
+<!-- /wp:heading -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="http://cavallo.local/wp-content/uploads/2023/10/Purple-Trek-Don‘t-know-your-sizeLRjpg.jpg" alt="Get help measuring Cavallo Purple Trek Hoof Boots" title="Get help measuring Cavallo Purple Trek Hoof Boots"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Don't Know your Size But Want to Get Purple Trek Before they Sell Out?</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>No problem. You can still purchase Purple Trek by selecting “Size to be Determined” under the size selection&nbsp;<strong><a style="color: #a113a8;" href="http://cavallo.local/product/trek-purple-hoof-boot/" target="_blank" rel="noopener">on the product page.</a>&nbsp;</strong>After purchase, watch for a special email from us with hoof measuring instructions and a link to upload your photos directly to us when you’re ready. We'll make an expert size recommendation before shipping out your new boots!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>			<a href="http://cavallo.local/product/trek-purple-hoof-boot/" target="_blank" rel="noopener"><br>
+						Get Purple Trek NOW &gt;&gt;<br>
+					</a><br>
+															<img width="1500" height="844" src="http://cavallo.local/wp-content/uploads/2023/10/Purple-Trek-BannerLR-1.jpg" alt="Cavallo Purple Trek Hoof Boots have arrived!" loading="lazy" srcset="http://cavallo.local/wp-content/uploads/2023/10/Purple-Trek-BannerLR-1.jpg 1500w, http://cavallo.local/wp-content/uploads/2023/10/Purple-Trek-BannerLR-1-300x169.jpg 300w, http://cavallo.local/wp-content/uploads/2023/10/Purple-Trek-BannerLR-1-452x254.jpg 452w, http://cavallo.local/wp-content/uploads/2023/10/Purple-Trek-BannerLR-1-768x432.jpg 768w, http://cavallo.local/wp-content/uploads/2023/10/Purple-Trek-BannerLR-1-610x343.jpg 610w, http://cavallo.local/wp-content/uploads/2023/10/Purple-Trek-BannerLR-1-800x450.jpg 800w, http://cavallo.local/wp-content/uploads/2023/10/Purple-Trek-BannerLR-1-600x338.jpg 600w" sizes="(max-width: 1500px) 100vw, 1500px"></p>
+<!-- /wp:paragraph -->

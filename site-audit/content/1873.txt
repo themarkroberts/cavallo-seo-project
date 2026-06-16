@@ -1,0 +1,115 @@
+<!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading"><span style="color: #000000;"><strong>Did you Know that Cavallo is a Female-Owned Hoof Boot Company?</strong></span></h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><span style="color: #000000;">Here's a fresh look at Cavallo! We live on a stunning property in <a href="https://sunshinecoastcanada.com/explore/south-coast/roberts-creek/" target="_blank" rel="noopener noreferrer">Roberts Creek, British Columbia. </a>Here is where we are with beloved horses and dogs. But this property is more than just a home. From this same location, alongside my partner, Greg Giles, and a team of superstar employees, I also operate my business – Cavallo Horse &amp; Rider Inc.</span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading"><span style="color: #000000;"><strong>A Life-Changing Idea is Born</strong></span></h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><span style="color: #000000;">I founded the company in 1993, but my involvement with horses began many years earlier. Through study, observation, and my first horse's death, I discovered that I was not alone in my sorrow of having a horse with painful hoof-related issues. My sharp focus led me to question, "Why should horses be bothered with problems when they have survived on the planet for over 50 million years? Doesn't this amount of time imply that they are sturdy, resilient and well-designed?"</span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><span style="color: #000000;">Over time, I've seen so many teenage horses destined to develop ailments such as laminitis, navicular disease, ringbone, splints and arthritis. I became committed to finding a solution. Initially, I concluded that our horses' domestication was causing the difficulty, particularly that we saddle and ride them. I designed and developed the <a href="http://cavallo.local/product-category/saddle-pads/" target="_blank" rel="noopener noreferrer">Total Comfort System Saddle Pads</a> to correct uneven saddles, rider imbalance and overall sore backs. Soon, my belief in caring for horses naturally drew my attention to the hoof. I immersed myself in the study of hoof care and went on to design and develop <a href="http://cavallo.local/product-category/hoof-boot/" target="_blank" rel="noopener noreferrer">Cavallo Hoof Boots</a> in 2006.</span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading"><span style="color: #000000;">Greg's Joins Team Cavallo!</span></h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><span style="color: #000000;">Around this time, Cavallo CEO, <a href="http://cavallo.local/about/" target="_blank" rel="noopener noreferrer">Greg Giles,</a> joined our Cavallo team. His history and years of experience in design, production, and the footwear business taught him that an exceptionally high-quality level is imperative to longevity and customer satisfaction. Greg provides his wealth of sourcing, manufacturing, commerce, and marketing skills to continually expand the Cavallo Hoof Boot range and enrich the Cavallo brand.</span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading"><span style="color: #000000;"><strong>Perfecting the Product</strong></span></h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><span style="color: #000000;">We wanted to ensure that everyone could easily use Cavallos, and we succeeded in doing just that. Cavallo Boots are a favourite among horse riders and caretakers of all ages. And the greatest joy is knowing that my life's work serves to change the world for horses. Through education and by offering a top-notch product, I know I can help horses come out of terminal prognoses and hopeless lameness. Directing them to the natural comfort and security that Cavallo Hoof Boots provide makes every difference.</span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><span style="color: #000000;">Our Boots offer safety, comfort and protection to horses' unshod (and shod!) hoofs. They enable you to ride over any terrain, at any speed. A horse and rider can move through water, mud, and bogs without risk of losing a boot or damaging a hoof. Your horse's hoof bulbs are protected with soft, pliable, padded leather. TCavallos are easy to size and simple to get on the hoof, with no special trims, tools or gadgets required.</span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading"><span style="color: #000000;">Driven by Passion</span></h4>
+<!-- /wp:heading -->
+
+<!-- wp:image {"id":60088,"align":"left"} -->
+<figure class="wp-block-image alignleft"><img src="http://cavallo.local/wp-content/uploads/2021/03/Carole-Greg-dancing-barefoot-2-1-235x300.jpg" alt="Carole Herder and Greg Giles of Cavallo Hoof Boots" class="wp-image-60088"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><span style="color: #000000;">Both Greg and I are passionate about our work and our lives. We've surrounded ourselves with a powerful team of like-minded experts. All with a vision dedicated to developing and delivering innovative products of excellent quality. From the start, our Cavallo mission has been to provide comfort, protection, safety, security, and support to improve the lives of horses worldwide. Together with YOU, that’s exactly what we're doing!</span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><span style="color: #000000;"><em>Cavallos are now distributed in 25 countries worldwide. Hundreds of thousands of horses are currently benefiting from the comfort and protection provided to their hoofs.</em></span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:spacer {"height":"1px"} -->
+<div style="height:1px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:paragraph -->
+<p><span style="color: #000000;">Wishing you many happy trails from all of us at Cavallo,</span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":31657,"align":"left"} -->
+<figure class="wp-block-image alignleft"><img src="http://cavallo.local/wp-content/uploads/2020/07/OFFICIAL-Carole-Herder-2020-Signature-Hoof-Prints-Book-LR-1.png" alt="Carole Herder 2020 Signature - Hoof Prints Book - LR" class="wp-image-31657"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:spacer {"height":"1px"} -->
+<div style="height:1px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:paragraph -->
+<p><span style="color: #000000;">Don't forget to sign up</span> <strong><a href="http://cavallo.local/subscribe-to-the-cavallo-horse-and-rider-newsletter/" target="_blank" rel="noopener noreferrer">HERE</a></strong>&nbsp;<span style="color: #000000;">for Cavallo’s free newsletter and special community discounts!</span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><span style="color: #000000;">Visit us at www.cavallo.local to learn about the full line of Cavallo Hoof Boots. Call us at (877) 818-0037 from the USA or Canada, or find us on</span> <a href="https://www.facebook.com/CavalloHoofboots" target="_blank" rel="noopener noreferrer">Facebook</a> or <a href="https://www.instagram.com/cavallohoofboots/" target="_blank" rel="noopener noreferrer">Instagram!</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:spacer -->
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->

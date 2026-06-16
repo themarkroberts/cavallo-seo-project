@@ -1,0 +1,73 @@
+<!-- wp:paragraph -->
+<p>I recently received an email that REALLY caught my attention.&nbsp; As a woman AND as a maker of Cavallo Hoof Boots!&nbsp; I wanted to share this with you, as many members of our Cavallo Community are women in this critical age range where heart heath is concerned.&nbsp; Those who are not are welcome to pass this information on to loved ones who may benefit from this valuable information:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>“<em>Hello Ms. Herder:</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><em>I have been a big fan of </em><a href="http://cavallo.local/product-category/hoof-boot/trek-hoof-boots/"><em>Cavallo Trek Hoof Boots</em></a><em> for quite a few years.&nbsp; I became a horseman about 17 years ago after moving to Arizona.&nbsp; I love trail riding and Cavallo Trek boots have been excellent in the rocky terrains of Sedona and Prescott – even during snowy winters in Flagstaff.&nbsp; I found Cavallo boots to be the best after trying other brands of boots.</em><em>&nbsp;</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><em>My profession is physician/cardiologist – but my passion (besides riding horses) has been audio production.&nbsp; For almost 20 years I have produced one-minute health segments for radio.&nbsp;After medical school I attended a broadcast school on nights and weekends and worked with broadcast professionals for over a year to learn audio/music production and editing.&nbsp; My segments (called&nbsp;<strong><a href="https://soundcloud.com/healthgrabber">HealthGrabber</a></strong>) have been aired for many years in Arizona by on four radio stations in central and northern Arizona.</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":10928,"align":"left"} -->
+<figure class="wp-block-image alignleft"><a href="https://www.healthgrabber.com"><img src="//www.cavallo.local/wp-content/uploads/2018/02/2018-01-31-Jim-Dwyer-Heart-Blog-452x339.jpg" alt="Dr Jim Dwyer and his horse, Levi" class="wp-image-10928"/></a><figcaption class="wp-element-caption">Dr Jim Dwyer and his horse, Levi</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><em>I periodically read “Your Cavallo News” and today I saw <a href="https://www.facebook.com/emmamassingale/videos/1794099077554732/" target="_blank" rel="noopener">“Surprise Gift from Emma Massingale”</a>. So very cute!&nbsp; It gave me the thought to share one of my audio segments that speaks about women and heart attacks. I suspect women are the largest part of your audience/clientele.</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><em>&nbsp;</em><em>I thought you might like to share the attached “<strong>Heart Attacks in Women</strong>” segment with your Cavallo audience.&nbsp; There is the possibility that listening to this brief audio segment might make a difference in someone’s life – or the life of a loved one.&nbsp; Having dealt with thousands and thousands of heart attack patients over the years – I know well that it is much better to catch heart disease before a heart attack happens.</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><em>&nbsp;</em><em>Thanks again for your excellent product. I Just came back from riding today in the Granite Mountain Wilderness and my horse Levi was wearing his </em><a href="http://cavallo.local/product-category/hoof-boot/"><em>Cavallo boots</em></a><em>.”</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><em> - Jim Dwyer, MD</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:spacer {"height":"1px"} -->
+<div style="height:1px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:image {"id":10931,"linkDestination":"custom","align":"left"} -->
+<figure class="wp-block-image alignleft"><a href="http://cavallo.local/coming-from-the-heart/"><img src="//www.cavallo.local/wp-content/uploads/2018/02/I-love-Cavallo-HIGH-RES-150x150.jpg" alt="I love Cavallos Heart drawn in sand" class="wp-image-10931"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:group {"layout":{"type":"constrained","justifyContent":"left"}} -->
+<div class="wp-block-group"><!-- wp:paragraph -->
+<p>To Listen to Dr. Jim Dwyer’s audio segment<em> “Heart Attacks in Women” </em>click HERE: <a href="https://soundcloud.com/healthgrabber/heart-attacks-in-women-healthgrabber-jim-dwyer-md"><em>https://soundcloud.com/healthgrabber/heart-attacks-in-women-healthgrabber-jim-dwyer-md</em></a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>You can check out Dr. Dwyer's radio show here:&nbsp;&nbsp;<a href="http://www.healthgrabber.com/">www.healthgrabber.com</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":5} -->
+<h5 class="wp-block-heading"><strong>Happy Trails,</strong></h5>
+<!-- /wp:heading -->
+
+<!-- wp:image {"id":10645,"width":"375px","height":"auto"} -->
+<figure class="wp-block-image is-resized"><img src="//www.cavallo.local/wp-content/uploads/2017/12/CaroleSig.jpg" alt="Carole Herder's Signature" class="wp-image-10645" style="width:375px;height:auto"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:group -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":10798,"linkDestination":"custom","align":"left"} -->
+<figure class="wp-block-image alignleft"><a href="http://cavallo.local/product-category/hoof-boot/"><img src="//www.cavallo.local/wp-content/uploads/2018/01/Caroles-Signature-2017.png" alt="Carole Herder's Signature" class="wp-image-10798"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->

@@ -1,0 +1,99 @@
+<!-- wp:paragraph -->
+<p>You’re probably already aware of the risks posed by warm weather and leaving pets in hot cars, but did you know that cold weather also poses serious threats to your pets’ health?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong><em>Here are some tips to keep your pets safe during cold weather: </em></strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Winter wellness:</strong> Has your pet had his/her preventive care exam (wellness exam) yet? Cold weather may worsen some medicalconditions such as arthritis. Your pet should be examined by a veterinarian at least once a year, and it’s as good a time as any to get him/her checked out to make sure (s)he is ready and as healthy as possible for cold weather.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":7467,"align":"left"} -->
+<figure class="wp-block-image alignleft"><img src="//www.cavallo.local/wp-content/uploads/2016/12/doge-150x150.jpg" alt="doge" class="wp-image-7467"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><strong>Know the limits</strong>: Just like people, pets’ cold tolerance can vary from pet to pet based on their coat, body fat stores, activity level, and health. Be aware of your pet’s tolerance for cold weather, and adjust accordingly. You will probably need to shorten your dog’s walks in very cold weather to protect you both from weather-associated health risks. Arthritic and elderly pets may have more difficulty walking on snow and ice and may be more prone to slipping and falling. Long-haired or thick-coated dogs tend to be more cold-tolerant, but are still at risk in cold weather. Short-haired pets feel the cold faster because they have less protection, and short-legged pets may become cold faster because their bellies and bodies are more likely to come into contact with snow-covered ground. Pets with diabetes, heart disease, kidney disease, or hormonal imbalances (such as Cushing’s disease) may have a harder time regulating their body temperature, and may be more susceptible to problems from temperature extremes. The same goes for very young and very old pets. If you need help determining your pet’s temperature limits, consult your veterinarian.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":7471,"align":"right"} -->
+<figure class="wp-block-image alignright"><img src="//www.cavallo.local/wp-content/uploads/2016/12/winter_dog-1-150x150.jpg" alt="winter_dog-1" class="wp-image-7471"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><strong>Provide choices:</strong> Just like you, pets prefer comfortable sleeping places and may change their location based on their need for more or less warmth. Give them some safe options to allow them to vary<br>their sleeping place to adjust to their needs.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Stay inside.</strong> Cats and dogs should be kept inside during cold weather. It’s a common belief that dogs and cats are resistant than people to cold weather because of their fur, but it’s untrue. Like people, cats and dogs are susceptible to frostbite and hypothermia and should be kept inside. Longer-haired and thick-coated dog breeds, such as huskies and other dogs bred for colder clip-mates, are more tolerant of cold weather; but no pet should be left outside for long periods of time in below-freezing weather.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Check the paws:</strong> Check your dog’s paws frequently for signs of cold-weather injury or damage, such as cracked paw pads or bleeding. During a walk, a sudden lameness may be due to an injury or may be due to ice accumulation between his/her toes. You may be able to reduce the chance of icefall accumulation by clipping the hair between your dog’s toes.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":7472,"align":"left"} -->
+<figure class="wp-block-image alignleft"><img src="//www.cavallo.local/wp-content/uploads/2016/12/winter-dog-163844-high-quality-and-150x150.jpg" alt="winter-dog-163844-high-quality-and" class="wp-image-7472"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><strong>Play dress-up:</strong> If your dog has a short coat or seems bothered by the cold weather, consider a sweater or dog coat. Have several on hand, so you can use a dry sweater or coat each time your dog goes outside. Wet sweaters or coats can actually make your dog colder. Some pet owners also use booties to protect their dog’s feet; if you choose to use them, make sure they fit properly.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong><br>Wipe down:</strong> During walks, your dog’s feet, legs and belly may pick up de-icers, anti-freeze, or other chemicals that could be toxic. When you get back inside, wipe down (or wash) your pet’s feet, legs and belly to remove these chemicals and reduce the risk that your dog will be poisoned after (s)he licks them off of his/her feet or fur. Consider using pet-safe de-icers on your property to protect your pets and the others in your neighbor-hood.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Collar and chip:</strong> Many pets become lost in winter because snow and ice can hide recognizable scents that might normally help your pet find his/her way back home. Make sure your pet has a well-fitting collar with up-to-date identification and contact information. A microchip is a more permanent means of identification, but it’s critical that you keep the registration up to date.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Prevent poisoning:</strong> Clean up any antifreeze spills quickly, as even small amounts of antifreeze can be deadly. Make sure your pets don’t have access to medication bottles, household chemicals, potentially toxic foods such as onions, xylitol (a sugar substitute) and chocolate.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Protect family:</strong> Odds are your pet will be spending more time inside during the winter, so it’s a good time to make sure your house is properly pet-proofed. Use space heaters with caution around pets, because they can burn or they can be knocked over, potentially starting a fire. Check your furnace before the cold weather sets in to make sure it’s working efficiently, and install carbon monoxide detectors to keep your entire family safe from harm. If you have a pet bird, make sure its cage is away from drafts.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":7468,"align":"right"} -->
+<figure class="wp-block-image alignright"><img src="//www.cavallo.local/wp-content/uploads/2016/12/winter_dog-150x150.jpg" alt="winter_dog" class="wp-image-7468"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><strong>Avoid ice:</strong> When walking your dog, stay away from frozen ponds, lakes and other water. You don’t know if the ice will support your dog’s weight, and if your dog breaks through the ice it could be deadly. And if this happens and you instinctively try to save your dog, both of your lives could be in jeopardy.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Provide shelter</strong>: We don’t recommend keeping any pet outside for long periods of time, but if you are unable to keep your dog inside during cold weather, provide him/her with a warm, solid shelter against wind. Make sure that they have unlimited access to fresh, non-frozen water (by changing the water frequently or using a pet-safe, heated water bowl). The floor of the shelter should be off of the ground (to minimize heat loss into the ground) and the bedding should be thick, dry and changed regularly to provide a warm, dry environment. The door to the shelter should be positioned away from prevailing winds. Space heaters and heat lamps should be avoided because of the risk of burns or fire. Heated pet mats should also be used with caution because they are still capable of causing burns.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Be prepared:</strong> Cold weather also brings the risks of severe winter weather, blizzards and power outages. Prepare a disaster/emergency kit, and include your pet in your plans. Have enough food, water and medicine (including any prescription medications as well as heartworm and flea/tick preventives) on hand to get through at least 5 days.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":6534,"linkDestination":"custom","align":"left"} -->
+<figure class="wp-block-image alignleft"><img src="//www.cavallo.local/wp-content/uploads/2015/01/056-NS-Dog-Flyer_FINAL-1-150x150.jpg" alt="056 NS Dog Flyer.indd" class="wp-image-6534"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":7477,"width":"199px","height":"auto","linkDestination":"custom","align":"right"} -->
+<figure class="wp-block-image alignright is-resized"><img src="//www.cavallo.local/wp-content/uploads/2016/12/Click-Here-PNG-Images.png" alt="click-here-png-images" class="wp-image-7477" style="width:199px;height:auto"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>Make sure you have a supply of <strong>Natural Stride Supplements</strong> for your dog on hand as well. &nbsp;Veterinarian Approved and Recommended, our Extra&nbsp;Strength Chewable Tablets are specifically formulated for dog with less severe joint pain, arthritis, and hip Dysplasia. &nbsp;They are also great for Maintenance and as a Preventative. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><em>PICTURES COURTESY OF GOOGLE IMAGES. INFORMATION AND CONTEXT PROVIDED BY AMERICAN VETERINARY MEDICAL ASSOCIATION</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":7320,"align":"center"} -->
+<figure class="wp-block-image aligncenter"><img src="//www.cavallo.local/wp-content/uploads/2016/11/CH-Sign-updated-Nov-2016-1.jpg" alt="ch-sign-updated-nov-2016" class="wp-image-7320"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->

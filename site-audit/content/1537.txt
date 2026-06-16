@@ -1,0 +1,75 @@
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading"><span style="color: #008080;">Bruising of the sole - what causes it and how can it be remedied?</span></h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><strong>Below are some of the more common causes of sole bruising in horses:</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>Stepping on a rock</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Laminitis</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Pedal bone rotation</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Excessive hoof trimming</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Badly fitting shoes or shoes left on too long (leading to bruising and/or corns)</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>First of all, if your horse is prone to sole bruising and they wear metal shoes, PLEASE take them off! You may think the shoes are protecting his feet but they are not – they are more than likely the cause. Shoes can cause sole bruising in a number of ways:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":5970,"align":"right"} -->
+<figure class="wp-block-image alignright"><img src="//cavallo.local/wp-content/uploads/2015/08/bruised.jpg" alt="Horse Hoof Boots" class="wp-image-5970"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>Badly fitted shoes can deform the growth of the hoof and impinge on the sole area thus causing an unnatural exertion of pressure, which in turn can cause a contusion of the solar cushion and corium (the soft tissues between the sole of the hoof and coffin bone)</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Shoes left on too long can cause underrun heels and thus excessive force will be placed on the heel buttresses, resulting in corns</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Excessive trimming done to ensure the shoe fits correctly can cause thin soles which become easily bruised when working on rocky ground</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Flares, long toes and underrun heels caused by shoeing can result in pedal bone rotation which will be seen through bruising of the sole</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Bruising if often not even seen, except when the farrier/trimmer comes to do their work and by cleaning and rasping the sole - the bruising is soon revealed as reddish areas become apparent. Lameness, heat and an increased digital pulse can also be indicators of sole bruising.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Homeopathy and Epsom salt soaks are great treatments for sole bruising. Usually a few days rest does the trick to relieve the symptoms. However, chronic bruising can lead to abscesses or even pedal osteitis, so always be sure to call a vet if unsure. If you are removing shoes, remember that horse hoof boots are a great protector and are ideal for using until the hooves have healed themselves and re-grown into their natural shape. Always use your <span style="color: #0000ff;"><a href="http://cavallo.local/?products=hoof-boot" target="_blank" rel="noopener"><span style="color: #0000ff;">Cavallo Hoof Boots</span></a></span> when riding on aggressive terrain, and feel free to use your Horse Hoof Boots for turnout too.&nbsp; Some horses are tender even on their own home terrain, and when their soles are totally protected, you know they won’t be bruising!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":5795,"align":"left"} -->
+<figure class="wp-block-image alignleft"><img src="//cavallo.local/wp-content/uploads/2015/06/Caroles-452x181.png" alt="horse hoof boots" class="wp-image-5795"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->

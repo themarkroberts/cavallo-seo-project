@@ -1,0 +1,417 @@
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"textAlign":"center","level":1,"style":{"spacing":{"padding":{"bottom":"var:preset|spacing|md"}}}} -->
+<h1 class="wp-block-heading has-text-align-center" style="padding-bottom:var(--wp--preset--spacing--md)">Your Cavallo News – November/December 2023</h1>
+<!-- /wp:heading -->
+
+<!-- wp:image {"id":4011,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="http://cavallo.local/wp-content/uploads/2024/10/news-banner.jpg" alt="" class="wp-image-4011"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"var:preset|spacing|xl","bottom":"var:preset|spacing|xl"},"margin":{"top":"0","bottom":"0"}}},"backgroundColor":"light-red-1","layout":{"type":"constrained","contentSize":""}} -->
+<div class="wp-block-group alignfull has-light-red-1-background-color has-background" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--xl);padding-bottom:var(--wp--preset--spacing--xl)"><!-- wp:columns {"style":{"spacing":{"padding":{"top":"0","bottom":"0"}}}} -->
+<div class="wp-block-columns" style="padding-top:0;padding-bottom:0"><!-- wp:column {"verticalAlignment":"center","width":"44.48%"} -->
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis:44.48%"><!-- wp:heading -->
+<h2 class="wp-block-heading">GIVE THE GIFT OF CAVALLO!</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"fontSize":"large"} -->
+<p class="has-large-font-size">Want to treat that special horse lover in your life this Christmas? Cavallo Gift cards are easy, fun and ALWAYS appreciated!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"spacing":{"margin":{"bottom":"27px"}}}} -->
+<p style="margin-bottom:27px">Simply select the amount you would like to give. <strong>You pay 80%</strong> of the gifted amount – your recipient gets <strong>100%</strong>!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Once purchased, we will send the gift card by email to your lucky recipient (on the date you have chosen) and send an email confirmation to you!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"4px","bottom":"27px"}}}} -->
+<p style="margin-top:4px;margin-bottom:27px"><strong>Available NOW! This pricing is temporary and has NEVER been offered before</strong>!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"textColor":"red","className":"is-style-fill c-button\u002d\u002dsimple","style":{"elements":{"link":{"color":{"text":"var:preset|color|red"}}},"spacing":{"padding":{"left":"0","right":"0","top":"0","bottom":"0"}},"color":{"background":"#ffffff00"}}} -->
+<div class="wp-block-button is-style-fill c-button--simple"><a class="wp-block-button__link has-red-color has-text-color has-background has-link-color wp-element-button" href="http://cavallo.local/product/cavallo-hoof-boots-gift-cards/" style="background-color:#ffffff00;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0">Browse Cavallo Gift Cards<svg xmlns="http://www.w3.org/2000/svg" width="16" height="17">    <path d="m9.356 3.644 4.5 4.5a.512.512 0 0 1 0 .712l-4.5 4.5a.507.507 0 0 1-.712-.712L12.294 9H2.5a.5.5 0 1 1 0-1h9.794l-3.65-3.644a.506.506 0 0 1 .712-.712Z"></path></svg><br></a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"top","width":"","style":{"spacing":{"padding":{"right":"0","left":"0","top":"0","bottom":"0"}}},"layout":{"type":"constrained","contentSize":"585px","justifyContent":"right","wideSize":""}} -->
+<div class="wp-block-column is-vertically-aligned-top" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:image {"id":4277,"scale":"cover","sizeSlug":"full","linkDestination":"none","style":{"color":{"duotone":"unset"},"border":{"width":"0px","style":"none","radius":"10px"}}} -->
+<figure class="wp-block-image size-full has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2024/10/20-OFF-Cavallo-Gift-Cards-1.gif" alt="" class="wp-image-4277" style="border-style:none;border-width:0px;border-radius:10px;object-fit:cover"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|xxl","bottom":"var:preset|spacing|xxl"},"margin":{"top":"0","bottom":"0"}}},"layout":{"type":"constrained","contentSize":""}} -->
+<div class="wp-block-group" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--xxl);padding-bottom:var(--wp--preset--spacing--xxl)"><!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column {"verticalAlignment":"top","width":"","style":{"spacing":{"padding":{"right":"0","left":"0","top":"0","bottom":"0"}}},"layout":{"type":"constrained","contentSize":"585px","justifyContent":"left","wideSize":""}} -->
+<div class="wp-block-column is-vertically-aligned-top" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:image {"id":4278,"scale":"cover","sizeSlug":"full","linkDestination":"none","style":{"color":{"duotone":"unset"},"border":{"width":"0px","style":"none","radius":"10px"}}} -->
+<figure class="wp-block-image size-full has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2024/10/Simple-Boots-8-year-old-Kimber-Skaggs-Idaho.jpg" alt="" class="wp-image-4278" style="border-style:none;border-width:0px;border-radius:10px;object-fit:cover"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"top","width":"44.48%"} -->
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis:44.48%"><!-- wp:heading -->
+<h2 class="wp-block-heading">The Little Cavallo Rider that Could</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"fontSize":"normal"} -->
+<p class="has-normal-font-size">“I have this picture I found which was this year (2023) doing a 30-mile endurance race with my 8-year-old daughter riding bridleless and coming out of a river in Idaho. It shows the Cavallo Boots on her horse’s feet – it’s an awesome picture. Feel free to use it how you wish! We both use these boots and they never come off and have held up through lots of abuse.”<br>– Kimber Skaggs</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"var:preset|spacing|xl","bottom":"var:preset|spacing|xl"},"margin":{"top":"0","bottom":"0"}}},"backgroundColor":"light-red-1","layout":{"type":"constrained","contentSize":""}} -->
+<div class="wp-block-group alignfull has-light-red-1-background-color has-background" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--xl);padding-bottom:var(--wp--preset--spacing--xl)"><!-- wp:columns {"style":{"spacing":{"padding":{"top":"0","bottom":"0"}}}} -->
+<div class="wp-block-columns" style="padding-top:0;padding-bottom:0"><!-- wp:column {"verticalAlignment":"top","width":"44.48%"} -->
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis:44.48%"><!-- wp:heading -->
+<h2 class="wp-block-heading">What YOU'RE Saying!</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"fontSize":"large"} -->
+<p class="has-large-font-size">Laminitic Rescue Mini Helped:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"4px","bottom":"27px"}}}} -->
+<p style="margin-top:4px;margin-bottom:27px">“Here is a photo of Minnie, one of your grateful customers, in her CLBs. Minnie was rescued almost two years ago with FORDs Equine Sanctuary in Michigan. She has been wearing the boots for over a year now, and they have helped her tremendously as she suffers from chronic Laminitis issues.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>-Alexa Tortora of Freedom Ride Equine Inc.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"4px","bottom":"27px"}}}} -->
+<p style="margin-top:4px;margin-bottom:27px">To read Cavallo reviews by equine industry experts you know and love, click <a href="http://cavallo.local/reviews/#celebrities"><span style="text-decoration: underline;">HERE!</span></a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"textColor":"red","className":"is-style-fill c-button\u002d\u002dsimple","style":{"elements":{"link":{"color":{"text":"var:preset|color|red"}}},"spacing":{"padding":{"left":"0","right":"0","top":"0","bottom":"0"}},"color":{"background":"#ffffff00"}}} -->
+<div class="wp-block-button is-style-fill c-button--simple"><a class="wp-block-button__link has-red-color has-text-color has-background has-link-color wp-element-button" href="http://cavallo.local/reviews/#celebrities" style="background-color:#ffffff00;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0">Read Expert Reviews Here<svg xmlns="http://www.w3.org/2000/svg" width="16" height="17">    <path d="m9.356 3.644 4.5 4.5a.512.512 0 0 1 0 .712l-4.5 4.5a.507.507 0 0 1-.712-.712L12.294 9H2.5a.5.5 0 1 1 0-1h9.794l-3.65-3.644a.506.506 0 0 1 .712-.712Z"></path></svg><br></a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"top","width":"","style":{"spacing":{"padding":{"right":"0","left":"0","top":"0","bottom":"0"}}},"layout":{"type":"constrained","contentSize":"585px","justifyContent":"right","wideSize":""}} -->
+<div class="wp-block-column is-vertically-aligned-top" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:image {"id":4280,"scale":"cover","sizeSlug":"full","linkDestination":"none","style":{"color":{"duotone":"unset"},"border":{"width":"0px","style":"none","radius":"10px"}}} -->
+<figure class="wp-block-image size-full has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2024/10/Minnie-Laminitis-helped-by-Cavallo-CLB-e1701228378848-381x452-1.jpg" alt="" class="wp-image-4280" style="border-style:none;border-width:0px;border-radius:10px;object-fit:cover"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|xxl","bottom":"var:preset|spacing|xxl"},"margin":{"top":"0","bottom":"0"}}},"layout":{"type":"constrained","contentSize":""}} -->
+<div class="wp-block-group" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--xxl);padding-bottom:var(--wp--preset--spacing--xxl)"><!-- wp:columns {"style":{"spacing":{"padding":{"bottom":"var:preset|spacing|lg"}}}} -->
+<div class="wp-block-columns" style="padding-bottom:var(--wp--preset--spacing--lg)"><!-- wp:column {"verticalAlignment":"top","width":"","style":{"spacing":{"padding":{"right":"0","left":"0","top":"0","bottom":"0"}}},"layout":{"type":"constrained","contentSize":"585px","justifyContent":"left","wideSize":""}} -->
+<div class="wp-block-column is-vertically-aligned-top" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:image {"id":4279,"sizeSlug":"full","linkDestination":"none","style":{"border":{"radius":"10px"}}} -->
+<figure class="wp-block-image size-full has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2024/10/The-Horses-Hoof-Giveaway-452x452-1.jpg" alt="" class="wp-image-4279" style="border-radius:10px"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"top","width":"44.48%"} -->
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis:44.48%"><!-- wp:heading -->
+<h2 class="wp-block-heading">Win a Pair of Purple Trek!</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"fontSize":"large"} -->
+<p class="has-large-font-size">Win a Pair of Purple Trek Boots from The Horse’s Hoof!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"4px","bottom":"27px"}}}} -->
+<p style="margin-top:4px;margin-bottom:27px">Sign up for The Horse’s Hoof Barefoot News (for free!) and get a chance to WIN a pair of Cavallo PURPLE Trek Hoof Boots for your horse!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>On December 31st, The Horse’s Hoof will draw a random winner from their email list to win a pair of FREE Purple Treks! (valid for USA &amp; Canada mailing addresses only)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"4px","bottom":"27px"}}}} -->
+<p style="margin-top:4px;margin-bottom:27px">Be sure to continue your subscription, as they will have frequent contests for great prizes, choosing the winners from their email list!&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"textColor":"red","className":"is-style-fill c-button\u002d\u002dsimple","style":{"elements":{"link":{"color":{"text":"var:preset|color|red"}}},"spacing":{"padding":{"left":"0","right":"0","top":"0","bottom":"0"}},"color":{"background":"#ffffff00"}}} -->
+<div class="wp-block-button is-style-fill c-button--simple"><a class="wp-block-button__link has-red-color has-text-color has-background has-link-color wp-element-button" href="https://mailchi.mp/thehorseshoof/thh50b" style="background-color:#ffffff00;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0" target="_blank" rel="noreferrer noopener">Sign Up here!<svg xmlns="http://www.w3.org/2000/svg" width="16" height="17">    <path d="m9.356 3.644 4.5 4.5a.512.512 0 0 1 0 .712l-4.5 4.5a.507.507 0 0 1-.712-.712L12.294 9H2.5a.5.5 0 1 1 0-1h9.794l-3.65-3.644a.506.506 0 0 1 .712-.712Z"></path></svg><br></a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"margin":{"top":"0","bottom":"0"},"padding":{"top":"var:preset|spacing|xxl","bottom":"var:preset|spacing|xxl"}}},"backgroundColor":"light-red-1","layout":{"type":"constrained","contentSize":""}} -->
+<div class="wp-block-group has-light-red-1-background-color has-background" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--xxl);padding-bottom:var(--wp--preset--spacing--xxl)"><!-- wp:columns {"style":{"spacing":{"padding":{"bottom":"var:preset|spacing|lg"}}}} -->
+<div class="wp-block-columns" style="padding-bottom:var(--wp--preset--spacing--lg)"><!-- wp:column {"verticalAlignment":"top","width":"44.48%"} -->
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis:44.48%"><!-- wp:heading -->
+<h2 class="wp-block-heading">Patrick the Pony's Book NOW OUT!</h2>
+<!-- /wp:heading -->
+
+<!-- wp:image {"id":331250,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="http://cavallo.local/wp-content/uploads/2023/11/Christmas-Gift-Alert-1024x205.jpg" alt="" class="wp-image-331250"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph {"fontSize":"large"} -->
+<p class="has-large-font-size"></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"4px","bottom":"27px"}}}} -->
+<p style="margin-top:4px;margin-bottom:27px">Do you have a little horse lover in your life who would love to spend the holidays tucked into a book telling a TRUE story about how a little <a href="http://cavallo.local/product-category/hoof-boot/mini-hoof-boots/"><span style="text-decoration: underline;">CLB-wearing</span></a> pony named Patrick was elected Mayor of a small town in England?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>An English village needed a new Mayor, Mr. Ghastly, who was often very nasty, made it clear he wanted the role as he knew everything that went on and had lived there for so long.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"4px","bottom":"27px"}}}} -->
+<p style="margin-top:4px;margin-bottom:27px">Patrick The Pony was so helpful, he showed everyone how much he cared, but could he really be elected the Mayor?&nbsp;</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"top","width":"","style":{"spacing":{"padding":{"right":"0","left":"0","top":"0","bottom":"0"}}},"layout":{"type":"constrained","contentSize":"585px","justifyContent":"left","wideSize":""}} -->
+<div class="wp-block-column is-vertically-aligned-top" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:image {"id":4281,"sizeSlug":"full","linkDestination":"none","style":{"border":{"radius":"10px"}}} -->
+<figure class="wp-block-image size-full has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2024/10/p.jpg" alt="patrick the pony Christmas Newsletter November and December 2023" class="wp-image-4281" style="border-radius:10px"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:columns {"style":{"spacing":{"padding":{"bottom":"var:preset|spacing|lg"}}}} -->
+<div class="wp-block-columns" style="padding-bottom:var(--wp--preset--spacing--lg)"><!-- wp:column {"verticalAlignment":"top","width":"","style":{"spacing":{"padding":{"right":"0","left":"0","top":"0","bottom":"0"}}},"layout":{"type":"constrained","contentSize":"585px","justifyContent":"left","wideSize":""}} -->
+<div class="wp-block-column is-vertically-aligned-top" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:image {"id":4282,"sizeSlug":"full","linkDestination":"none","style":{"border":{"radius":"10px"}}} -->
+<figure class="wp-block-image size-full has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2024/10/pony-book-2023.jpg" alt="" class="wp-image-4282" style="border-radius:10px"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"top","width":"44.48%"} -->
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis:44.48%"><!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"4px","bottom":"27px"}}}} -->
+<p style="margin-top:4px;margin-bottom:27px">Your little one will love getting to know Patrick, and it’s a huge bonus that they can continue to follow him and watch his amazing <a href="https://www.facebook.com/celebrity.pony" target="_blank" rel="noreferrer noopener"><span style="text-decoration: underline;">daily adventures online</span></a>!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Want to get Patrick’s Book?</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>In <strong>USA</strong>, get it <a href="https://www.amazon.com/Pony-Became-Mayor-Kirk-Petrakis/dp/191599635X?source=ps-sl-shoppingads-lpcontext&amp;ref_=fplfs&amp;psc=1&amp;smid=ATVPDKIKX0DER" target="_blank" rel="noreferrer noopener"><span style="text-decoration: underline;">HERE!</span></a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>In <strong>UK</strong>, buy it <a href="https://www.amazon.co.uk/Pony-Became-Mayor-Kirk-Petrakis/dp/191599635X" target="_blank" rel="noreferrer noopener"><span style="text-decoration: underline;">HERE!</span></a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"4px","bottom":"27px"}}}} -->
+<p style="margin-top:4px;margin-bottom:27px">Enjoy!&nbsp;</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"margin":{"top":"0","bottom":"0"},"padding":{"top":"var:preset|spacing|xxl","bottom":"0"}}},"layout":{"type":"constrained","contentSize":""}} -->
+<div class="wp-block-group" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--xxl);padding-bottom:0"><!-- wp:columns {"style":{"spacing":{"padding":{"bottom":"var:preset|spacing|lg"}}}} -->
+<div class="wp-block-columns" style="padding-bottom:var(--wp--preset--spacing--lg)"><!-- wp:column {"verticalAlignment":"top","width":"","style":{"spacing":{"padding":{"right":"0","left":"0","top":"0","bottom":"0"}}},"layout":{"type":"constrained","contentSize":"585px","justifyContent":"left","wideSize":""}} -->
+<div class="wp-block-column is-vertically-aligned-top" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:embed {"url":"https://www.youtube.com/shorts/uSNGtN8DDi4","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-9-16 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-9-16 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://www.youtube.com/shorts/uSNGtN8DDi4
+</div></figure>
+<!-- /wp:embed --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"top","width":"44.48%"} -->
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis:44.48%"><!-- wp:heading -->
+<h2 class="wp-block-heading">Cavallo Hoof Boots FAQ!</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"fontSize":"normal"} -->
+<p class="has-normal-font-size"><strong>Is your horse getting the best Cavallo Hoof Boot fit possible?</strong>&nbsp;????</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>A great fit isn’t just about the sole size! Here’s an easy trick to make sure your boots always STAY ON. You can also decrease any irritation caused by excess movement this way, by making sure the boots’ uppers are fitting as snugly as possible. This is EXCELLENT for fitting finer-boned horses!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>*Please note: this trick works with Trek, ELB, BFB &amp; CLB. If you know you have a finer-boned equine, choosing one of these Cavallo Boot styles is best.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"4px","bottom":"27px"}}}} -->
+<p style="margin-top:4px;margin-bottom:27px">As shown in the video, when fastening your boots, draw the wrap-around Velcro panels to the front on a downward angle when the boot is being fastened. This creates almost a “V-neck” at the boot collar and tightens the fit to the shape of YOUR horse. You’ll notice the difference! You’re welcome! ????</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"textColor":"red","className":"is-style-fill c-button\u002d\u002dsimple","style":{"elements":{"link":{"color":{"text":"var:preset|color|red"}}},"spacing":{"padding":{"left":"0","right":"0","top":"0","bottom":"0"}},"color":{"background":"#ffffff00"}}} -->
+<div class="wp-block-button is-style-fill c-button--simple"><a class="wp-block-button__link has-red-color has-text-color has-background has-link-color wp-element-button" href="http://cavallo.local/faq/" style="background-color:#ffffff00;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0">Read More FAQs &gt;&gt;</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons -->
+
+<!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"4px","bottom":"27px"}}}} -->
+<p style="margin-top:4px;margin-bottom:27px">&nbsp;</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:columns {"style":{"spacing":{"padding":{"bottom":"var:preset|spacing|lg"}}}} -->
+<div class="wp-block-columns" style="padding-bottom:var(--wp--preset--spacing--lg)"><!-- wp:column {"verticalAlignment":"top","width":"44.48%"} -->
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis:44.48%"><!-- wp:heading -->
+<h2 class="wp-block-heading">Grab Life by the Reins with Andrea Wady's Podcast!</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"fontSize":"normal"} -->
+<p class="has-normal-font-size">There’s no doubt about it – World-renowned horse trainers <a href="https://andreawady.com/about/" target="_blank" rel="noreferrer noopener"><span style="text-decoration: underline;">Andrea Wady</span></a> and <a href="https://www.horseclass.com/about-callie/" target="_blank" rel="noreferrer noopener"><span style="text-decoration: underline;">Callie King</span></a> have a charismatic rapport! Looking for a podcast that makes you laugh while you learn? Look no further!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Andrea is well-known as an ‘equine relationship specialist’. She has had so many incredible equestrian experiences throughout her career. For 18 years, she and her husband Chris lived in Costa Rica, building a thriving ethical horse tour and vacation stay business. It was in there that Andrea filmed the documentary <a href="https://www.youtube.com/watch?v=q2Qbtj3dXNQ" target="_blank" rel="noreferrer noopener"><span style="text-decoration: underline;">Taming Wild – Pura Vida</span></a>, showing the adventures of she and her friend Elsa Sinclair crossing Costa Rica on foot with two Cavallo-booted rescue horses!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Now back in Cornwall, Andrea has released her book <a href="https://www.youtube.com/watch?v=XGlpqvp4hYw" target="_blank" rel="noreferrer noopener"><span style="text-decoration: underline;">Crossing Bridges</span></a> and now guides online students to build better relationships with their horses through her courses <a href="https://www.purelibertycourse.com/" target="_blank" rel="noreferrer noopener"><span style="text-decoration: underline;">Pure Liberty</span></a>.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Andrea’s new podcast, Grab Life by the Reins, is a joint project with her friend Callie King (founder of Horse Class). After living a life full of twists, turns, and adventures, they’re sharing their hilarious, heartbreaking, and thrilling stories. They’re both authors, filmmakers, adventure addicts and adrenaline seekers.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"4px","bottom":"27px"}}}} -->
+<p style="margin-top:4px;margin-bottom:27px"><strong>Grab this podcast by the reins now!</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"textColor":"red","className":"is-style-fill c-button\u002d\u002dsimple","style":{"elements":{"link":{"color":{"text":"var:preset|color|red"}}},"spacing":{"padding":{"left":"0","right":"0","top":"0","bottom":"0"}},"color":{"background":"#ffffff00"}}} -->
+<div class="wp-block-button is-style-fill c-button--simple"><a class="wp-block-button__link has-red-color has-text-color has-background has-link-color wp-element-button" href="https://www.grablifebythereins.com/" style="background-color:#ffffff00;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0" target="_blank" rel="noreferrer noopener">Listen Now!<svg xmlns="http://www.w3.org/2000/svg" width="16" height="17">    <path d="m9.356 3.644 4.5 4.5a.512.512 0 0 1 0 .712l-4.5 4.5a.507.507 0 0 1-.712-.712L12.294 9H2.5a.5.5 0 1 1 0-1h9.794l-3.65-3.644a.506.506 0 0 1 .712-.712Z"></path></svg><br></a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons -->
+
+<!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"4px","bottom":"27px"}}}} -->
+<p style="margin-top:4px;margin-bottom:27px">&nbsp;</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"top","width":"","style":{"spacing":{"padding":{"right":"0","left":"0","top":"0","bottom":"0"}}},"layout":{"type":"constrained","contentSize":"585px","justifyContent":"left","wideSize":""}} -->
+<div class="wp-block-column is-vertically-aligned-top" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:image {"id":4283,"sizeSlug":"full","linkDestination":"none","style":{"border":{"radius":"10px"}}} -->
+<figure class="wp-block-image size-full has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2024/10/Grab-life-1-449x452-1.jpg" alt="" class="wp-image-4283" style="border-radius:10px"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:columns {"style":{"spacing":{"padding":{"bottom":"var:preset|spacing|lg"}}}} -->
+<div class="wp-block-columns" style="padding-bottom:var(--wp--preset--spacing--lg)"><!-- wp:column {"verticalAlignment":"top","width":"100%"} -->
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis:100%"><!-- wp:heading -->
+<h2 class="wp-block-heading">Booted Desert Adventures with Jane McKay</h2>
+<!-- /wp:heading -->
+
+<!-- wp:image {"id":331251,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="http://cavallo.local/wp-content/uploads/2023/11/jane-444.jpg" alt="" class="wp-image-331251"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph {"fontSize":"normal"} -->
+<p class="has-normal-font-size">“Hello, fellow riders! My name is Jane McKay. Although I have spent most of my life riding horses and a few years breeding and starting Appaloosas. It was only during COVID that I stepped outside my comfort zone and purchased a seven-year-old, green molly mule to keep things spicy, learn something new and (cough) keep me humble.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Boy, have Minna-Mule and I ever put miles on the odometer since 2019! When I got my mule, I decided to continue with barefoot trimming as I had done with my horses. But spending winters riding in Arizona, however, with its foot-grinding terrain, it didn’t take very long to figure out that I could still do barefoot, but would need some kind of protection for Minna’s feet.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"4px","bottom":"27px"}}}} -->
+<p style="margin-top:4px;margin-bottom:27px">I ended up purchasing a set of four&nbsp;<a href="http://cavallo.local/product-category/hoof-boot/" target="_blank" rel="noreferrer noopener">Cavallos&nbsp;</a>with&nbsp;<a href="http://cavallo.local/product-category/hoof-boot-accessories/pastern-wraps/" target="_blank" rel="noreferrer noopener">Pastern Wraps</a>&nbsp;and haven’t looked back. Properly sized, even as horse boots on a mule, they stay in place, don’t rub and provide (in my opinion) more protection than shoes with pads AND without costly re-set fees! An unshod animal ultimately might have the best traction, from what I have experienced, the Cavallos are a very close second.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"4px","bottom":"27px"}}}} -->
+<p style="margin-top:4px;margin-bottom:27px"></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:gallery {"linkTo":"none","sizeSlug":"full"} -->
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped"><!-- wp:image {"id":331254,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="http://cavallo.local/wp-content/uploads/2023/11/Jane-mcKay-Aizona-2023-33.jpg" alt="Jane McKay riding mule in Arizona with Cavallo Hoof Boots" class="wp-image-331254"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":331253,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="http://cavallo.local/wp-content/uploads/2023/11/Jane-McKay-Arizona-2023-22-1.png" alt="Jane McKay riding mule in Arizona with Cavallo Hoof Boots ." class="wp-image-331253"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":331252,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="http://cavallo.local/wp-content/uploads/2023/11/370290052_292208593793509_5381721166205947676_n-1.jpg" alt="Mule wearing Cavallo Hoof Boots" class="wp-image-331252"/></figure>
+<!-- /wp:image --></figure>
+<!-- /wp:gallery -->
+
+<!-- wp:paragraph -->
+<p>Speaking of Arizona, one of the areas I ride is the Superstition Mountains. And a cool place to ride near there is Picket Post Mountain, east of Phoenix. The logistics of this location are: easy access, big parking lots, tie rails &amp; washrooms. And then there are the trails themselves…</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Tough. Easy. Hard and rocky. Soft and green. Or be brave and bushwhack. However you would like to ride your day, the mountain is visible to give you a general sense of direction. The main trail that circles the mountain contains part of one of forty-three passages that make up the iconic&nbsp;<a href="https://aztrail.org/the-trail/map-of-the-trail/" target="_blank" rel="noreferrer noopener">Arizona Trail</a>, which&nbsp;stretches across 800 miles of the state. To download the whole interactive trail map,&nbsp;<strong><a href="https://aztrail.org/explore/maps/interactive-map/" target="_blank" rel="noreferrer noopener">CLICK HERE.</a></strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The scenery is something else. But keep your eyes open because you might stumble across a fossil or two, an interesting nest, some&nbsp;<a href="https://en.wikipedia.org/wiki/Apache_tears" target="_blank" rel="noreferrer noopener">Apache Tears</a>… or maybe even wagon tracks from the last century worn right into the rock! This place is definitely worthy of consideration!”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>-Jane McKay</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>*Watch a fun video clip of Jane and Minna on Arizona terrain<strong>&nbsp;<a href="https://fb.watch/oDpCcY6fuK/" target="_blank" rel="noreferrer noopener">HERE!</a></strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:gallery {"linkTo":"none","sizeSlug":"full"} -->
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped"><!-- wp:image {"id":331257,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="http://cavallo.local/wp-content/uploads/2023/11/33.jpg" alt="Riding the Arizona Trail with Cavallo Hoof Boots" class="wp-image-331257"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":331255,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="http://cavallo.local/wp-content/uploads/2023/11/Jane-McKay-Arizona-2023-44-1.jpg" alt="Jane McKay riding mule in Arizona with Cavallo Hoof Boots - Nest" class="wp-image-331255"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":331256,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="http://cavallo.local/wp-content/uploads/2023/11/Jane-McKay-Arizona-2023-55-1.png" alt="Jane McKay riding mule in Arizona with Cavallo Hoof Boots ." class="wp-image-331256"/></figure>
+<!-- /wp:image --></figure>
+<!-- /wp:gallery --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"margin":{"top":"0","bottom":"0"},"padding":{"top":"0","bottom":"var:preset|spacing|xl"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group" style="margin-top:0;margin-bottom:0;padding-top:0;padding-bottom:var(--wp--preset--spacing--xl)"><!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column {"width":"66.66%"} -->
+<div class="wp-block-column" style="flex-basis:66.66%"><!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Wishing you many happy trails</h3>
+<!-- /wp:heading -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"id":4076,"sizeSlug":"full","linkDestination":"none","align":"left"} -->
+<figure class="wp-block-image alignleft size-full"><img src="http://cavallo.local/wp-content/uploads/2024/10/5381858031fd2babec50665b30807366.png" alt="" class="wp-image-4076"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"0","bottom":"0"}}},"fontSize":"large"} -->
+<p class="has-large-font-size" style="margin-top:0;margin-bottom:0">Carole Herder</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"spacing":{"padding":{"right":"0","left":"0"}}}} -->
+<p style="padding-right:0;padding-left:0">President and founder of Cavallo Horse &amp; Rider Inc</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Carole Herder, President and founder of Cavallo Horse &amp; Rider Inc., is an internationally acclaimed figure in the equestrian community. Her books, There Are No Horseshoes in Heaven and Hoof Prints on the Journey, have become international bestsellers, further solidifying her status as a thought leader in the industry.&nbsp;Since 1993, Carole has been deeply involved in horse health. Cavallo is a global leader in developing, manufacturing, and distributing horse products. Carole’s passion for horse comfort is evident in her designs, including the innovative Cavallo Hoof Boots and Total Comfort System Saddle Pads.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>A true pioneer in the equestrian community, Carole is widely recognized for her expertise and contributions. She champions the benefits of keeping horses in their natural state, advocates for overall hoof health, and works towards the alleviation of debilitating disorders. Her achievements include being an honoured award recipient of the Royal Bank of Canada Woman Entrepreneur of the Year, British Columbia’s Businesswoman of The Year, and North America Enterprising Woman of The Year.&nbsp;<br>Carole is a certified Dr. Deepak Chopra Yoga, Meditation and Ayurvedic Lifestyle Instructor and a proud member of the Women Presidents Organization, supporting female entrepreneurs in every industry.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":"33.33%"} -->
+<div class="wp-block-column" style="flex-basis:33.33%"><!-- wp:image {"id":4084,"sizeSlug":"full","linkDestination":"none","style":{"border":{"radius":"10px"}}} -->
+<figure class="wp-block-image size-full has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2024/10/carole-herder.jpg" alt="" class="wp-image-4084" style="border-radius:10px"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":4085,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="http://cavallo.local/wp-content/uploads/2024/10/carole-books.jpg" alt="" class="wp-image-4085"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->

@@ -1,0 +1,86 @@
+[
+  {
+    "id": "561",
+    "content_format": "Template / functional page",
+    "summary": "WooCommerce My Account page for affiliate and rewards login/dashboard, with a prompt to contact the Cavallo team for help.",
+    "key_components": ["CTA button"],
+    "primary_cta": "Contact us"
+  },
+  {
+    "id": "634",
+    "content_format": "Category / product grid",
+    "summary": "Shop landing page for Cavallo hoof boots linking to a boot-selection guide and a hoof-measuring guide to help buyers choose and fit the right boots.",
+    "key_components": ["CTA button"],
+    "primary_cta": "Find Your Boots"
+  },
+  {
+    "id": "758",
+    "content_format": "Form / contact page",
+    "summary": "Review submission page inviting customers to share their Cavallo hoof-boot experience for use in articles, the website, and social media.",
+    "key_components": ["Lead form"],
+    "primary_cta": "Submit your review"
+  },
+  {
+    "id": "868",
+    "content_format": "Standard article (text + images)",
+    "summary": "Customer testimonial from Deby O'Gorman about riding the rocky 33-mile Echo Lakes to Barker Pass segment of the Tahoe Rim Trail in two-year-old Cavallo boots that outperformed friends' Easyboots.",
+    "key_components": ["Image gallery"],
+    "primary_cta": "None"
+  },
+  {
+    "id": "870",
+    "content_format": "Standard article (text + images)",
+    "summary": "Customer testimonial from Annie Logan about using Cavallo Simple Boots on her barefoot Australian Brumby Toby across alpine swamps, bogs, and rocky terrain.",
+    "key_components": ["Image gallery"],
+    "primary_cta": "None"
+  },
+  {
+    "id": "872",
+    "content_format": "Standard article (text + images)",
+    "summary": "Customer testimonial from Lois about four years of using Cavallo Simple Boots on three barefoot horses across rivers, ice, snow, and rocky Teton mountain trails.",
+    "key_components": [],
+    "primary_cta": "None"
+  },
+  {
+    "id": "874",
+    "content_format": "Standard article (text + images)",
+    "summary": "Customer testimonial from Margi Weir about Cavallo Simple Boots fitting her Australian Stockhorse stallion's irregular hooves and correcting his uneven movement.",
+    "key_components": [],
+    "primary_cta": "None"
+  },
+  {
+    "id": "875",
+    "content_format": "Standard article (text + images)",
+    "summary": "Short customer testimonial from Roberta Young about using Cavallo Simple Boots on a seven-hour muddy ride and in the Chesapeake Bay.",
+    "key_components": ["Image gallery"],
+    "primary_cta": "None"
+  },
+  {
+    "id": "877",
+    "content_format": "Standard article (text + images)",
+    "summary": "Customer testimonial from Sandra L. Switzer about her Arabian mare Darlin staying out overnight in a park, with Cavallo boots staying secure and protecting her feet.",
+    "key_components": [],
+    "primary_cta": "None"
+  },
+  {
+    "id": "879",
+    "content_format": "Standard article (text + images)",
+    "summary": "Customer testimonial from Glenn Van Oort about three years of using Cavallo Simple Boots on two Morgan horses for picnic-drive training with minimal wear.",
+    "key_components": ["Image gallery"],
+    "primary_cta": "None"
+  },
+  {
+    "id": "881",
+    "content_format": "Standard article (text + images)",
+    "summary": "Customer testimonial from Debbie about using Cavallo Simple Boots on her Missouri Foxtrotter during a natural-trim transition, noting a night-and-day comfort difference on a rocky trail ride.",
+    "key_components": ["Image gallery"],
+    "primary_cta": "None"
+  },
+  {
+    "id": "883",
+    "content_format": "Standard article (text + images)",
+    "summary": "Customer testimonial from 10-year-old Samantha Iles-Highton about using Cavallo Simple Hoof Boots on the barefoot horse Jasmine for comfortable trail and gravel-road riding she can fit herself.",
+    "key_components": ["Image gallery"],
+    "primary_cta": "None"
+  }
+]

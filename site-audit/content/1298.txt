@@ -1,0 +1,19 @@
+<!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="http://cavallo.local/wp-content/uploads/2024/09/warhorse-300x256-1.jpg" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>By Carole Herder</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>In my last webinar I explained that horses were first shod with metal shoes about 1500 hundred years ago before we understood the physiology of the hoof. The shoes were intended to elevate the hoof out of the manure and urine-saturated ground where the horse was tied. The premise was that the elevation would stop the hoof from rotting. The captive horse’s hoof was not only weakened by a fetid environment, but also by the lack of movement which was a radical change for animals meant to be constantly on the go. Limited motion meant limited blood circulation, which translated to significant lack of nutrient supply. Not surprisingly, the rot worked its way between the metal plate and the hoof. And so they decided that cutting out the middle of the plate would allow the hoof to regain some breathability and air circulation; hence originated the current shape of the metal horse shoe. Nothing much has changed since.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>It wasn’t the best solution but horses were becoming valuable as war vehicles and stomping on the enemy with a metal shoe was a lot more damaging than a bare hoof.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Keep in mind that 10,000 barefoot horses were used during the war commanded by Xenophon. And the North American Indians, Huns and Mongols always rode barefoot on very tough conditions, for both man and beast.<br>So this whole idea of nailing into their feet was based on a faulty premise that with education can be concluded to be inappropriate to the desired result and at any rate, archaic.</p>
+<!-- /wp:paragraph -->

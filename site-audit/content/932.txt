@@ -1,0 +1,7 @@
+<!-- wp:image {"sizeSlug":"large","align":"left"} -->
+<figure class="wp-block-image alignleft size-large"><img src="http://cavallo.local/wp-content/uploads/2024/09/Samantha-Schulz_001.jpg" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>I currently ride two horses with my Cavallo Saddle Pad and I love the feel it has on them. I can tell what my horse is doing a lot better than when I rode with a regular saddle pad. After I received my pad I rode my horse in it for a month to get use to it, then I rode him in the Coombs Bull-O-Rama and I ended up being the 2004 Champion. I now ride my new horse in it, and he performs better with it, as he gets very hot and sweaty as he works, and the pad keeps him cool.</p>
+<!-- /wp:paragraph -->

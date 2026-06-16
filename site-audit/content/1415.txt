@@ -1,0 +1,27 @@
+<!-- wp:paragraph -->
+<p>By Carole Herder</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":4949,"linkDestination":"custom","align":"left"} -->
+<figure class="wp-block-image alignleft"><a href="//cavallo.local/wp-content/uploads/2014/09/Blog-62.png"><img src="//cavallo.local/wp-content/uploads/2014/09/Blog-62.png" alt="Horse Hoof Boots" class="wp-image-4949"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>A friend of mine recently bought a new horse. While she was checking him over, just before she bought him, the seller exclaimed, “Oh, and he can’t go barefoot”. Now my friend was tempted to ask why, but thought it might trigger an argument so she just replied, “Oh right”. The seller proceeded to remind her that he was eighteen and was a hunter and had always been shod and therefore couldn't go barefoot (he knew my friend tended towards that ‘path’). So Natalie enquired about hoof boots, whether they would be an option. The owner smirked and stated that she didn't know anything about them but the shoes worked well on the horse. Natalie left it at that but as she parted money with the owner, she began planning secretly……</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>I believe knowledge is power, and I don’t mean the dominating sort of power. I mean the more knowledge you have the more power you have to make the right decisions. For the most part, the equestrian world is still learning about barefoot and booted horses. The more knowledge you have, the better equipped you are to diagnose a problem and come up with possible solutions. And the better equipped you will be to understand that just because something has been done for thousands of years (like shoeing), doesn't mean it is right. There are many things that I disagree with but that doesn't mean I ignore them. In fact, all the more reason to learn about things that you disagree with because you can then understand and explain why you disagree with them and put them to one side knowing that is the right decision, as opposed to our lovely seller at the beginning of this blog who wrote off hoof boots while fully admitting they knew nothing about them! How is that helpful to the owner, the horse or the general world around them?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>My advice? Find out all you can about a subject you are interested in, and that means both sides of the story. You can then make your own informed decision. In addition to that, you may learn some new things which could be applied to different situations. Remember, what works for one horse may not work for the next, so keep that tool kit full of options.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:spacer {"height":"40px"} -->
+<div style="height:40px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->

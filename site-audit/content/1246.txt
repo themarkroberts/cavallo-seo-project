@@ -1,0 +1,59 @@
+<!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="http://cavallo.local/wp-content/uploads/2024/09/sunset3-1024x322-e1405955728450.jpg" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>By Carole Herder</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>If you answer “Yes” to more than 7 of these 10 questions, you are an honorary member of the Cavallo Community:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. When you are with your horse everything else drifts away like feathers on a breeze. You forget the bills, the groceries, the job, the extra weight, the too busy lifestyle and too busy husband.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2. Your horse is your partner, your life line and you will do anything to ensure the comfort and safety of your world – your horse. You will forego new shoes, a truck payment and a meal to make sure your horse is happy.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. You love to trail ride. When you get out on the trails, moving in synch with your best friend - walking, trotting and galloping with abandon through the gullies, streams and hills, you feel connected. You have a true sense of who you are. Riding is your happy place. The rhythmic beat of flying hooves frees your mind and body. You join with your horse, as you would not with a human. You elevate to equus and together you are one.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>4. You are a powerful independent thinker and your horse gives you the strength to walk your talk and travel the less trodden trail.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>5. Although traditional in that you may be married or have a couple of kid; you are an unconventional person, gravitating to some of the ideas around natural holistic healthcare, for yourself, your family and your horses. You could say you are alternative. You do not adhere to doctrines just because they have always existed. You question. You seek. You want to know and you are not afraid of getting answers that are different from what others traditionally believe.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>6. Keeping your horse barefoot just makes sense to you. You never liked the idea of nailing metal shoes into your best friend’s feet and now that you have a solid viable option, you are embracing it.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>7. You have researched and done your homework and you understand that in order to leave the archaic metal shoeing practice behind, you have to find a good trimmer or learn to trim yourself.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>8. You know you need good hoof boots that are easy to put on, provide comfort and protection while riding and do not come off on the ride.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>You understand the various applications for hoof boots like protecting your property, protection when horses play together, protection in breeding, as a veterinary aid for injuries or poultices, protection for transportation and as a spare tire for a lost shoe, but your primary purpose for hoof boots is so you can ride your horse comfortably through all terrain at any speed.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>9. You have researched the various hoof boots and find that Cavallo is the very best. You love the ease of use, the comfort for horses and the quality in construction and materials. You also love dealing with the people of Cavallo because they are genuinely passionate about supporting you, your horse and your efforts.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>10. You are now a crusader of sorts because you are so happy with the path you have chosen; you want to share it with my family and friends. You gravitate to the people who are like-minded and thoughtful. These are the people you tell about your success with the barefoot movement and your delight with Cavallo. If you can help a friend’s horse out of metal shoes, you feel you have served a purpose and aided in the shift towards comfort and freedom for horses.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>If this is you, be proud to be a member of the Cavallo Community striving to make a difference - changing, one horse at a time.</p>
+<!-- /wp:paragraph -->

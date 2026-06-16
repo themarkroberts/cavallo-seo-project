@@ -1,0 +1,23 @@
+<!-- wp:image {"id":2630,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="http://cavallo.local/wp-content/uploads/2024/09/Jessica-Chickering-300x225-1.jpg" alt="" class="wp-image-2630"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>By Carole Herder</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>We Call Her Emily</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>There is a new breed of hoof care professional appearing in our industry and SHE is a little different from the old school farrier we are accustomed to. We call her Emily and she is very important to a successful barefoot program.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"left"} -->
+<p class="has-text-align-left">People can make the mistake of thinking that you can simply pull off the metal shoes and leave your horse barefoot and that you are then creating a ‘natural’ barefoot horse. Not so and not that simple. In a natural wild horse environment, horses would be moving around all day foraging for food. They would run with the herd encouraging the hoof to expand and contract, pumping the blood, absorbing shock properly and trimming their own hoofs. They would be on hard arid ground trimming their own hoofs. When they hydrate internally at a creek or waterhole, they would also hydrate the hoofs because they would be standing in water. Now we give them water in buckets, keep them in soft bedded stalls and I don’t know about you, but my horses sure don’t have 160 acres to run in. So we must emulate the natural environment, by providing a trim for our domesticated horses that would do what nature does. There are a growing number of fabulous trimmers offering their services every day. You can use her or you can learn to trim yourself, but you MUST afford your horse a good regular barefoot trim. It is important that you feel comfortable with your trimmer, that you can talk with her about your concerns and that you feel that you are being heard. Do not accept condescension. If you do not understand – say so and ask for an explanation. This is a new world for many of us, where in the past all we worried about was cleaning the hoofs before a ride, now we need to know about hoof mechanism, the parts of the hoof and their function. So we may be in a learning curve when we make this transition and if we do not ask the questions – we will never know the answers. Give yourself some space and leniency in the learning process. Emily was once in your shoes. She understands. So trust yourself to know what’s right and wrong and once you find her – treat her well.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":1441,"align":"center","className":"size-medium wp-image-1441"} -->
+<figure class="wp-block-image aligncenter size-medium wp-image-1441"><img src="//cavallo.local/wp-content/uploads/2013/06/Sossity-gargiulo-300x225.jpg" alt="" class="wp-image-1441"/><figcaption class="wp-element-caption">Sossity Gargiulo</figcaption></figure>
+<!-- /wp:image -->

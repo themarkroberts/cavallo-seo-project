@@ -1,0 +1,271 @@
+<!-- wp:heading {"textAlign":"center","level":1,"style":{"spacing":{"padding":{"bottom":"var:preset|spacing|md"}}}} -->
+<h1 class="wp-block-heading has-text-align-center" style="padding-bottom:var(--wp--preset--spacing--md)">Your Cavallo News – August 2024</h1>
+<!-- /wp:heading -->
+
+<!-- wp:image {"id":4011,"width":"975px","height":"auto","sizeSlug":"full","linkDestination":"none","align":"center"} -->
+<figure class="wp-block-image aligncenter size-full is-resized"><img src="http://cavallo.local/wp-content/uploads/2024/10/news-banner.jpg" alt="" class="wp-image-4011" style="width:975px;height:auto"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"textAlign":"center"} -->
+<h2 class="wp-block-heading has-text-align-center">A Very Special Invitation Will be Sent to You Soon...</h2>
+<!-- /wp:heading -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:image {"id":193009,"width":"1196px","height":"auto","aspectRatio":"2.0000340055088923","sizeSlug":"full","align":"center"} -->
+<figure class="wp-block-image aligncenter size-full is-resized"><img src="http://cavallo.local/wp-content/uploads/2024/08/Copy-of-Amber-Marshall.jpg" alt="Win a ticket to meet Amber Marshall at the Liberty Festival - from Cavallo Hoof Boots" class="wp-image-193009" style="aspect-ratio:2.0000340055088923;width:1196px;height:auto"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:group -->
+
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">You’ll be receiving a link to a special contest for a chance to win tickets to the&nbsp;<a href="https://www.libertyfestival.com/clinicians" target="_blank" rel="noreferrer noopener">2024 Liberty Festival</a>, along with a chance to personally meet Heartland’s Amber Marshall!&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":193116,"linkDestination":"custom"} -->
+<figure class="wp-block-image"><a href="https://www.libertyfestival.com/" target="_blank" rel="noreferrer noopener"><img src="http://cavallo.local/wp-content/uploads/2024/08/Liberty-Fest-768x402.jpg" alt="2024 Liberty Festival" class="wp-image-193116"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|lg","bottom":"var:preset|spacing|lg"}}},"backgroundColor":"light-red-1","layout":{"type":"constrained"}} -->
+<div class="wp-block-group has-light-red-1-background-color has-background" style="padding-top:var(--wp--preset--spacing--lg);padding-bottom:var(--wp--preset--spacing--lg)"><!-- wp:heading -->
+<h2 class="wp-block-heading">The Cowboy and the Queen</h2>
+<!-- /wp:heading -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image -->
+<figure class="wp-block-image"><img src="http://cavallo.local/wp-content/uploads/2024/08/Press-Release-Monty-Roberts-Debbie-Roberts-Loucks-Horsemanship-Radio-0424.jpg" alt="Monty Roberts The Cowboy and the Queen film" title="Monty-Roberts The Cowboy and the Queen film"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:paragraph -->
+<p><em>The Cowboy and The Queen</em>&nbsp;is a fascinating documentary that chronicles the remarkable friendship between Monty Roberts and Queen Elizabeth II.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Our friend Monty Roberts, an esteemed California horse trainer (now in his late 80s), revolutionized horse training with his gentle methods, which contrast sharply with traditional, more forceful techniques. His approach emphasizes cooperation and understanding rather than domination.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>In the late 1980s, Queen Elizabeth II became aware of Roberts’ innovative techniques and invited him to demonstrate his methods at Windsor Castle. Her admiration for Roberts’ approach led to a lasting friendship, and together they championed a more humane and effective way of training horses.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Their friendship, as portrayed in this film, highlights their mutual respect and shared commitment to improving horse training practices worldwide, leaving a legacy that continues to influence equestrian methods to this day.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The Cowboy and the Queen is in theatres now and will be streaming on MasterClass this September.&nbsp;</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:heading {"textAlign":"center"} -->
+<h2 class="wp-block-heading has-text-align-center">Watch The Cowboy and the Queen Trailer:</h2>
+<!-- /wp:heading -->
+
+<!-- wp:embed {"url":"https://www.youtube.com/watch?v=kE2WOqqCAEc","type":"video","providerNameSlug":"youtube","responsive":true,"align":"center","className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed aligncenter is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://www.youtube.com/watch?v=kE2WOqqCAEc
+</div></figure>
+<!-- /wp:embed --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"textAlign":"center"} -->
+<h2 class="wp-block-heading has-text-align-center">Did You Know?</h2>
+<!-- /wp:heading -->
+
+<!-- wp:image {"id":192436,"align":"center"} -->
+<figure class="wp-block-image aligncenter"><img src="http://cavallo.local/wp-content/uploads/2024/08/Monty-Roberts-using-his-Cavallo-Full-Monty-Saddle-Pad-452x382.jpg" alt="" class="wp-image-192436"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">Monty Roberts, the legendary horse trainer, inspired the design of our&nbsp;<a href="http://cavallo.local/product/full-monty-western-saddle-pad/" target="_blank" rel="noreferrer noopener">Cavallo Full Monty Saddle Pad,</a>&nbsp;which was named in his honour!&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">After trying out our saddle pads, Monty reached out with an enthusiastic review—one of the most thrilling we’ve ever received. Carole and Greg shared Monty’s passion for improving horse care and listened when he asked to design a pad of his own – a pad just like the Cavallo Western All-Purpose Pad, but longer and twice as thick! leading to the creation of the Full Monty Saddle Pad. And that’s how the Cavallo Full Monty Saddle Pad was born!</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|lg","bottom":"var:preset|spacing|lg"}}},"backgroundColor":"light-red-1","layout":{"type":"constrained"}} -->
+<div class="wp-block-group has-light-red-1-background-color has-background" style="padding-top:var(--wp--preset--spacing--lg);padding-bottom:var(--wp--preset--spacing--lg)"><!-- wp:heading {"textAlign":"center"} -->
+<h2 class="wp-block-heading has-text-align-center">Tiny Trotters on T.V.!</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">Tiny Trotters, a cherished part of Let’s Saddle Up Therapeutic Horsemanship, bring joy and healing to those in need with their big hearts and gentle spirits.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">These six mini-therapy horses are based in South Carolina, and they love stepping out in their&nbsp;<a href="http://cavallo.local/product-category/hoof-boot/mini-hoof-boots/" target="_blank" rel="noreferrer noopener">Cavalo CLB Cute Little Boots!&nbsp;</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">Despite their small stature, their impact is immense as they engage in a variety of activities such as nursing home visits, school presentations, and field trips, spreading warmth and companionship wherever they go.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">Enjoy&nbsp;<a href="https://youtu.be/variVeODnqw" target="_blank" rel="noreferrer noopener">this video</a>&nbsp;of wee Tater Tot on Fox Carolina:&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:embed {"url":"https://www.youtube.com/watch?v=variVeODnqw","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://www.youtube.com/watch?v=variVeODnqw
+</div></figure>
+<!-- /wp:embed -->
+
+<!-- wp:heading {"textAlign":"center"} -->
+<h2 class="wp-block-heading has-text-align-center"></h2>
+<!-- /wp:heading --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column {"width":"33.33%"} -->
+<div class="wp-block-column" style="flex-basis:33.33%"><!-- wp:image {"id":192646,"width":"233px","height":"auto","align":"center"} -->
+<figure class="wp-block-image aligncenter is-resized"><img src="http://cavallo.local/wp-content/uploads/2024/08/phcp-accredited-200x200-2.png" alt="Progressive Hoof Care Practitioners Accredited training" class="wp-image-192646" style="width:233px;height:auto"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":"66.66%"} -->
+<div class="wp-block-column" style="flex-basis:66.66%"><!-- wp:heading -->
+<h2 class="wp-block-heading">Wear Patterns - What They Really Mean!</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Have you heard of Progressive Hoof Care Practitioners? If not – we are happy to introduce you to them!&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>PHCP is an educational foundation for hoof care professionals and horse owners alike. Their two-part webinar clinic series introduces a simple protocol for establishing patterns of movement and wear patterns. It’s an excellent resource for you or for your trimmer!</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:paragraph -->
+<p><strong>Part 1 – Wear Patterns and Movement</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>How do we know what effect our trimming has on equine hooves? In this session, learn a protocol for establishing how trimming affects equine hooves and movement. This protocol is simple and efficient to use with a mobile phone, camera, or pen and paper. This protocol is a tangible tool that will help vets with lameness issues and when used on a regular basis acts as a record to validate your work.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Part 2 – Considerations Based on Movement</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Once you’ve established patterns of movement, it becomes easier to detect any abnormalities and identify and treat problems before they become serious. The protocol will maximize the efficiency of biomechanics and reduce strain and stress on your horse.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The recording of this webinar may be purchased and viewed as many times as you would like until Jan 29, 2025. Cost is $65 for PHCP members and $110 for non-members.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"id":192519,"width":"419px","height":"auto"} -->
+<figure class="wp-block-image is-resized"><img src="http://cavallo.local/wp-content/uploads/2024/08/wear-patterns.jpeg" alt="horse hoof wear patterns" class="wp-image-192519" style="width:419px;height:auto"/><figcaption class="wp-element-caption">Wear Pattern Key used in Nick Hill's Webinar</figcaption></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:acf/custom-reviews {"name":"acf/custom-reviews","data":{"heading":"\u003cdiv class=\u0022elementor-element elementor-element-4247204 elementor-widget elementor-widget-heading\u0022 data-id=\u00224247204\u0022 data-element_type=\u0022widget\u0022 data-widget_type=\u0022heading.default\u0022\u003e\r\
+\u003cdiv class=\u0022elementor-widget-container\u0022\u003e\r\
+\u003ch2 class=\u0022elementor-heading-title elementor-size-default\u0022 style=\u0022text-align: center;\u0022\u003eWhat YOU'RE Saying: Cavallo Hoof Boot Reviews\u003c/h2\u003e\r\
+\u003c/div\u003e\r\
+\u003c/div\u003e","_heading":"field_678f5c6d7ab11","items_0_image":331336,"_items_0_image":"field_678f6fd99eead","items_0_name":"-Carly, Alberta Canada","_items_0_name":"field_678f70129eeae","items_0_title":"\u0022I did a bunch of research, and Cavallo came up...\u0022","_items_0_title":"field_678f70459eeb0","items_0_cta":"","_items_0_cta":"field_678f7c4c46a5d","items_0_small_content":"“I recently purchased a set of ELBs for a mountain trip I was doing with my…","_items_0_small_content":"field_678f701e9eeaf","items_0_full_content":"…horse. Being new to hoof boots, I did a bunch of research, and Cavallo consistently came up as a recommended brand.\r\
+\r\
+I have to say, I am very impressed. Way cheaper than other brands, easy to put on/off and clean, and they did their job through a lot of varied terrain. I went with the ELB as they fit tighter around my mare’s pastern (Thoroughbred/Quarter Horse cross) and after watching the video on Cavallo’s website describing the different styles, I figured they should hold up for what I need them for.\r\
+\r\
+On that note, the website is very helpful, and their customer service is also amazing! I don’t think you could go wrong in purchasing Cavallo’s if looking for hoof boots.”","_items_0_full_content":"field_678f70679eeb1","items_1_image":331337,"_items_1_image":"field_678f6fd99eead","items_1_name":"-Michelle Vander Vlis","_items_1_name":"field_678f70129eeae","items_1_title":"\u0022She walked that trail like she owned It!\u0022","_items_1_title":"field_678f70459eeb0","items_1_cta":"","_items_1_cta":"field_678f7c4c46a5d","items_1_small_content":"“Just received my new sparkling boots from you guys today. I just had to try…","_items_1_small_content":"field_678f701e9eeaf","items_1_full_content":"…them out cause she’s been so sore due to thin soles, and she walked that trail like she owned it! Not one hoof out of place! I even had a ton of compliments from others on the trail! Thanks again. Now I’ll probably need back ones to complete the cool look","_items_1_full_content":"field_678f70679eeb1","items_2_image":331338,"_items_2_image":"field_678f6fd99eead","items_2_name":"-Lorraine Stubbins","_items_2_name":"field_678f70129eeae","items_2_title":"\u0022Wouldn’t stand a chance without his Cavallos...\u0022","_items_2_title":"field_678f70459eeb0","items_2_cta":"","_items_2_cta":"field_678f7c4c46a5d","items_2_small_content":"“Here is an example of some of the terrain we’ve ridden for the past…","_items_2_small_content":"field_678f701e9eeaf","items_2_full_content":"…three months. These same four boots were already in use at home for close to a year when we arrived in the desert for this trip.\r\
+\r\
+Today we saw a desert Bighorn Sheep sighting while crossing a technical portion of the Desperado Loop Trail in Peralta Regional Park, Gold Canyon, Arizona. \r\
+\r\
+Then yesterday we rode in much mud at Picketpost Mountain riding the Arnet and Telegraph Canyon Trails – with the rivers running from the rains last week. Boots stayed on perfectly in all three places while wet.\r\
+\r\
+I no longer worry about boots… We also cross the salt river and then canter the sandy washes, while the river water drains out. No problems at all.","_items_2_full_content":"field_678f70679eeb1","items":3,"_items":"field_678f5c917ab12","html_anchor":"","_html_anchor":"field_672f5663be83a"},"mode":"edit"} /-->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|lg","bottom":"var:preset|spacing|lg"}}},"backgroundColor":"light-red-1","layout":{"type":"constrained"}} -->
+<div class="wp-block-group has-light-red-1-background-color has-background" style="padding-top:var(--wp--preset--spacing--lg);padding-bottom:var(--wp--preset--spacing--lg)"><!-- wp:heading {"textAlign":"center"} -->
+<h2 class="wp-block-heading has-text-align-center">Gallops &amp; Giggles: Your Horsey Joke of the Month!</h2>
+<!-- /wp:heading -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"width":"385px","height":"auto"} -->
+<figure class="wp-block-image is-resized"><img src="http://cavallo.local/wp-content/uploads/2024/08/why.jpg" alt="Cavallo joke of August" style="width:385px;height:auto" title="Cavallo joke of August"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"width":"415px","height":"auto"} -->
+<figure class="wp-block-image is-resized"><img src="http://cavallo.local/wp-content/uploads/2024/08/too-heavy.jpg" alt="Cavallo joke of the month" style="width:415px;height:auto" title="Cavallo joke of the month"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">Have a favourite horsey joke that makes you whinny every time? Send it to us&nbsp;<strong><a href="http://cavallo.local/contact-us/" target="_blank" rel="noreferrer noopener">HERE!</a></strong></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center"><br></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:group {"style":{"spacing":{"margin":{"top":"0"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group" style="margin-top:0"><!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column {"width":"66.66%"} -->
+<div class="wp-block-column" style="flex-basis:66.66%"><!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Wishing you many happy trails</h3>
+<!-- /wp:heading -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"id":4076,"sizeSlug":"full","linkDestination":"none","align":"left"} -->
+<figure class="wp-block-image alignleft size-full"><img src="http://cavallo.local/wp-content/uploads/2024/10/5381858031fd2babec50665b30807366.png" alt="" class="wp-image-4076"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"0","bottom":"0"}}},"fontSize":"large"} -->
+<p class="has-large-font-size" style="margin-top:0;margin-bottom:0">Carole Herder</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"spacing":{"padding":{"right":"0","left":"0"}}}} -->
+<p style="padding-right:0;padding-left:0">President and founder of Cavallo Horse &amp; Rider Inc</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Carole Herder, President and founder of Cavallo Horse &amp; Rider Inc., is an internationally acclaimed figure in the equestrian community. Her books, There Are No Horseshoes in Heaven and Hoof Prints on the Journey, have become international bestsellers, further solidifying her status as a thought leader in the industry.&nbsp;Since 1993, Carole has been deeply involved in horse health. Cavallo is a global leader in developing, manufacturing, and distributing horse products. Carole’s passion for horse comfort is evident in her designs, including the innovative Cavallo Hoof Boots and Total Comfort System Saddle Pads.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>A true pioneer in the equestrian community, Carole is widely recognized for her expertise and contributions. She champions the benefits of keeping horses in their natural state, advocates for overall hoof health, and works towards the alleviation of debilitating disorders. Her achievements include being an honoured award recipient of the Royal Bank of Canada Woman Entrepreneur of the Year, British Columbia’s Businesswoman of The Year, and North America Enterprising Woman of The Year.&nbsp;<br>Carole is a certified Dr. Deepak Chopra Yoga, Meditation and Ayurvedic Lifestyle Instructor and a proud member of the Women Presidents Organization, supporting female entrepreneurs in every industry.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":"33.33%"} -->
+<div class="wp-block-column" style="flex-basis:33.33%"><!-- wp:image {"id":4084,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="http://cavallo.local/wp-content/uploads/2024/10/carole-herder.jpg" alt="" class="wp-image-4084"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":4085,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="http://cavallo.local/wp-content/uploads/2024/10/carole-books.jpg" alt="" class="wp-image-4085"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->

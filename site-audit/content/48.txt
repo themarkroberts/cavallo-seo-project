@@ -1,0 +1,44 @@
+<!-- wp:group {"style":{"background":{"backgroundImage":{"url":"http://cavallo.local/wp-content/uploads/2024/09/image-29.gif","id":760,"source":"file","title":"image 29"},"backgroundPosition":"100% 50%"},"spacing":{"margin":{"top":"0","bottom":"0"},"padding":{"top":"40px","bottom":"40px"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group" style="margin-top:0;margin-bottom:0;padding-top:40px;padding-bottom:40px"><!-- wp:heading {"textAlign":"center","level":1,"style":{"elements":{"link":{"color":{"text":"var:preset|color|white"}}}},"textColor":"white"} -->
+<h1 class="wp-block-heading has-text-align-center has-white-color has-text-color has-link-color">Real Experiences from Real Users</h1>
+<!-- /wp:heading --></div>
+<!-- /wp:group -->
+
+<!-- wp:acf/reviews-archive {"name":"acf/reviews-archive","data":{"title":"\u003ch2 style=\u0022text-align: center;\u0022\u003eVoices from the Field: Real Stories\u003c/h2\u003e","_title":"field_66963ac0672c2","html_anchor":"","_html_anchor":"field_672f5663be83a"},"mode":"edit"} /-->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|xxl","bottom":"var:preset|spacing|xxl"},"margin":{"top":"0","bottom":"0"}},"elements":{"link":{"color":{"text":"var:preset|color|white"}}}},"textColor":"white","gradient":"radial-black","layout":{"type":"constrained","contentSize":"1196px"}} -->
+<div id="experts" class="wp-block-group has-white-color has-radial-black-gradient-background has-text-color has-background has-link-color" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--xxl);padding-bottom:var(--wp--preset--spacing--xxl)"><!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column {"verticalAlignment":"center","width":"","style":{"spacing":{"padding":{"right":"0","left":"0","top":"0","bottom":"0"}}},"layout":{"type":"constrained","contentSize":"412px","justifyContent":"right"}} -->
+<div class="wp-block-column is-vertically-aligned-center" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:heading -->
+<h2 class="wp-block-heading">Horse Industry Experts Speak Out</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"16px","bottom":"0px"}}}} -->
+<p style="margin-top:16px;margin-bottom:0px">From legendary clinicians like Pat Parelli, Monty Roberts, and John Lyons to renowned trainers and performers like Guy McLean, Emma Massingale, and the Double Dans — these equestrian icons all trust Cavallo Hoof Boots to keep their horses sound, comfortable, and ready for anything. Discover why:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons {"style":{"spacing":{"margin":{"top":"32px"}}},"layout":{"type":"flex","justifyContent":"center"}} -->
+<div class="wp-block-buttons" style="margin-top:32px"><!-- wp:button {"textAlign":"center","backgroundColor":"red","textColor":"white","className":"is-style-outline","style":{"border":{"width":"2px","color":"#C8102E","radius":"100px"},"spacing":{"padding":{"left":"53px","right":"53px","top":"12px","bottom":"12px"}},"elements":{"link":{"color":{"text":"var:preset|color|white"}}},"typography":{"fontStyle":"normal","fontWeight":"800"}}} -->
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link has-white-color has-red-background-color has-text-color has-background has-link-color has-border-color has-text-align-center wp-element-button" href="http://cavallo.local/celebrities-speak-out/" style="border-color:#C8102E;border-width:2px;border-radius:100px;padding-top:12px;padding-right:53px;padding-bottom:12px;padding-left:53px;font-style:normal;font-weight:800">Watch Expert Review Videos</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"top","width":"59%","style":{"spacing":{"padding":{"right":"0","left":"0","top":"0","bottom":"0"}}},"layout":{"type":"constrained","contentSize":"","justifyContent":"left","wideSize":""}} -->
+<div class="wp-block-column is-vertically-aligned-top" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;flex-basis:59%"><!-- wp:image {"id":204304,"sizeSlug":"full","linkDestination":"none","style":{"border":{"radius":"11px"}}} -->
+<figure class="wp-block-image size-full has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2025/07/Trek-Black-Boots-Emma-Massingale-sitting-w-Connemaras.jpeg" alt="Trek Black Boots - Emma Massingale sitting w Connemaras" class="wp-image-204304" style="border-radius:11px"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button"></a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:group -->
+
+<!-- wp:acf/testimonials {"name":"acf/testimonials","data":{"name":"CELEBERTY TESTIMONIALS","_name":"field_667a7e68c5f58","title":"Celebrities\u003cbr\u003e Speak Out","_title":"field_667a7ed9c5f59","html_anchor":"celebrities","_html_anchor":"field_672f5663be83a"},"mode":"edit"} /-->
+
+<!-- wp:acf/banner-cta {"name":"acf/banner-cta","data":{"text":"\u003ch2 style=\u0022text-align: center;\u0022\u003eLove your experience with Cavallo products?\u003c/h2\u003e\r\
+\u003cp style=\u0022text-align: center;\u0022\u003e\u003cspan style=\u0022font-size: 20px;\u0022\u003eCavallo is supported by amazing people, just like you!\u003c/span\u003e\u003c/p\u003e","_text":"field_66f10c7106c07","cta":{"title":"Submit Your Review","url":"http://cavallo.local/reviews-submit/","target":""},"_cta":"field_66f10c9706c08","download_file":"","_download_file":"field_66f10cc706c09","upload_modal":"0","_upload_modal":"field_66f11861256ea","cta_2":"","_cta_2":"field_6874db98b4e1e","html_anchor":"","_html_anchor":"field_672f5663be83a"},"mode":"edit"} /-->

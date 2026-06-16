@@ -1,0 +1,27 @@
+<!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="http://cavallo.local/wp-content/uploads/2024/09/HorsePsych1-e1408136996478.jpg" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>By Carole Herder</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>I was helping at a show recently and when things were a little quiet, I took a moment to look around at all the beautiful and varied four-legged equids. But instead of looking at their pretty heads and well-formed bodies, I took to noticing their behavior. Some were standing quietly by their handlers, having a snooze while others were running rings around their owners, literally. Still others were hauling their holders along while they (the horse, not the holder!) tried to grab a bite of grass or take a sniff at another horse.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>It got me thinking, was this just about training? Or were some horses just calmer and better behaved than others? Was it age or breed or was their another factor involved, maybe pain or fear? I then started thinking about the psychology of horses and how little we really know. Yes, we have the basics: they are a prey animal, they look for a leader, their basic needs include safety, comfort and food and they are social creatures. But why do some of them challenge us on a daily basis? Why are they calm one day and spooky the next? Why do they snort and sniff and squeal and paw the ground? Why do they walk away from you in the field? And why won’t they stand still when you really need them to? We have learned something about their senses, how they see and smell and hear and taste. Understanding more about this could give us a deeper knowledge into their behavior and could ultimately lead us into better understanding of why they react as they do.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Most of us know that horses have two blind spots but did you know that a horse needs to use both eyes to see something properly? So, if it sees something with one eye and then turns its head and sees the same object with both eyes, it may look different and thus the horse may spook. And they cannot pick out fine detail well but see silhouettes very clearly. They are also not good with sudden changes of light (think about this the next time your horse won’t walk into a dark trailer!). Horses detect a far greater range of sounds at both the higher and lower ends of the frequency scale. Check your horse’s reactions when you change the tone of your voice or use high pitched language and think about the effect music, especially modern pop music, may have on your horse – how many yards leave the radio blaring all day? They rely more on body language than anything that comes out of our mouths. And where do you think the best place to rub your horse is? The withers is always a good place to start as this is where most horses groom each other. Do you think giving him a hearty slap on the side of his neck, as a reward, is really what they like, when they can feel a fly land on their skin? And yes, they do like sweet tastes but that doesn’t mean everything has to be coated in molasses! They are wary of anything new so be considerate when introducing different foods.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>There is a nicely written article here, <a href="http://www.training-horses-naturally.com/horse-psychology.html" target="_blank" rel="noopener">http://www.training-horses-naturally.com/horse-psychology.html</a>, about the herd dynamics and leadership qualities that horses look for. An anecdote I particularly like is “we want out horse’s trust to come from respect not fear”. And to help us achieve this we could all learn a little more about their psychology. So instead of smacking them on the nose because they won’t stand still, why not find out <em>why</em> they won’t stand still.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:spacer {"height":"40px"} -->
+<div style="height:40px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->

@@ -1,0 +1,31 @@
+<!-- wp:image {"id":2644,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="http://cavallo.local/wp-content/uploads/2024/09/hoofstructure.png" alt="" class="wp-image-2644"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>By Carole Herder</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Our horse owner survey results indicate that most people think metal shoes protect the hoof or answer that they shoe their horses because it has always been the way or upon more consideration, admit that they don’t really know. These are answers without real knowledge.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The very rudimentary basics of hoof function is that the frog spreads the heel apart, drawing the sole flat and inviting the bone structure of the leg to descend into the hoof. This is how shock is absorbed in the hoof capsule. It is also how the blood supply circulates through all the coriums of the hoof and pumps back into the heart. If you can accept that circulation is imperative to the distribution of nutrients throughout the system and that healthy blood flow aids in prevention and facilitates healing, it follows that limiting blood flow will lead to degeneration. If the frog cannot make ground contact and function as it should, then shock cannot be properly absorbed and blood cannot freely flow. When metal is nailed in all around, clamping the heels in a restricted position, both proper blood circulation and shock absorption are dangerously impeded.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":1513,"align":"center"} -->
+<figure class="wp-block-image aligncenter"><img src="//cavallo.local/wp-content/uploads/2013/07/fivehearts.png" alt="" class="wp-image-1513" title="horse hoof boots"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Keeping your horse barefoot encourages the blood to circulate with ease through the proper channels, carrying a host of nutrients. The hoof can flex and expand to allow shock absorption and relieve the strain to extensor tendons and lateral cartilage.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>It’s a natural well designed unit. Why would we want to “fix” it?</p>
+<!-- /wp:paragraph -->

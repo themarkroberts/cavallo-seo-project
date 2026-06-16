@@ -1,0 +1,11 @@
+<!-- wp:image {"id":1148,"width":"323px","height":"auto","sizeSlug":"full","linkDestination":"none","align":"left"} -->
+<figure class="wp-block-image alignleft size-full is-resized"><img src="http://cavallo.local/wp-content/uploads/2024/09/AmyG-768x1024-e1405630766289.jpg" alt="" class="wp-image-1148" style="width:323px;height:auto"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>I absolutely love my Simple Hoof Boots and so does my horse! She has sensitive front feet and it was very uncomfortable for her to walk on the gravel roads around my neighborhood so I quit taking her out. I researched and found Cavallo boots and when I first ordered the incorrect size, ya'll were SO nice about trading them out for a bigger size. The process couldn't be easier. I put the new ones on her and they are so easy to put on and after she wore them around the pasture a bit to break them in this past week, I rode her out in them and she looked shocked that she didn't have to stumble over the rocky surface any longer. She had a pep in her step and was excited to get out of the ring again! Thank you so much Cavallo!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>-Amy Gosnell, Leicester, NC</p>
+<!-- /wp:paragraph -->

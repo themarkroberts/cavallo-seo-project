@@ -1,0 +1,11 @@
+<!-- wp:image {"id":1125,"width":"296px","height":"auto","sizeSlug":"full","linkDestination":"none","align":"left"} -->
+<figure class="wp-block-image alignleft size-full is-resized"><img src="http://cavallo.local/wp-content/uploads/2024/09/Masked-Rider-Amy1.jpg" alt="" class="wp-image-1125" style="width:296px;height:auto"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>Did you know that the horse ridden by the Texas Tech Red Raiders' mascot - The Masked Rider - wears Cavallo Simple Hoof boots when he leads the team onto the field?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Another way Simple boots help horses do their jobs!</p>
+<!-- /wp:paragraph -->

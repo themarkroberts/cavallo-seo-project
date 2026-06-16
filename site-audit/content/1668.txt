@@ -1,0 +1,79 @@
+<!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading">The Honesty of Children</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>I love children. They don’t feel the need to prove how much they know. They don’t pretend they are something they are not. When they are curious, they innocently ask a question. They look to us for answers. Our job is to provide an appropriate response that will increase interest and thoughtfulness for those hungry little brains. It’s building the foundation because these are the brains that will come to know more than we do.&nbsp; These young brains will come to uphold humanity into the future. Serious but true.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading">So...What do you do?</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Cavallo CEO, also known as my Darling Husband - Greg and I enjoy lunch at the local Oyster Bar, <a href="http://smittysoysterhouse.com/" target="_blank" rel="noopener">Smitty's.</a> Boaters from nearby islands, city slickers escaping metropolis and young families seeking quaint adventure, gather on a long, yellow cedar table overlooking the colorful <a href="http://www.gibsons.ca/" target="_blank" rel="noopener">Gibsons Harbor</a>. This is a place of new friendships and diverse conversation, often turning to the age-old discretionary question “So, what do you do?"</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The answer varies. We can either simply be in the horse equipment business or I can be The Founder of the revolutionary company that is changing the life experience of horses worldwide. I started Cavallo in 1993 and designed the tried and trusted <a href="http://cavallo.local/product-category/hoof-boot/" target="_blank" rel="noopener">Cavallo Hoof Boots</a> 12 years ago. Greg has been in the Hoof Boot business since he developed the Old Mac Boots 20 years ago. It’s a long story and is only shared with worthy audience.&nbsp; Greg and I travel and talk to people all over the world. I do on-line webinars and live presentations at most major horse shows. We work with the world’s best companies and distributors. It’s taken us almost 20 years to form these bonds of trust and commitment required to distribute safe, durable, consistent and reasonably priced product into the world market.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":9498,"linkDestination":"custom","align":"center"} -->
+<figure class="wp-block-image aligncenter"><a href="http://cavallo.local/product-category/hoof-boot/"><img src="//www.cavallo.local/wp-content/uploads/2017/08/Cavallo-Boot-Styles.jpg" alt="Cavallo Boot Styles" class="wp-image-9498"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading">A Fresh Perspective</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Here’s the amazing thing: non-horsey people immediately grasp the peril of nailing metal shoes into live hoof tissue. They accept that barefoot horses benefit from proper blood circulation and healthier cellular substance.&nbsp; They appreciate that our domestic horses are more comfortable booted with Cavallos while on aggressive terrain and under the weight of a rider. &nbsp;Hoof Boots are the obvious no-brainer, like Nikes. Running shoes simply keep us comfortable out on the trail. Alternatively, many horse people have a vested interest in maintaining their long-established belief system. They don’t want to look at options to their traditional way. It makes sense too, because to make a change such as this could mean they have been doing it wrong for a long time. Adults don’t like to admit this.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Last Sunday we had the pleasure of sitting next to a fresh lively family of 6. They boated in from Langley, the iconic horsey area some 100 miles away. One of the girls was wearing a pair of our Cavallo riding boots which attracted Greg’s buoyant friendliness.&nbsp; Turns out, they have 6 horses and they all ride. They had never <a href="http://cavallo.local/why-bare-foot/" target="_blank" rel="noopener">considered barefoot</a> and knew nothing about hoof boots. This is the type of worthy audience we love. At first Dad thought it was “ridiculous”. You can’t actually ride in those things. What about water and mud? We ride fast and hard. Our horses need metal shoes.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading">Change of Heart</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Meeting his misgivings head on, we quickly won the family’s rapt attention. We were on one of our Billy Graham missions and didn’t stop until the sweet voice of the youngest daughter quietly asked: “Why Daddy? Why can’t Lasso and Justin be barefoot too?” This was a smart Daddy and he enthusiastically replied with deliberate grace, that he had never considered it before. It would be a darn good idea to get some Cavallos. They should have done it sooner. The horses will love it. And then he quietly wound down by adding “Even if for no other reason than to save $140 every 6 weeks for every horse!”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Dads will be Dads.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Happy Trails,</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":10645,"width":"300px","align":"left"} -->
+<figure class="wp-block-image alignleft is-resized"><img src="//www.cavallo.local/wp-content/uploads/2017/12/CaroleSig.jpg" alt="Carole Herder's Signature" class="wp-image-10645" style="width:300px"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":10798,"linkDestination":"custom","align":"left"} -->
+<figure class="wp-block-image alignleft"><a href="https://www.amazon.com/There-are-Horseshoes-Heaven-Tradition/dp/1523978163/ref=sr_1_1?ie=UTF8&amp;qid=1532460746&amp;sr=8-1&amp;keywords=there+are+no+horseshoes+in+heaven"><img src="http://cavallo.local/wp-content/uploads/2018/01/Caroles-Signature-2017-1.png" alt="Carole Herder's Signature" class="wp-image-10798"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->

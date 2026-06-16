@@ -1,0 +1,98 @@
+<!-- wp:heading {"level":5} -->
+<h5 class="wp-block-heading">Transitioning Out of Metal Shoes?</h5>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>At <a href="http://cavallo.local/">Cavallo</a>, we spend much of our day helping conscientious horse owners, who are ready to make a life-saving commitment to their horse by removing metal horseshoes for good. The freedom to be barefoot and booted is the gift of comfort, protection and respect for what nature intended. Remember, horses have lived on this planet for over 50,000,000 years. Their hoofs are not a design flaw.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":5} -->
+<h5 class="wp-block-heading">How can I Make a Smooth Transition to Barefoot?</h5>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Here’s a great letter that came to me recently, and I think many of you can relate:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><em>“Hi Carole,</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><em>“I have been interested in transitioning my horse to barefoot for a long time, but I keep putting it off. I suppose I feel afraid to make the change. Over the past year several women in my barn have become barefoot, with incredible success. This was the push I needed. I’m ready to go forward. Are there any pointers you can give me to ensure that my horse’s transition is a successful one?</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><em style="font-size: 14px;">- Meg, Florida</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":5} -->
+<h5 class="wp-block-heading">Yep - Been there!</h5>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Yep - I’ve been there! I pulled on my years of personal study and experience to tell Meg what she needs to know. She can confidently guide her boy through this exciting transition:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>“Hi Meg,</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>I'm thrilled to hear that you want to keep your horse barefoot. The horse's entire body system is designed to function well when his hooves work properly. Here's how: <a href="https://www.youtube.com/watch?v=ayEJacuoJ7I&amp;has_verified=1">The coffin bone drops like a trampoline</a> to absorb the impact of 1000 pounds of weight descending. The hoof spreads apart and draws the sole flat so that the weight has somewhere to go.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>When the horse has metal shoes, that flexibility function cannot happen. The hoof is clamped in place. Additionally, the impact of metal on a hard surface (rocks, roads, etc.) refers vibration back up the legs.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":5} -->
+<h5 class="wp-block-heading">Blood and Oxygen – Free to do their Thing</h5>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>“I like to talk about the nutrients in the blood and how circulation happens. We say your horse has five "hearts." He has a heart in his chest as well as one in each of his hooves' frogs. All of these five "hearts" contribute to the circulatory system to distribute blood and oxygen throughout the body. Your horse needs healthy blood flow to prevent illness, lameness and to keep his immune system healthy.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Since you pulled your horse’s shoes for Winter, you’re ahead of the game. You can now start riding with your Cavallos anywhere you like! Maybe when you first pulled off the metal shoes, your horse was tender. For a time, when you ride, he may appear a bit lame.&nbsp; Circulation and sensation have returned to his hoofs once again, so this brief appearance of lameness is actually a good thing. He’ll get over this the more he moves. The blood will help heal any conditions going on in inside his hooves.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":5} -->
+<h5 class="wp-block-heading">Find that Special Trimmer for Success</h5>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>“We always recommend that you move your horse—accelerate the blood circulation. Of course, you must have your horse comfortable to be able to move him. That's where <a href="http://cavallo.local/product-category/hoof-boot/">Cavallo Boots</a> come in. Keep in mind that some horses have no sign of tenderness at all and can go easily right away. For others, the transition may require a little more support. Find a trimmer you trust, who gives you an open door to consult and work with them. They will get your horse trimmed well for barefoot riding. I appreciate that people aspire to ride their horses barefoot without putting boots on, but I can also find it discouraging. I see barefoot horses veering for the soft shoulder or softer ground to seek comfort.&nbsp; This makes me wonder, why not make use of the protection and comfort Cavallo Boots provide?”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":5} -->
+<h5 class="wp-block-heading">Move that Horse!</h5>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>“If you find that your horse is lame when you first pull his shoes, make sure you have Cavallos on hand. You may also pop some <a href="http://cavallo.local/product-category/hoof-boot-accessories/hoof-boot-pads/">Cavallo Hoof Boot Pads</a> in&nbsp; for additional cushion, and then MOVE YOUR HORSE. Your horse will experience comfort, protection, and traction with his boots on. You can turn him out or ride him in his boots. You can even add studs to help you ride all year long. This is the way to keep your horse moving and feeling great!”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>For more guidance as you transition to barefoot, please <a href="https://www.youtube.com/watch?v=O93hG__9ytE&amp;t=2s">watch my video.</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:embed {"url":"https://www.youtube.com/watch?v=O93hG__9ytE\u0026t=2s","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://www.youtube.com/watch?v=O93hG__9ytE&amp;t=2s
+</div></figure>
+<!-- /wp:embed -->
+
+<!-- wp:paragraph -->
+<p>Many happy barefoot trails to you and your horse,</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="http://cavallo.local/wp-content/uploads/2020/05/HR-2020-email-signature-Carole-Herder-Cavallo-Hoof-Boots-Hoof-Prints-on-the-Journey-Book-1-768x393.jpg" alt="2020 email signature - Carole Herder - Cavallo Hoof Boots - Hoof Prints on the Journey Book"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.amazon.com/Hoof-Prints-Journey-Owners-Simple/dp/1999285506/ref=sr_1_2?dchild=1&amp;keywords=carole+herder&amp;qid=1589328806&amp;sr=8-2" target="_blank" rel="noopener"><br>
+ </a></p>
+<!-- /wp:paragraph -->

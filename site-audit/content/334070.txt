@@ -1,0 +1,275 @@
+<!-- wp:group {"style":{"spacing":{"padding":{"right":"var:preset|spacing|sm","left":"var:preset|spacing|sm"}},"border":{"radius":{"topLeft":"15px","topRight":"15px","bottomLeft":"15px","bottomRight":"15px"}}},"backgroundColor":"light-red-2","layout":{"type":"default"}} -->
+<div class="wp-block-group has-light-red-2-background-color has-background" style="border-top-left-radius:15px;border-top-right-radius:15px;border-bottom-left-radius:15px;border-bottom-right-radius:15px;padding-right:var(--wp--preset--spacing--sm);padding-left:var(--wp--preset--spacing--sm)"><!-- wp:spacer {"height":"8px"} -->
+<div style="height:8px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:image {"id":346395,"sizeSlug":"full","linkDestination":"none","align":"center","style":{"spacing":{"margin":{"top":"0","bottom":"0","left":"0","right":"0"}}}} -->
+<figure class="wp-block-image aligncenter size-full" style="margin-top:0;margin-right:0;margin-bottom:0;margin-left:0"><img src="http://cavallo.local/wp-content/uploads/2026/01/Happy-20th-Birthday-Cavallo-year-of-the-fire-horse.jpg" alt="Happy 20th Birthday Cavallo hoof boots - year of the fire horse" class="wp-image-346395"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:spacer {"height":"18px"} -->
+<div style="height:18px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading {"textAlign":"center","level":1,"style":{"spacing":{"margin":{"top":"0px","bottom":"0px"}},"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"textColor":"primary"} -->
+<h1 class="wp-block-heading has-text-align-center has-primary-color has-text-color has-link-color" style="margin-top:0px;margin-bottom:0px">Freedom in Motion - Celebrating Cavallo's 20th Birthday</h1>
+<!-- /wp:heading -->
+
+<!-- wp:spacer {"height":"22px"} -->
+<div style="height:22px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"0","left":"0","right":"0"},"margin":{"top":"0","bottom":"0"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignfull" style="margin-top:0;margin-bottom:0;padding-top:0;padding-right:0;padding-left:0"><!-- wp:heading {"textAlign":"center","level":3,"style":{"spacing":{"margin":{"top":"-5px","bottom":"-5px"}},"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"textColor":"primary"} -->
+<h3 class="wp-block-heading has-text-align-center has-primary-color has-text-color has-link-color" style="margin-top:-5px;margin-bottom:-5px">Forged by Fire. Guided by the Horse.</h3>
+<!-- /wp:heading -->
+
+<!-- wp:spacer {"height":"8px"} -->
+<div style="height:8px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:paragraph -->
+<p>This year is shaping up to be a big one – full of news we’ve been eager to share, new products, exciting events, and some truly meaningful milestones. And in March, this year, its our Birthday… Cavallo is turning 20!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"typography":{"lineHeight":"1.5"}}} -->
+<p style="line-height:1.5"><a href="https://sinocultural.com/blogs/all-blogs/welcome-to-the-year-of-fire-horse-2026-exploring-chinese-zodiac-horses-cultural-meanings-traditions" target="_blank" rel="noreferrer noopener">The Fire Horse cycle </a>is significant to Cavallo. It appears only once every sixty years. Historically, it marks periods of acceleration, disruption, and decisive change. This is not a year where waiting works. Clarity, timing, and positioning matter more than effort alone. As we mark our 20th year in the Year of the Fire Horse, a symbol of forward motion, independence, and endurance, we are this too; everything we do, we do for the horse.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"typography":{"lineHeight":"1.5"}}} -->
+<p style="line-height:1.5"><em><strong>“We never stood still. We listened, learned, and kept moving forward.”<br><br>— Carole Herder, Founder</strong></em></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:spacer {"height":"48px"} -->
+<div style="height:48px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:group {"align":"full","style":{"spacing":{"padding":{"right":"0","left":"0"},"margin":{"top":"0","bottom":"0"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignfull" style="margin-top:0;margin-bottom:0;padding-right:0;padding-left:0"><!-- wp:image {"id":334145,"width":"106px","height":"auto","aspectRatio":"1.388918967695362","sizeSlug":"full","linkDestination":"none","align":"center"} -->
+<figure class="wp-block-image aligncenter size-full is-resized"><img src="http://cavallo.local/wp-content/uploads/2026/01/Cavallo-Hoof-Boots-Year-of-the-Fire-Horse-logo-transparent.png" alt="" class="wp-image-334145" style="aspect-ratio:1.388918967695362;width:106px;height:auto"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"textAlign":"center","level":3,"style":{"spacing":{"margin":{"top":"-5px","bottom":"-5px"}},"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"textColor":"primary"} -->
+<h3 class="wp-block-heading has-text-align-center has-primary-color has-text-color has-link-color" style="margin-top:-5px;margin-bottom:-5px">Twenty Years. One Incredible Journey.</h3>
+<!-- /wp:heading -->
+
+<!-- wp:spacer {"height":"16px"} -->
+<div style="height:16px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:columns {"style":{"spacing":{"padding":{"right":"0","left":"0"}}}} -->
+<div class="wp-block-columns" style="padding-right:0;padding-left:0"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"id":343611,"sizeSlug":"full","linkDestination":"none","align":"full","className":"is-style-rounded","style":{"border":{"radius":{"topLeft":"12px","topRight":"12px","bottomLeft":"12px","bottomRight":"12px"}}}} -->
+<figure class="wp-block-image alignfull size-full has-custom-border is-style-rounded"><img src="http://cavallo.local/wp-content/uploads/2026/01/Cavallo-Hoof-Boots-Year-of-the-fire-horse-wearing-Simple-Hoof-Boots.jpg" alt="Cavallo Hoof Boots Year of the fire horse wearing Simple Hoof Boots" class="wp-image-343611" style="border-top-left-radius:12px;border-top-right-radius:12px;border-bottom-left-radius:12px;border-bottom-right-radius:12px"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"style":{"spacing":{"padding":{"right":"0","left":"0"}}}} -->
+<div class="wp-block-column" style="padding-right:0;padding-left:0"><!-- wp:paragraph {"style":{"spacing":{"padding":{"right":"0","left":"0"}}}} -->
+<p style="padding-right:0;padding-left:0">This year, Cavallo turns twenty. Even writing that sentence feels a little unreal, twenty years, a whole lifetime in business years, a whole generation of horses and riders and stories I never could have imagined when this began.<br><br>If you know me, you know I pay attention to synchronicities. I personally am entertained that I have 7 planets in the fire sign on my astrological chart. Fire is passion, fire is change, fire is movement and the moment a person finally says, “No. There has to be a better way.” This single thought is where Cavallo truly began.<br><br>I did not grow up with horses. I came into the horse world later in life, and I fell in love the way people do when something reaches into them and rearranges their soul. It was joy, wonder, and freedom, so much more than I ever thought it could be. But it was also something else. I started noticing how many horses were uncomfortable, how many were sore, how many moved as though they were bracing themselves against pain.<br><br>What shocked me most was not the discomfort itself, but how often it was treated as normal. I remember feeling it in my body, that deep discomfort that shows up when something is simply not right. I started asking questions, real questions, the kind that do not always make you popular in the barn. Why are we accepting lameness as part of horse ownership? Why are so many hooves failing horses? Why does this happen so often, and why do we pretend it is inevitable?</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"right":"0","left":"0"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group" style="padding-right:0;padding-left:0"><!-- wp:image {"id":334145,"width":"106px","height":"auto","aspectRatio":"1.388918967695362","sizeSlug":"full","linkDestination":"none","align":"center"} -->
+<figure class="wp-block-image aligncenter size-full is-resized"><img src="http://cavallo.local/wp-content/uploads/2026/01/Cavallo-Hoof-Boots-Year-of-the-Fire-Horse-logo-transparent.png" alt="" class="wp-image-334145" style="aspect-ratio:1.388918967695362;width:106px;height:auto"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"textAlign":"center","level":3,"style":{"spacing":{"margin":{"top":"-5px","bottom":"-5px"}},"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"textColor":"primary"} -->
+<h3 class="wp-block-heading has-text-align-center has-primary-color has-text-color has-link-color" style="margin-top:-5px;margin-bottom:-5px">"Once you see it, you cannot unsee it."</h3>
+<!-- /wp:heading -->
+
+<!-- wp:columns {"style":{"spacing":{"padding":{"right":"0","left":"0"}}}} -->
+<div class="wp-block-columns" style="padding-right:0;padding-left:0"><!-- wp:column {"verticalAlignment":"top","style":{"spacing":{"padding":{"right":"0","left":"0"}}}} -->
+<div class="wp-block-column is-vertically-aligned-top" style="padding-right:0;padding-left:0"><!-- wp:image {"id":334101,"sizeSlug":"full","linkDestination":"none","align":"full","className":"is-style-rounded","style":{"border":{"radius":{"topLeft":"12px","topRight":"12px","bottomLeft":"12px","bottomRight":"12px"}},"spacing":{"margin":{"right":"0","left":"0"}}}} -->
+<figure class="wp-block-image alignfull size-full has-custom-border is-style-rounded" style="margin-right:0;margin-left:0"><img src="http://cavallo.local/wp-content/uploads/2026/01/Metal-horseshoe-vs.-Cavallo-BFB-Hoof-Boot-Connie-Challice.jpg" alt="Metal horseshoe vs. Cavallo BFB Hoof Boot - Connie Challice" class="wp-image-334101" style="border-top-left-radius:12px;border-top-right-radius:12px;border-bottom-left-radius:12px;border-bottom-right-radius:12px"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"style":{"spacing":{"padding":{"right":"0","left":"0"}}}} -->
+<div class="wp-block-column" style="padding-right:0;padding-left:0"><!-- wp:paragraph {"style":{"spacing":{"padding":{"bottom":"0","right":"0","left":"0"}}}} -->
+<p style="padding-right:0;padding-bottom:0;padding-left:0">Then, slowly, I began to learn the history. Shoes were not born because they were the most natural solution for horses. Shoes became common because humans needed horses to do human work, like war, roads, loads, long distances, harsh terrain, the demands of people. Once you see that, you cannot unsee it. The hoof is not just a hard shell; it is alive, it expands, it moves, it pumps blood, it is part of the entire system. The hoof is meant to function, and when it is healthy, the horse is healthier. The more I understood, the more I knew we needed something different. Not something trendy, not something complicated, just something that would protect the hoof without stealing its natural function.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"0","left":"0","right":"0"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group" style="padding-top:0;padding-right:0;padding-left:0"><!-- wp:paragraph {"style":{"spacing":{"padding":{"top":"0","left":"0","right":"0"}}}} -->
+<p style="padding-top:0;padding-right:0;padding-left:0">When people ask how Cavallo started, they sometimes imagine it as an “invention story”, like a business plan, a strategy, a lightbulb moment. The truth is much simpler than that. I could not find what I needed for the horse, so we built it. I had a list in my mind of what this boot had to be: safe, functional, easy for everyday horse owners to use, comfortable for the horse, practical, able to hold up in the real world, and affordable enough that hoof protection was not reserved for the lucky few. In 2006, the Cavallo Simple Boot became real.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"spacing":{"padding":{"right":"0","left":"0"}}}} -->
+<p style="padding-right:0;padding-left:0">Looking back now, twenty years later, I can say this with a full heart: Cavallo is the company that led the barefoot and booted movement as we know it today. We were the first to create a true hoof boot that people could actually ride in, something practical, protective, and horse-friendly that made it possible for barefoot horses to stay comfortable and capable in the real world.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:image {"id":334145,"width":"106px","height":"auto","aspectRatio":"1.388918967695362","sizeSlug":"full","linkDestination":"none","align":"center"} -->
+<figure class="wp-block-image aligncenter size-full is-resized"><img src="http://cavallo.local/wp-content/uploads/2026/01/Cavallo-Hoof-Boots-Year-of-the-Fire-Horse-logo-transparent.png" alt="" class="wp-image-334145" style="aspect-ratio:1.388918967695362;width:106px;height:auto"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"textAlign":"center","level":3,"style":{"spacing":{"margin":{"top":"-5px","bottom":"-5px"}},"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"textColor":"primary"} -->
+<h3 class="wp-block-heading has-text-align-center has-primary-color has-text-color has-link-color" style="margin-top:-5px;margin-bottom:-5px">The Cavallo Simple Boot Was Born</h3>
+<!-- /wp:heading --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"right":"0","left":"0"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group" style="padding-right:0;padding-left:0"><!-- wp:columns {"style":{"spacing":{"padding":{"right":"0","left":"0"}}}} -->
+<div class="wp-block-columns" style="padding-right:0;padding-left:0"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"id":3057,"sizeSlug":"full","linkDestination":"none","style":{"spacing":{"margin":{"right":"0","left":"0"}}}} -->
+<figure class="wp-block-image size-full" style="margin-right:0;margin-left:0"><img src="http://cavallo.local/wp-content/uploads/2024/09/Black-Simple-hoofs-1.jpg" alt="Horse wearing Cavallo hoof boots on rocky terrain, showcasing durable equine gear for optimal hoof protection." class="wp-image-3057"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"top"} -->
+<div class="wp-block-column is-vertically-aligned-top"><!-- wp:paragraph {"style":{"spacing":{"padding":{"right":"0","left":"0"}}}} -->
+<p style="padding-right:0;padding-left:0">Over the years, many others have followed, and that is a beautiful thing, because it means more horses are being supported and more people are thinking differently. But from the beginning, Cavallo has stayed rooted in one simple purpose: protecting hooves without taking away what nature designed. This is why Cavallo is the leader in both riding boots and therapy boots, not because we wanted a title, but because horses needed solutions and we were determined to keep building them.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"spacing":{"padding":{"right":"0","left":"0"}}}} -->
+<p style="padding-right:0;padding-left:0">The name of the first boot still makes me laugh, because the night before our first major trade show, we were still scrambling. We had the boot, the purpose, the vision, but not a name. That is how real life works. We were tossing it around, and Greg finally said, “Why don’t we just call it what it is. A Simple Boot.” And that was it – the Simple Boot. Simple, straightforward, no fluff, no drama, the kind of name you choose when you care more about the horse than the marketing.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:image {"id":334145,"width":"106px","height":"auto","aspectRatio":"1.388918967695362","sizeSlug":"full","linkDestination":"none","align":"center"} -->
+<figure class="wp-block-image aligncenter size-full is-resized"><img src="http://cavallo.local/wp-content/uploads/2026/01/Cavallo-Hoof-Boots-Year-of-the-Fire-Horse-logo-transparent.png" alt="" class="wp-image-334145" style="aspect-ratio:1.388918967695362;width:106px;height:auto"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"textAlign":"center","level":3,"style":{"spacing":{"margin":{"top":"-5px","bottom":"-5px"}},"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"textColor":"primary"} -->
+<h3 class="wp-block-heading has-text-align-center has-primary-color has-text-color has-link-color" style="margin-top:-5px;margin-bottom:-5px">Every Lesson Shapes Who We Become</h3>
+<!-- /wp:heading --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"right":"0","left":"0"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group" style="padding-right:0;padding-left:0"><!-- wp:columns {"verticalAlignment":"top","style":{"spacing":{"padding":{"right":"0","left":"0"}}}} -->
+<div class="wp-block-columns are-vertically-aligned-top" style="padding-right:0;padding-left:0"><!-- wp:column {"verticalAlignment":"top"} -->
+<div class="wp-block-column is-vertically-aligned-top"><!-- wp:image {"id":334099,"sizeSlug":"full","linkDestination":"none","align":"center","style":{"border":{"radius":{"topLeft":"13px","topRight":"13px","bottomLeft":"13px","bottomRight":"13px"}},"spacing":{"margin":{"right":"0","left":"0"}}}} -->
+<figure class="wp-block-image aligncenter size-full has-custom-border" style="margin-right:0;margin-left:0"><img src="http://cavallo.local/wp-content/uploads/2026/01/Greg-Giles-Carole-Herder-of-Cavallo-Hoof-Boots-.jpg" alt="Greg Giles &amp; Carole Herder of Cavallo Hoof Boots" class="wp-image-334099" style="border-top-left-radius:13px;border-top-right-radius:13px;border-bottom-left-radius:13px;border-bottom-right-radius:13px" title="Megan Hensley – on the ABC show Donkey King"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"top"} -->
+<div class="wp-block-column is-vertically-aligned-top"><!-- wp:paragraph {"style":{"spacing":{"padding":{"right":"0","left":"0"}}}} -->
+<p style="padding-right:0;padding-left:0">Those early years were full of learning. Some of it was exhilarating, some exhausting, and some was the kind of learning that breaks your heart. But something started to shift. Boots stopped feeling like an odd concept; they stopped being “alternative.” More riders began seeing hoof protection as a normal and sensible choice. People began understanding function, movement, and comfort in a new way. We watched the conversation expand, we watched awareness grow, and quietly, steadily, Cavallo was there. I do not say that with ego, I say it with pride and gratitude, because I know what it took.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"spacing":{"padding":{"right":"0","left":"0"}}}} -->
+<p style="padding-right:0;padding-left:0">As more riders joined this movement, the needs expanded too. Trail riders needed durability and breathability, owners needed more options and more sizes, and horses, of course, reminded us again and again that they are never one-size-fits-all. So we kept building, refining, and adjusting. We developed new designs because horses asked for them, riders needed them, and real life demanded them. We also created more accessible options because I have always believed that hoof protection should not be a luxury. Comfort should not be reserved for the few.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"right":"0","left":"0"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group" style="padding-right:0;padding-left:0"><!-- wp:paragraph {"style":{"spacing":{"padding":{"right":"0","left":"0"}}}} -->
+<p style="padding-right:0;padding-left:0"><br>Over time, education became a bigger part of what we do. If you have followed Cavallo for any length of time, you already know that we do not just sell boots. We talk about hoof health, what the hoof is designed to do, circulation, balance, moisture, movement, trimming, and environment, because a healthy hoof is never just one thing. One of my favourite things to teach is that the hoof has five “hearts.” It supports circulation and helps pump blood back up the limb. It is an extraordinary design, which is why movement matters so much. It is also why I will always believe in protecting hooves without shutting down the natural mechanism of the foot.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"spacing":{"padding":{"right":"0","left":"0"}}}} -->
+<p style="padding-right:0;padding-left:0">But there is another part of this twenty-year story that matters just as much to me, and it is not always the part people see from the outside. Somewhere along the way, Cavallo became more than a company. Cavallo became a community. And the work became bigger than boots. Horses do something for humans that is hard to describe unless you have felt it. Horses soften people, ground people, bring nervous systems back to safety, lift depression, pull people out of their own storms, help heal grief, bring children joy, bring the elderly light, help those who carry invisible burdens like PTSD find a path back<br>to steadiness.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:image {"id":334145,"width":"106px","height":"auto","aspectRatio":"1.388918967695362","sizeSlug":"full","linkDestination":"none","align":"center"} -->
+<figure class="wp-block-image aligncenter size-full is-resized"><img src="http://cavallo.local/wp-content/uploads/2026/01/Cavallo-Hoof-Boots-Year-of-the-Fire-Horse-logo-transparent.png" alt="" class="wp-image-334145" style="aspect-ratio:1.388918967695362;width:106px;height:auto"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"textAlign":"center","level":3,"style":{"spacing":{"margin":{"top":"-5px","bottom":"-5px"}},"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"textColor":"primary"} -->
+<h3 class="wp-block-heading has-text-align-center has-primary-color has-text-color has-link-color" style="margin-top:-5px;margin-bottom:-5px">20 Wild Years of Giving, Grit and Surprise!</h3>
+<!-- /wp:heading --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"right":"0","left":"0"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group" style="padding-right:0;padding-left:0"><!-- wp:columns {"verticalAlignment":"top"} -->
+<div class="wp-block-columns are-vertically-aligned-top"><!-- wp:column {"verticalAlignment":"top"} -->
+<div class="wp-block-column is-vertically-aligned-top"><!-- wp:image {"id":271800,"sizeSlug":"full","linkDestination":"none","align":"center","style":{"border":{"radius":{"topLeft":"13px","topRight":"13px","bottomLeft":"13px","bottomRight":"13px"}},"spacing":{"margin":{"right":"0","left":"0"}}}} -->
+<figure class="wp-block-image aligncenter size-full has-custom-border" style="margin-right:0;margin-left:0"><img src="http://cavallo.local/wp-content/uploads/2025/09/Black-Cavallo-Trek-Hoof-Boots-Beyonce-2024-NFL-Half-time-show.jpg" alt="Black Cavallo Trek Hoof Boots - Beyonce 2024 NFL Half-time show" class="wp-image-271800" style="border-top-left-radius:13px;border-top-right-radius:13px;border-bottom-left-radius:13px;border-bottom-right-radius:13px" title="Megan Hensley – on the ABC show Donkey King"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"top"} -->
+<div class="wp-block-column is-vertically-aligned-top"><!-- wp:paragraph {"style":{"spacing":{"padding":{"right":"0","left":"0"}}}} -->
+<p style="padding-right:0;padding-left:0">Over these twenty years, we have donated thousands of boots, supported programs and associations that protect horses and serve humans at the same time, supported therapy programs, rescue efforts, and the minis who go into seniors’ homes and hospitals, bringing comfort to those who need it most. We have supported horses who work quietly in the background, helping children who are ill, helping veterans, and helping people find their way back to themselves. That part of the story is not flashy, but it is everything. When horses are comfortable, they can do what they do best. Horses help people. And when we can help those horses stay protected, stay sound, stay able to do their work, then we are doing something that matters.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"spacing":{"padding":{"right":"0","left":"0"}}}} -->
+<p style="padding-right:0;padding-left:0">Of course, a twenty-year story also includes some surreal moments, the kind you tell later and still shake your head, laughing. One of those moments was the Beyoncé Bowl. We were contacted through a chain of assistants. It started with a request that seemed almost unbelievable, and then it got even more unbelievable. We had two days to make it happen. Our team did what they always do: they stepped up, stayed focused, moved quickly, the boots went out the door, and we delivered. Later, we learned the truth. It was for Beyoncé Bowl. That moment did not just feel exciting; it felt meaningful because when the world is watching, you do not choose “good enough.” You choose what you trust.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:image {"id":334145,"width":"106px","height":"auto","aspectRatio":"1.388918967695362","sizeSlug":"full","linkDestination":"none","align":"center","style":{"spacing":{"margin":{"right":"0","left":"0"}}}} -->
+<figure class="wp-block-image aligncenter size-full is-resized" style="margin-right:0;margin-left:0"><img src="http://cavallo.local/wp-content/uploads/2026/01/Cavallo-Hoof-Boots-Year-of-the-Fire-Horse-logo-transparent.png" alt="" class="wp-image-334145" style="aspect-ratio:1.388918967695362;width:106px;height:auto"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"textAlign":"center","level":3,"style":{"spacing":{"margin":{"top":"0px","bottom":"0px","left":"0","right":"0"}},"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"textColor":"primary"} -->
+<h3 class="wp-block-heading has-text-align-center has-primary-color has-text-color has-link-color" style="margin-top:0px;margin-right:0;margin-bottom:0px;margin-left:0">Powering the Future of Hoof Care: Cavallo Teams Up with Horse-Forward Innovators</h3>
+<!-- /wp:heading --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"right":"0","left":"0"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group" style="padding-right:0;padding-left:0"><!-- wp:columns {"verticalAlignment":"top","style":{"spacing":{"padding":{"right":"0","left":"0"}}}} -->
+<div class="wp-block-columns are-vertically-aligned-top" style="padding-right:0;padding-left:0"><!-- wp:column {"verticalAlignment":"top","style":{"spacing":{"padding":{"right":"0","left":"0"}}}} -->
+<div class="wp-block-column is-vertically-aligned-top" style="padding-right:0;padding-left:0"><!-- wp:image {"id":347104,"sizeSlug":"full","linkDestination":"none","align":"center","style":{"border":{"radius":{"topLeft":"13px","topRight":"13px","bottomLeft":"13px","bottomRight":"13px"}},"spacing":{"margin":{"top":"0","left":"0","right":"0"}}}} -->
+<figure class="wp-block-image aligncenter size-full has-custom-border" style="margin-top:0;margin-right:0;margin-left:0"><img src="http://cavallo.local/wp-content/uploads/2026/01/Consteed-Smart-Horse-Sneaker-Powered-by-Cavallo-Hoof-Boots.jpg" alt="Consteed Smart Horse Sneaker Powered by Cavallo Hoof Boots" class="wp-image-347104" style="border-top-left-radius:13px;border-top-right-radius:13px;border-bottom-left-radius:13px;border-bottom-right-radius:13px" title="Megan Hensley – on the ABC show Donkey King"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"top","style":{"spacing":{"padding":{"right":"0","left":"0"}}}} -->
+<div class="wp-block-column is-vertically-aligned-top" style="padding-right:0;padding-left:0"><!-- wp:paragraph {"style":{"spacing":{"padding":{"right":"0","left":"0"}}}} -->
+<p style="padding-right:0;padding-left:0">I also want to share something that feels important, because it speaks to how far hoof protection has come in twenty years. Today, Cavallo not only leads in riding and therapy boots – we also collaborate with other respected brands. We manufacture the Delta boot for Mustad, a collaboration that reflects the trust we have earned through the farrier’s real-world experience. And now the most exciting innovation we are part of is our collaboration with Continental:<a href="https://www.consteed.com/en-de/page-viewer/forvets"> The Smart Horse Sneaker. </a>This is a true leap forward, a world-first technology in horse protection, using integrated sensors to measure hoof loading and movement and support early lameness insights and diagnostics right from the hoof up.<br></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"spacing":{"padding":{"right":"0","left":"0"}}}} -->
+<p style="padding-right:0;padding-left:0">To me, that is the best part of this whole story. What started as one fun-loving couple trying to help one horse at a time has grown into a movement and, now, into technology that can help horses in ways we could barely imagine back then. And that is what I want to say to you now, at twenty years: thank you. Thank you for being part of this, thank you for caring about hoof health, thank you for choosing comfort, thank you for choosing better, thank you for believing in movement and function and the quiet power of doing things the right way.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"right":"0","left":"0"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group" style="padding-right:0;padding-left:0"><!-- wp:image {"id":334145,"width":"106px","height":"auto","aspectRatio":"1.388918967695362","sizeSlug":"full","linkDestination":"none","align":"center"} -->
+<figure class="wp-block-image aligncenter size-full is-resized"><img src="http://cavallo.local/wp-content/uploads/2026/01/Cavallo-Hoof-Boots-Year-of-the-Fire-Horse-logo-transparent.png" alt="" class="wp-image-334145" style="aspect-ratio:1.388918967695362;width:106px;height:auto"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:uagb/advanced-heading {"block_id":"59330132","classMigrate":true,"headingDescToggle":false,"headingAlign":"center","headingTag":"h4"} -->
+<div class="wp-block-uagb-advanced-heading uagb-block-59330132"><h4 class="uagb-heading-text"><strong>Send Us a Birthday Message!</strong></h4></div>
+<!-- /wp:uagb/advanced-heading --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"right":"0","left":"0"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group" style="padding-right:0;padding-left:0"><!-- wp:image {"id":334135,"sizeSlug":"large","linkDestination":"none","align":"center","style":{"spacing":{"margin":{"right":"0","left":"0"}}}} -->
+<figure class="wp-block-image aligncenter size-large" style="margin-right:0;margin-left:0"><img src="http://cavallo.local/wp-content/uploads/2026/01/Cavallo-Hoof-Boots-Fire-HOrse-at-Sunset-by-Rachel-1024x509.jpg" alt="" class="wp-image-334135"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph {"style":{"spacing":{"padding":{"right":"0","left":"0"}}}} -->
+<p style="padding-right:0;padding-left:0">Every horse has a story, and we would be honoured to hear yours! If Cavallo Hoof Boots have helped your beloved partner move more comfortably, heal, explore new trails, or simply feel better in their own hooves, please share it with us. Your experience doesn’t just celebrate your horse — it inspires and guides other horse owners who may be searching for hope or solutions of their own. One story can make a real difference for another horse. Let’s lift them up together:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:spacer {"height":"33px"} -->
+<div style="height:33px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:buttons {"style":{"spacing":{"margin":{"top":"24px"},"padding":{"bottom":"var:preset|spacing|xl"}}},"layout":{"type":"flex","justifyContent":"center"}} -->
+<div class="wp-block-buttons" style="margin-top:24px;padding-bottom:var(--wp--preset--spacing--xl)"><!-- wp:button {"backgroundColor":"red","className":"has-red-color","style":{"border":{"radius":"100px"},"spacing":{"padding":{"left":"45px","right":"45px","top":"12px","bottom":"12px"}},"typography":{"fontStyle":"normal","fontWeight":"700","lineHeight":"1.25"}},"fontSize":"normal"} -->
+<div class="wp-block-button has-red-color"><a class="wp-block-button__link has-red-background-color has-background has-normal-font-size has-custom-font-size wp-element-button" href="http://cavallo.local/reviews-submit/" style="border-radius:100px;padding-top:12px;padding-right:45px;padding-bottom:12px;padding-left:45px;font-style:normal;font-weight:700;line-height:1.25">Tell your Horse's Story</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:image {"id":309574,"width":"772px","height":"auto","sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large is-resized"><img src="http://cavallo.local/wp-content/uploads/2022/11/carole-signature-transparent-background-1024x524.jpg" alt="Cavallo Hoof Boots president Carole Herder signature" class="wp-image-309574" style="width:772px;height:auto"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:group -->

@@ -1,0 +1,7 @@
+<!-- wp:image {"width":"376px","height":"auto","sizeSlug":"large","align":"left"} -->
+<figure class="wp-block-image alignleft size-large is-resized"><img src="http://cavallo.local/wp-content/uploads/2024/09/beachEasternShoreWeb_000.jpg" alt="" style="width:376px;height:auto"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>I love my Simple boots. I used them on a seven hour ride without any wraps going through some of the nastiest mud I have ever been through in my life. Plus, we love playing in the Chesapeake Bay in our Simple boots. Seeing is believing! Thanks for a great product!</p>
+<!-- /wp:paragraph -->

@@ -1,0 +1,27 @@
+<!-- wp:paragraph -->
+<p>By Carole Herder</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>So you think horse shoes are bad news? Try thinking about them in winter?!?!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":5231,"linkDestination":"custom","align":"left"} -->
+<figure class="wp-block-image alignleft"><a href="//cavallo.local/wp-content/uploads/2015/01/Blog-81.jpg"><img src="//cavallo.local/wp-content/uploads/2015/01/Blog-81.jpg" alt="Cavallo Hoof Boots Studs for winter riding" class="wp-image-5231"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>Mud, ice and snow packed onto the bottom of the hoof secured with the shoe. Freezing cold metal nailed onto your horse’s foot and banging onto the ground every time they take a step. Slipping and sliding on snow and ice. I shudder just writing this!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Hooves were not designed to wear metal shoes attached with nails,we know that much. But winter is even tougher for those souls (soles) that have to bear this tradition. Compressed snow can cause subsolar bruising. Partially thawed snow in the hoof often re-freezes creating ice balls which can result in abscesses, hoof discomfort, strained tendons and ligaments, compromised balance and injuries from falls. Frozen, uneven ground can cause sole bruises. Shoes can also get caught on debris hidden in the snow.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Barefoot hooves, on the other hand, come in direct contact with the ground and are less likely to ball up with snow. The hoof wall, sole, frog and bars adapt through reduced circulation and growth, to work more efficiently in the harsher conditions. Better still; throw on some Horse Hoof Boots, specifically Cavallo! - for added comfort and safety. And there is even one better: add some Cavallo studs for advanced traction in all weathers (but please use your better judgment in really icy conditions)!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:spacer {"height":"40px"} -->
+<div style="height:40px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->

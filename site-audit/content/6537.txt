@@ -1,0 +1,103 @@
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"textAlign":"left","level":1} -->
+<h1 class="wp-block-heading has-text-align-left">Warranty &amp; Shipping Information</h1>
+<!-- /wp:heading -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">The Cavallo Best Boot Guarantee</h2>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Cavallo's Best Boot 180-Day Warranty Details:</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Did you know the Cavallo ‘Best Boot Warranty’ is the longest hoof boot warranty on the market by far? The Cavallo warranty is double or even triple the length of any other hoof boot brand.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Cavallo guarantees the quality and workmanship of Cavallo Hoof Boots for <strong>180 DAYS (that’s a full 6 months)</strong> from the date of purchase. Any claims must be directed to the original place of purchase. When warranted the boots will be repaired or replaced. The guarantee does not cover natural wear-and-tear, inappropriate use, modifications, changes or alterations, unattended horses, incorrect sizing, excessive heat exposure, exposure to sharp objects, or use with metal shoes without Cavallo High Tenacity Protection Pads in place.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>To be fully protected by the Cavallo Best Boot 180-Day Warranty, Cavallo Hoof Boots must be purchased from a recognized Cavallo retailer. Cavallo Hoof Boots purchased as “used” or “second-hand” are not covered under the Cavallo Best Boot 180-Day Warranty.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The use of hoof boot pads, wraps and other Cavallo hoof boot accessories is optional. While all Cavallo materials are of excellent quality and our manufacturing processes meet the highest standards, we cannot control the variables related to care and usage. Therefore, accessories are not covered under our warranty program. To extend their lifespan, keep your accessories clean and store them away from sharp objects and excessive heat.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Warranty questions can be answered in Canada &amp; US by calling 1-877-818-0037 toll-free or by contacting us <strong><a href="http://cavallo.local/contact-us/">HERE.</a></strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">How to Arrange a Warranty Claim</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Before a warranty claim is accepted, photos of the defective boot(s) must first be provided to and approved by the original place of purchase.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Boots may need be returned to the place of purchase, clean, dry with dated original receipt and shipping paid.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"}} -->
+<div class="wp-block-buttons"><!-- wp:button {"backgroundColor":"red","style":{"border":{"radius":"50px"}}} -->
+<div class="wp-block-button"><a class="wp-block-button__link has-red-background-color has-background wp-element-button" href="http://cavallo.local/request-to-make-an-exchange-or-return/" style="border-radius:50px">Make a Warranty Claim</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Potential Hydrolysis Effect on Cavallo Soles:</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Cavallo Hoof Boot soles are moulded in industrial-grade TPU (Thermoplastic Urethane). Under certain conditions, this compound may be vulnerable to a chemical reaction known as hydrolysis. Hydrolysis is a bond breakdown that may occur at least 2 years after production. This happens only when boots are stored for prolonged periods of time, mostly in unfavourable conditions and not being used. Hydrolysis may be avoided by ensuring good air ventilation and avoiding humidity over 70%. Keep the storage environment cool and dry with good air circulation. A combination of temperatures as high as 40 Degrees Celsius with high moisture content should be avoided.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Please be wary if you are purchasing from a third party, as you may not have information on how the boots were stored or cared for.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Hoof boots that are frequently used in very wet conditions should be allowed to dry before placing them in storage and should not be stored in the original box or in areas of poor air circulation. It is recommended to store boots with all Velcro panels and straps closed to keep them free of hay, hair, dirt and other debris. Follow these instructions and your hoof boots will last free of hydrolysis for many years.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"backgroundColor":"light-red-1"} -->
+<p class="has-light-red-1-background-color has-background">Horse activities are inherently dangerous. The manufacturers, distributors and sellers will not accept responsibility for injury, death, lameness or illness resulting from the use or misuse of these products.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Shipping Information</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"align":"left"} -->
+<p class="has-text-align-left">Cavallo offers FREE Shipping on orders over $79.95! All orders within the USA are shipped from our Washington warehouse via FedEx. For orders over $79.95, ground shipping is included in Mainland USA. Orders are shipped the next business day and take up to 5 business days via FedEx ground shipping (please note: orders to Alaska and Hawaii will ship via USPS). All orders within Canada are shipped from British Columbia via Canada Post. For orders over $79.95, Canada Post Expedited parcel service is included for all provinces and territories. Orders are shipped the next business day and can take up to 14 business days, depending on your location.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:paragraph -->
+<p>For International customers, please <strong><a href="http://cavallo.local/contact-us/" target="_blank" rel="noreferrer noopener"><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-red-color">CLICK HERE</mark></a></strong>.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Faster shipping is available at an additional cost, which can be selected at checkout. Orders under the free shipping threshold will incur a shipping fee that varies with the size and quantity of items.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Due to possible high sales volumes during special promotions, regular shipping delivery times do not apply – customers will be notified by email once order ships.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->

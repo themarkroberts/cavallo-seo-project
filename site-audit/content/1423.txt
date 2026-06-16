@@ -1,0 +1,33 @@
+<!-- wp:paragraph -->
+<p>By Carole Herder</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Greg and I were thinking about how we could offer you something fabulous and raise the profile of ACTHA at the same time. We decided do something really fabulous. Something everyone wants to do. A trip to Australia! Greg’s homeland! YOU could win the American Competitive Trail Horse Association's FREE TRIP TO AUSTRALIA.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The winners will receive free airfare, accommodation and VIP tickets to the Equine Lifestyle 2015 Festival where you will meet some amazing Aussie horse folks and celebs. Greg will be your host for dinner, where you can meet the head of ATHRA- the Australian equivalent of your ACTHA.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>You may wish to start brushing up on your strine (Australian slang) now and be prepared for my true blue (loyal Australian) Greg to flap his gums (talk a lot). He’s the ultimate entertainer. Yes, like a pimple on a pumpkin (very obvious) , this will be the ants pants (the best)! You can enjoy a good captain cook (a look) Down Under (Australia), maybe try some Yabbie (small fresh water crayfish) or a cooked chook (chicken). You would have heaps (a lot) of fun. See some joeys (baby kangaroos), but beware the salties (saltwater crocodiles), enjoy watching shark biscuits (new surfers) while munching a snag (sausage) with some dead horse (ketchup). No need for a monkey suit (dinner suit) or too much moolah (money).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>So Bob’s your uncle mate (everything is fine, there you go). Just follow this link below to find out more from ACTHA and make it snappy (hurry up). There are multiple ways you can enter to win this amazing prize given by ACTHA, &nbsp;and the more entries the better your chances. Rattle your dags (hurry up)! Good on ya (well done), mate.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:embed {"url":"https://wo110.infusionsoft.com/app/page/actha-equitana-2015?utm_source=ACTHA\u0026utm_campaign=Equitana2015\u0026utm_medium=Affiliate"} -->
+<figure class="wp-block-embed"><div class="wp-block-embed__wrapper">
+https://wo110.infusionsoft.com/app/page/actha-equitana-2015?utm_source=ACTHA&amp;utm_campaign=Equitana2015&amp;utm_medium=Affiliate
+</div></figure>
+<!-- /wp:embed -->
+
+<!-- wp:image {"id":4971,"linkDestination":"custom","align":"center"} -->
+<figure class="wp-block-image aligncenter"><a href="//cavallo.local/wp-content/uploads/2014/10/P1010563.jpg"><img src="//cavallo.local/wp-content/uploads/2014/10/P1010563-300x168.jpg" alt="Horse Hoof Boots" class="wp-image-4971"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:spacer {"height":"40px"} -->
+<div style="height:40px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->

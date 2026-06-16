@@ -1,0 +1,31 @@
+<!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="http://cavallo.local/wp-content/uploads/2024/09/BOABH2.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>By Carole Herder</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>I’ve mentioned the following two associations in blogs before but here are their latest events, in case you are up for a new adventure!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The Best of America By Horseback gang have two great rides coming up in October. One in the Leatherwood Mountains in North Carolina and then a beach ride in South Carolina!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The Leatherwood ride includes horsemanship clinics, campfire cooking, cowboy music, and of course ride outs with Tom Seay each day. I would love to be doing this one! And fancy sauntering around a beach with 1000’s of other rider for a few days, and all in aid of charity? Then head to Myrtle Beach – this will be one to remember. <a href="http://www.bestofamericabyhorseback.com/upcomingridesevents.html" target="_blank" rel="noopener">http://www.bestofamericabyhorseback.com/upcomingridesevents.html</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":1694,"align":"center"} -->
+<figure class="wp-block-image aligncenter"><img src="//cavallo.local/wp-content/uploads/2013/09/DSC05515-300x200.jpg" alt="" class="wp-image-1694" title="horse hoof boots"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Looking for something a bit closer to home? Well, the American Competitive Trail Horse Association has 56 events happening right across America in October alone! That’s’ right, 56 events! I can hardly believe it. So there is no excuse, find something near you and get out there and have fun! <a href="https://www.actha.us/events" target="_blank" rel="noopener">https://www.actha.us/events</a></p>
+<!-- /wp:paragraph -->

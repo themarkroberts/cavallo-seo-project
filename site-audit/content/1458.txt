@@ -1,0 +1,31 @@
+<!-- wp:paragraph -->
+<p>By Carole Herder</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Finally! One of my pet peeves has been analyzed through scientific study and the right answer has come about!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":5216,"linkDestination":"custom","align":"left"} -->
+<figure class="wp-block-image alignleft"><a href="//cavallo.local/wp-content/uploads/2015/01/blog-77.jpg"><img src="//cavallo.local/wp-content/uploads/2015/01/blog-77.jpg" alt="Cavallo Hoof Boots" class="wp-image-5216"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>Do horses prefer to be scratched or patted? In the grand scheme of things it is probably not a life-changing question, but it bothers me immensely when riders, particular top competitors on their way out of a show ring, slap their horses heartily on the side of their neck, and this is thanks to them! Horses can feel a fly land on their skin, and twitch it off – imagine what numerous great big whacks feels like on their neck!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Think of it this way: how do you first approach your horse? Hand out to their muzzle? Touch their forehead, ears, neck, withers, back? How do familiar horses greet each other? Do they pat, slap or whack each other? No, they sniff along the neck and inevitably scratch each other’s withers. It is an essential horse bonding exercise and mutually very relaxing.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Read this: <a href="http://www.thehorse.com/articles/34855/do-horses-prefer-patting-or-scratching" target="_blank" rel="noopener">http://www.thehorse.com/articles/34855/do-horses-prefer-patting-or-scratching</a>. And the next time you greet your horse in the stable or paddock, ride him out on the trail or win your first grand prix competition, think about how you show appreciation to your horse and thank him in a way that he would appreciate.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:spacer {"height":"40px"} -->
+<div style="height:40px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->

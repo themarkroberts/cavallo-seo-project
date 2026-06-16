@@ -1,0 +1,192 @@
+<!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading"><em><span style="color: #008080;">At Cavallo we have many friends who we like to keep track of, as they're always up to something interesting!</span></em></h4>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Emma Massingale - Tricycle Trip for 3 through Europe!&nbsp; Europe - one Smile at a Time!</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Emma is on to her next big adventure - and this one is going to require a lot of leg work - literally!&nbsp; Here's what Emma is saying about her upcoming journey:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"align":"center"} -->
+<figure class="wp-block-image aligncenter"><img src="https://i1.wp.com/www.emmamassingale.com/wp-content/uploads/2019/02/COver-Pic5619resampl.jpg?resize=1024%2C731&amp;ssl=1" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><em>"Three years of full-time adventure and ten years of creating media content, I have learnt that one of the most rewarding things is to be able to make other people smile! If we can also back this up with some fun horsemanship and an epic adventure then it’s something worth getting pretty excited about!</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><em>I knew this year I wanted to do an adventure that included my miniatures…but where to start as they are too small to ride and have very short legs, not ideal for travelling long distances!&nbsp; I knew it had to be something personally challenging for me but fun and easy for the ponies.</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><em>Throughout history we have needed horses to pull or carry us but what now if in the 21st Century these little horses could have one simple role, to make people smile! My horses make me smile everyday, this is not only incredible therapy but has helped me become the horsewomen I am today. Horses recognize&nbsp;facial expressions, I have said for many years that as crazy as it sounds just smiling at your horse can help form greater friendships and if they like us more they are going to perform better for us in any situation.</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><em>I am going to take my two untrained miniatures, one Miniature Horse (Percy – Appaloosa) and one Miniature Shetland Pony (Stanley) 1000 miles across Europe on an epic adventure. I shall be cycling along with my minis in a purpose built tricycle across 6 countries through Europe with two main objectives in mind, to give everyone we meet and those may like to follow us online their daily smile…(it’s impossible not to!) and to have an epic adventure that challenges me both physically and mentally as I can assure you that cycling along with two horses on board isn’t easy! Stanley, Percy and I shall camp each night under the stars."</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>GO EMMA!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">We Ride Sport &amp; Trail Magazine - <a href="https://weride-magazine.com/2019/05/06/the-may-2019-issue/" target="_blank" rel="noopener">April Issue</a></h3>
+<!-- /wp:heading -->
+
+<!-- wp:image {"id":15209,"linkDestination":"custom","align":"left"} -->
+<figure class="wp-block-image alignleft"><a href="https://weride-magazine.com/2019/05/06/the-may-2019-issue/"><img src="http://cavallo.local/wp-content/uploads/2019/05/May-2019-Sport-Trail-Magazine-Cover-1.jpg" alt="May 2019 Sport &amp; Trail Magazine Cover" class="wp-image-15209"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>Read the story of Rio, a horse who is blind yet just began competing with his owner, Lynda Allen, with the <a href="https://imtca.org/" target="_blank" rel="noopener">International Mountain Trail Challenge Association</a>.&nbsp; Equine Photographer, <a href="http://jodylmiller.com/" target="_blank" rel="noopener">Jody L. Miller</a> takes us on a wonderful photographic journey as she shares her work with us.&nbsp; Our feature this month is the story of the Noriker Horse, showcasing the Bavarian based herd of Tigerhill Ranch.&nbsp; Also featuring ten national ride associations, horsemanship articles by <a href="http://www.jeffwilsoncowboydressage.com/" target="_blank" rel="noopener">Jeff Wilson</a> and <a href="https://www.nancyslater.com/" target="_blank" rel="noopener">Nancy Slater</a> and inspiration from nationally acclaimed horsewoman, <a href="https://barbraschulte.com/" target="_blank" rel="noopener">Barbra Schulte</a>.&nbsp; And more!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading"><a href="https://weride-magazine.com/2019/05/06/the-may-2019-issue/" target="_blank" rel="noopener">READ IT HERE!</a></h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">&nbsp;</h3>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">&nbsp;</h3>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">&nbsp;</h3>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Equi-Ads Online Magazine - April Issue</h3>
+<!-- /wp:heading -->
+
+<!-- wp:image {"id":15213,"align":"left"} -->
+<figure class="wp-block-image alignleft"><img src="http://cavallo.local/wp-content/uploads/2019/05/equiads-april-1-244x300.jpg" alt="Equi-Ads Magazine April 2019" class="wp-image-15213"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>Equi-Ads is one of the UK's best equine magazines!&nbsp; Wanting to find out a great trick to get your lamintic horse on his feet and moving comfortably?&nbsp; Read Carole Herder's article Laminitis School for the Faint of Heart in this issue to find out!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading"><a href="https://en.calameo.com/read/0000043069bf3d53c53f4" target="_blank" rel="noopener">READ EQUI-ADS</a></h3>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">&nbsp;</h3>
+<!-- /wp:heading -->
+
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Monty Roberts -<strong>&nbsp;Night of Inspiration - May 25</strong></h3>
+<!-- /wp:heading -->
+
+<!-- wp:image {"id":15215,"linkDestination":"custom","align":"left"} -->
+<figure class="wp-block-image alignleft"><a href="https://montyrobertsshop.com/products/night-of-inspiration"><img src="http://cavallo.local/wp-content/uploads/2019/05/Monty-Roberts-Night-of-Inspiration-1-450x315.jpg" alt="Monty Roberts Night of Inspiration" class="wp-image-15215"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>Your party will be welcomed to beautiful Flag Is Up Farms, home of Horse &amp; Hound's "Greatest Horsemen of All Time", and New York Time Best-Seller Monty Roberts and artist&nbsp;<a href="https://www.patrobertssculpture.com/" target="_blank" rel="noopener noreferrer">Pat Roberts</a>.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Experience Monty Roberts put a saddle and a rider on a horse for the first time. &nbsp;Witness first-hand the powerful relationship of trust and communication between a horse and a human.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>This&nbsp;unforgettable event is great for the whole family.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading"><a href="https://montyrobertsshop.com/products/night-of-inspiration" target="_blank" rel="noopener">FIND EVENT HERE</a></h3>
+<!-- /wp:heading -->
+
+
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Best of America by Horseback</h3>
+<!-- /wp:heading -->
+
+<!-- wp:image {"id":15214,"linkDestination":"custom","align":"left"} -->
+<figure class="wp-block-image alignleft"><a href="http://www.bestofamericabyhorseback.com/newsletter.html"><img src="http://cavallo.local/wp-content/uploads/2019/05/BOABH-Member-spotlight-1-300x265.jpg" alt="BOABH Member spotlight" class="wp-image-15214"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>The April, 2019 Best of America by Horseback newsletter is out and it has a fresh new look!&nbsp;&nbsp;Each month, Best of America by Horseback publishes a newsletter with updates about events &amp; rides, an article from their host, Tom Seay, as well as product spotlights and features about some of their wonderful Trail Club Members from across the country.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading"><a href="https://myemail.constantcontact.com/Celebrate-300-000-Miles-Ridden-with-Tom-Seay-in-May----April-2019-Newsletter.html?soid=1122440115424&amp;aid=zGK4qkYJQhw" target="_blank" rel="noopener">READ IT HERE!</a></h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph -->
+
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Dutch Henry!</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><em><span style="font-family: Arial, Helvetica, sans-serif;">Dutch Henry is an award-winning author and a horse lover!&nbsp; Here's a great quote from Dutch:</span></em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><span style="font-family: Arial, Helvetica, sans-serif;"><em>"My hope is to help as many people as possible learn to hear the horse, feel their spirit, and in that way help horses everywhere. Over the years I’ve met and worked with remarkable people and horses who taught me about their feelings, their joys, their sadness, and their spirit.<span class="apple-converted-space">&nbsp;</span>As a horse advocate everything I do is from the horse’s perspective.</em>"</span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Please check out his upcoming Equine Posture Clinic here:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:embed {"url":"https://meadowcreekmountain.com/events/dutch-henry-clinic/?fbclid=IwAR1cW8gpwqrjg6FBarcyM8j4vRxxoQWWmLMtXGCb5nxnvt5XWQj2z36fvG8"} -->
+<figure class="wp-block-embed"><div class="wp-block-embed__wrapper">
+https://meadowcreekmountain.com/events/dutch-henry-clinic/?fbclid=IwAR1cW8gpwqrjg6FBarcyM8j4vRxxoQWWmLMtXGCb5nxnvt5XWQj2z36fvG8
+</div></figure>
+<!-- /wp:embed -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Wishing you many happy trails with good friends,</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":11988,"linkDestination":"custom","align":"left"} -->
+<figure class="wp-block-image alignleft"><a href="https://www.amazon.ca/There-Are-Horseshoes-Heaven-Tradition-ebook/dp/B01BMYYRZ6"><img src="http://cavallo.local/wp-content/uploads/2018/08/Caroles-signature-with-click-here-452x261.jpg" alt="Carole Herder's book - There are no Horseshoes in Heaven" class="wp-image-11988"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph -->

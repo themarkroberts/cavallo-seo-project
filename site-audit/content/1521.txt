@@ -1,0 +1,7 @@
+<!-- wp:paragraph -->
+<p>I purchased my QH Ruby 5 Years ago, She was shod and suffering from Thrush and in a crack from a nail causing her toe to rot inside! I had to remove the hoof wall and let air in to heal the hoof and kill the fungus! I purchased my Cavallos and have been using the same boots for two years! We love them, along with a simple barefoot trim I can do myself we are riding off into the sunset!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:spacer {"height":"40px"} -->
+<div style="height:40px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->

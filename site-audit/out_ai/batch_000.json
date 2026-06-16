@@ -1,0 +1,86 @@
+[
+  {
+    "id": "3",
+    "content_format": "Policy / legal page",
+    "summary": "Cavallo's privacy policy covering how personal data and email addresses are collected, used, and protected under GDPR, CCPA, and other regulations.",
+    "key_components": ["Table of contents/sections", "Bulleted list"],
+    "primary_cta": "None"
+  },
+  {
+    "id": "8",
+    "content_format": "Landing / marketing page",
+    "summary": "Cavallo homepage introducing its hoof boots as durable, protective equine footwear, with a brand video and value proposition for horse owners.",
+    "key_components": ["Video embed", "Lead form", "CTA button"],
+    "primary_cta": "Shop hoof boots"
+  },
+  {
+    "id": "10",
+    "content_format": "Template / functional page",
+    "summary": "Empty styleguide template page with no content.",
+    "key_components": [],
+    "primary_cta": "None"
+  },
+  {
+    "id": "44",
+    "content_format": "Standard article (text + images)",
+    "summary": "Guide on how to measure a horse's hoof and test the fit of Cavallo hoof boots, including a measuring video, fitting tips, and a break-in guide.",
+    "key_components": ["Video embed", "Lead form", "CTA button", "Bulleted list", "Image gallery"],
+    "primary_cta": "Measure your horse"
+  },
+  {
+    "id": "46",
+    "content_format": "Long-form guide / pillar",
+    "summary": "Educational hub covering barefoot hoof care, laminitis treatment, and hoof rehabilitation with Cavallo boots, plus an expert sizing/help service.",
+    "key_components": ["Table of contents/sections", "Video embed", "Lead form", "CTA button", "Bulleted list", "Image gallery"],
+    "primary_cta": "Ask an Expert"
+  },
+  {
+    "id": "48",
+    "content_format": "Landing / marketing page",
+    "summary": "Reviews page highlighting endorsements from equestrian experts and clinicians like Pat Parelli, Monty Roberts, and John Lyons who trust Cavallo Hoof Boots.",
+    "key_components": ["CTA button", "Testimonials"],
+    "primary_cta": "Watch Expert Review Videos"
+  },
+  {
+    "id": "50",
+    "content_format": "Landing / marketing page",
+    "summary": "About page on the Cavallo brand covering its boot-donation community program, Associate Seller program for farriers and vets, and WKU research backing Trek hoof boots.",
+    "key_components": ["Table of contents/sections", "Video embed", "CTA button", "Image gallery"],
+    "primary_cta": "Find Out More"
+  },
+  {
+    "id": "52",
+    "content_format": "Form / contact page",
+    "summary": "Cavallo contact page inviting visitors to get in touch, with an accordion of contact options.",
+    "key_components": ["Accordion"],
+    "primary_cta": "Contact us"
+  },
+  {
+    "id": "418",
+    "content_format": "FAQ / informational",
+    "summary": "Frequently asked questions about Cavallo products, including saddle fit, Total Comfort System pads, and using pads with treeless saddles.",
+    "key_components": ["Lead form", "CTA button"],
+    "primary_cta": "Ask an Expert"
+  },
+  {
+    "id": "558",
+    "content_format": "Template / functional page",
+    "summary": "Empty shop index page with no rendered content.",
+    "key_components": [],
+    "primary_cta": "None"
+  },
+  {
+    "id": "559",
+    "content_format": "Template / functional page",
+    "summary": "Shopping cart page showing an empty-cart state with product recommendations.",
+    "key_components": ["Table of contents/sections", "Lead form"],
+    "primary_cta": "None"
+  },
+  {
+    "id": "560",
+    "content_format": "Template / functional page",
+    "summary": "Checkout page template with order/payment form and no static content.",
+    "key_components": ["Lead form"],
+    "primary_cta": "None"
+  }
+]

@@ -1,0 +1,55 @@
+<!-- wp:paragraph -->
+<p><strong>We’re off to SPOGA!</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>It’s that time of year again, and Greg and I are off to the largest International equine industry trade show in the world – <a href="http://www.spogahorse.com/spogahorse/index-2.php" target="_blank" rel="noopener">SPOGA!</a>&nbsp; We get to catch up with our wonderful World-Wide Distributors. These are the people who place the well-being, comfort and care of horses as a first priority in their businesses. They have taken the trend to barefoot and booted hoof care seriously by incorporating <a href="http://cavallo.local/" target="_blank" rel="noopener">Cavallo</a> into their product offering. These professionals have been with us for several years, and although the idea of hoof boots may have seemed like new ground at first, it has paid off both financially and personally. Knowing we are doing the right thing for horses goes a long way to easing the work load and risk associated in running our businesses. We all now know <a href="http://cavallo.local/product-category/hoof-boot/" target="_blank" rel="noopener">Cavallo Hoof Boots</a> are here to stay; an important part of any horse supply business.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Barefoot Hoof Care – A Relevant Topic in any Language</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Although we speak many different languages, we understand each other through our one common voice when it comes to offering the best, most advanced care for horses’ feet. <a href="http://cavallo.local/product-category/hoof-boot/" target="_blank" rel="noopener">Cavallo Hoof Boots</a> are sold in <a href="http://cavallo.local/contact-us/" target="_blank" rel="noopener">28 countries</a> around the world providing comfort, protection and durability to tens of thousands of hooves each and every year.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>It’s always so much fun to see our world-wide community team members!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>SPOGA Horse takes place in <a href="https://en.wikipedia.org/wiki/Cologne" target="_blank" rel="noopener">Cologne, Germany</a> on September 3, 4 and 5 this year.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>If you’re heading to SPOGA, please stop by and say hello, Greg and I have some exciting new things to share with you!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":9835,"linkDestination":"custom","align":"center"} -->
+<figure class="wp-block-image aligncenter"><a href="http://www.spogahorse.com/spogahorse/index-2.php"><img src="//www.cavallo.local/wp-content/uploads/2017/08/spogah.jpg" alt="SPOGA Horse Equine Trade Fair" class="wp-image-9835"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Happy Trails,</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":10645,"width":"300px"} -->
+<figure class="wp-block-image is-resized"><img src="//www.cavallo.local/wp-content/uploads/2017/12/CaroleSig.jpg" alt="Carole Herder's Signature" class="wp-image-10645" style="width:300px"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":10798,"align":"left"} -->
+<figure class="wp-block-image alignleft"><img src="//www.cavallo.local/wp-content/uploads/2018/01/Caroles-Signature-2017.png" alt="Carole Herder's Signature" class="wp-image-10798"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->

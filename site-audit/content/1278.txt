@@ -1,0 +1,23 @@
+<!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="http://cavallo.local/wp-content/uploads/2024/09/tea-tree-oil-300x189-1.jpg" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>By Carole Herder</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>There is nothing better for your horse’s hooves than a good diet, plenty of movement and regular trims but on occasion something may still go wrong. Here are some possibilities for natural remedies:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>- Apple cider vinegar mixed with water (50/50 ratio) is a mild solution that can be used as a daily treatment for fungus infections or used as a weekly soak for preventative care. I like to mix the solution in a spray bottle and spray the soles of the hoofs and inside my Cavallos whenever I put them on.<br>- Raw Manuka honey or calendula cream on cotton balls can be used for frog infections.<br>- Homeopathy treatments such as St. John’s Wort for nerve damage from puncture wounds, Arnica for bruising, Calcium Sulphide for abscesses or infected wounds and of course Silica which helps with just about everything from thrush to tendonitis to scar tissue. And for you too.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>- Essential oils such as thyme and tea tree are also great for thrush, abscesses and white line disease. In fact pure Tea Tree Oil was the only thing that helped my horse with thrush. I tried almost every other innocuous treatment I could find. Be careful though some are not strong enough. I found a very powerful brand in a health food store – Tea Tree Oil straight from Australia.<br>- And for an amazing overall tonic, what about some seaweed? Aka ‘kelp’, this herb contains 46 minerals and is a great source of iodine. Much better than those chemically manufactured salt and mineral blocks – full of glue and binders.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>And don’t forget, resolving hoof ailments takes proper management (and possibly some professional advice), not just a magic cream. You may have to get poultices, administer daily bandages, change the environment and/or diet temporarily or even permanently. There may be an occasional but unfortunately there is rarely such thing as a quick fix.</p>
+<!-- /wp:paragraph -->

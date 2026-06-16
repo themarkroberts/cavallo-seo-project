@@ -1,0 +1,41 @@
+<!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading">A Foal is Born...</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Just down the street from Cavallo in beautiful&nbsp;<a id="js_pn" class="profileLink" href="https://business.facebook.com/pages/Roberts-Creek-British-Columbia/105731319460735?fref=mentions" data-hovercard="/ajax/hovercard/page.php?id=105731319460735&amp;extragetparams=%7B%22fref%22%3A%22mentions%22%7D" data-hovercard-prefer-more-content-show="1">Roberts Creek, British Columbia</a>, Raven, a darling, little foal, has been born to a lovely mare named Velvet!&nbsp; You may know Velvet as one of our <a href="http://cavallo.local/product-category/hoof-boot/" target="_blank" rel="noopener">Cavallo Hoof Boot</a> models, appearing in our ads, posts and articles!&nbsp; Join all of us at Cavallo welcome our new little neighbor&nbsp;Raven with open arms!!!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:embed {"url":"https://www.youtube.com/watch?v=jNIjYDxZ1RA\u0026amp;amp;amp;feature=youtu.be","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://www.youtube.com/watch?v=jNIjYDxZ1RA&amp;amp;amp;feature=youtu.be
+</div></figure>
+<!-- /wp:embed -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><em>Wishing you many happy miles in your Cavallos,</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":11603,"width":"468px","height":"auto","linkDestination":"custom","align":"left"} -->
+<figure class="wp-block-image alignleft is-resized"><a href="//www.cavallo.local/wp-content/uploads/2018/06/Carole-signatures-together.jpg"><img src="//www.cavallo.local/wp-content/uploads/2018/06/Carole-signatures-together.jpg" alt="Carole Herder's Signature" class="wp-image-11603" style="width:468px;height:auto"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph -->

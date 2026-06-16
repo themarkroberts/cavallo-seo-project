@@ -1,0 +1,23 @@
+<!-- wp:image {"id":5107,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="http://cavallo.local/wp-content/uploads/2013/09/teskey.png" alt="" class="wp-image-5107"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>By Carole Herder</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>‘First, do no harm’ – I love this phrase and I use it in all aspects of my horsemanship. And it is one of the primary reasons why I chose barefoot. I recently read one of Dr. Tomas Teskey’s articles, The Natural Hoof Care Advantage, and it reminded me once again why our horses are better off barefoot.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>More and more research is proving the obvious: preserving normal hoof function and form results in optimum health. The hoof can flex in all directions, blood flow and circulation are increased, growth and wear is even and strong (given the right conditions) and better contact with the ground ensures soundness on all terrain. Placing shoes on a horse’s hoof limits their movement severely and causes stress and strain on the joints throughout the body. Shoes promote weak hoof growth and seriously limit the concussive force which jars the limbs of the animal and sends shock vibrations back through the whole body, making the heart work more. Shod horses are prone to bacterial infections and the loss of contact with the ground and reduced traction causes an increase in stumbling and injury.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Dr. Teskey himself, a veterinary graduate taking a special interest in equine podiatry, mentions the advantages of hoof boots, and how they offer enhanced protection without harming the hoof or horse. Natural horsemanship and natural hoof care are paramount in achieving perfect health for our horses, and this includes looking at diet and environment.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Dr. Teskey is on the Advisory Panel for the ESA, The Equine Sciences Academy, which offer programs such as an Equine Sciences Degree and Certification in Natural Hoof Care, both great courses if you want to learn more.</p>
+<!-- /wp:paragraph -->

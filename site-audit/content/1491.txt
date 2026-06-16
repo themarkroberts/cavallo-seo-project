@@ -1,0 +1,51 @@
+<!-- wp:paragraph -->
+<p>By Carole Herder</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>“The secret of freedom lies in educating people, whereas the secret of tyranny lies in keeping them ignorant” – Maximilien Robespierre</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Perhaps a little dramatic, but, in a way, totally accurate. I often speak about the power of knowledge and education and believe that the more we learn and the more we share good information, the better our lives and our horses lives will be.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":5502,"align":"left"} -->
+<figure class="wp-block-image alignleft"><img src="//cavallo.local/wp-content/uploads/2015/04/April-10.15.jpg" alt="April 10.15" class="wp-image-5502"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>For those readers new to this blog (and for those avid readers, here is a little reminder!), a natural diet, a natural environment and a natural trim are three pillars to good horse hoof care. An essential part of the diet is minerals, and these must not be forgotten about as only a combination of factors can produce the best possible hoof.<br></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The hoof wall is about 93% protein and the key one here is keratin. The chemical structure of keratin differs depending on whether it makes up soft tissue or hard tissue, and this is what gives horses tough hoof walls alongside more elastic frogs. Deficiencies in protein can affect hoof growth and quality so here are some key points to remember:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>• Zinc is needed for cell multiplication and the assembly of keratin.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>• Copper is linked with the formation of connective tissues and this is a mineral that can be deficient in certain geological areas.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>• A high forage diet should provide many vitamins, including biotin.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>• Essential fatty acids, selenium and vitamin E are all also crucial</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>There are plenty of feed supplements you can buy to ensure your horse is getting the right dose of minerals, but be careful. Did you know that too much zinc can interfere with copper and too much copper can cause zinc deficiency? Too much phosphorous will inhibit calcium absorption and too much calcium will inhibit phosphorus absorption?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>If you are unsure of what, if any, minerals your horse is lacking or have other concerns about their diet, you can avail of an equine nutritionist who will assist with designing a balanced feeding program for your horse taking into account breed, age, workload, reproductive and health status. The program will focus on correct mineral intake and should include pasture/hay testing. A balanced diet is essential for health and performance in your horse.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:spacer {"height":"40px"} -->
+<div style="height:40px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->

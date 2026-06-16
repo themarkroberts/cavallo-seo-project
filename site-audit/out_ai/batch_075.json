@@ -1,0 +1,86 @@
+[
+  {
+    "id": "204112",
+    "content_format": "Newsletter",
+    "summary": "Cavallo's July 2025 monthly newsletter covering mini therapy ponies in Cavallo CLB boots at Vancouver Airport and Trek boots spotted on Beyonce's horse during the Beyonce Bowl.",
+    "key_components": ["Image gallery", "Video embed", "Table of contents/sections"],
+    "primary_cta": "Read more"
+  },
+  {
+    "id": "204115",
+    "content_format": "Long-form guide / pillar",
+    "summary": "Complete user manual for the Cavallo LEB Long Ear Boot, a donkey-specific hoof boot, covering measuring, sizing, fitting, break-in, care, and troubleshooting.",
+    "key_components": ["Image gallery", "Table of contents/sections", "Bulleted list"],
+    "primary_cta": "Measure your horse"
+  },
+  {
+    "id": "204853",
+    "content_format": "Landing / marketing page",
+    "summary": "Cavallo 'What's New?' hub linking to the newsletter, media features (Beyonce, Oscars, Queen Elizabeth II's pony) and the video library for hoof care content.",
+    "key_components": ["Image gallery", "Table of contents/sections", "CTA button"],
+    "primary_cta": "Read your news"
+  },
+  {
+    "id": "204872",
+    "content_format": "Standard article (text + images)",
+    "summary": "Article on using Cavallo Hoof Boots for therapy, rehab and turnout, covering conditions like laminitis, navicular, abscesses and white line disease, and how the shock-absorbing soles aid healing.",
+    "key_components": ["Image gallery", "Video embed"],
+    "primary_cta": "Shop hoof boots"
+  },
+  {
+    "id": "265034",
+    "content_format": "Newsletter",
+    "summary": "Cavallo's August 2025 newsletter featuring the new LEB donkey boot on The Humble Hoof podcast and a request for vet-recommended customer stories.",
+    "key_components": ["Image gallery", "Video embed", "CTA button", "Bulleted list"],
+    "primary_cta": "Share your story"
+  },
+  {
+    "id": "271825",
+    "content_format": "Newsletter",
+    "summary": "Cavallo's October 2025 ('Hoof-o-ween') newsletter on supporting laminitis recovery with Cavallo boots and a feature on The Humble Hoof podiatry clinic.",
+    "key_components": ["Image gallery", "Video embed", "CTA button", "Table of contents/sections"],
+    "primary_cta": "Find out more"
+  },
+  {
+    "id": "325041",
+    "content_format": "Newsletter",
+    "summary": "Cavallo's August 2024 newsletter with a Liberty Festival ticket contest tease and a feature on the documentary 'The Cowboy and the Queen' about Monty Roberts and Queen Elizabeth II.",
+    "key_components": ["Image gallery", "Video embed", "Table of contents/sections"],
+    "primary_cta": "Read more"
+  },
+  {
+    "id": "327827",
+    "content_format": "Newsletter",
+    "summary": "Cavallo's September 2024 newsletter announcing the upcoming Consteed AI 'smart' diagnostic hoof boot and featuring the Texas Tech Masked Rider's horse wearing Trek boots.",
+    "key_components": ["Image gallery", "Video embed", "Table of contents/sections"],
+    "primary_cta": "Read more"
+  },
+  {
+    "id": "331028",
+    "content_format": "Product page",
+    "summary": "Product page for the Cavallo LEB 'Long Ear Boot' for donkeys in turquoise, sold in pairs, donkey-specific sizing D00-D5; used for trail packing, transport, driving, rehab and turnout.",
+    "key_components": ["Product gallery", "Add-to-cart", "Product tabs", "Bulleted list"],
+    "primary_cta": "Add to cart"
+  },
+  {
+    "id": "331284",
+    "content_format": "Product page",
+    "summary": "Product page for the Cavallo Trek/BFB Colour Pop Straps Pack, 3 pairs of exchangeable hoof boot straps in hunter orange, bright yellow and turquoise for added security and easy boot identification.",
+    "key_components": ["Product gallery", "Add-to-cart", "Product tabs", "Bulleted list"],
+    "primary_cta": "Add to cart"
+  },
+  {
+    "id": "333847",
+    "content_format": "Newsletter",
+    "summary": "Cavallo's February 2026 newsletter featuring Stampede of Love mini therapy horses in Cavallo CLB boots meeting Buddhist monks on a peace walk, and a recap of the AAEP equine practitioners meeting.",
+    "key_components": ["Image gallery", "Video embed", "CTA button", "Table of contents/sections"],
+    "primary_cta": "Read more"
+  },
+  {
+    "id": "333988",
+    "content_format": "Standard article (text + images)",
+    "summary": "Winter hoof care guide for horse owners covering trim scheduling, breakover, moisture management, and preventing thrush and white line disease in cold, muddy conditions.",
+    "key_components": ["Image gallery", "Video embed"],
+    "primary_cta": "Read more"
+  }
+]

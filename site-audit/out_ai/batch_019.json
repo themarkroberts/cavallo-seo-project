@@ -1,0 +1,86 @@
+[
+  {
+    "id": "1213",
+    "content_format": "Standard article (text + images)",
+    "summary": "Blog post by Carole Herder promoting Best of America by Horseback (BOABH), a national trail-riding TV show, and showing Cavallo all-terrain hoof boots in action on the trail.",
+    "key_components": ["Video embed", "Inline images"],
+    "primary_cta": "Watch the video"
+  },
+  {
+    "id": "1214",
+    "content_format": "Standard article (text + images)",
+    "summary": "Short blog post sharing a customer photo of Barbara McPhillips carriage-driving in Cavallo Sport hoof boots, with a shout-out to UK equestrian retailer Horse and More.",
+    "key_components": ["Customer feature"],
+    "primary_cta": "Visit Horse and More"
+  },
+  {
+    "id": "1216",
+    "content_format": "Standard article (text + images)",
+    "summary": "Carole Herder opinion piece on the welfare of domestic horses kept in captivity, arguing they need a sense of control and freedom over their environment for better health and lifespan.",
+    "key_components": ["Inline image"],
+    "primary_cta": "None"
+  },
+  {
+    "id": "1218",
+    "content_format": "Standard article (text + images)",
+    "summary": "Carole Herder essay on horse shelter and stabling, arguing horses need basic dry shelter and socialization rather than being locked in stalls or over-protected like porcelain dolls.",
+    "key_components": ["Inline image"],
+    "primary_cta": "None"
+  },
+  {
+    "id": "1220",
+    "content_format": "Standard article (text + images)",
+    "summary": "Blog post by Carole Herder recounting a visit from the RCMP Musical Ride team to Cavallo, trialing Cavallo Comfort System Saddle Pads, with background on the Musical Ride tradition.",
+    "key_components": ["Inline image"],
+    "primary_cta": "None"
+  },
+  {
+    "id": "1221",
+    "content_format": "Standard article (text + images)",
+    "summary": "Personal narrative by Joe Camp about his mare Mariah suddenly going lame from a hoof abscess and his struggle to keep faith in natural, barefoot horse-care methods.",
+    "key_components": ["Image gallery"],
+    "primary_cta": "None"
+  },
+  {
+    "id": "1222",
+    "content_format": "Standard article (text + images)",
+    "summary": "Carole Herder article questioning the over-use of horse blankets, explaining how blanketing can suppress a horse's natural thermoregulation and immune function.",
+    "key_components": ["Inline image"],
+    "primary_cta": "None"
+  },
+  {
+    "id": "1224",
+    "content_format": "Standard article (text + images)",
+    "summary": "Carole Herder post on natural/holistic equine health care, highlighting Dr. Robert Bowker's Corona Equine Vista Center and its hoof-care and lameness research.",
+    "key_components": ["Inline image"],
+    "primary_cta": "None"
+  },
+  {
+    "id": "1226",
+    "content_format": "Standard article (text + images)",
+    "summary": "Carole Herder article warning about pharmaceutical and toxin contamination in horse drinking water and the importance of clean hydration, especially in hot summer.",
+    "key_components": ["Inline images"],
+    "primary_cta": "None"
+  },
+  {
+    "id": "1227",
+    "content_format": "Standard article (text + images)",
+    "summary": "Carole Herder overview of recreational trail-riding sports ACTHA (USA) and TREC (Europe), describing their obstacle and horsemanship formats and how to get involved.",
+    "key_components": ["Inline images"],
+    "primary_cta": "View ACTHA events"
+  },
+  {
+    "id": "1228",
+    "content_format": "Standard article (text + images)",
+    "summary": "Carole Herder storytelling piece reflecting on farriers and the tradition of metal horseshoes versus the barefoot/trimming movement, framed around an encounter at Equine Affaire.",
+    "key_components": ["Inline images"],
+    "primary_cta": "None"
+  },
+  {
+    "id": "1230",
+    "content_format": "Listicle",
+    "summary": "Customer thank-you note that turns into a list of the benefits of keeping horses barefoot, including healthier hooves, better circulation, fewer lameness issues, and lower farrier costs.",
+    "key_components": ["Bulleted list", "Inline image", "Testimonials"],
+    "primary_cta": "None"
+  }
+]

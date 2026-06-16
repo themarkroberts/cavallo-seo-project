@@ -1,0 +1,63 @@
+<!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading"><strong>Cavallo Abroad</strong></h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="https://en.wikipedia.org/wiki/Cologne" target="_blank" rel="noopener">Cologne, German</a>y is offering an interesting muddle of humanity as Mardi Gras preludes <a href="https://en.wikipedia.org/wiki/Oktoberfest" target="_blank" rel="noopener">Oktoberfest.</a> The world’s party animals are on parade through the cobblestoned labyrinth of corridors they call streets. Flamboyant plumes of every color billow above mobs of purple spun hair and glittered faces. Smiles flash intermittently with whoops of cheers for this and that. Throngs pull the unsuspecting into their tides. As dusk approaches, it’s really every man for himself.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Normality continues in the sanctuary halls and exhibits of our world’s largest wholesale equestrian trade show. It’s here that Greg and I proudly offer <a href="http://cavallo.local/product-category/hoof-boot/" target="_blank" rel="noopener">Cavallo’s latest and greatest</a> to our global market. We are enjoying the uber-sophisticated commerce of <a href="http://www.spogahorse.com/spogahorse/index-2.php" target="_blank" rel="noopener">SPOGA. </a>Some of these companies are truly magnificent.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading"><strong>Meanwhile, Back at the Ranch...</strong></h4>
+<!-- /wp:heading -->
+
+<!-- wp:image {"id":10089,"linkDestination":"custom"} -->
+<figure class="wp-block-image"><a href="http://cavallo.local/contact-us/"><img src="//www.cavallo.local/wp-content/uploads/2017/09/2017-09-11-K-and-Chloe-cropped-452x339.jpg" alt="Krystle and Chloe" class="wp-image-10089"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Back at headquarters in beautiful <a href="https://en.wikipedia.org/wiki/Roberts_Creek,_British_Columbia" target="_blank" rel="noopener">Roberts Creek, BC</a>, the Cavallo team holds down the fort. &nbsp;Answering your calls, chatting live, responding to internet inquiries, filling orders, organizing stock, shipments, schedules, partnerships, handling <a href="http://cavallo.local/product-category/hoof-boot/" target="_blank" rel="noopener">Cavallo Hoof Boot</a>&nbsp;sales...and the list goes on.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>It is here where Krystle commands her window seat with her perfect little pooch, Chloe. Dedicating her efforts to our collective purpose with the honed skill acquired through nine years of growth and development with us, Krystle delights and humors both her co-workers and customers. Passion, vision, knowledge and efficiency combine to make Krystle a shining star.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Krystle has come a long way through the years - putting herself through University and achieving a degree in Psychology,&nbsp; purchasing her own horsey property and recently marrying a fabulous man...and all the while continuing to learn the skills required to significantly contribute to the success of Cavallo.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>This is a thank you and acknowledgement of Krystle. Her contribution to Cavallo infuses our culture with gracious competence. <a href="http://cavallo.local/" target="_blank" rel="noopener">If you know Cavallo,</a> you know Krystle and you will agree&nbsp; - SHE ROCKS!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":5} -->
+<h5 class="wp-block-heading"><strong>Happy Trails,</strong></h5>
+<!-- /wp:heading -->
+
+<!-- wp:image {"id":10645,"width":"300px"} -->
+<figure class="wp-block-image is-resized"><img src="//www.cavallo.local/wp-content/uploads/2017/12/CaroleSig.jpg" alt="Carole Herder's Signature" class="wp-image-10645" style="width:300px"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":10798,"align":"left"} -->
+<figure class="wp-block-image alignleft"><img src="//www.cavallo.local/wp-content/uploads/2018/01/Caroles-Signature-2017.png" alt="Carole Herder's Signature" class="wp-image-10798"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph -->

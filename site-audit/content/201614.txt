@@ -1,0 +1,5 @@
+<!-- wp:affiliatewp/affiliate-area /-->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->

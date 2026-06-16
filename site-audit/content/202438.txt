@@ -1,0 +1,276 @@
+<!-- wp:group {"style":{"background":{"backgroundImage":{"url":"http://cavallo.local/wp-content/uploads/2024/09/image-29.jpg","id":727,"source":"file","title":"image 29"},"backgroundPosition":"88% 50%"},"spacing":{"margin":{"top":"0","bottom":"0"},"padding":{"top":"40px","bottom":"40px"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group" style="margin-top:0;margin-bottom:0;padding-top:40px;padding-bottom:40px"><!-- wp:heading {"textAlign":"center","level":1,"style":{"elements":{"link":{"color":{"text":"var:preset|color|white"}}}},"textColor":"white"} -->
+<h1 class="wp-block-heading has-text-align-center has-white-color has-text-color has-link-color">Navicular Soundness: How Cavallo Boots Can Restore Your Horse's Comfort &amp; Mobility</h1>
+<!-- /wp:heading --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:group {"style":{"spacing":{"padding":{"top":"0","bottom":"0","left":"0","right":"0"},"margin":{"top":"64px","bottom":"0"}}},"layout":{"type":"constrained","contentSize":"795px"}} -->
+<div class="wp-block-group" style="margin-top:64px;margin-bottom:0;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:heading {"textAlign":"center","level":3} -->
+<h3 class="wp-block-heading has-text-align-center">Cavallo - The first Ever Riding Boot that Can Double as a Therapy Boot:</h3>
+<!-- /wp:heading --></div>
+<!-- /wp:group -->
+
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">Since 2006, Cavallo Hoof Boot customers have enjoyed the peace of mind of having a dual-purpose hoof boot—a boot that can handle the toughest of trails yet do double duty as a highly effective therapy boot for Navicular Syndrome or ANY hoof ailment or emergency if ever needed. Having a pair of Cavallos in the barn lets horse owners sleep at night, knowing they’re prepared for anything!</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"reverse-order\u002d\u002dmobile","style":{"spacing":{"padding":{"top":"var:preset|spacing|xxl","bottom":"var:preset|spacing|xxl"},"margin":{"top":"0","bottom":"0"}}},"backgroundColor":"light-red-1","layout":{"type":"constrained","contentSize":""}} -->
+<div class="wp-block-group reverse-order--mobile has-light-red-1-background-color has-background" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--xxl);padding-bottom:var(--wp--preset--spacing--xxl)"><!-- wp:columns {"verticalAlignment":"top"} -->
+<div class="wp-block-columns are-vertically-aligned-top"><!-- wp:column {"verticalAlignment":"top","width":"44.48%"} -->
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis:44.48%"><!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Navicular Syndrome: Often Misunderstood</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Navicular Disease, also known as Navicular Syndrome or Caudal Heel Pain, is a frequently diagnosed yet often misunderstood condition. Its symptoms emerge gradually, manifesting in subtle ways: pinned ears, tail swishing, reluctance to pick up the correct lead, an uneasy stance, or even tripping on uneven ground. Your horse may seem slightly off, but pinpointing the cause can be difficult. Signs such as shifting weight, an unwillingness to stand square, or reluctance to lift a hoof for the farrier should not be overlooked—they are early warnings of a deeper issue.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">A Natural Solution for Hoof Pain &amp; Injury</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Conventional treatments often involve stall rest, modified exercise routines, anti-inflammatory medications, or bar shoes. While these methods may provide temporary relief, they do not address the root cause: restricted circulation and impaired hoof function. The best way to restore soundness and prevent further degeneration is to encourage natural movement and proper blood flow—which is exactly what Cavallo Hoof Boots are designed to do.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Why Cavallo Hoof Boots?</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Cavallo Hoof Boots are more than just protection; they are an integral part of your horse’s healing process. Designed to support optimal hoof function, Cavallo Boots allow the hoof to expand, flex, and absorb shock naturally, reducing strain on tendons and ligaments. By facilitating unrestricted blood circulation, they promote healing and prevent further deterioration.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Beyond Navicular Syndrome, Cavallo Hoof Boots provide therapeutic relief for a variety of hoof ailments, including abscesses, laminitis, sole bruising, injuries, and overall hoof sensitivity.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"24px","bottom":"32px"}}}} -->
+<p style="margin-top:24px;margin-bottom:32px">Whether your horse is in recovery or in need of ongoing hoof protection, Cavallo Boots offer a practical and reliable solution.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"top","width":"","style":{"spacing":{"padding":{"right":"0","left":"0","top":"0","bottom":"0"}}},"layout":{"type":"constrained","contentSize":"585px","justifyContent":"right","wideSize":""}} -->
+<div class="wp-block-column is-vertically-aligned-top" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:image {"id":202441,"scale":"cover","sizeSlug":"full","linkDestination":"none","style":{"color":{"duotone":"unset"},"border":{"width":"0px","style":"none","radius":"10px"}}} -->
+<figure class="wp-block-image size-full has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2025/04/Showing-Navicular-Bone.jpg" alt="Cross section of hoof showing Navicular bone" class="wp-image-202441" style="border-style:none;border-width:0px;border-radius:10px;object-fit:cover"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:group {"style":{"spacing":{"padding":{"top":"0","bottom":"0","left":"0","right":"0"},"margin":{"top":"64px","bottom":"0"}}},"layout":{"type":"constrained","contentSize":"795px"}} -->
+<div class="wp-block-group" style="margin-top:64px;margin-bottom:0;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:heading {"textAlign":"center","level":3} -->
+<h3 class="wp-block-heading has-text-align-center">Key Benefits of Cavallo Boots for Hoof Recovery:</h3>
+<!-- /wp:heading --></div>
+<!-- /wp:group -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>Shock Absorption – The slightly raised rim offsets pressure on tender soles, reducing pain and discomfort.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Encourages Circulation – Cavallo Boot design promotes natural blood flow, essential for healing and hoof health.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Reduces Strain on Ligaments &amp; Tendons – Providing comfort and stability, they help prevent further stress on affected areas.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Protection &amp; Comfort – Offers an ideal transition from metal shoes to barefoot, minimizing sensitivity and supporting rehabilitation.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Versatile &amp; Practical – Suitable for turnout, trail riding, and rehabilitation, ensuring your horse stays active and comfortable.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Support for Various Hoof Conditions – Helps manage abscesses, injuries, laminitis, and general hoof soreness with ease.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">Plus, with our range of various hoof boot pads offering comfort and support for your equine friend, recovery just gets easier!</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"reverse-order\u002d\u002dmobile","style":{"spacing":{"padding":{"top":"var:preset|spacing|xxl","bottom":"var:preset|spacing|xxl"},"margin":{"top":"0","bottom":"0"}}},"backgroundColor":"light-red-1","layout":{"type":"constrained","contentSize":""}} -->
+<div class="wp-block-group reverse-order--mobile has-light-red-1-background-color has-background" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--xxl);padding-bottom:var(--wp--preset--spacing--xxl)"><!-- wp:columns {"verticalAlignment":"top"} -->
+<div class="wp-block-columns are-vertically-aligned-top"><!-- wp:column {"verticalAlignment":"top","width":"44.48%"} -->
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis:44.48%"><!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Enhancing Comfort with Cavallo Pad Insoles</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>For horses requiring additional comfort and therapeutic support, Cavallo offers a range of hoof boot insole pads to complement hoof boots:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>Cavallo Gel Pads – Stimulate circulation and provide a massaging effect, ideal for horses with chronic hoof pain or in transition to barefoot.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Cavallo Comfort Pads – Offer extra cushioning for sensitive soles and aid in shock absorption, reducing strain on tendons and ligaments.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Cavallo Cushion Pads – A softer option that provides relief for laminitic horses or those with extreme hoof tenderness.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Customizable Inserts – Layers can be stacked for tailored support, ensuring your horse gets the right level of protection and comfort.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"top","width":"","style":{"spacing":{"padding":{"right":"0","left":"0","top":"0","bottom":"0"}}},"layout":{"type":"constrained","contentSize":"585px","justifyContent":"right","wideSize":""}} -->
+<div class="wp-block-column is-vertically-aligned-top" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:image {"id":202443,"scale":"cover","sizeSlug":"full","linkDestination":"none","style":{"color":{"duotone":"unset"},"border":{"width":"0px","style":"none","radius":"10px"}}} -->
+<figure class="wp-block-image size-full has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2025/04/2021-Cavallo-Hoof-Pad-Differences-Chart-WEB.png" alt="Which Cavallo Hoof Pad insole styles &amp; uses Chart" class="wp-image-202443" style="border-style:none;border-width:0px;border-radius:10px;object-fit:cover"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:group {"style":{"spacing":{"padding":{"top":"0","bottom":"0","left":"0","right":"0"},"margin":{"top":"64px","bottom":"0"}}},"layout":{"type":"constrained","contentSize":"795px"}} -->
+<div class="wp-block-group" style="margin-top:64px;margin-bottom:0;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:heading {"textAlign":"center","level":3} -->
+<h3 class="wp-block-heading has-text-align-center">Restore Mobility &amp; Enhance Healing</h3>
+<!-- /wp:heading --></div>
+<!-- /wp:group -->
+
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">A horse suffering from Navicular Syndrome, laminitis, or hoof injuries can find immediate relief with Cavallo Boots. They allow for gentle movement, which is critical in keeping blood flowing freely through the hoof. Unlike traditional bar shoes that restrict hoof expansion, Cavallo Boots enable natural mechanics, helping to prevent further structural damage.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"0","bottom":"0","left":"0","right":"0"},"margin":{"top":"64px","bottom":"0"}}},"layout":{"type":"constrained","contentSize":"795px"}} -->
+<div class="wp-block-group" style="margin-top:64px;margin-bottom:0;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:heading {"textAlign":"center","level":3} -->
+<h3 class="wp-block-heading has-text-align-center">Trusted by Professionals, Loved by Horse Owners</h3>
+<!-- /wp:heading --></div>
+<!-- /wp:group -->
+
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">Veterinarians, farriers, and trainers worldwide recommend Cavallo Hoof Boots as an effective, therapeutic solution for horses experiencing hoof pain. Whether you are rehabilitating a horse with Navicular Syndrome or simply looking for a way to support soundness, Cavallo Boots provide a natural and reliable path to healing.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"0","bottom":"0","left":"0","right":"0"},"margin":{"top":"64px","bottom":"0"}}},"layout":{"type":"constrained","contentSize":"795px"}} -->
+<div class="wp-block-group" style="margin-top:64px;margin-bottom:0;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:heading {"textAlign":"center","level":3} -->
+<h3 class="wp-block-heading has-text-align-center">Make the Best Choice for Your Horse</h3>
+<!-- /wp:heading --></div>
+<!-- /wp:group -->
+
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">Your horse deserves a pain-free life. With Cavallo Hoof Boots, you can take an active role in restoring comfort, promoting long-term hoof health, and enhancing your horse’s overall well-being. Don’t just manage symptoms—address the cause with the therapeutic benefits of Cavallo.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|gap"}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Real Stories from Horses with Navicular:</h3>
+<!-- /wp:heading -->
+
+<!-- wp:media-text {"mediaId":203296,"mediaLink":"http://cavallo.local/cavallo-boots-for-navicular/navicular-mare-comfortable-during-riding/","mediaType":"image","mediaWidth":34} -->
+<div class="wp-block-media-text is-stacked-on-mobile" style="grid-template-columns:34% auto"><figure class="wp-block-media-text__media"><img src="http://cavallo.local/wp-content/uploads/2025/06/Navicular-Mare-comfortable-during-riding.jpg" alt="" class="wp-image-203296 size-full"/></figure><div class="wp-block-media-text__content"><!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|gutter","bottom":"var:preset|spacing|gutter"},"margin":{"top":"0","bottom":"0"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--gutter);padding-bottom:var(--wp--preset--spacing--gutter)"><!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading">"10 miles later, she was prancing home like a machine!"</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>“I want to share my day…cuz no doubt without my Cavallos, I’d not have gone more than a mile or two.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>I’m in South Dakota, and we’ve had massive snow and ice, but now it’s mud and slop, and the fields are so drifted that it’s either muddy, rocky ground or nada.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Oh, my mare is also navicular! But 10 miles later, she was prancing home like a machine!! I love our boots with ice studs!!”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"placeholder":"Content…"} -->
+<p>-Christine Kasowski Cernetisch</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div></div>
+<!-- /wp:media-text -->
+
+<!-- wp:media-text {"mediaPosition":"right","mediaId":203297,"mediaLink":"http://cavallo.local/cavallo-boots-for-navicular/mare-recovering-from-navicular-syndrome-with-cavallo-hoof-boots/","mediaType":"image","mediaWidth":34} -->
+<div class="wp-block-media-text has-media-on-the-right is-stacked-on-mobile" style="grid-template-columns:auto 34%"><div class="wp-block-media-text__content"><!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|gutter","bottom":"var:preset|spacing|gutter"},"margin":{"top":"0","bottom":"0"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--gutter);padding-bottom:var(--wp--preset--spacing--gutter)"><!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading">Mare Transitions to Barefoot &amp; Heals from Navicular with Cavallos:</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>“Thank you for your advice on the studs. They’ve worked a treat! I also got her a new pair of your purple Trek Boots. My mare’s old, green ones are still in working order after a year of lots of use!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>We both love Cavallos and they have helped so much in my mare’s transition to barefoot and rehabilitation from Navicular Syndrome. Can’t wait to show off her new boots to the world.” ????</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"placeholder":"Content…"} -->
+<p>-Viix Vk</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div><figure class="wp-block-media-text__media"><img src="http://cavallo.local/wp-content/uploads/2025/06/Mare-recovering-from-Navicular-Syndrome-with-Cavallo-Hoof-Boots.jpg" alt="Mare recovering from Navicular Syndrome with Cavallo Hoof Boots" class="wp-image-203297 size-full"/></figure></div>
+<!-- /wp:media-text --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|gap","bottom":"var:preset|spacing|gap"},"margin":{"top":"0","bottom":"0"},"blockGap":"var:preset|spacing|md"}},"backgroundColor":"light-red-1","layout":{"type":"constrained"}} -->
+<div class="wp-block-group has-light-red-1-background-color has-background" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--gap);padding-bottom:var(--wp--preset--spacing--gap)"><!-- wp:group {"style":{"spacing":{"padding":{"top":"0","bottom":"0","left":"0","right":"0"},"margin":{"bottom":"0"}}},"layout":{"type":"constrained","contentSize":"795px"}} -->
+<div class="wp-block-group" style="margin-bottom:0;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:heading {"textAlign":"center","level":4,"style":{"spacing":{"padding":{"top":"0","bottom":"0"}}}} -->
+<h4 class="wp-block-heading has-text-align-center" style="padding-top:0;padding-bottom:0">Learn how to use Cavallos to help your Navicular Horse:</h4>
+<!-- /wp:heading -->
+
+<!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"}} -->
+<div class="wp-block-buttons"><!-- wp:button {"backgroundColor":"white","textColor":"red","style":{"border":{"width":"2px","color":"#C8102E","radius":"100px"},"elements":{"link":{"color":{"text":"var:preset|color|red"}}},"spacing":{"padding":{"left":"66px","right":"66px","top":"12px","bottom":"12px"}}}} -->
+<div class="wp-block-button"><a class="wp-block-button__link has-red-color has-white-background-color has-text-color has-background has-link-color has-border-color wp-element-button" href="http://cavallo.local/is-navicular-disease-always-the-beginning-of-the-end/" style="border-color:#C8102E;border-width:2px;border-radius:100px;padding-top:12px;padding-right:66px;padding-bottom:12px;padding-left:66px">Read More Here!</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:group -->
+
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center"><strong>CAVALLO: THE WORLD’S MOST TRUSTED THERAPEUTIC HOOF BOOT.</strong></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column {"width":"66.66%"} -->
+<div class="wp-block-column" style="flex-basis:66.66%"><!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Wishing you many happy trails</h3>
+<!-- /wp:heading -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"id":4076,"width":"187px","height":"auto","sizeSlug":"full","linkDestination":"none","align":"left"} -->
+<figure class="wp-block-image alignleft size-full is-resized"><img src="http://cavallo.local/wp-content/uploads/2024/10/5381858031fd2babec50665b30807366.png" alt="" class="wp-image-4076" style="width:187px;height:auto"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"0","bottom":"0"}}},"fontSize":"large"} -->
+<p class="has-large-font-size" style="margin-top:0;margin-bottom:0">Carole Herder</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"spacing":{"padding":{"right":"0","left":"0"}}}} -->
+<p style="padding-right:0;padding-left:0">President and founder of Cavallo Horse &amp; Rider Inc</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":4085,"width":"242px","height":"auto","sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full is-resized"><img src="http://cavallo.local/wp-content/uploads/2024/10/carole-books.jpg" alt="" class="wp-image-4085" style="width:242px;height:auto"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":"33.33%"} -->
+<div class="wp-block-column" style="flex-basis:33.33%"><!-- wp:image {"id":4084,"sizeSlug":"full","linkDestination":"none","style":{"border":{"radius":"10px"}}} -->
+<figure class="wp-block-image size-full has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2024/10/carole-herder.jpg" alt="" class="wp-image-4084" style="border-radius:10px"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:acf/subscribe {"name":"acf/subscribe","data":{"title":"\u003ch2\u003eReceive Special Offers\u003c/h2\u003e\r\
+Sign up for our newsletter to get 10% off your first order, alongside exclusive promotions, industry news, tutorials, and more!","_title":"field_667bf8d5dd581","background_image":163,"_background_image":"field_667bfbf6dd582","form":"1","_form":"field_667bfc04dd583","html_anchor":"","_html_anchor":"field_672f5663be83a"},"mode":"edit"} /-->

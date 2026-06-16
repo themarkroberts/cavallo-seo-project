@@ -1,0 +1,86 @@
+[
+  {
+    "id": "3698",
+    "content_format": "Product page",
+    "summary": "Cavallo unisex 'Life is Simple' white T-shirt in 100% pre-shrunk cotton, with logo on chest and arm and eight hoof-boot prints on the back.",
+    "key_components": ["Product gallery", "Add-to-cart", "Product tabs"],
+    "primary_cta": "Add to cart"
+  },
+  {
+    "id": "3708",
+    "content_format": "Product page",
+    "summary": "Cavallo LEB 'Long Ear Boot', the first hoof boot made for donkeys, in black and sold in pairs; donkey-specific sizing D00-D5 with waterproof stitching and drainage ports for everyday use and rehab.",
+    "key_components": ["Product gallery", "Add-to-cart", "Product tabs", "Image gallery", "Bulleted list"],
+    "primary_cta": "Add to cart"
+  },
+  {
+    "id": "3718",
+    "content_format": "Product page",
+    "summary": "Cavallo gift cards in $50-$300 denominations, now purchasable only by phone; redemptions over $49.95 qualify for free shipping.",
+    "key_components": ["Product gallery", "Add-to-cart", "Product tabs"],
+    "primary_cta": "Call to purchase"
+  },
+  {
+    "id": "3756",
+    "content_format": "Product page",
+    "summary": "Cavallo Cooler Bag, a 6-pack-sized lightweight insulated bag for rides and events that folds up for storage.",
+    "key_components": ["Product gallery", "Add-to-cart", "Product tabs"],
+    "primary_cta": "Add to cart"
+  },
+  {
+    "id": "3759",
+    "content_format": "Product page",
+    "summary": "Cavallo Windshield Ice Scraper, a durable winter scraper built for tough conditions.",
+    "key_components": ["Product gallery", "Add-to-cart", "Product tabs"],
+    "primary_cta": "Add to cart"
+  },
+  {
+    "id": "4794",
+    "content_format": "Newsletter",
+    "summary": "April 2020 Cavallo community newsletter covering lockdown updates from Emma Massingale's miniatures, Monty Roberts, TrailMeister, and a Pure Liberty training course, with embedded video and images.",
+    "key_components": ["Image gallery", "Video embed", "Table of contents/sections", "Pull quote/testimonial"],
+    "primary_cta": "Read more"
+  },
+  {
+    "id": "4795",
+    "content_format": "Newsletter",
+    "summary": "April 2023 Cavallo newsletter featuring a Pad Party Pack contest, Equine Affaire Ohio and Horse Expo Canada appearances, and laminitis presentation details.",
+    "key_components": ["Image gallery", "Video embed", "Table of contents/sections", "CTA button"],
+    "primary_cta": "Enter contest"
+  },
+  {
+    "id": "4796",
+    "content_format": "Newsletter",
+    "summary": "April 2024 Cavallo newsletter on sponsoring the 2024 Liberty Festival in Kentucky (with guest Amber Marshall), the monthly boot-giveaway winner, and a message from Dr. Tomas Teskey.",
+    "key_components": ["Image gallery", "Video embed", "Table of contents/sections", "CTA button", "Bulleted list"],
+    "primary_cta": "Find out more"
+  },
+  {
+    "id": "4797",
+    "content_format": "Newsletter",
+    "summary": "November/December 2023 Cavallo holiday newsletter promoting discounted gift cards and sharing customer stories and testimonials about Cavallo boots, including a laminitic rescue mini.",
+    "key_components": ["Image gallery", "Video embed", "Table of contents/sections", "CTA button"],
+    "primary_cta": "Browse gift cards"
+  },
+  {
+    "id": "4798",
+    "content_format": "Newsletter",
+    "summary": "February 2024 Cavallo newsletter announcing the monthly boot-giveaway winner, a Houston-to-Austin barefoot mounted-unit relay race, and a piece on rethinking stall rest.",
+    "key_components": ["Image gallery", "Video embed", "Table of contents/sections", "CTA button"],
+    "primary_cta": "Read more"
+  },
+  {
+    "id": "4799",
+    "content_format": "Newsletter",
+    "summary": "January 2024 Cavallo newsletter with a survey to win Trek boots, equine therapy support for Tender Little Hearts, and a recap of a Hawaii barefoot/booted hoof-care event.",
+    "key_components": ["Image gallery", "Video embed", "Table of contents/sections", "CTA button"],
+    "primary_cta": "Take the survey"
+  },
+  {
+    "id": "4800",
+    "content_format": "Newsletter",
+    "summary": "July/August 2023 Cavallo newsletter with a Trek Pro Facebook contest, the story of Patrick the pony mayor of Cockington and his book, and a farrier's horse-injury story.",
+    "key_components": ["Image gallery", "Video embed", "Table of contents/sections", "CTA button"],
+    "primary_cta": "Enter contest"
+  }
+]

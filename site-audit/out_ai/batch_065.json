@@ -1,0 +1,86 @@
+[
+  {
+    "id": "4815",
+    "content_format": "Newsletter",
+    "summary": "July 2021 Cavallo newsletter covering a planned donkey farrier documentary with Megan Hensley and a customer Q&A on treating a stubborn hoof abscess using Cavallo boots.",
+    "key_components": ["Image gallery", "Video embed", "CTA button", "Table of contents/sections"],
+    "primary_cta": "Read more"
+  },
+  {
+    "id": "4816",
+    "content_format": "Newsletter",
+    "summary": "March 2022 Cavallo newsletter featuring donkey trimmer Megan Hensley's low-restraint hoof care approach, her online donkey hoof course, and Tender Little Hearts equine-assisted services.",
+    "key_components": ["Image gallery", "Video embed", "Bulleted list", "Table of contents/sections"],
+    "primary_cta": "Read more"
+  },
+  {
+    "id": "4817",
+    "content_format": "Newsletter",
+    "summary": "March 2023 Cavallo newsletter on Cavallo CLB boots appearing on a support donkey at the Oscars (Banshees of Inisherin) and the launch of a customer referral cash-reward program.",
+    "key_components": ["Image gallery", "Video embed", "CTA button", "Table of contents/sections"],
+    "primary_cta": "Read more"
+  },
+  {
+    "id": "4819",
+    "content_format": "Newsletter",
+    "summary": "Nov/Dec 2022 Cavallo newsletter promoting gift cards, the story of Patrick the Pony elected mayor of Cockington, and Megan Hensley showing LEB long-ear donkey boots at the Donkey Welfare Symposium.",
+    "key_components": ["Image gallery", "Video embed", "CTA button", "Table of contents/sections"],
+    "primary_cta": "Read more"
+  },
+  {
+    "id": "4820",
+    "content_format": "Newsletter",
+    "summary": "October 2022 Cavallo newsletter featuring a Halloween photo contest to win Trek Boots, a chat with DVM Tomas Teskey, and a PHCP holistic hoof care conference recap.",
+    "key_components": ["Image gallery", "Video embed", "CTA button", "Table of contents/sections"],
+    "primary_cta": "Enter contest"
+  },
+  {
+    "id": "5224",
+    "content_format": "Landing / marketing page",
+    "summary": "Explains Cavallo's Donations and Sponsorships program supporting horse rescues, equine therapy centres, and equestrian groups with product donations, discounts, and prizes.",
+    "key_components": ["Image gallery", "CTA button", "Table of contents/sections"],
+    "primary_cta": "Make a request"
+  },
+  {
+    "id": "5269",
+    "content_format": "Landing / marketing page",
+    "summary": "Endorsement page where Monty Roberts praises Cavallo Total Comfort System saddle pads and Carole Herder's book 'There Are No Horseshoes in Heaven', including a video.",
+    "key_components": ["Image gallery", "Video embed", "Table of contents/sections"],
+    "primary_cta": "None"
+  },
+  {
+    "id": "5287",
+    "content_format": "Template / functional page",
+    "summary": "Email signup confirmation page welcoming new subscribers to the Cavallo Community and prompting them to confirm their subscription and start shopping.",
+    "key_components": ["CTA button"],
+    "primary_cta": "Start shopping"
+  },
+  {
+    "id": "5290",
+    "content_format": "Landing / marketing page",
+    "summary": "Email-gated landing page for the 'BARE Facts' download, explaining the physiological case for barefoot (unshod) horses and how the hoof functions without shoes.",
+    "key_components": [],
+    "primary_cta": "Download the BARE Facts"
+  },
+  {
+    "id": "5299",
+    "content_format": "Landing / marketing page",
+    "summary": "Email-gated landing page offering a free Cavallo Barefoot Trim manual and video by trimmer Lynn Seeley, with a customer testimonial about learning to trim.",
+    "key_components": ["Pull quote/testimonial", "Testimonials", "Table of contents/sections"],
+    "primary_cta": "Download free trim guide"
+  },
+  {
+    "id": "5302",
+    "content_format": "Video page",
+    "summary": "Standalone page embedding a Cavallo barefoot trim YouTube video with no surrounding text.",
+    "key_components": ["Video embed"],
+    "primary_cta": "None"
+  },
+  {
+    "id": "5304",
+    "content_format": "Video page",
+    "summary": "Book bonus page for Carole Herder's 'There Are No Horseshoes in Heaven' offering three educational webinar videos with Dr. Tomas Teskey and Monty Roberts on hoof health and barefoot care.",
+    "key_components": ["Video embed", "Table of contents/sections"],
+    "primary_cta": "Watch videos"
+  }
+]

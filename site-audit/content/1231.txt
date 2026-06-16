@@ -1,0 +1,23 @@
+<!-- wp:image {"id":5096,"width":"416px","height":"auto","sizeSlug":"full","linkDestination":"none","align":"left"} -->
+<figure class="wp-block-image alignleft size-full is-resized"><img src="http://cavallo.local/wp-content/uploads/2013/08/tb-e1405621257857.jpg" alt="" class="wp-image-5096" style="width:416px;height:auto"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>Here is my 24 year old TB ex racehorse Bobby (Lord Ace) with his Cavallo Sport Hoof Boots on in the field.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>I had to take Bobby's shoes off last year due to crumbly hoof walls. He has been sound barefoot with the help of the Cavallo Boots.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>They are so easy to use and he loves them .</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Elizabeth-Anne, United Kingdom</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->

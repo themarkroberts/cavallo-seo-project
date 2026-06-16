@@ -1,0 +1,53 @@
+<!-- wp:image {"id":2626,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="http://cavallo.local/wp-content/uploads/2024/09/SimpBootAndSport2-2.jpg" alt="" class="wp-image-2626"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><strong>By Carole Herder</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Horse hoof boots are the most effective way of protecting horse’s hoofs while being ridden. Hoof boots absorb shock, protect the hoof against aggressive terrain and provide comfort for your horse.&nbsp; Hoof boots do not jeopardize the natural shock absorbing function of the hoof and they do not impede natural blood circulation. Compared to metal shoes, horse hoof boots provide all the elements of protecting the domestic horse’s hoof without the side effects of transmitting concussion up the horse’s structure and inhibiting natural hoof mechanism.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Horse hoof boots can be fastened onto the hoof in a variety of ways. The easiest and most effective fastening system is provided by Cavallo multi –purpose hoof boots. Cavallo boots Velcro on easily and do not come off. They allow you to ride your horse through any terrain at any speed.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":1378,"align":"center"} -->
+<figure class="wp-block-image aligncenter"><img src="//cavallo.local/wp-content/uploads/2013/05/ruggedLR33.jpg" alt="" class="wp-image-1378" title="horse hoof boots"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Hoof boots can be used as a “spare tire” if you lose a metal shoe on the trail.Taking along an extra boot is a must for every trail rider. You always have a spare tire in your vehicle. Right?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Hoof boots are perfect for protection while transporting your horse. Using them on top of metal shoes while trailering ensures that your horse arrive at his destination with his shoes still on and no injuries to the coronet bands or quarters. And the bonus is that your horse will be less fatigued by the stressful process, because he will have the cushion of his boots to absorb shock during transport.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Cavallo hoof boots can be used for protection during breeding. If a horse is kicked with a metal shoe it is much worse than a bump with the sole of the hoof boot. Some even use hoof boots while turning horses out together to prevent injuries.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Horse hoof boots are easy to use for treating injuries. They can be used for poultices, soaking solutions and protection for wound dressings. Today there are technically advanced compounds that have far greater shock-absorbing features than metal.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Cavallo hoof boots are the easy, simple solution for protecting your horse’s hoofs. They are the new “Nike for horses”.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Happy Trails,</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Carole Herder,<br>
+President<br>
+Cavallo Horse &amp; Rider</p>
+<!-- /wp:paragraph -->

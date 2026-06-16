@@ -1,0 +1,80 @@
+<!-- wp:group {"style":{"spacing":{"margin":{"top":"0","bottom":"0"},"padding":{"top":"40px","bottom":"40px"}},"background":{"backgroundImage":{"url":"http://cavallo.local/wp-content/uploads/2024/09/image-29.gif","id":760,"source":"file","title":"image 29"},"backgroundSize":"cover"}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group" style="margin-top:0;margin-bottom:0;padding-top:40px;padding-bottom:40px"><!-- wp:heading {"textAlign":"center","level":1,"style":{"elements":{"link":{"color":{"text":"var:preset|color|white"}}}},"textColor":"white"} -->
+<h1 class="wp-block-heading has-text-align-center has-white-color has-text-color has-link-color">Shop Cavallo</h1>
+<!-- /wp:heading --></div>
+<!-- /wp:group -->
+
+<!-- wp:acf/featured-products {"name":"acf/featured-products","data":{"version":"slider","_version":"field_66cf1d8c0c859","title":"Featured Products","_title":"field_66b86a9496e9d","items":["331028","201999","3708","201847","201948","7189","6844","3465","202041","2351"],"_items":"field_66b86b1596ea1","html_anchor":"","_html_anchor":"field_672f5663be83a"},"mode":"edit"} /-->
+
+<!-- wp:acf/banner-slider {"name":"acf/banner-slider","data":{"background_image":203805,"_background_image":"field_66ed590f12bdc","items_0_text":"\u003ch2\u003ePatrick can’t wait to wear his boots at Breyerfest®, he needs some teeny CLB ‘Cute Little Boots’!\u003c/h2\u003e\r\
+\u003ch4\u003eSarah Schaff\u003c/h4\u003e\r\
+\u003cspan style=\u0022font-size: 20px;\u0022\u003eOwner of Patrick the Mini, Breyer® Horse, 2019\u003c/span\u003e","_items_0_text":"field_66ed598112bde","items_0_cta":{"title":"Shop CLB (Cute Little) Boots","url":"http://cavallo.local/product-category/hoof-boot/mini-hoof-boots/","target":""},"_items_0_cta":"field_66ed59aa12bdf","items_0_image":203805,"_items_0_image":"field_6899c4ce073e2","items_1_text":"\u003ch2\u003e\u0022I’m very excited about the new LEB donkey boots, and just had a wonderful time sharing them with a new mammoth donkey client!\u0022\u003c/h2\u003e\r\
+\u003ch4\u003eMegan Hensley\u003c/h4\u003e\r\
+\u003cspan style=\u0022font-size: 20px;\u0022\u003eThe Donkey Farrier\u003c/span\u003e","_items_1_text":"field_66ed598112bde","items_1_cta":{"title":"Shop LEB Long Ear Boots","url":"http://cavallo.local/product-category/leb-long-ear-hoof-boots-for-donkeys/","target":""},"_items_1_cta":"field_66ed59aa12bdf","items_1_image":204838,"_items_1_image":"field_6899c4ce073e2","items_2_text":"\u003ch2\u003e\u0022Cavallo has saved Flo from having to stick to a sandy arena for the rest of her life, when she'd rather be out in the hills!\u0022\u003c/h2\u003e\r\
+\u003ch4\u003ePaige Stracener\u003c/h4\u003e\r\
+\u003cspan style=\u0022font-size: 20px;\u0022\u003eBig Sky Hooves Photography - @bigskyhooves on IG\u003c/span\u003e","_items_2_text":"field_66ed598112bde","items_2_cta":{"title":"Shop Trek Hoof Boots","url":"http://cavallo.local/product-category/hoof-boot/trek-hoof-boots/","target":""},"_items_2_cta":"field_66ed59aa12bdf","items_2_image":204844,"_items_2_image":"field_6899c4ce073e2","items":3,"_items":"field_66ed597512bdd","html_anchor":"","_html_anchor":"field_672f5663be83a"},"mode":"edit"} /-->
+
+<!-- wp:acf/product-categories {"name":"acf/product-categories","data":{"text":"\u003ch2 style=\u0022text-align: center;\u0022\u003eCavallo Hoof Boots\u003c/h2\u003e\r\
+\u003cp style=\u0022text-align: center;\u0022\u003eShop by Style\u003c/p\u003e","_text":"field_66ba26fc79eeb","items":["31","32","33","732","733","36","734","41"],"_items":"field_66ba271f79eec","html_anchor":"","_html_anchor":"field_672f5663be83a"},"mode":"edit"} /-->
+
+<!-- wp:acf/other-products {"name":"acf/other-products","data":{"text":"\u003ch2 style=\u0022text-align: center;\u0022\u003eOther Cavallo Products\u003c/h2\u003e\r\
+\u003cp style=\u0022text-align: center;\u0022\u003eEquine products for all your needs\u003c/p\u003e","_text":"field_66d172cccb84b","main_category":"41","_main_category":"field_66d178a2709dc","categories":["735","713","302","719","716","715"],"_categories":"field_66d17307cb84c","html_anchor":"","_html_anchor":"field_672f5663be83a"},"mode":"edit"} /-->
+
+<!-- wp:group {"className":"reverse-order\u002d\u002dmobile","style":{"spacing":{"padding":{"top":"var:preset|spacing|xxl","bottom":"var:preset|spacing|xxl"},"margin":{"top":"0","bottom":"0"}}},"backgroundColor":"light-red-1","layout":{"type":"constrained","contentSize":""}} -->
+<div class="wp-block-group reverse-order--mobile has-light-red-1-background-color has-background" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--xxl);padding-bottom:var(--wp--preset--spacing--xxl)"><!-- wp:columns {"verticalAlignment":"center"} -->
+<div class="wp-block-columns are-vertically-aligned-center"><!-- wp:column {"verticalAlignment":"center","width":"","style":{"spacing":{"padding":{"right":"0","left":"0","top":"0","bottom":"0"}}},"layout":{"type":"constrained","contentSize":"585px","justifyContent":"left","wideSize":""}} -->
+<div class="wp-block-column is-vertically-aligned-center" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:image {"id":334181,"scale":"cover","sizeSlug":"full","linkDestination":"none","style":{"color":{"duotone":"unset"},"border":{"width":"0px","style":"none","radius":"10px"}}} -->
+<figure class="wp-block-image size-full has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2026/01/Cavallo-Hoof-Boots-array.jpg" alt="" class="wp-image-334181" style="border-style:none;border-width:0px;border-radius:10px;object-fit:cover"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"center","width":"44.48%"} -->
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis:44.48%"><!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Which Cavallo Hoof Boot is Right for Me?</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"21px","bottom":"23px"}}}} -->
+<p style="margin-top:21px;margin-bottom:23px">Well, for your horse, that is :-) Choosing the right hoof boots for your horse just got easier! Explore our comprehensive guide to find the perfect Cavallo Hoof Boot that meets your horse’s needs and enhances their comfort on every ride.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"backgroundColor":"light-red-1","textColor":"red","style":{"border":{"width":"2px","color":"#C8102E","radius":"100px"},"elements":{"link":{"color":{"text":"var:preset|color|red"}}},"spacing":{"padding":{"left":"66px","right":"66px","top":"12px","bottom":"12px"}}}} -->
+<div class="wp-block-button"><a class="wp-block-button__link has-red-color has-light-red-1-background-color has-text-color has-background has-link-color has-border-color wp-element-button" href="http://cavallo.local/our-hoof-boot-technology/" style="border-color:#C8102E;border-width:2px;border-radius:100px;padding-top:12px;padding-right:66px;padding-bottom:12px;padding-left:66px">Find Your Boots</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|xxl","bottom":"var:preset|spacing|xxl"},"margin":{"top":"0","bottom":"0"}}},"backgroundColor":"white","layout":{"type":"constrained","contentSize":""}} -->
+<div class="wp-block-group has-white-background-color has-background" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--xxl);padding-bottom:var(--wp--preset--spacing--xxl)"><!-- wp:columns {"verticalAlignment":"center"} -->
+<div class="wp-block-columns are-vertically-aligned-center"><!-- wp:column {"verticalAlignment":"center","width":"44.48%"} -->
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis:44.48%"><!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Measuring Guide</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"19px","bottom":"32px"}}}} -->
+<p style="margin-top:19px;margin-bottom:32px">Ensuring a perfect fit for your Cavallo Hoof Boots starts with accurate measurements. Learn how to measure your horse's hooves correctly with our step-by-step guide to guarantee optimal comfort and performance.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"backgroundColor":"white","textColor":"red","style":{"border":{"width":"2px","color":"#C8102E","radius":"100px"},"elements":{"link":{"color":{"text":"var:preset|color|red"}}},"spacing":{"padding":{"left":"66px","right":"66px","top":"12px","bottom":"12px"}}}} -->
+<div class="wp-block-button"><a class="wp-block-button__link has-red-color has-white-background-color has-text-color has-background has-link-color has-border-color wp-element-button" href="http://cavallo.local/how-to-measure/" style="border-color:#C8102E;border-width:2px;border-radius:100px;padding-top:12px;padding-right:66px;padding-bottom:12px;padding-left:66px">How to Measure</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"center","width":"","style":{"spacing":{"padding":{"right":"0","left":"0","top":"0","bottom":"0"}}},"layout":{"type":"constrained","contentSize":"585px","justifyContent":"right","wideSize":""}} -->
+<div class="wp-block-column is-vertically-aligned-center" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:image {"id":204161,"scale":"cover","sizeSlug":"full","linkDestination":"none","style":{"color":{"duotone":"unset"},"border":{"width":"0px","style":"none","radius":"10px"}}} -->
+<figure class="wp-block-image size-full has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2025/07/Joeal-Cavallo-Hoof-Boots-Customer-free-sizing-service-expert-2-1.jpg" alt="Joeal, Cavallo Hoof Boots Customer free sizing service expert " class="wp-image-204161" style="border-style:none;border-width:0px;border-radius:10px;object-fit:cover"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:acf/subscribe {"name":"acf/subscribe","data":{"title":"\u003ch2\u003eReceive Special Offers\u003c/h2\u003e\r\
+Sign up for our newsletter to get 10% off your first order, alongside exclusive promotions, industry news, tutorials, and more!","_title":"field_667bf8d5dd581","background_image":163,"_background_image":"field_667bfbf6dd582","form":"1","_form":"field_667bfc04dd583","html_anchor":"","_html_anchor":"field_672f5663be83a"},"mode":"edit"} /-->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->

@@ -1,0 +1,67 @@
+<!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading"><strong>Horse Radio Network Radiothon - Not to be missed!</strong></h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Cavallo is a proud sponsor of the <a href="http://radiothon.horseradionetwork.com/" target="_blank" rel="noopener">3rd Annual 12 Hour Live Horse Radio Network Holiday Radiothon</a>.&nbsp; Over $4,000 in equine related prizes will be offered during this exciting event!&nbsp; There will also be twenty-four featured equestrian guests and hundreds of listener calls, songs and poems. Be sure to mark your calendar - this festive online radio event will take place on Nov. 27<sup>th</sup>, at 9:00am EST. <a href="http://www.horsesinthemorning.com/hosts/" target="_blank" rel="noopener">Glenn the Geek</a> and <a href="http://www.drwendyying.com/" target="_blank" rel="noopener">Dr. Wendy Ying</a> will be Emceeing the whole day with the help of <a href="http://www.horsesinthemorning.com/hosts/" target="_blank" rel="noopener">20 other Horse Radio Network (HRN) hosts.</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":10501,"linkDestination":"custom","align":"left"} -->
+<figure class="wp-block-image alignleft"><a href="http://radiothon.horseradionetwork.com/"><img src="//www.cavallo.local/wp-content/uploads/2017/11/Horse-radio-winnings-300x131.png" alt="Horse Radio Netwrok Radiothon Winnings" class="wp-image-10501"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>Visit <a href="http://www.holidayradiothon.com" target="_blank" rel="noopener">www.HolidayRadiothon.com</a> for all the juicy details, including how to “ENTER TO WIN” and “HOW TO LISTEN”.&nbsp; So convenient - you can listen to the Holiday Radiothon anywhere, anytime by downloading <a href="http://www.horseradionetwork.com/how-to-listen/hrn-phone-app/" target="_blank" rel="noopener">HRN’s FREE mobile phone app!</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>By <a href="http://radiothon.horseradionetwork.com/schedule/" target="_blank" rel="noopener">previewing the amazing schedule</a> and content of the holiday show, you can get to know the talented guest speakers before hearing them on the big day!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="http://www.horseradionetwork.com/" target="_blank" rel="noopener">The Horse Radio Network (HRN)</a> is the leading online radio network for horse lovers worldwide. With <a href="http://www.horseradionetwork.com/shows/" target="_blank" rel="noopener">podcasts</a> from fourteen regular shows to choose from, it’s entertaining, fun and keeps you up to date in the equine world.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading"><strong>“Glenn the Geek” - a True Cavallo Fan</strong></h4>
+<!-- /wp:heading -->
+
+<!-- wp:image {"id":10503,"linkDestination":"custom","align":"left"} -->
+<figure class="wp-block-image alignleft"><a href="http://www.horsesinthemorning.com/hosts/"><img src="//www.cavallo.local/wp-content/uploads/2017/11/2017-11-21-glenn-the-geek-150x150.jpg" alt="Glenn the Geek" class="wp-image-10503"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>We love radio host <a href="http://schoolofpodcasting.com/making-a-living-talking-about-horses-glen-the-geek-is-never-boring/" target="_blank" rel="noopener">“Glenn the Geek”</a> for his work on Horses in the Morning, but we also value him as a loyal Cavallo Community member who has given us great feedback:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><em>"My wife and I use our Cavallo boots on our riding horse and driving pony.&nbsp; We love them, they are easy to put on and because of the many sizes available they stay in place and don't twist around.&nbsp; They also work great for the road work I do in the carriage and they seem to last forever!"</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>In March I enjoyed being a guest speaker on Debbie Loucks’s (dynamic Daughter of <a href="https://www.montyroberts.com/ab_about_monty/ab_about_monty/" target="_blank" rel="noopener">Monty Roberts</a>) show <a href="http://www.horsemanshipradio.com/host/" target="_blank" rel="noopener">“Horsemanship Radio”</a> on HRN, and spoke about how listening to our horses improves us. In case you missed it, you can listen to a recording of this show <a href="http://www.horseradionetwork.com/2017/03/01/horsemanship-83-by-index-fund-advisors-ifa-com-canadian-reiner-lisa-coulter-carole-herder-cavallo-horse-and-rider-president/" target="_blank" rel="noopener">HERE.</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><em>Psssst…. And if you listen to your horse REALLY closely you might hear him whispering that he wants a pair of </em><a href="http://cavallo.local/product-category/hoof-boot/" target="_blank" rel="noopener"><em>new Cavallos</em></a><em> in his stocking this Christmas!&nbsp;</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Happy Trails,</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":10645,"width":"300px"} -->
+<figure class="wp-block-image is-resized"><img src="//www.cavallo.local/wp-content/uploads/2017/12/CaroleSig.jpg" alt="Carole Herder's Signature" class="wp-image-10645" style="width:300px"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":10798,"align":"left"} -->
+<figure class="wp-block-image alignleft"><img src="//www.cavallo.local/wp-content/uploads/2018/01/Caroles-Signature-2017.png" alt="Carole Herder's Signature" class="wp-image-10798"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->

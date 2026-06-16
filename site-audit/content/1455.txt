@@ -1,0 +1,31 @@
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":5178,"linkDestination":"custom","align":"left"} -->
+<figure class="wp-block-image alignleft"><a href="//cavallo.local/wp-content/uploads/2014/12/Max-boots-saddle-2-Nov-2013.jpg"><img src="//cavallo.local/wp-content/uploads/2014/12/Max-boots-saddle-2-Nov-2013-337x452.jpg" alt="Horse Hoof Boots" class="wp-image-5178"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>I want to share my horse story with you. I am 40 yrs old and got my first horse a year and a half ago (after wanting one since I was 6). I got a 13 year old Appaloosa gelding who is the best horse in the world. His name is Max. The previous owner decided to go barefoot after Max had some intermittent lameness. I have been religious about maintaining his barefoot status even when the vet recommended a wedge shoe because of his “heel soreness” (i.e. possible navicular syndrome). I talked to our excellent farrier and he said that Max’s hooves are very healthy and he could do a lot to improve the hoof angle with just trimming.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Max has responded very well. The cutest part of this story is how much I think he really “loves” his Cavallo boots. I always show them to him before I put them on and he almost seems eager to get them on, lifting his hoof immediately –it’s like I can’t get them on fast enough for his liking! He then walks down the gravel driveway like he is king of the palace. I use the pastern wraps for longer rides and right after he gets trimmed so that the boot moves around a little less. Last fall, the ground froze before it snowed and all the horses at the boarding stable had sore feet because the ground was so hard. Max wore his Cavallo simple boots for turn out until we got good snow cover to provide some cushion and he seemed so comfortable.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Thank you for your great products that make Max’s life better. When he wears out his Simple boots, we will order the new Trek boot. Or maybe we will order them so he has a second pair – who can live with just one pair of shoes!?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Warmest wishes,<br>Niki</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:spacer {"height":"40px"} -->
+<div style="height:40px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->

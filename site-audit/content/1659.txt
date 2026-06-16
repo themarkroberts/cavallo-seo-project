@@ -1,0 +1,31 @@
+<!-- wp:paragraph -->
+<p>I recently spoke at a new horse show in Toronto, called <u>Mane Even</u><span style="text-decoration: underline;">t</span>. <a href="http://www.parelli.com/about/linda-parelli.html" target="_blank" rel="noopener">Linda Parelli</a> delighted the crowd with her kind handling of our equine pals, while other clinicians spoke on a range of topics from nutrition to ground management.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Interest and excitement for Barefoot and Booted is growing. Next month, I will be speaking for 3 days at <a href="https://horsexpo.com/" target="_blank" rel="noopener">Western States Horse Expo</a> in Sacramento, California. Of course, we are expecting a very positive turnout for that.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":8899,"width":"392px","height":"auto","align":"left"} -->
+<figure class="wp-block-image alignleft is-resized"><img src="//www.cavallo.local/wp-content/uploads/2017/05/Happy-Horse-in-Treks.jpg" alt="Image of a horse with Cavallo Hoof Boots on." class="wp-image-8899" style="width:392px;height:auto"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>Questions are now being asked by horse owners and they are the correct questions. It’s no longer about riders asking their trainers, owners asking their farriers and vets what to do and then blindly following. We, as a horse community, are seeking answers that make sense to us - answers that we can substantiate, understand and get behind. We no longer feel ‘less than’ or uneducated. The internet has changed everything and we are learning new information rapidly. Sure, there is still going to be conflicting information, but we can pick out what’s ours. We can sift through and determine what makes sense to us and for our horses. It’s about making decisions for the animals in our care. Decisions that matters. We can no longer delegate our authority away. We are no longer trusting 1500 years of tradition because it has always been so. Join us in our decision to take metal shoes off horses and use <a href="https://goo.gl/XtPIQS" target="_blank" rel="noopener">Cavallo Hoof Boots</a>.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Come on out and see me at Western States Horse Expo. Greg and I will be there with our good friends in the <a href="https://www.valleyvet.com/" target="_blank" rel="noopener">Valley Vet Supply </a>Booth. Come visit us!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Happy Trails,</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":8639,"align":"left"} -->
+<figure class="wp-block-image alignleft"><img src="//www.cavallo.local/wp-content/uploads/2017/05/Caroles-signiture-image.png" alt="Image of Cavallo President, Carole Herder" class="wp-image-8639"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->

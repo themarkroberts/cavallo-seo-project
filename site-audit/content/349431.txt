@@ -1,0 +1,383 @@
+<!-- wp:heading {"level":5,"style":{"elements":{"link":{"color":{"text":"var:preset|color|white"}}},"typography":{"textAlign":"center"}},"backgroundColor":"dark-10","textColor":"white"} -->
+<h5 class="wp-block-heading has-text-align-center has-white-color has-dark-10-background-color has-text-color has-background has-link-color">~ <strong>FINAL SALE • LIMITED STOCK • NO BACKORDERS</strong> ~</h5>
+<!-- /wp:heading -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:image {"id":349997,"sizeSlug":"full","linkDestination":"none","align":"center","style":{"spacing":{"margin":{"right":"0","left":"0"}}}} -->
+<figure class="wp-block-image aligncenter size-full" style="margin-right:0;margin-left:0"><img src="http://cavallo.local/wp-content/uploads/2026/05/70-OFF-at-Cavallo-scaled.jpg" alt="70% off Cavallo Saddle Pads &amp; More" class="wp-image-349997"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:group -->
+
+<!-- wp:heading {"level":1,"style":{"elements":{"link":{"color":{"text":"var:preset|color|white"}}},"spacing":{"padding":{"right":"var:preset|spacing|max","left":"var:preset|spacing|max"}},"typography":{"textAlign":"center"}},"backgroundColor":"dark-10","textColor":"white","UAGHideMob":true,"UAGResponsiveConditions":true} -->
+<h1 class="wp-block-heading has-text-align-center has-white-color has-dark-10-background-color has-text-color has-background has-link-color uag-hide-mob" style="padding-right:var(--wp--preset--spacing--max);padding-left:var(--wp--preset--spacing--max)"><strong>CLEARANCE: </strong><br><br>Get 70% OFF All Saddle Pads, ELB Bling Hoof Boots, Splint Boots, Halters &amp; Fly Masks!</h1>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":1,"style":{"elements":{"link":{"color":{"text":"var:preset|color|white"}}},"spacing":{"padding":{"right":"var:preset|spacing|sm","left":"var:preset|spacing|sm"}},"typography":{"textAlign":"center"}},"backgroundColor":"dark-10","textColor":"white","UAGHideDesktop":true,"UAGHideTab":true,"UAGResponsiveConditions":true} -->
+<h1 class="wp-block-heading has-text-align-center has-white-color has-dark-10-background-color has-text-color has-background has-link-color uag-hide-desktop uag-hide-tab" style="padding-right:var(--wp--preset--spacing--sm);padding-left:var(--wp--preset--spacing--sm)"><strong>CLEARANCE: </strong><br><br>Get 70% OFF All Saddle Pads, ELB Bling Hoof Boots, Splint Boots, Halters &amp; Fly Masks!</h1>
+<!-- /wp:heading -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"level":4,"style":{"spacing":{"padding":{"top":"var:preset|spacing|lg","bottom":"var:preset|spacing|lg"}},"elements":{"link":{"color":{"text":"var:preset|color|dark-red"}}},"typography":{"textAlign":"center"}},"textColor":"dark-red"} -->
+<h4 class="wp-block-heading has-text-align-center has-dark-red-color has-text-color has-link-color" style="padding-top:var(--wp--preset--spacing--lg);padding-bottom:var(--wp--preset--spacing--lg)"><strong>Plus FREE Surprise Gift... AND orders over $79.95 get FREE shipping!</strong></h4>
+<!-- /wp:heading --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|sm"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group" style="padding-top:var(--wp--preset--spacing--sm)"><!-- wp:image {"id":349499,"sizeSlug":"full","linkDestination":"none","align":"center"} -->
+<figure class="wp-block-image aligncenter size-full"><img src="http://cavallo.local/wp-content/uploads/2026/05/Saddle-Pads.jpg" alt="" class="wp-image-349499"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"metadata":{"categories":["call-to-action"],"name":"Simple call to action"},"align":"full","style":{"color":{"text":"#000000","background":"#ffffff"}}} -->
+<div class="wp-block-group alignfull has-text-color has-background" style="color:#000000;background-color:#ffffff"><!-- wp:heading {"level":5,"style":{"elements":{"link":{"color":{"text":"var:preset|color|white"}}},"spacing":{"padding":{"top":"var:preset|spacing|gutter","bottom":"var:preset|spacing|gutter","left":"0","right":"0"}},"typography":{"textAlign":"center"}},"backgroundColor":"dark-red","textColor":"white"} -->
+<h5 class="wp-block-heading has-text-align-center has-white-color has-dark-red-background-color has-text-color has-background has-link-color" style="padding-top:var(--wp--preset--spacing--gutter);padding-right:0;padding-bottom:var(--wp--preset--spacing--gutter);padding-left:0"><strong>USE COUPON CODE: HURRY70</strong></h5>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"style":{"typography":{"fontSize":59,"lineHeight":"1.15","textAlign":"center"},"spacing":{"padding":{"top":"var:preset|spacing|lg","bottom":"var:preset|spacing|lg"}}},"anchor":"schedule-a-visit"} -->
+<h2 class="wp-block-heading has-text-align-center" id="schedule-a-visit" style="padding-top:var(--wp--preset--spacing--lg);padding-bottom:var(--wp--preset--spacing--lg);font-size:59px;line-height:1.15"><strong>Find Your Perfect Pad</strong>!</h2>
+<!-- /wp:heading -->
+
+<!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center","orientation":"horizontal"}} -->
+<div class="wp-block-buttons"><!-- wp:button {"style":{"color":{"background":"#000000","text":"#ffffff"},"border":{"radius":{"topLeft":"34px","topRight":"34px","bottomLeft":"34px","bottomRight":"34px"}},"typography":{"fontSize":"14px"},"spacing":{"padding":{"left":"var:preset|spacing|gutter","right":"var:preset|spacing|gutter"}}}} -->
+<div class="wp-block-button"><a class="wp-block-button__link has-text-color has-background has-custom-font-size wp-element-button" href="http://cavallo.local/product-category/saddle-pads/" style="border-top-left-radius:34px;border-top-right-radius:34px;border-bottom-left-radius:34px;border-bottom-right-radius:34px;color:#ffffff;background-color:#000000;padding-right:var(--wp--preset--spacing--gutter);padding-left:var(--wp--preset--spacing--gutter);font-size:14px" target="_blank" rel="noreferrer noopener">Grab Your Pad Before They’re Gone!</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons -->
+
+<!-- wp:spacer {"height":"54px"} -->
+<div style="height:54px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading {"level":5,"style":{"typography":{"textAlign":"center"}}} -->
+<h5 class="wp-block-heading has-text-align-center">(Some saddle pad styles already sold out!)</h5>
+<!-- /wp:heading -->
+
+<!-- wp:spacer {"height":"19px"} -->
+<div style="height:19px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:group {"metadata":{"name":"Pricing Table","categories":["services"],"patternName":"three-column-pricing-table"},"align":"full","className":"alignfull","style":{"spacing":{"padding":{"top":"calc( 0.5 * var(\u002d\u002dwp\u002d\u002dstyle\u002d\u002droot\u002d\u002dpadding-right, var(\u002d\u002dwp\u002d\u002dcustom\u002d\u002dgap\u002d\u002dhorizontal)))","bottom":"calc( 0.5 * var(\u002d\u002dwp\u002d\u002dstyle\u002d\u002droot\u002d\u002dpadding-right, var(\u002d\u002dwp\u002d\u002dcustom\u002d\u002dgap\u002d\u002dhorizontal)))","left":"var(\u002d\u002dwp\u002d\u002dstyle\u002d\u002droot\u002d\u002dpadding-left, var(\u002d\u002dwp\u002d\u002dcustom\u002d\u002dgap\u002d\u002dhorizontal))","right":"var(\u002d\u002dwp\u002d\u002dstyle\u002d\u002droot\u002d\u002dpadding-right, var(\u002d\u002dwp\u002d\u002dcustom\u002d\u002dgap\u002d\u002dhorizontal))"},"margin":{"top":"0","bottom":"0"}}},"layout":{"type":"constrained","justifyContent":"center"}} -->
+<div class="wp-block-group alignfull" style="margin-top:0;margin-bottom:0;padding-top:calc( 0.5 * var(--wp--style--root--padding-right, var(--wp--custom--gap--horizontal)));padding-right:var(--wp--style--root--padding-right, var(--wp--custom--gap--horizontal));padding-bottom:calc( 0.5 * var(--wp--style--root--padding-right, var(--wp--custom--gap--horizontal)));padding-left:var(--wp--style--root--padding-left, var(--wp--custom--gap--horizontal))"><!-- wp:spacer {"height":"calc( 0.25 * var(\u002d\u002dwp\u002d\u002dstyle\u002d\u002droot\u002d\u002dpadding-right, var(\u002d\u002dwp\u002d\u002dcustom\u002d\u002dgap\u002d\u002dhorizontal)))"} -->
+<div style="height:calc( 0.25 * var(--wp--style--root--padding-right, var(--wp--custom--gap--horizontal)))" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"level":3,"className":"is-pricing-title","style":{"spacing":{"padding":{"top":"var:preset|spacing|xs","bottom":"var:preset|spacing|xs"}},"typography":{"textAlign":"center"}}} -->
+<h3 class="wp-block-heading has-text-align-center is-pricing-title" style="padding-top:var(--wp--preset--spacing--xs);padding-bottom:var(--wp--preset--spacing--xs)"><strong>What Will You Pay? Check Out These 70% off Prices:</strong></h3>
+<!-- /wp:heading -->
+
+<!-- wp:spacer {"height":"var:preset|spacing|30"} -->
+<div style="height:var(--wp--preset--spacing--30)" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:columns {"align":"wide","style":{"spacing":{"blockGap":{"top":"var:preset|spacing|30","left":"var:preset|spacing|30"}}}} -->
+<div class="wp-block-columns alignwide"><!-- wp:column {"style":{"color":{"background":"#00000012"},"spacing":{"padding":{"top":"var:preset|spacing|30","bottom":"var:preset|spacing|30","left":"var:preset|spacing|30","right":"var:preset|spacing|30"}}}} -->
+<div class="wp-block-column has-background" style="background-color:#00000012;padding-top:var(--wp--preset--spacing--30);padding-right:var(--wp--preset--spacing--30);padding-bottom:var(--wp--preset--spacing--30);padding-left:var(--wp--preset--spacing--30)"><!-- wp:group {"style":{"spacing":{"blockGap":"0"}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"level":4,"className":"is-pricing-tier-name","style":{"typography":{"fontSize":"1.5rem","textAlign":"center"}}} -->
+<h4 class="wp-block-heading has-text-align-center is-pricing-tier-name" style="font-size:1.5rem"><strong>Cavallo</strong> <strong>Full Monty Saddle Pad:</strong></h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"className":"is-pricing-tier-price","style":{"spacing":{"padding":{"top":"var:preset|spacing|sm","bottom":"var:preset|spacing|sm"}},"typography":{"textAlign":"center"}},"fontSize":"normal"} -->
+<p class="has-text-align-center is-pricing-tier-price has-normal-font-size" style="padding-top:var(--wp--preset--spacing--sm);padding-bottom:var(--wp--preset--spacing--sm)"><strong>Regular Price: $229.95 USD</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":"has-dark-red-color has-text-color has-link-color","style":{"elements":{"link":{"color":{"text":"var:preset|color|dark-red"}}},"typography":{"textAlign":"center"}},"textColor":"dark-red","fontSize":"x-large"} -->
+<p class="has-text-align-center has-dark-red-color has-text-color has-link-color has-x-large-font-size"><strong>Sale Price: $68.95</strong></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"style":{"color":{"background":"#00000012"},"spacing":{"padding":{"top":"var:preset|spacing|30","bottom":"var:preset|spacing|30","left":"var:preset|spacing|30","right":"var:preset|spacing|30"}}}} -->
+<div class="wp-block-column has-background" style="background-color:#00000012;padding-top:var(--wp--preset--spacing--30);padding-right:var(--wp--preset--spacing--30);padding-bottom:var(--wp--preset--spacing--30);padding-left:var(--wp--preset--spacing--30)"><!-- wp:group {"metadata":{"name":"Pricing Title"},"style":{"spacing":{"blockGap":"0"}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"level":4,"className":"is-pricing-tier-name","style":{"typography":{"textAlign":"center"}},"fontSize":"x-large"} -->
+<h4 class="wp-block-heading has-text-align-center is-pricing-tier-name has-x-large-font-size"><strong>English Raised Wither Saddle Pad</strong>:</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"className":"is-pricing-tier-price","style":{"spacing":{"padding":{"top":"var:preset|spacing|sm","bottom":"var:preset|spacing|sm"}},"typography":{"textAlign":"center"}},"fontSize":"normal"} -->
+<p class="has-text-align-center is-pricing-tier-price has-normal-font-size" style="padding-top:var(--wp--preset--spacing--sm);padding-bottom:var(--wp--preset--spacing--sm)"><strong>Regular Price:  $139.95</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":"has-dark-red-color has-text-color has-link-color","style":{"elements":{"link":{"color":{"text":"var:preset|color|dark-red"}}},"typography":{"textAlign":"center"}},"textColor":"dark-red","fontSize":"x-large"} -->
+<p class="has-text-align-center has-dark-red-color has-text-color has-link-color has-x-large-font-size"><strong>Sale Price: $41.98</strong></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"style":{"color":{"background":"#00000012"},"spacing":{"padding":{"top":"var:preset|spacing|30","bottom":"var:preset|spacing|30","left":"var:preset|spacing|30","right":"var:preset|spacing|30"}}}} -->
+<div class="wp-block-column has-background" style="background-color:#00000012;padding-top:var(--wp--preset--spacing--30);padding-right:var(--wp--preset--spacing--30);padding-bottom:var(--wp--preset--spacing--30);padding-left:var(--wp--preset--spacing--30)"><!-- wp:group {"style":{"spacing":{"blockGap":"0"}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"level":3,"className":"is-pricing-tier-name","style":{"typography":{"textAlign":"center"}},"fontSize":"x-large"} -->
+<h3 class="wp-block-heading has-text-align-center is-pricing-tier-name has-x-large-font-size"><strong>One pair of ELB Bling Hoof Boots:</strong></h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"className":"is-pricing-tier-price","style":{"spacing":{"padding":{"top":"var:preset|spacing|sm","bottom":"var:preset|spacing|sm"}},"typography":{"textAlign":"center"}},"fontSize":"normal"} -->
+<p class="has-text-align-center is-pricing-tier-price has-normal-font-size" style="padding-top:var(--wp--preset--spacing--sm);padding-bottom:var(--wp--preset--spacing--sm)"><strong>Regular Price: $169.90 </strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":"has-dark-red-color has-text-color has-link-color","style":{"elements":{"link":{"color":{"text":"var:preset|color|dark-red"}}},"typography":{"textAlign":"center"}},"textColor":"dark-red","fontSize":"x-large"} -->
+<p class="has-text-align-center has-dark-red-color has-text-color has-link-color has-x-large-font-size"><strong>Sale Price: $50.97</strong></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:spacer {"height":"calc( 0.25 * var(\u002d\u002dwp\u002d\u002dstyle\u002d\u002droot\u002d\u002dpadding-right, var(\u002d\u002dwp\u002d\u002dcustom\u002d\u002dgap\u002d\u002dhorizontal)))"} -->
+<div style="height:calc( 0.25 * var(--wp--style--root--padding-right, var(--wp--custom--gap--horizontal)))" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"level":5,"style":{"typography":{"textAlign":"center"}}} -->
+<h5 class="wp-block-heading has-text-align-center">Our Cavallo Saddle Pads have earned a loyal following for a reason — exceptional comfort, premium materials, thoughtful design, and quality that stands the test of time. Riders worldwide trust them to keep their horses comfortable and performing at their best.</h5>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"typography":{"textAlign":"center"}}} -->
+<p class="has-text-align-center">As proud as we are of these incredible pads, Cavallo’s true passion has always been hoof health. As we look to the future, we’ve made the decision to focus our full energy, innovation, and expertise on creating the world’s best and most dynamic hoof boots.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"typography":{"textAlign":"center"}}} -->
+<p class="has-text-align-center">That means this is your chance to grab our beloved saddle pads before they’re gone! Same unbeatable quality. Final opportunity.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:heading {"level":1,"style":{"elements":{"link":{"color":{"text":"var:preset|color|white"}}},"spacing":{"padding":{"right":"var:preset|spacing|gutter","left":"var:preset|spacing|gutter"}},"typography":{"textAlign":"center"}},"backgroundColor":"dark-10","textColor":"white"} -->
+<h1 class="wp-block-heading has-text-align-center has-white-color has-dark-10-background-color has-text-color has-background has-link-color" style="padding-right:var(--wp--preset--spacing--gutter);padding-left:var(--wp--preset--spacing--gutter)"><strong>LAST CHANCE!  70% OFF All ELB Bling Boots:</strong></h1>
+<!-- /wp:heading -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"id":349530,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="http://cavallo.local/wp-content/uploads/2026/05/ELB-Bling-studio-4.jpg" alt="" class="wp-image-349530"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"id":349526,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="http://cavallo.local/wp-content/uploads/2026/05/Cavallo-ELB-Bling-Hoof-Boot-front-view-3-LR-1.jpg" alt="" class="wp-image-349526"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"id":349529,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="http://cavallo.local/wp-content/uploads/2026/05/Cavallo-ELB-Bling-hoof-boot-rear-angle-view-LR.jpg" alt="Cavallo ELB Bling hoof boot rear angle view" class="wp-image-349529"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"metadata":{"categories":["call-to-action"],"name":"Simple call to action"},"align":"full","style":{"color":{"text":"#000000","background":"#ffffff"}}} -->
+<div class="wp-block-group alignfull has-text-color has-background" style="color:#000000;background-color:#ffffff"><!-- wp:heading {"level":5,"style":{"spacing":{"padding":{"top":"var:preset|spacing|gutter","bottom":"var:preset|spacing|gutter"}},"elements":{"link":{"color":{"text":"var:preset|color|white"}}},"typography":{"textAlign":"center"}},"backgroundColor":"dark-red","textColor":"white"} -->
+<h5 class="wp-block-heading has-text-align-center has-white-color has-dark-red-background-color has-text-color has-background has-link-color" style="padding-top:var(--wp--preset--spacing--gutter);padding-bottom:var(--wp--preset--spacing--gutter)"><strong>USE COUPON CODE: HURRY70</strong></h5>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"style":{"typography":{"fontSize":59,"lineHeight":"1.15","textAlign":"center"},"spacing":{"padding":{"top":"var:preset|spacing|lg","bottom":"var:preset|spacing|lg"}}},"anchor":"schedule-a-visit"} -->
+<h2 class="wp-block-heading has-text-align-center" id="schedule-a-visit" style="padding-top:var(--wp--preset--spacing--lg);padding-bottom:var(--wp--preset--spacing--lg);font-size:59px;line-height:1.15"><strong>Get Boots that Sparkle... Before they Disappear!</strong></h2>
+<!-- /wp:heading -->
+
+<!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center","orientation":"horizontal"}} -->
+<div class="wp-block-buttons"><!-- wp:button {"style":{"color":{"background":"#000000","text":"#ffffff"},"border":{"radius":{"topLeft":"34px","topRight":"34px","bottomLeft":"34px","bottomRight":"34px"}},"typography":{"fontSize":"14px"},"spacing":{"padding":{"left":"var:preset|spacing|gutter","right":"var:preset|spacing|gutter"}}}} -->
+<div class="wp-block-button"><a class="wp-block-button__link has-text-color has-background has-custom-font-size wp-element-button" href="http://cavallo.local/product/entry-level-bling-hoof-boot/" style="border-top-left-radius:34px;border-top-right-radius:34px;border-bottom-left-radius:34px;border-bottom-right-radius:34px;color:#ffffff;background-color:#000000;padding-right:var(--wp--preset--spacing--gutter);padding-left:var(--wp--preset--spacing--gutter);font-size:14px" target="_blank" rel="noreferrer noopener">Get Your Bling On Now!</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"level":5,"style":{"typography":{"textAlign":"center"}}} -->
+<h5 class="wp-block-heading has-text-align-center">(Some sizes already sold out!)</h5>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":5,"style":{"typography":{"textAlign":"center"}}} -->
+<h5 class="wp-block-heading has-text-align-center">Sparkle meets performance — one last time. ✨</h5>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"typography":{"textAlign":"center"}}} -->
+<p class="has-text-align-center">ELB Bling Boots combine eye-catching style with the trusted comfort, protection, and performance Cavallo is known for. ELB delivers both fashion and function without compromise.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"typography":{"textAlign":"center"}}} -->
+<p class="has-text-align-center">But this is your final chance... Act now to grab your favorite ELBs before they’re gone for good.)</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:heading {"level":1,"style":{"elements":{"link":{"color":{"text":"var:preset|color|white"}}},"spacing":{"padding":{"right":"var:preset|spacing|gutter","left":"var:preset|spacing|gutter"}},"typography":{"textAlign":"center"}},"backgroundColor":"dark-10","textColor":"white"} -->
+<h1 class="wp-block-heading has-text-align-center has-white-color has-dark-10-background-color has-text-color has-background has-link-color" style="padding-right:var(--wp--preset--spacing--gutter);padding-left:var(--wp--preset--spacing--gutter)"><strong>Get 70% OFF All Splint Boots, Fly Masks &amp; Breakaway Halters: </strong></h1>
+<!-- /wp:heading -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:columns {"style":{"spacing":{"padding":{"top":"var:preset|spacing|md"}}}} -->
+<div class="wp-block-columns" style="padding-top:var(--wp--preset--spacing--md)"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"id":349483,"width":"381px","height":"auto","sizeSlug":"full","linkDestination":"none","align":"center"} -->
+<figure class="wp-block-image aligncenter size-full is-resized"><img src="http://cavallo.local/wp-content/uploads/2026/05/red-halter.jpg" alt="" class="wp-image-349483" style="width:381px;height:auto"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"lightbox":{"enabled":false},"id":349481,"sizeSlug":"full","linkDestination":"custom","align":"center"} -->
+<figure class="wp-block-image aligncenter size-full"><a href="http://cavallo.local/product-category/pro-flex-splint-boots/" target="_blank" rel=" noreferrer noopener"><img src="http://cavallo.local/wp-content/uploads/2026/05/Cavallo-Black-Red-Splint-Leg-Horse-Boots-LR.jpg" alt="" class="wp-image-349481"/></a></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"id":349624,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="http://cavallo.local/wp-content/uploads/2026/05/Cavallo-Hoof-Boots-Fly-Masks-70-OFF.jpg" alt="" class="wp-image-349624"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"metadata":{"categories":["call-to-action"],"name":"Simple call to action"},"align":"full","style":{"color":{"text":"#000000","background":"#ffffff"}}} -->
+<div class="wp-block-group alignfull has-text-color has-background" style="color:#000000;background-color:#ffffff"><!-- wp:heading {"level":5,"style":{"elements":{"link":{"color":{"text":"var:preset|color|white"}}},"spacing":{"padding":{"top":"var:preset|spacing|gutter","bottom":"var:preset|spacing|gutter"}},"typography":{"textAlign":"center"}},"backgroundColor":"dark-red","textColor":"white"} -->
+<h5 class="wp-block-heading has-text-align-center has-white-color has-dark-red-background-color has-text-color has-background has-link-color" style="padding-top:var(--wp--preset--spacing--gutter);padding-bottom:var(--wp--preset--spacing--gutter)"><strong>USE COUPON CODE: HURRY70</strong></h5>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"style":{"typography":{"fontSize":"52px","lineHeight":"1.15","textAlign":"center"},"spacing":{"padding":{"top":"var:preset|spacing|lg","bottom":"var:preset|spacing|sm"}}},"anchor":"schedule-a-visit"} -->
+<h2 class="wp-block-heading has-text-align-center" id="schedule-a-visit" style="padding-top:var(--wp--preset--spacing--lg);padding-bottom:var(--wp--preset--spacing--sm);font-size:52px;line-height:1.15"><strong>Highest Quality Pro-Flex Splint Boots:</strong></h2>
+<!-- /wp:heading -->
+
+<!-- wp:buttons {"style":{"spacing":{"padding":{"top":"var:preset|spacing|lg","bottom":"var:preset|spacing|lg"}}},"layout":{"type":"flex","justifyContent":"center","orientation":"horizontal"}} -->
+<div class="wp-block-buttons" style="padding-top:var(--wp--preset--spacing--lg);padding-bottom:var(--wp--preset--spacing--lg)"><!-- wp:button {"style":{"color":{"background":"#000000","text":"#ffffff"},"border":{"radius":{"topLeft":"34px","topRight":"34px","bottomLeft":"34px","bottomRight":"34px"}},"typography":{"fontSize":"14px"},"spacing":{"padding":{"left":"var:preset|spacing|gutter","right":"var:preset|spacing|gutter"}}}} -->
+<div class="wp-block-button"><a class="wp-block-button__link has-text-color has-background has-custom-font-size wp-element-button" href="http://cavallo.local/product-category/pro-flex-splint-boots/" style="border-top-left-radius:34px;border-top-right-radius:34px;border-bottom-left-radius:34px;border-bottom-right-radius:34px;color:#ffffff;background-color:#000000;padding-right:var(--wp--preset--spacing--gutter);padding-left:var(--wp--preset--spacing--gutter);font-size:14px" target="_blank" rel="noreferrer noopener">Gear Up Your Horse Before They're Gone!!</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"level":5,"style":{"typography":{"textAlign":"center"}}} -->
+<h5 class="wp-block-heading has-text-align-center">(Some sizes already sold out!)</h5>
+<!-- /wp:heading --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:paragraph {"style":{"typography":{"textAlign":"center"}}} -->
+<p class="has-text-align-center">Because Every Stride Matters: Cavallo Pro-Fex Splint Boots combine dependable leg protection with lightweight comfort and breathability — helping your horse stay protected, comfortable, and confident whether training, competing, or hitting the trails!</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:heading {"level":3,"style":{"typography":{"fontSize":"48px","lineHeight":"1.15","textAlign":"center"},"spacing":{"padding":{"top":"var:preset|spacing|sm","bottom":"var:preset|spacing|sm"}}},"anchor":"schedule-a-visit"} -->
+<h3 class="wp-block-heading has-text-align-center" id="schedule-a-visit" style="padding-top:var(--wp--preset--spacing--sm);padding-bottom:var(--wp--preset--spacing--sm);font-size:48px;line-height:1.15"><strong>Find Cavallo Fly Masks &amp; Breakaway Halters Here:</strong></h3>
+<!-- /wp:heading -->
+
+<!-- wp:buttons {"style":{"spacing":{"padding":{"top":"var:preset|spacing|lg","bottom":"var:preset|spacing|lg"}}},"layout":{"type":"flex","justifyContent":"center","orientation":"horizontal"}} -->
+<div class="wp-block-buttons" style="padding-top:var(--wp--preset--spacing--lg);padding-bottom:var(--wp--preset--spacing--lg)"><!-- wp:button {"style":{"color":{"background":"#000000","text":"#ffffff"},"border":{"radius":{"topLeft":"34px","topRight":"34px","bottomLeft":"34px","bottomRight":"34px"}},"typography":{"fontSize":"14px"},"spacing":{"padding":{"left":"var:preset|spacing|gutter","right":"var:preset|spacing|gutter"}}}} -->
+<div class="wp-block-button"><a class="wp-block-button__link has-text-color has-background has-custom-font-size wp-element-button" href="http://cavallo.local/product-category/other-products/fly-masks-and-halters/" style="border-top-left-radius:34px;border-top-right-radius:34px;border-bottom-left-radius:34px;border-bottom-right-radius:34px;color:#ffffff;background-color:#000000;padding-right:var(--wp--preset--spacing--gutter);padding-left:var(--wp--preset--spacing--gutter);font-size:14px" target="_blank" rel="noreferrer noopener">Treat your Horse Here!</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons -->
+
+<!-- wp:heading {"level":5,"style":{"typography":{"textAlign":"center"}}} -->
+<h5 class="wp-block-heading has-text-align-center">(Some sizes already sold out!)</h5>
+<!-- /wp:heading -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:paragraph {"style":{"typography":{"textAlign":"center"}}} -->
+<p class="has-text-align-center"> From the Barn to the Trail with Comfort and Safety in Mind: Cavallo Breakaway Halters offer dependable durability with built-in peace of mind, while Simple Ride Fly Masks provide lightweight, breathable protection from flies and irritation — keeping your horse comfortable wherever the day takes you.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"level":3,"className":"is-pricing-title","style":{"spacing":{"padding":{"top":"var:preset|spacing|md","bottom":"var:preset|spacing|md"}},"typography":{"textAlign":"center"}}} -->
+<h3 class="wp-block-heading has-text-align-center is-pricing-title" style="padding-top:var(--wp--preset--spacing--md);padding-bottom:var(--wp--preset--spacing--md)"><strong>What Will You Pay? </strong></h3>
+<!-- /wp:heading -->
+
+<!-- wp:spacer {"height":"var:preset|spacing|30"} -->
+<div style="height:var(--wp--preset--spacing--30)" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:columns {"align":"wide","style":{"spacing":{"blockGap":{"top":"var:preset|spacing|30","left":"var:preset|spacing|30"}}}} -->
+<div class="wp-block-columns alignwide"><!-- wp:column {"style":{"color":{"background":"#00000012"},"spacing":{"padding":{"top":"var:preset|spacing|30","bottom":"var:preset|spacing|30","left":"var:preset|spacing|30","right":"var:preset|spacing|30"}}}} -->
+<div class="wp-block-column has-background" style="background-color:#00000012;padding-top:var(--wp--preset--spacing--30);padding-right:var(--wp--preset--spacing--30);padding-bottom:var(--wp--preset--spacing--30);padding-left:var(--wp--preset--spacing--30)"><!-- wp:group {"style":{"spacing":{"blockGap":"0"}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"level":4,"className":"is-pricing-tier-name","style":{"typography":{"textAlign":"center"}},"fontSize":"x-large"} -->
+<h4 class="wp-block-heading has-text-align-center is-pricing-tier-name has-x-large-font-size"><strong>Cavallo Splint Boots Pair:</strong></h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"className":"is-pricing-tier-price","style":{"spacing":{"padding":{"top":"var:preset|spacing|sm","bottom":"var:preset|spacing|sm"}},"typography":{"textAlign":"center"}},"fontSize":"normal"} -->
+<p class="has-text-align-center is-pricing-tier-price has-normal-font-size" style="padding-top:var(--wp--preset--spacing--sm);padding-bottom:var(--wp--preset--spacing--sm)"><strong>Regular Price: $59.95 USD</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":"has-dark-red-color has-text-color has-link-color","style":{"elements":{"link":{"color":{"text":"var:preset|color|dark-red"}}},"typography":{"textAlign":"center"}},"textColor":"dark-red","fontSize":"x-large"} -->
+<p class="has-text-align-center has-dark-red-color has-text-color has-link-color has-x-large-font-size"><strong>Sale Price: $17.98</strong></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"style":{"color":{"background":"#00000012"},"spacing":{"padding":{"top":"var:preset|spacing|30","bottom":"var:preset|spacing|30","left":"var:preset|spacing|30","right":"var:preset|spacing|30"}}}} -->
+<div class="wp-block-column has-background" style="background-color:#00000012;padding-top:var(--wp--preset--spacing--30);padding-right:var(--wp--preset--spacing--30);padding-bottom:var(--wp--preset--spacing--30);padding-left:var(--wp--preset--spacing--30)"><!-- wp:group {"metadata":{"name":"Pricing Title"},"style":{"spacing":{"blockGap":"0"}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"level":4,"className":"is-pricing-tier-name","style":{"typography":{"textAlign":"center"}},"fontSize":"x-large"} -->
+<h4 class="wp-block-heading has-text-align-center is-pricing-tier-name has-x-large-font-size"><strong>All Cavallo Halters:</strong></h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"className":"is-pricing-tier-price","style":{"spacing":{"padding":{"top":"var:preset|spacing|sm","bottom":"var:preset|spacing|sm"}},"typography":{"textAlign":"center"}},"fontSize":"normal"} -->
+<p class="has-text-align-center is-pricing-tier-price has-normal-font-size" style="padding-top:var(--wp--preset--spacing--sm);padding-bottom:var(--wp--preset--spacing--sm)"><strong>Regular Price:  $139.95</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":"has-dark-red-color has-text-color has-link-color","style":{"elements":{"link":{"color":{"text":"var:preset|color|dark-red"}}},"typography":{"textAlign":"center"}},"textColor":"dark-red","fontSize":"x-large"} -->
+<p class="has-text-align-center has-dark-red-color has-text-color has-link-color has-x-large-font-size"><strong>Sale Price: $11.98</strong></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"style":{"color":{"background":"#00000012"},"spacing":{"padding":{"top":"var:preset|spacing|30","bottom":"var:preset|spacing|30","left":"var:preset|spacing|30","right":"var:preset|spacing|30"}}}} -->
+<div class="wp-block-column has-background" style="background-color:#00000012;padding-top:var(--wp--preset--spacing--30);padding-right:var(--wp--preset--spacing--30);padding-bottom:var(--wp--preset--spacing--30);padding-left:var(--wp--preset--spacing--30)"><!-- wp:group {"style":{"spacing":{"blockGap":"0"}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"level":3,"className":"is-pricing-tier-name","style":{"typography":{"textAlign":"center"}},"fontSize":"x-large"} -->
+<h3 class="wp-block-heading has-text-align-center is-pricing-tier-name has-x-large-font-size"><strong>Cavallo Fly/Ride Mask:</strong></h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"className":"is-pricing-tier-price","style":{"spacing":{"padding":{"top":"var:preset|spacing|sm","bottom":"var:preset|spacing|sm"}},"typography":{"textAlign":"center"}},"fontSize":"normal"} -->
+<p class="has-text-align-center is-pricing-tier-price has-normal-font-size" style="padding-top:var(--wp--preset--spacing--sm);padding-bottom:var(--wp--preset--spacing--sm)"><strong>Regular Price: $19.95 </strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":"has-dark-red-color has-text-color has-link-color","style":{"elements":{"link":{"color":{"text":"var:preset|color|dark-red"}}},"typography":{"textAlign":"center"}},"textColor":"dark-red","fontSize":"x-large"} -->
+<p class="has-text-align-center has-dark-red-color has-text-color has-link-color has-x-large-font-size"><strong>Sale Price: $5.98</strong></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:spacer {"height":"calc( 0.25 * var(\u002d\u002dwp\u002d\u002dstyle\u002d\u002droot\u002d\u002dpadding-right, var(\u002d\u002dwp\u002d\u002dcustom\u002d\u002dgap\u002d\u002dhorizontal)))"} -->
+<div style="height:calc( 0.25 * var(--wp--style--root--padding-right, var(--wp--custom--gap--horizontal)))" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"level":4,"style":{"typography":{"textAlign":"center"}}} -->
+<h4 class="wp-block-heading has-text-align-center">Promo Details: </h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"typography":{"fontSize":"15px","textAlign":"center"}}} -->
+<p class="has-text-align-center" style="font-size:15px"><strong>OFFER AVAILABLE IN CANADA &amp; USA ONLY ~ Offer ONLY valid while stocks last </strong>~ 70% discount on Cavallo Saddle Pads, ELB Bling Hoof Boots, Fly Masks, Halters, and Splint Boots only ~ All sales final - no refunds or exchanges ~ No backorders or rainchecks, ~ All Pricing shown in USD (Canadian pricing will automatically update on site when accessed from Canada) ~ Cannot be combined with any other discount or promotion ~ Free surprise Cavallo gift will automatically be added to every order. Hurry - promo ends very soon!</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|md","bottom":"var:preset|spacing|md","left":"var:preset|spacing|xs","right":"var:preset|spacing|xs"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group" style="padding-top:var(--wp--preset--spacing--md);padding-right:var(--wp--preset--spacing--xs);padding-bottom:var(--wp--preset--spacing--md);padding-left:var(--wp--preset--spacing--xs)"><!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column {"width":"600px","style":{"spacing":{"padding":{"right":"var:preset|spacing|sm","left":"var:preset|spacing|sm"}}}} -->
+<div class="wp-block-column" style="padding-right:var(--wp--preset--spacing--sm);padding-left:var(--wp--preset--spacing--sm);flex-basis:600px"><!-- wp:heading {"level":4,"style":{"typography":{"fontStyle":"normal","fontWeight":"200"}}} -->
+<h4 class="wp-block-heading" style="font-style:normal;font-weight:200">Wishing you many happy trails,</h4>
+<!-- /wp:heading -->
+
+<!-- wp:image {"id":201670,"width":"250px","aspectRatio":"2.9719663199603765","scale":"cover","sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full is-resized"><img src="http://cavallo.local/wp-content/uploads/2025/03/Carole-Herder-signature-no-background.png" alt="" class="wp-image-201670" style="aspect-ratio:2.9719663199603765;object-fit:cover;width:250px"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"level":4,"style":{"typography":{"fontSize":"22px"}}} -->
+<h4 class="wp-block-heading" style="font-size:22px"><strong>Carole Herder</strong></h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><strong>President and Founder of Cavallo Horse &amp; Rider Inc</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><em>Horses have always been my teachers. Through them, I’ve learned that comfort changes everything—movement, trust, and the relationship we build together. Cavallo was born from that understanding, and continues to grow from it.</em></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":"600px"} -->
+<div class="wp-block-column" style="flex-basis:600px"><!-- wp:image {"id":348448,"width":"450px","height":"auto","aspectRatio":"0.8849829456411517","sizeSlug":"full","linkDestination":"none","align":"center","style":{"color":{"duotone":"unset"},"border":{"width":"0px","style":"none","radius":"10px"}}} -->
+<figure class="wp-block-image aligncenter size-full is-resized has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2026/04/Carole-Herder-Cavallo-Hoof-Boots-founder-president-1.jpg" alt="" class="wp-image-348448" style="border-style:none;border-width:0px;border-radius:10px;aspect-ratio:0.8849829456411517;width:450px;height:auto"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->

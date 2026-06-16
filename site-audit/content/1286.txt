@@ -1,0 +1,27 @@
+<!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="http://cavallo.local/wp-content/uploads/2024/09/worms-300x202-1.jpg" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>By Carole Herder</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Be wary of the ingredients in the horse feed industry. Select feed and quantities of food based on your understanding of nutrition. Don’t be sold to. Educate yourself so you cannot be taken advantage of.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>One of the biggest culprits of deception is in the world of supplements and pharmaceuticals. Quality is key. It is always best to try, or at least consider, natural remedies and preventative care over chemical compounds from big pharmaceutical companies. Worming is a particularly controversial issue because let’s face it companies and (and some) veterinarians want to sell wormer products; it’s big business. I believe that many doctors overprescribe worming medication. Vets used to take a more holistic approach and really visit with the horse. This kind of care has too often gone by the wayside, much the same as physicians have done in western medicine for humans. I remember when Dr. Konradi used to visit my Oma at her house (way back when).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Let’s take care of the basics first. Keep the paddock and stall clean and ensure it is free of manure. Make sure there is fresh air circulation. Outside, you usually want to have a bare minimum of an acre for every horse. If your horse is getting overrun with worms too frequently or badly it could be his nutrition or you may need to get more diligent picking up manure. If he has a healthy immune system he will be able to ward off worms better. It is the same with our health. If we eat a lot of processed foods with little nutrition it will start to affect our health and immune system function. That makes us more susceptible to catching a cold or other illness. For your horse, over-worming with drugs can deplete the immune system of natural defenses. Good times to worm are early in the spring, after the last frost and in the fall after the first frost. If you’re concerned about worms or the health of your horse’s digestive tract, have some feces examined.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Human and horse digestive systems are similar in a way. We both need to keep a healthy balance of the right bacteria in our bowels. This is particularly important for parasite control in horses. A horse may not be consuming too many sodas or desserts like we do, but too many carrots or other fruits and veggies with high sugar content can be just as bad for him as those donuts are for you. We need to minimize the sugars we take in. While your body needs greens and fiber for health and wellness, so does your horse; although he gets his with grass, leaves and twigs. It is good practice to give your horse a cycle of probiotics after a worming to help rebalance the natural flora in the digestive tract. I have found that probiotics really should be kept refrigerated, even if the packaging doesn’t direct you to do so. Our bodies want to be in an alkaline state; that’s around a pH of 7.4. Food choices and stress can make the body more acidic, which in turn leads to disease. The same is true for horses. Bottom line, do your best to fuel your horse with quality nutrition and supplements, and keep the harsh synthetic drugs and fancy packaged food products to a minimum.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>“Care, and not fine stables, makes a good horse.” -- Danish Proverb</p>
+<!-- /wp:paragraph -->

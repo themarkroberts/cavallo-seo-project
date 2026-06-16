@@ -1,0 +1,85 @@
+<!-- wp:acf/hero {"name":"acf/hero","data":{"file":350285,"_file":"field_66d9b34caf385","file_mobile":350291,"_file_mobile":"field_68baca0c3bd4f","poster_image":349232,"_poster_image":"field_682ad98638b28","poster_image_mobile":350292,"_poster_image_mobile":"field_682ad98638b29","text":"\u003ch1 class=\u0022h1-desktop\u0022\u003eThe World's Most Trusted Hoof Boots\u003c/h1\u003e\r\
+\u003cspan style=\u0022font-size: 20px;\u0022\u003eProtect your horse and keep them moving confidently on any terrain. Cavallo Boots are built for real protection, real performance, and a natural stride.\r\
+\r\
+\u003c/span\u003e\r\
+\r\
+\u003ca class=\u0022c-button c-button\u002d\u002dprimary\u0022 href=\u0022http://cavallo.local/product-category/hoof-boot/\u0022\u003eShop Hoof Boots\u003c/a\u003e\r\
+\r\
+\u003cimg class=\u0022alignnone size-full wp-image-824\u0022 src=\u0022http://cavallo.local/wp-content/uploads/2024/09/map_veterinary-care.svg\u0022 alt=\u0022\u0022 /\u003e\u003cspan style=\u0022color: #d8b868;\u0022\u003e Veterinarian Recommended        \u003cimg class=\u0022alignnone size-full wp-image-823\u0022 src=\u0022http://cavallo.local/wp-content/uploads/2024/09/mingcute_science-fill.svg\u0022 alt=\u0022\u0022 /\u003eScientifically Proven\u003c/span\u003e","_text":"field_66d9b37baf386","text_mobile":"\u003ch1 style=\u0022text-align: center;\u0022\u003eThe World's Most Trusted Hoof Boots\u003c/h1\u003e\r\
+\u003cp style=\u0022text-align: center;\u0022\u003e\u003cspan style=\u0022font-size: 18px;\u0022\u003eTrusted hoof boots for every terrain.\u003c/span\u003e\u003c/p\u003e\r\
+\u003cp style=\u0022text-align: center;\u0022\u003e\u003ca class=\u0022c-button c-button\u002d\u002dprimary\u0022 href=\u0022http://cavallo.local/product-category/hoof-boot/\u0022\u003eShop Hoof Boots\u003c/a\u003e\u003c/p\u003e\r\
+\u003cp style=\u0022text-align: center;\u0022\u003e\u003cspan style=\u0022color: #d8b868;\u0022\u003e\u003cspan style=\u0022font-size: 14px;\u0022\u003e \u003cimg class=\u0022alignnone wp-image-824\u0022 src=\u0022http://cavallo.local/wp-content/uploads/2024/09/map_veterinary-care.svg\u0022 alt=\u0022\u0022 width=\u002216\u0022 /\u003eVet. Recommended\u003c/span\u003e   \u003cimg class=\u0022alignnone wp-image-823\u0022 src=\u0022http://cavallo.local/wp-content/uploads/2024/09/mingcute_science-fill.svg\u0022 alt=\u0022\u0022 width=\u002216\u0022 /\u003e\u003cspan style=\u0022font-size: 14px;\u0022\u003eScientifically Proven\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e","_text_mobile":"field_66e8345a2081c","html_anchor":"","_html_anchor":"field_672f5663be83a"},"mode":"edit"} /-->
+
+<!-- wp:acf/featured-products {"name":"acf/featured-products","data":{"version":"default","_version":"field_66cf1d8c0c859","image":331055,"_image":"field_66b86add96e9f","title":"Featured Products","_title":"field_66b86a9496e9d","text":"Shop the world’s most trusted hoof boots \u0026 more","_text":"field_66b86ad296e9e","cta":{"title":"Shop All","url":"http://cavallo.local/shop-cavallo/","target":""},"_cta":"field_66b86af996ea0","items":["201999","331028","331284","3708","201847","2351"],"_items":"field_66b86b1596ea1","html_anchor":"","_html_anchor":"field_672f5663be83a"},"mode":"edit"} /-->
+
+<!-- wp:acf/product-categories {"name":"acf/product-categories","data":{"text":"\u003ch2 style=\u0022text-align: center;\u0022\u003eCavallo Hoof Boots\u003c/h2\u003e\r\
+\u003cp style=\u0022text-align: center;\u0022\u003eShop by Style\u003c/p\u003e","_text":"field_66ba26fc79eeb","items":["31","32","33","732","733","36","734","41"],"_items":"field_66ba271f79eec","html_anchor":"","_html_anchor":"field_672f5663be83a"},"mode":"edit"} /-->
+
+<!-- wp:acf/featured-guides {"name":"acf/featured-guides","data":{"title":"Finding the Perfect Fit: A Comprehensive Guide","_title":"field_667e55e2267ca","items_0_image":827,"_items_0_image":"field_667e5645267cc","items_0_text":"How To Measure for Cavallo Hoof Boots?","_items_0_text":"field_667e5660267cd","items_0_link":{"title":"Find Out More","url":"http://cavallo.local/how-to-measure/","target":""},"_items_0_link":"field_667e5666267ce","items_1_image":203936,"_items_1_image":"field_667e5645267cc","items_1_text":"Which Cavallo Hoof Boot is Right for Your Horse?","_items_1_text":"field_667e5660267cd","items_1_link":{"title":"Find Out More","url":"http://cavallo.local/which-cavallo-hoof-boot-is-right-for-you/","target":""},"_items_1_link":"field_667e5666267ce","items_2_image":203930,"_items_2_image":"field_667e5645267cc","items_2_text":"Our Hoof Boot Technology","_items_2_text":"field_667e5660267cd","items_2_link":{"title":"Find Out More","url":"http://cavallo.local/our-hoof-boot-technology/","target":""},"_items_2_link":"field_667e5666267ce","items_3_image":204022,"_items_3_image":"field_667e5645267cc","items_3_text":"Community Stories \u0026 Reviews","_items_3_text":"field_667e5660267cd","items_3_link":{"title":"Find Out More","url":"http://cavallo.local/reviews/","target":""},"_items_3_link":"field_667e5666267ce","items":4,"_items":"field_667e5636267cb","html_anchor":"","_html_anchor":"field_672f5663be83a"},"align":"wide","mode":"edit"} /-->
+
+<!-- wp:group {"align":"full","style":{"spacing":{"blockGap":"0","margin":{"top":"0","bottom":"0"},"padding":{"top":"0","bottom":"0","left":"0","right":"0"}}},"backgroundColor":"light-red-1","layout":{"type":"constrained","contentSize":"1920px"}} -->
+<div class="wp-block-group alignfull has-light-red-1-background-color has-background" style="margin-top:0;margin-bottom:0;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:columns {"style":{"spacing":{"blockGap":{"top":"0"}}}} -->
+<div class="wp-block-columns"><!-- wp:column {"verticalAlignment":"center"} -->
+<div class="wp-block-column is-vertically-aligned-center"><!-- wp:image {"id":3872,"sizeSlug":"large","linkDestination":"none","align":"full","className":"is-style-default"} -->
+<figure class="wp-block-image alignfull size-large is-style-default"><img src="http://cavallo.local/wp-content/uploads/2024/10/cavallo-advantage-1024x801.jpg" alt="" class="wp-image-3872"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"center","width":"","style":{"spacing":{"padding":{"top":"var:preset|spacing|xxl","bottom":"var:preset|spacing|xxl"}}}} -->
+<div class="wp-block-column is-vertically-aligned-center" style="padding-top:var(--wp--preset--spacing--xxl);padding-bottom:var(--wp--preset--spacing--xxl)"><!-- wp:group {"style":{"spacing":{"padding":{"top":"0","bottom":"0","left":"0","right":"0"},"margin":{"top":"0","bottom":"0"},"blockGap":"0"}},"layout":{"type":"constrained","contentSize":"619px","justifyContent":"left"}} -->
+<div class="wp-block-group" style="margin-top:0;margin-bottom:0;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:group {"style":{"spacing":{"padding":{"top":"0","bottom":"0"},"margin":{"top":"0","bottom":"0"}}},"layout":{"type":"constrained","contentSize":"500px","justifyContent":"right"}} -->
+<div class="wp-block-group" style="margin-top:0;margin-bottom:0;padding-top:0;padding-bottom:0"><!-- wp:columns {"style":{"spacing":{"blockGap":{"left":"var:preset|spacing|sm"}}}} -->
+<div class="wp-block-columns"><!-- wp:column {"verticalAlignment":"center","width":"70px","style":{"spacing":{"padding":{"top":"0","bottom":"0","left":"0","right":"0"}}},"layout":{"type":"constrained","contentSize":"70px","justifyContent":"left"}} -->
+<div class="wp-block-column is-vertically-aligned-center" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;flex-basis:70px"><!-- wp:separator {"style":{"spacing":{"margin":{"top":"0px","bottom":"0px"}}},"backgroundColor":"primary"} -->
+<hr class="wp-block-separator has-text-color has-primary-color has-alpha-channel-opacity has-primary-background-color has-background" style="margin-top:0px;margin-bottom:0px"/>
+<!-- /wp:separator --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":""} -->
+<div class="wp-block-column"><!-- wp:paragraph {"style":{"typography":{"fontStyle":"normal","fontWeight":"900","letterSpacing":"0.1em","textTransform":"uppercase","lineHeight":"1.31"},"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"textColor":"primary"} -->
+<p class="has-primary-color has-text-color has-link-color" style="font-style:normal;font-weight:900;letter-spacing:0.1em;line-height:1.31;text-transform:uppercase">Why Choose Cavallo Hoof Boots?</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:heading {"level":3,"style":{"typography":{"fontStyle":"normal","fontWeight":"600"},"spacing":{"margin":{"top":"28px"}}}} -->
+<h3 class="wp-block-heading" style="margin-top:28px;font-style:normal;font-weight:600">Empower Every Stride:  <br>The Cavallo Advantage</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Cavallo Hoof Boots are more than footwear for your horse; they're a statement of care. Engineered for durability, comfort, and protection, our boots support your horse's natural movement. Trust in a brand that blends innovation with quality, safeguarding your horse's steps on any terrain.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button"></a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|xxl","bottom":"var:preset|spacing|xxl"},"margin":{"top":"0","bottom":"0"}},"elements":{"link":{"color":{"text":"var:preset|color|white"}}}},"textColor":"white","gradient":"radial-black","layout":{"type":"constrained","contentSize":"953px"}} -->
+<div class="wp-block-group has-white-color has-radial-black-gradient-background has-text-color has-background has-link-color" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--xxl);padding-bottom:var(--wp--preset--spacing--xxl)"><!-- wp:heading {"style":{"elements":{"link":{"color":{"text":"var:preset|color|white"}}},"spacing":{"margin":{"bottom":"50px"}},"typography":{"textAlign":"center"}},"textColor":"white"} -->
+<h2 class="wp-block-heading has-text-align-center has-white-color has-text-color has-link-color" style="margin-bottom:50px">We are the champions of change</h2>
+<!-- /wp:heading -->
+
+<!-- wp:video {"id":3988} -->
+<figure class="wp-block-video"><video poster="http://cavallo.local/wp-content/uploads/2025/09/cavallo-mission.jpg" src="http://cavallo.local/wp-content/uploads/2024/10/2024-Cavallo-Mission-Statement-video-with-logo.mp4"></video></figure>
+<!-- /wp:video --></div>
+<!-- /wp:group -->
+
+<!-- wp:acf/testimonials {"name":"acf/testimonials","data":{"name":"CELEBERTY TESTIMONIALS","_name":"field_667a7e68c5f58","title":"Celebrities\u003cbr\u003e Speak Out","_title":"field_667a7ed9c5f59"},"mode":"edit"} /-->
+
+<!-- wp:acf/text-images {"name":"acf/text-images","data":{"subtitle":"Pioneering Protection and Comfort","_subtitle":"field_66fa5af90252e","cta":{"title":"Learn More About Our Story","url":"http://cavallo.local/about/","target":""},"_cta":"field_66fa5b280252f","background":"dark","_background":"field_66fa5b7f02532","image_side":"right","_image_side":"field_66fa5c4202533","text":"\u003ch3\u003eRevolutionizing Hoof Care:\r\
+Our Journey\u003c/h3\u003e\r\
+\u003cspan style=\u0022color: #e6e6e6;\u0022\u003eCavallo is more than a brand; it's a commitment to horse welfare. For over two decades, we've led the way in creating hoof boots that ensure protection and comfort. Our journey from a passionate idea to the world’s most trusted hoof boot brand reflects our dedication to quality, innovation, and the equestrian community.\u003c/span\u003e","_text":"field_66fa5b4402530","items":["3848","3990","3847"],"_items":"field_66fa5b5402531","html_anchor":"","_html_anchor":"field_672f5663be83a"},"mode":"edit"} /-->
+
+<!-- wp:acf/testimonials-single {"name":"acf/testimonials-single","data":{"text":"\u003ch2 class=\u0022reviews__title color-primary font-semibold text-center mb-0\u0022\u003eVoices from the Field: Real Stories\u003c/h2\u003e","_text":"field_66e03db188ac1","posts":["201198","201196","201205","201207","201210","201212","201214","201216","201218","201220","201222","201224","201226","201228","201230","204166"],"_posts":"field_66e03dde88ac2","html_anchor":"","_html_anchor":"field_672f5663be83a"},"mode":"edit"} /-->
+
+<!-- wp:acf/subscribe {"name":"acf/subscribe","data":{"title":"\u003ch2\u003eReceive Special Offers\u003c/h2\u003e\r\
+Sign up for our newsletter to get 10% off your first order, alongside exclusive promotions, industry news, tutorials, and more!","_title":"field_667bf8d5dd581","background_image":163,"_background_image":"field_667bfbf6dd582","form":"1","_form":"field_667bfc04dd583","html_anchor":"","_html_anchor":"field_672f5663be83a"},"mode":"edit"} /-->
+
+<!-- wp:acf/gallery-slider {"name":"acf/gallery-slider","data":{"title":"Snapshots from Our Community","_title":"field_667e90b44c95d","items":["202738","204170","202939","271697","202636","202736","202737","202832","202915","202833","202739"],"_items":"field_667e91994c95e","html_anchor":"","_html_anchor":"field_672f5663be83a"},"mode":"edit"} /-->

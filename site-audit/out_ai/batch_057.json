@@ -1,0 +1,86 @@
+[
+  {
+    "id": "1991",
+    "content_format": "Newsletter",
+    "summary": "Email blast announcing the launch of Cavallo Purple Trek hoof boots in sizes 0-6, with free gift and free shipping in the USA and Canada.",
+    "key_components": ["Image gallery", "Video embed", "Table of contents/sections", "CTA button"],
+    "primary_cta": "Get Purple Trek now"
+  },
+  {
+    "id": "1994",
+    "content_format": "Standard article (text + images)",
+    "summary": "Recap of Cavallo attending the first Canadian Equine Hoof Care Conference in Regina to celebrate barefoot trimmers and the booted hoof care movement.",
+    "key_components": ["Image gallery"],
+    "primary_cta": "None"
+  },
+  {
+    "id": "1997",
+    "content_format": "Long-form guide / pillar",
+    "summary": "Comprehensive laminitis guide explaining what happens to hooves during laminitis and how to manage care, healing, and recovery with Cavallo boots.",
+    "key_components": ["Image gallery", "Video embed"],
+    "primary_cta": "Read more"
+  },
+  {
+    "id": "1998",
+    "content_format": "Long-form guide / pillar",
+    "summary": "Part 1 of the Cavallo laminitis series, focused on understanding laminitis and answering the most common questions about booting to heal it.",
+    "key_components": ["Image gallery"],
+    "primary_cta": "Read more"
+  },
+  {
+    "id": "2000",
+    "content_format": "Long-form guide / pillar",
+    "summary": "Part 2 of the Cavallo laminitis series, covering immediate relief and managing laminitis with Cavallo hoof boots, pads, and ice therapy.",
+    "key_components": ["Image gallery", "Video embed"],
+    "primary_cta": "Read more"
+  },
+  {
+    "id": "2002",
+    "content_format": "Long-form guide / pillar",
+    "summary": "Part 3 of the Cavallo laminitis series, sharing hope and recovery stories plus videos on diet, herd connection, and hoof care after laminitis.",
+    "key_components": ["Image gallery", "Video embed", "Bulleted list"],
+    "primary_cta": "Read more"
+  },
+  {
+    "id": "2013",
+    "content_format": "Landing / marketing page",
+    "summary": "Mother's Day promotion offering a free set of three Cavallo books on hoof care, nutrition, and horse care, normally $54.85 USD.",
+    "key_components": ["Image gallery", "CTA button"],
+    "primary_cta": "Download free books"
+  },
+  {
+    "id": "2161",
+    "content_format": "Product page",
+    "summary": "Cavallo Gel Pads, sold in pairs: a thermoplastic elastomer therapeutic hoof boot insole for shock absorption and rehab of laminitis, navicular, and thin soles.",
+    "key_components": ["Product gallery", "Add-to-cart", "Product tabs", "Bulleted list"],
+    "primary_cta": "Add to cart"
+  },
+  {
+    "id": "2174",
+    "content_format": "Product page",
+    "summary": "Cavallo Simple Ride Mask with Ears, a transparent UV-protective fly mask that attaches to the bridle with velcro to shield horses from insects and debris.",
+    "key_components": ["Product gallery", "Add-to-cart", "Product tabs", "Bulleted list"],
+    "primary_cta": "Add to cart"
+  },
+  {
+    "id": "2188",
+    "content_format": "Product page",
+    "summary": "Cavallo Pastern Wraps, sold in pairs: neoprene wraps that protect pasterns and heel bulbs from rubbing and improve fit under all Cavallo hoof boots (sizes 0-6).",
+    "key_components": ["Image gallery", "Video embed", "Product gallery", "Add-to-cart", "Product tabs", "Bulleted list"],
+    "primary_cta": "Add to cart"
+  },
+  {
+    "id": "2205",
+    "content_format": "Product page",
+    "summary": "Cavallo Hoof Boot Stud Application Tool, a reusable drill attachment for installing Cavallo winter ice studs into hoof boots.",
+    "key_components": ["Video embed", "Product gallery", "Add-to-cart", "Product tabs", "Bulleted list"],
+    "primary_cta": "Add to cart"
+  },
+  {
+    "id": "2208",
+    "content_format": "Template / functional page",
+    "summary": "Empty Cavallo blog index landing page with no content body.",
+    "key_components": [],
+    "primary_cta": "None"
+  }
+]

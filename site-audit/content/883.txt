@@ -1,0 +1,11 @@
+<!-- wp:image {"width":"323px","height":"auto","sizeSlug":"large","align":"left"} -->
+<figure class="wp-block-image alignleft size-large is-resized"><img src="http://cavallo.local/wp-content/uploads/2024/09/P7010096.jpg" alt="" style="width:323px;height:auto"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>I'm 10 years old and just learning to ride. Jasmine, the horse I ride, doesn't wear metal shoes so she needs some protection when we ride on the trails and gravel roads. My mom brought home some Simple Hoof Boots for me and they were perfect! I can put them on and take them off by myself. Simple boots are sooo easy to use. Now I can go riding anywhere and every step is comfortable for Jasmine!</p>
+<!-- /wp:paragraph -->

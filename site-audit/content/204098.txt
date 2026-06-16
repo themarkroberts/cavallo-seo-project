@@ -1,0 +1,188 @@
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:image {"id":271745,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="http://cavallo.local/wp-content/uploads/2025/09/Cavallo-in-the-Media-Website-Page-banner.jpg" alt="" class="wp-image-271745"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|xxl","bottom":"var:preset|spacing|xxl"},"margin":{"top":"0","bottom":"0"}},"elements":{"link":{"color":{"text":"var:preset|color|white"}}}},"textColor":"white","gradient":"radial-black","layout":{"type":"constrained","contentSize":"1000px"}} -->
+<div class="wp-block-group has-white-color has-radial-black-gradient-background has-text-color has-background has-link-color" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--xxl);padding-bottom:var(--wp--preset--spacing--xxl)"><!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column {"verticalAlignment":"center","width":"","style":{"spacing":{"padding":{"right":"0","left":"0","top":"0","bottom":"0"}}},"layout":{"type":"constrained","contentSize":"412px","justifyContent":"left"}} -->
+<div class="wp-block-column is-vertically-aligned-center" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:image {"id":271751,"width":"87px","height":"auto","sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full is-resized"><img src="http://cavallo.local/wp-content/uploads/2025/09/Crown.webp" alt="" class="wp-image-271751" style="width:87px;height:auto"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Beyoncé: Queen of Hoof Boots</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"16px","bottom":"0px"}}}} -->
+<p style="margin-top:16px;margin-bottom:0px">Did you know Beyoncé rocked more than just the stage at the iconic NFL "Beyoncé Bowl"? In a dazzling twist that had the equestrian world buzzing, Cavallo Trek Boots made a surprise appearance—on her horse! Yes, you read that right. The same boots trusted by trail riders and performance horses alike were a prominent part of Beyoncé's entrance. But how did Cavallo Hoof Boots end up under the spotlight of one of the biggest stages in the world? And what does this mean for your own horse's performance, comfort, and style? Read on to uncover the story behind this even, and find out why your horse might just benefit from a superstar upgrade!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons {"layout":{"type":"flex","justifyContent":"left"}} -->
+<div class="wp-block-buttons"><!-- wp:button {"textColor":"white","className":"is-style-outline","style":{"border":{"radius":"100px","width":"2px"},"elements":{"link":{"color":{"text":"var:preset|color|white"}}},"spacing":{"padding":{"left":"var:preset|spacing|lg","right":"var:preset|spacing|lg"}}},"borderColor":"white"} -->
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link has-white-color has-text-color has-link-color has-border-color has-white-border-color wp-element-button" href="http://cavallo.local/beyonce-using-cavallo-boots/" style="border-width:2px;border-radius:100px;padding-right:var(--wp--preset--spacing--lg);padding-left:var(--wp--preset--spacing--lg)" target="_blank" rel="noreferrer noopener">How did it happen?</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"top","width":"60%","style":{"spacing":{"padding":{"right":"0","left":"0","top":"0","bottom":"0"}}},"layout":{"type":"constrained","contentSize":"","justifyContent":"right","wideSize":""}} -->
+<div class="wp-block-column is-vertically-aligned-top" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;flex-basis:60%"><!-- wp:image {"id":271800,"width":"448px","height":"auto","sizeSlug":"full","linkDestination":"none","align":"center","style":{"border":{"radius":"12px"}}} -->
+<figure class="wp-block-image aligncenter size-full is-resized has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2025/09/Black-Cavallo-Trek-Hoof-Boots-Beyonce-2024-NFL-Half-time-show.jpg" alt="" class="wp-image-271800" style="border-radius:12px;width:448px;height:auto"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|gap","bottom":"var:preset|spacing|gap"},"margin":{"top":"0","bottom":"0"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--gap);padding-bottom:var(--wp--preset--spacing--gap)"><!-- wp:columns {"verticalAlignment":"center"} -->
+<div class="wp-block-columns are-vertically-aligned-center"><!-- wp:column {"verticalAlignment":"center","width":"","style":{"spacing":{"padding":{"right":"0","left":"0","top":"0","bottom":"0"}}},"layout":{"type":"constrained","contentSize":"585px","justifyContent":"left","wideSize":""}} -->
+<div class="wp-block-column is-vertically-aligned-center" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:image {"id":348392,"sizeSlug":"full","linkDestination":"none","style":{"border":{"radius":{"topLeft":"15px","topRight":"15px","bottomLeft":"15px","bottomRight":"15px"}}}} -->
+<figure class="wp-block-image size-full has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2026/03/Ella-Langley-Cavallo-Simple-Hoof-Boots.jpg" alt="Ella Langley - using Cavallo Simple Hoof Boots" class="wp-image-348392" style="border-top-left-radius:15px;border-top-right-radius:15px;border-bottom-left-radius:15px;border-bottom-right-radius:15px"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"center","width":"44.48%"} -->
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis:44.48%"><!-- wp:heading -->
+<h2 class="wp-block-heading">Ella Langley Keeps Her Footing on Set with Simple Boots</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"fontSize":"normal"} -->
+<p class="has-normal-font-size">Wait… did you catch that?! ? Yep – that’s Ella Langley! An excited customer shared the new American Eagle video ad featuring Ella Langley, and there’s a detail that’s hard to miss: the horse she’s riding is wearing Cavallo Hoof Boots!  Ella is known to love horses, which raises an intriguing question…could that be her own horse in the ad?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"fontSize":"normal"} -->
+<p class="has-normal-font-size">It’s something to feel proud of: the same boots trusted on your horses are also chosen for big productions. From Beyoncé’s “Beyoncé Bowl” NFL Halftime performance to a mini horse in CLBs at the Oscars!</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|gap","bottom":"var:preset|spacing|gap"},"margin":{"top":"0","bottom":"0"}}},"backgroundColor":"light-red-1","layout":{"type":"constrained","contentSize":""}} -->
+<div class="wp-block-group has-light-red-1-background-color has-background" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--gap);padding-bottom:var(--wp--preset--spacing--gap)"><!-- wp:columns {"verticalAlignment":"center"} -->
+<div class="wp-block-columns are-vertically-aligned-center"><!-- wp:column {"verticalAlignment":"center","width":"","style":{"spacing":{"padding":{"right":"0","left":"0","top":"0","bottom":"0"}}},"layout":{"type":"constrained","contentSize":"585px","justifyContent":"left","wideSize":""}} -->
+<div class="wp-block-column is-vertically-aligned-center" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:image {"id":204079,"sizeSlug":"full","linkDestination":"none","style":{"border":{"radius":{"topLeft":"15px","topRight":"15px","bottomLeft":"15px","bottomRight":"15px"}}}} -->
+<figure class="wp-block-image size-full has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2025/07/Cavallo-mini-horse-hoof-boots-on-Oscars-stage.jpg" alt="Cavallo mini horse hoof boots on Oscars stage" class="wp-image-204079" style="border-top-left-radius:15px;border-top-right-radius:15px;border-bottom-left-radius:15px;border-bottom-right-radius:15px"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"center","width":"44.48%"} -->
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis:44.48%"><!-- wp:heading -->
+<h2 class="wp-block-heading">Cavallo CLB Boots Hit the Red Carpet at the Oscars!</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"fontSize":"normal"} -->
+<p class="has-normal-font-size">In one of the most heartwarming—and unexpected—moments at the 2023 Oscars, a charming donkey named Jenny stole the show while accepting an award on behalf of The Banshees of Inisherin. But what really caught the eyes of horse and donkey lovers alike? Jenny trotted out in her Cavallo CLB Boots, proudly strutting across the stage, led by none other than Jimmy Fallon himself! From muddy pastures to the red carpet, these boots are clearly fit for stars of every species. Curious how a humble hoof boot made it to the Oscars? Read on to discover the wild (and wonderful) journey.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Watch Jenny Accept the Award</strong>:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:embed {"url":"https://www.youtube.com/watch?v=zhwC2hw8Udg","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://www.youtube.com/watch?v=zhwC2hw8Udg
+</div></figure>
+<!-- /wp:embed -->
+
+<!-- wp:buttons {"layout":{"type":"flex","justifyContent":"left"}} -->
+<div class="wp-block-buttons"><!-- wp:button {"textColor":"red","className":"c-button\u002d\u002dsimple is-style-outline","style":{"elements":{"link":{"color":{"text":"var:preset|color|red"}}},"color":{"background":"#ffffff00"}}} -->
+<div class="wp-block-button c-button--simple is-style-outline"><a class="wp-block-button__link has-red-color has-text-color has-background has-link-color wp-element-button" href="https://globalnews.ca/news/11299537/vancouver-aiport-therapy-ponies/" style="background-color:#ffffff00" target="_blank" rel="noreferrer noopener"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="17"></svg>Read more</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|gap","bottom":"var:preset|spacing|gap"},"margin":{"top":"0","bottom":"0"}}},"layout":{"type":"constrained","contentSize":""}} -->
+<div class="wp-block-group" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--gap);padding-bottom:var(--wp--preset--spacing--gap)"><!-- wp:columns {"verticalAlignment":"center"} -->
+<div class="wp-block-columns are-vertically-aligned-center"><!-- wp:column {"verticalAlignment":"center","width":"44.48%"} -->
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis:44.48%"><!-- wp:heading -->
+<h2 class="wp-block-heading">Pony Up at the Airport!</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"fontSize":"large"} -->
+<p class="has-large-font-size">Dog and Pony Show Calms Airport Jitters</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"4px","bottom":"27px"}}}} -->
+<p style="margin-top:4px;margin-bottom:27px">Green Acres Therapy Horses has teamed up with Vancouver International Airport (YVR) to bring therapy ponies into the terminal, making YVR one of the first airports in the world to include miniature horses in its animal-assisted stress-relief program. Magic and Tinkerbell, two Cavallo-booted, well-trained therapy ponies, are now helping travellers feel calm and connected in an otherwise stressful environment.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.youtube.com/watch?v=t4mpzTYVRCQ"><strong>Meet the Ponies Here!</strong></a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:embed {"url":"https://www.youtube.com/watch?v=t4mpzTYVRCQ","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://www.youtube.com/watch?v=t4mpzTYVRCQ
+</div></figure>
+<!-- /wp:embed -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"textColor":"red","className":"c-button\u002d\u002dsimple is-style-outline","style":{"elements":{"link":{"color":{"text":"var:preset|color|red"}}},"color":{"background":"#ffffff00"}}} -->
+<div class="wp-block-button c-button--simple is-style-outline"><a class="wp-block-button__link has-red-color has-text-color has-background has-link-color wp-element-button" href="https://globalnews.ca/news/11299537/vancouver-aiport-therapy-ponies/" style="background-color:#ffffff00" target="_blank" rel="noreferrer noopener">Read more</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"center","width":"","style":{"spacing":{"padding":{"right":"0","left":"0","top":"0","bottom":"0"}}},"layout":{"type":"constrained","contentSize":"585px","justifyContent":"left","wideSize":""}} -->
+<div class="wp-block-column is-vertically-aligned-center" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:image {"id":271820,"sizeSlug":"full","linkDestination":"custom","style":{"border":{"radius":{"topLeft":"15px","topRight":"15px","bottomLeft":"15px","bottomRight":"15px"}}}} -->
+<figure class="wp-block-image size-full has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2025/09/Cavallo-CLB-mini-hoof-boots-Green-Acres-therapy-ponies-at-Vancouver-International-Airport.jpg" alt="" class="wp-image-271820" style="border-top-left-radius:15px;border-top-right-radius:15px;border-bottom-left-radius:15px;border-bottom-right-radius:15px"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|gap","bottom":"var:preset|spacing|gap"},"margin":{"top":"0","bottom":"0"}}},"backgroundColor":"light-red-1","layout":{"type":"constrained"}} -->
+<div class="wp-block-group has-light-red-1-background-color has-background" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--gap);padding-bottom:var(--wp--preset--spacing--gap)"><!-- wp:columns {"verticalAlignment":"center"} -->
+<div class="wp-block-columns are-vertically-aligned-center"><!-- wp:column {"verticalAlignment":"center","width":"","style":{"spacing":{"padding":{"right":"0","left":"0","top":"0","bottom":"0"}}},"layout":{"type":"constrained","contentSize":"585px","justifyContent":"left","wideSize":""}} -->
+<div class="wp-block-column is-vertically-aligned-center" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:image {"id":271807,"scale":"cover","sizeSlug":"full","linkDestination":"none","style":{"color":{"duotone":"unset"},"border":{"width":"0px","style":"none","radius":"10px"}}} -->
+<figure class="wp-block-image size-full has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2025/09/Cavallo-Trek-Hoof-Boots-used-by-Beyonce-in-eople-Magazine.jpg" alt="" class="wp-image-271807" style="border-style:none;border-width:0px;border-radius:10px;object-fit:cover"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"center","width":"44.48%"} -->
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis:44.48%"><!-- wp:heading -->
+<h2 class="wp-block-heading">Trek Makes Tracks in People Magazine!</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>It’s thrilling to see Cavallo Boots featured in the People Magazine Special Edition celebrating Beyoncé’s Cowboy Carter era! Flipping through those pages and spotting Beyoncé on a horse proudly sporting Trek Boots feels like a dream come true for our passionate team!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>To see that moment immortalized in People magazine collector’s issue is proof that passion for horse welfare can shine all the way onto the world’s biggest stage!</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"backgroundColor":"white","layout":{"type":"constrained"}} -->
+<div class="wp-block-group has-white-background-color has-background"><!-- wp:columns {"verticalAlignment":"center"} -->
+<div class="wp-block-columns are-vertically-aligned-center"><!-- wp:column {"verticalAlignment":"center","width":"","style":{"spacing":{"padding":{"right":"0","left":"0"},"blockGap":"var:preset|spacing|md"}},"layout":{"type":"constrained","contentSize":"585px","justifyContent":"left","wideSize":""}} -->
+<div class="wp-block-column is-vertically-aligned-center" style="padding-right:0;padding-left:0"><!-- wp:heading -->
+<h2 class="wp-block-heading">Thanks for the Shout-Out, Equestrian Life!</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Huge thanks to Equestrian Life magazine for the mention in their article featuring Beyoncé stealing the NFL Halftime Show on a Cavallo-booted horse!&nbsp; We’re honoured to have been part of this iconic moment in entertainment history, reminding us all that even superstar horses need comfort and protection. And to see our boots celebrated in one of the equestrian world’s most respected publications? We’re truly grateful for the recognition!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"backgroundColor":"white","textColor":"red","className":"is-style-simple","style":{"spacing":{"padding":{"left":"0","right":"0","top":"0","bottom":"0"}},"elements":{"link":{"color":{"text":"var:preset|color|red"}}}}} -->
+<div class="wp-block-button is-style-simple"><a class="wp-block-button__link has-red-color has-white-background-color has-text-color has-background has-link-color wp-element-button" href="https://www.equestrianlife.com.au/news/" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0" target="_blank" rel="noreferrer noopener">Find Out More <svg xmlns="http://www.w3.org/2000/svg" width="16" height="17">
+    <path d="m9.356 3.644 4.5 4.5a.512.512 0 0 1 0 .712l-4.5 4.5a.507.507 0 0 1-.712-.712L12.294 9H2.5a.5.5 0 1 1 0-1h9.794l-3.65-3.644a.506.506 0 0 1 .712-.712Z"></path>
+</svg>
+</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"center","width":"44.48%"} -->
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis:44.48%"><!-- wp:image {"lightbox":{"enabled":false},"id":271811,"scale":"cover","sizeSlug":"full","linkDestination":"custom","style":{"color":{"duotone":"unset"},"border":{"width":"0px","style":"none","radius":"10px"}}} -->
+<figure class="wp-block-image size-full has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2025/09/Equestrian-Life-article-about-Cavallo-Hoof-Boots-on-Beyonce-horse.jpg" alt="" class="wp-image-271811" style="border-style:none;border-width:0px;border-radius:10px;object-fit:cover"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->

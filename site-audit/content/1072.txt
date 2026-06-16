@@ -1,0 +1,11 @@
+<!-- wp:image {"id":1073,"width":"472px","height":"auto","sizeSlug":"full","linkDestination":"none","align":"left"} -->
+<figure class="wp-block-image alignleft size-full is-resized"><img src="http://cavallo.local/wp-content/uploads/2024/09/boozer-026-1024x767-e1405694755308.jpg" alt="" class="wp-image-1073" style="width:472px;height:auto"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>I work as an outrider at The Meadows Harness Racetrack and Casino in Pa.I love your hoof boots.I started using them last year when my good outrider horse kept ripping his shoes off when chasing a loose horse. He foundered on me the year prior and I hated to retire him,but I almost had no choice till I heard about Cavallo hoof boots. He now performs 100% again and his feet are getting better. In fact your boots are so great that I brought my old horse out of retirement and been using him again. He wasn't able to work to much because the pressure from the shoes would give him corns. I bought him a pair and he goes great and pain free. A trainer from the track is actually ordering your hoof boots to use when they turn the racehorses out for a couple hours so they don't loose their shoes and some are using them for jogging back. Can't say enough about them!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Melissa, Houston, PA</p>
+<!-- /wp:paragraph -->

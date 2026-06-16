@@ -1,0 +1,7 @@
+<!-- wp:image {"sizeSlug":"large","align":"left"} -->
+<figure class="wp-block-image alignleft size-large"><img src="http://cavallo.local/wp-content/uploads/2024/09/Kleider-red.gif" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>"Saddles are not a natural extension of a horse and even a good-fitting saddle can become painful or irritating in spite of the best-intentioned rider. Gel pads seems to squeeze the pressure ventrally (down) the back and because there is no gullet relief, can do more harm than good. My experience is that most horses develop a sore back at some time or other and because it seems to be an occupational hazard for a horse, we must do our utmost to protect the back from uneven weight distribution and painful stimuli. I have found that the superior fit and cushioning effect of Cavallo Total Comfort System Saddle Pads have alleviated most of the painful back symptoms of the horses in my veterinary care and those that I am riding. I highly recommend Cavallo TSPs to anyone riding with a saddle.<em>"</em></p>
+<!-- /wp:paragraph -->

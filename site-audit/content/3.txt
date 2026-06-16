@@ -1,0 +1,279 @@
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"level":1} -->
+<h1 class="wp-block-heading">Privacy Policy</h1>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><strong>Effective Date:</strong> December 16, 2024</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Cavallo International Head Office<br></strong>1714 Lockyer Rd, Roberts Creek, British Columbia, CANADA V0N 2W1</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Cavallo is committed to protecting your privacy. This Privacy Policy outlines how we collect, use, disclose, and protect your personal information in compliance with international privacy laws, including but not limited to the <strong>General Data Protection Regulation (GDPR)</strong>, <strong>California Consumer Privacy Act (CCPA)</strong>, and other applicable regulations.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">1. Email Privacy Policy</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list {"ordered":true} -->
+<ol class="wp-block-list"><!-- wp:list-item -->
+<li></li>
+<!-- /wp:list-item --></ol>
+<!-- /wp:list -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Use and Protection of Your Information</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Cavallo has implemented a comprehensive policy to ensure the protection of your personal information, including your email address, from misuse. We take your privacy seriously and handle your information as outlined below:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Sharing of Personal Data</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Cavallo does not sell, rent, or disclose your personal data or email address to third parties without your explicit consent, except as required by law (e.g., court orders) or as agreed upon in a separate agreement.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Third-Party Use</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Subscriber and customer data will never be sold, rented, or loaned to third parties for any purpose.<br><br>Cavallo may utilize secure, third-party software to distribute newsletters, store order information, or manage subscription services. These platforms comply with anti-spam laws and employ rigorous security protocols to prevent unauthorized access. Personal data shared with these platforms is strictly for operational purposes and cannot be sold or shared under any circumstances.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Why You May Receive Communications</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>You may receive emails or newsletters from Cavallo if:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>You have purchased a Cavallo product.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>You have registered your product online.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>You participated in a contest or promotion.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>You subscribed to our mailing list or corresponded with Cavallo electronically.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>If you believe you have received an email in error or wish to unsubscribe, simply click the “Unsubscribe” link in the email or contact us directly to opt out.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">2. Cookies Policy</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list {"ordered":true,"start":2} -->
+<ol start="2" class="wp-block-list"><!-- wp:list-item -->
+<li></li>
+<!-- /wp:list-item --></ol>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p><strong>Last Updated: January 27, 2019</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">What Are Cookies?</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Cookies are small text files stored on your web browser by a website you visit. These files allow websites to recognize you during future visits and improve your browsing experience. Cookies can be classified as “persistent” (stored until deleted) or “session” (deleted when the browser is closed).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">How Cavallo Uses Cookies</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>We use cookies to:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>Enable website functionality (e.g., shopping cart).</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Provide analytics to improve user experience.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Store user preferences.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Deliver advertisements, including behavioral advertising.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Third-Party Cookies</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>We may use third-party cookies (e.g., Google Analytics, Facebook) to analyze website traffic, deliver advertisements, and gather usage statistics. These third-party cookies are governed by their respective privacy policies.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Managing Cookies</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>You can manage or delete cookies via your browser settings. However, please note that disabling cookies may affect the functionality of certain features on our website.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">3. SMS Privacy Policy</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list {"ordered":true,"start":3} -->
+<ol start="3" class="wp-block-list"><!-- wp:list-item -->
+<li></li>
+<!-- /wp:list-item --></ol>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p><strong>Use of SMS Campaigns<br></strong>Cavallo may use cookies to track shopping cart activity, including abandoned carts, to send SMS reminders about your cart. By opting into our SMS campaigns, you consent to receive text messages related to these services.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Sharing of SMS Information<br></strong>We do not sell or share your SMS consent with third parties for purposes unrelated to providing the messaging service. However, we may share your SMS opt-in status with service providers who assist us in delivering text messages (e.g., platform providers and phone companies).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">4. Data Security</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list {"ordered":true,"start":4} -->
+<ol start="4" class="wp-block-list"><!-- wp:list-item -->
+<li></li>
+<!-- /wp:list-item --></ol>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>Cavallo employs industry-standard security measures to safeguard your personal information. Key features include:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>Password-protected areas for storing sensitive information.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Secure online shopping cart and ordering forms.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Encrypted data storage systems to prevent unauthorized access.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Regular data backups and audits to ensure data integrity.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">5. Your Rights</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list {"ordered":true,"start":5} -->
+<ol start="5" class="wp-block-list"><!-- wp:list-item -->
+<li></li>
+<!-- /wp:list-item --></ol>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>Depending on your location, you may have specific rights under international privacy laws, including:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><strong>Right to Access and Portability:</strong> You can request a copy of the personal data we hold about you.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Right to Rectification:</strong> You can request corrections to inaccurate or incomplete data.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Right to Deletion:</strong> You can request the deletion of your personal data under certain circumstances.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Right to Restrict Processing:</strong> You can limit how your data is processed in specific situations.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Right to Object:</strong> You can object to data processing for direct marketing purposes.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Right to Withdraw Consent:</strong> You can withdraw consent at any time for processing activities based on your consent.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>To exercise these rights, please contact us at <a href="mailto:info@cavallo.local"><span style="text-decoration: underline;">info@cavallo.local</span></a>.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">6. Children’s Privacy</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list {"ordered":true,"start":6} -->
+<ol start="6" class="wp-block-list"><!-- wp:list-item -->
+<li></li>
+<!-- /wp:list-item --></ol>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>Cavallo does not knowingly collect personal information from children under the age of 13 (or applicable age in your jurisdiction). If you believe we have collected such information, please contact us, and we will take appropriate steps to delete it.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">7. Changes to This Privacy Policy</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list {"ordered":true,"start":7} -->
+<ol start="7" class="wp-block-list"><!-- wp:list-item -->
+<li></li>
+<!-- /wp:list-item --></ol>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>Cavallo reserves the right to update this Privacy Policy at any time to reflect changes in our practices or compliance with legal requirements. Any updates will be posted on this page with the “Last Updated” date.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>To learn about Cavallo's Terms &amp; Conditions, <a href="http://cavallo.local/terms-and-conditions/" target="_blank" rel="noreferrer noopener">CLICK HERE.</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Contact Us</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>For questions, concerns, or to exercise your privacy rights, please contact us at:<br><strong>Cavallo International Head Office</strong><br>1714 Lockyer Rd, Roberts Creek, BC CANADA V0N 2W1<br><strong>Email:</strong> <a href="mailto:info@cavallo.local"><span style="text-decoration: underline;">info@cavallo.local</span></a><br><strong>Phone:</strong> 604 740 0037</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->

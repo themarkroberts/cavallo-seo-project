@@ -1,0 +1,31 @@
+<!-- wp:paragraph -->
+<p>By Carole Herder</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>‘Best of America by Horseback’ is America’s favorite trail riding TV show. Hosted by Tom Seay, this gorgeous series takes viewers to beautiful riding destinations around the country. The show features trails, area history, local riders, location facilities and of course, fantastic scenery.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Tom and co-host Del Shields organize amazing trips around the country, all of which you can participate in, but July 2015 will see Tom doing something extra-special. He will be laying a wreath at the tomb of the Unknown Soldier at the Arlington National Cemetery. It is on behalf of all of the horse community and you are invited to partake. There are no fees or costs and no advertising avenues, simply a gesture from the horse world to say thank you to the service people.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":5494,"align":"left"} -->
+<figure class="wp-block-image alignleft"><img src="//cavallo.local/wp-content/uploads/2015/04/April-10.jpg" alt="Horse hoof boots" class="wp-image-5494"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><br>Tom is presenting the wreath and a book with a list of people that wish their names added. The book contains the names of horse people, their families and friends. It is simply a list of their names and the only other writing on the book will be “We remember and honor…..”. The group have already had thousands of names sent to them to be included in the book. Many had family in the military; others did not but wish to honor the veterans.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>We continue to live in precarious times, and knowing that war may not be the best solution, we honor the brave men and women who take up the cause and risk their lives.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>For more information, please visit <a href="http://www.bestofamericabyhorseback.com/honortheveterans.html" target="_blank" rel="noopener"><span style="color: #0000ff;">http://<span style="color: #0000ff;">www.bestofamericabyhorseback.com/honortheveterans.html.</span></span></a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:spacer {"height":"40px"} -->
+<div style="height:40px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->

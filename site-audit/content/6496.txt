@@ -1,0 +1,77 @@
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"level":1} -->
+<h1 class="wp-block-heading">Laminitis and Cavallo Hoof Boots</h1>
+<!-- /wp:heading --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading -->
+<h2 class="wp-block-heading">Laminitis Explained</h2>
+<!-- /wp:heading -->
+
+<!-- wp:media-text {"mediaPosition":"right","mediaId":6705,"mediaLink":"http://cavallo.local/?attachment_id=6705","mediaType":"image"} -->
+<div class="wp-block-media-text has-media-on-the-right is-stacked-on-mobile"><div class="wp-block-media-text__content"><!-- wp:paragraph {"placeholder":"Content…"} -->
+<p>Laminitis, simply put, is like a breakdown of interlacing fingers, but the “fingers” are made of tissue (called lamellae) that attach the bone to the hoof wall. It can be compared to a Velcro attachment which, instead of synthetic material, is made of live tissue. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"placeholder":"Content…"} -->
+<p>You can imagine that living matter, ripping apart, can be very painful. When the strength and quality of lamellae fails, these tissues are compromised; the bone may tear away from the hoof wall. The toe of the coffin bone could even plunge through the sole of the hoof, delivering merciless agony.</p>
+<!-- /wp:paragraph --></div><figure class="wp-block-media-text__media"><img src="http://cavallo.local/wp-content/uploads/2019/12/muscles.png" alt="laminitis" class="wp-image-6705 size-full"/></figure></div>
+<!-- /wp:media-text --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading -->
+<h2 class="wp-block-heading">Immediate Action Plan</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The instant you have a diagnosis of laminitis, you must act to make your horse more comfortable. Provide a soft bed for him to lie in and if he prefers to remain standing, place his hoofs in Cavallo Boots with padded insoles. Cavallo offers a range of padding depending on the severity. It may be appropriate to provide more cushion at the beginning and then maintain the natural counter-effect of a somewhat harder insole to help stimulate blood flow. You could even tape foam to his feet while you are waiting for your boots to arrive. Ice therapy treatment performed in a timely manner will improve the situation dramatically. Unfortunately, this window of opportunity is only about 48 hours, so you must move quickly.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Make your patient feel well by providing the comfort of relaxed companionship, plenty of fresh water and hay that has been soaked to remove the sugars. Offer free choice salt and minerals of the highest absorptive quality to increase immunity, hoof health and the healing process. Above all, if you have identified the cause of the attack, remove it. When appropriate, have your horse tested for hormone levels, particularly insulin, so that you can adapt his diet accordingly.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading -->
+<h2 class="wp-block-heading">Gut Health = Overall Health</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Everything your horse ingests influences his microbiome (the microorganisms in his body). The gut acts as a guard for the immune system, being constantly exposed to new microbes, bugs, germs and bacteria that come from the food and water. The process begins in the stomach and small intestine with dizzying amounts of bacteria colonizing the upper intestinal tract. This commotion of sugars and starch produce lactate and volatile fatty acids, which are then absorbed by the horse and used for energy or to produce fats or glucose in the liver. This fermentation process reduces the blood sugars and amounts of enzymes required to digest. The cycle results with more microorganisms releasing into intestinal fluid to help cultivate good bacteria. The same activities continue with even more bacteria in the colon, that then provide some resistance to viruses or bacteria which may be harmful.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Your horse is a hindgut fermenter, which is a good thing because it means the flora of the hindgut can process, for a second time, the massive amounts of fiber he ingests. But this leaves horses vulnerable to failure of digesting large amounts of sugars. Gut bacteria are essentially and inextricably connected to metabolism, immune function, vitamin and mineral absorption, central nervous system function and even mental health. The microbiome is at the forefront of progressive studies regarding the complete health for both our horses and ourselves.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading -->
+<h2 class="wp-block-heading">Support the Entire System</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The important thing to note is that your horse’s body is an entire system. It is a field of potentiality—always changing; getting stronger or weaker depending on several factors.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Electrons, atoms and molecules combine to create a chemical, which bonds to share a field of information. This information accumulates to form cells, which then form tissues that work together and organize into organs to develop bodily systems. The cardiovascular system, digestive, immune, bio-mechanical, nervous and reproductive systems are the organized matter of your horse’s body. These systems do not function in isolation. Here’s an example: too much acidic activity (caused by undigested material in the hindgut) annihilates the bacteria that digest fiber. Toxins are released in the gut as this bacterium die. The poisons enter the blood stream through the gut wall and interrupt proper blood circulation, which can then cause laminitis in the feet.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading -->
+<h2 class="wp-block-heading">Reverse Wedge and Traditional Treatments</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>We generally treat laminitis as a hoof problem. Some suggest hoof supplements, nerve blocks, bar shoes, frog support and corrective shoeing such as lowering the heel and then applying wedge pads. It seems counter-intuitive to lower and then raise the heel, but these are some of the conventional treatments used. Some wedge the hoof in a “reverse wedge” to lever the coffin bone up at the front and back into the wall. Any wedging should be considered temporary, in compliance with corresponding percentages shown on radiographs and monitored regularly.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Some recommend exercise to prevent obesity, while others advocate box stall rest and confinement. Feed restriction is also a prescription, but there are many considerations in treatment. Horses can get uncomfortable when food is not available and stress levels elevate.<br>Timing is important in treatment, as is a true understanding of the nature of the horse. Misperceived cures and treatment can increase levels of anxiety, thereby aggravating the distressing state of affairs further. Large doses of vitamin C, turmeric supplements and even whole milk cream added to the feed have been touted as cures. There are countless opinions. It can be simple or very complex and that is the way of many things, including laminitis. Seek help, seek knowledge and develop an understanding of a horse’s nature. Make prevention the greatest asset in your toolkit.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->

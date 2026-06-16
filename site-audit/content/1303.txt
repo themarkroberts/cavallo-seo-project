@@ -1,0 +1,35 @@
+<!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="http://cavallo.local/wp-content/uploads/2024/09/xmas.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>By Carole Herder</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>While many of us enjoy the seasonal festivities, there is often much to do right up to the big day, and then comes the ‘post-Christmas lull’. So how about taking yourself off on a little adventure to one of the following events? These are all organized through the ACTHA, <a href="https://www.actha.us/events" target="_blank" rel="noopener">https://www.actha.us/events</a>.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>A Dickens Christmas AOC – 28th December in Waynesville, OH</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Ring out the Old, Ring in the New! – 28th December in Berthoud, CO</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Christmas for Heroes – 28th December in Luling, TX</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Christmas CTC Ride – 28th December in Richmond, CA</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Sick of snow and cold and wind and ice? How about a cruise to Grand Cayman, Jamaica and Haiti! Ride horses on the beaches and in the ocean. This fabulous sounding trip is running mid-January and is organized through BOABH, <a href="http://www.bestofamericabyhorseback.com/ridesevents.html" target="_blank" rel="noopener">http://www.bestofamericabyhorseback.com/ridesevents.html</a>.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>There are plenty more events around the country and some exciting looking ones over the New Year so get yourself out there, burn off those extra mince pies you munched and enjoy the silly season to the full!</p>
+<!-- /wp:paragraph -->

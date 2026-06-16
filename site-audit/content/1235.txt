@@ -1,0 +1,15 @@
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":5100,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="http://cavallo.local/wp-content/uploads/2013/08/agility.webp" alt="" class="wp-image-5100"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>By Carole Herder</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Here is something different for those of you looking for another way to spend time with your horse: equine agility. It’s like dog agility but for horses! Horse and handler learn to navigate obstacles on the ground in a safe and timely manner. This non-mounted sport is on the increase and the perfect way to hang out with your horse, have fun and stay on the ground! It’s also ideal for barefoot horses or for those under transition but you still need to do some work with them (of course our hoof boots can keep you on the trail if you prefer to be out and about !). Or do you have a pony that no-one can ride anymore? Or even a donkey! Here is something you can still do together.<br>Horse agility is fast becoming an international competitive sport. You can even participate online so you don’t need to travel to an event! And of course you can just do it for fun in your own paddock, with no pressure of judging and penalties if you wish. It is an excellent activity to increase your horse’s confidence, prepare them for obstacles in the show ring or on the trail, work on your communication together and of course improve your relationship with your horse.<br>The attraction of this sport is of course that you don’t need to ride and it is open to any breed of any background. There are clubs all over the world, from the USA and Canada, to Ireland, Britain and France, to South Africa and New Zealand. Check out <a href="http://www.thehorseagilityclub.com/" target="_blank" rel="noopener">http://www.thehorseagilityclub.com/</a> and <a href="http://www.equineagility.com/" target="_blank" rel="noopener">http://www.equineagility.com/</a> for more information.</p>
+<!-- /wp:paragraph -->

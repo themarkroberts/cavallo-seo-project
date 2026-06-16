@@ -1,0 +1,111 @@
+<!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading">&nbsp;A Very Special Gift...</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Imagine our excitement receiving this very special gift.&nbsp; It came in the form of an internet link to a video.&nbsp; The Stars of the show are two miniature horses named Ernie and Albert.&nbsp; Watch it <a href="https://www.facebook.com/emmamassingale/videos/1794099077554732/" target="_blank" rel="noopener">HERE</a>!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Albert is writing a Christmas list (all by himself!), requesting that Santa bring him a little brother for Christmas and pair of Cavallo CLB (Cute Little Boots).&nbsp;&nbsp; He then hops up on his bed and TUCKS HIMSELF IN! Wow! The next morning, he wakes up and trots down the hall to the tree.&nbsp; LOW AND BEHOLD – a little brother! And a present! He opens the box and there are his Cavallos.&nbsp; He must have been a very good little mini this year!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":10760,"linkDestination":"custom","align":"left"} -->
+<figure class="wp-block-image alignleft"><a href="http://www.emmamassingale.com/"><img src="//www.cavallo.local/wp-content/uploads/2018/01/2018-01-15-Emma-Close-Up-219x300.png" alt="Photo of Emma Massingale" class="wp-image-10760"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>Emma Massingale: Internationally renowned Barefoot, at-liberty horse-woman, traveller, explorer, adventurer and video producer.&nbsp; When she sends us something, we pay attention.&nbsp; And we KNOW it’s going to be GOOD.&nbsp; We think she’s got a little bit of magic. None of us would know how to talk to equiss like she does.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Emma has been using Cavallo Hoof Boots for comfort and protection on her horsey adventures for years now. We are proud how this speaks to the durability of Cavallo Hoof Boots, because some of these adventure are pretty darn rugged.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Of course, we LOVE the video. But what really blew us away was just how much you all loved it.&nbsp; By New Year’s Day the video had gone viral, with over a million views, and countless shares.&nbsp; So many of you shared how touched you were by it.&nbsp; Kids loved it and it brought tears to many eyes.&nbsp; Even a few big, strong cowboys admitted that it was a “mighty sweet” video.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>So watch for yourself – and enjoy!&nbsp; Christmas might be over for the year but the spirit of Christmas never dies. &nbsp;<a href="https://www.facebook.com/emmamassingale/videos/1794099077554732/" target="_blank" rel="noopener">Watch it HERE</a>!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.facebook.com/emmamassingale/videos/1794099077554732/" target="_blank" rel="noopener">CLICK HERE</a>&nbsp;check out Emma and her adventures on Facebook, and <a href="http://www.emmamassingale.com/" target="_blank" rel="noopener">CLICK HERE</a> to view Emma's gorgeous website.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"align":"center"} -->
+<figure class="wp-block-image aligncenter"><a href="http://www.emmamassingale.com/"><img src="//www.cavallo.local/wp-content/uploads/2018/01/Liberts-ponies-in-Treks-452x253.jpg" alt="Emma Massingale's Ponies wearing Cavallo Hoof Boots"/></a><figcaption class="wp-element-caption"><br>Emma Massingale's herd sporting their Cavallo Trek Hoof Boots</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>Emma Massingale’s&nbsp;personal ethos is “No Reins…No Rules…No limits! Simply for the love of horses!”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Thank you, Emma!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":5} -->
+<h5 class="wp-block-heading"><strong>Happy Trails,</strong></h5>
+<!-- /wp:heading -->
+
+<!-- wp:image {"id":10645,"width":"300px","align":"left"} -->
+<figure class="wp-block-image alignleft is-resized"><img src="//www.cavallo.local/wp-content/uploads/2017/12/CaroleSig.jpg" alt="Carole Herder's Signature" class="wp-image-10645" style="width:300px"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":10798,"align":"left"} -->
+<figure class="wp-block-image alignleft"><img src="//www.cavallo.local/wp-content/uploads/2018/01/Caroles-Signature-2017.png" alt="Carole Herder's Signature" class="wp-image-10798"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph -->

@@ -1,0 +1,11 @@
+<!-- wp:paragraph -->
+<p>My 7 yo Appy, Kid, loves being out on the trails but his feet were getting sore from the gravel on the dirt roads. After purchasing a pair of Cavallo Trek boots for him he wants to go further and longer ! We recently competed in a trail ride and he was in heaven; truckin' through mud, sand and moving right out on several dirt/gravel roads. One of the horses I rode with was obviously getting sore so I highly recommended a pair of your boots to her rider. I didn't want the expense and sometimes inconvenience of shoes - these boots are exactly what we need. Thank you for such a great product!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:spacer {"height":"40px"} -->
+<div style="height:40px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->

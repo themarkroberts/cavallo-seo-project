@@ -1,0 +1,7 @@
+<!-- wp:paragraph -->
+<p>My quarter horse and I BOTH love the Cavallo Boots. I wear them on my big boy when we're riding in the forest as the footing is a mixture of small rocks, stones, sticks, etc. No ouchiness in Nougat's front hooves at all with the Cavallo Boots on. When we're about to go for a ride, when he sees me pick up the Boot, he automatically lifts his leg for me to put it on him. He's very comfortable wearing them and they take us through muck, water, and rough terrain. I would NEVER be without a pair of Cavallos for my boy .. a happy horse = a happy me !! Our trail rides are beautiful!! Cavallo Boots are the best .. !!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:spacer {"height":"40px"} -->
+<div style="height:40px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->

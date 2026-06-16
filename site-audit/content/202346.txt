@@ -1,0 +1,379 @@
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"textAlign":"center","level":1,"style":{"spacing":{"padding":{"bottom":"var:preset|spacing|md"}}}} -->
+<h1 class="wp-block-heading has-text-align-center" style="padding-bottom:var(--wp--preset--spacing--md)">Enjoy Your April 2025 Cavallo News!</h1>
+<!-- /wp:heading -->
+
+<!-- wp:image {"id":4011,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="http://cavallo.local/wp-content/uploads/2024/10/news-banner.jpg" alt="" class="wp-image-4011"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"var:preset|spacing|xl","bottom":"var:preset|spacing|xl"},"margin":{"top":"0","bottom":"0"}}},"backgroundColor":"light-red-1","layout":{"type":"constrained","contentSize":""}} -->
+<div class="wp-block-group alignfull has-light-red-1-background-color has-background" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--xl);padding-bottom:var(--wp--preset--spacing--xl)"><!-- wp:columns {"style":{"spacing":{"padding":{"top":"0","bottom":"0"}}}} -->
+<div class="wp-block-columns" style="padding-top:0;padding-bottom:0"><!-- wp:column {"verticalAlignment":"top","width":"","style":{"spacing":{"padding":{"right":"0","left":"0","top":"0","bottom":"0"}}},"layout":{"type":"constrained","contentSize":"585px","justifyContent":"right","wideSize":""}} -->
+<div class="wp-block-column is-vertically-aligned-top" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:image {"id":202347,"scale":"cover","sizeSlug":"full","linkDestination":"none","style":{"color":{"duotone":"unset"},"border":{"width":"0px","style":"none","radius":"10px"}}} -->
+<figure class="wp-block-image size-full has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2025/04/Cute-Donkey-Cartoon-with-LEB-Boots-on-transparent-1-1.jpg" alt="Cute Donkey Cartoon with Cavallo LEB donkey hoof boots on" class="wp-image-202347" style="border-style:none;border-width:0px;border-radius:10px;object-fit:cover"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"center","width":"44.48%"} -->
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis:44.48%"><!-- wp:heading -->
+<h2 class="wp-block-heading">Long Ears Are Perking Up Around the World:<br>Cavallo LEB Donkey Hoof Boot Limited First Release!</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"spacing":{"margin":{"bottom":"27px"}}},"fontSize":"large"} -->
+<p class="has-large-font-size" style="margin-bottom:27px">Your donkey has been so patient… And it’s about to pay off BIG for them! EEE-HAW!!! Get your LEB (Long Ear Boot) donkey hoof boots during our limited first release…</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Secure your spot NOW!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The first of its kind, this hoof boot is designed EXCLUSIVELY for donkeys!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The new Cavallo LEB Hoof Boot embodies revolutionary innovation—developed with top veterinarians, trimmers, and educators!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Tailored for the unique shape, size, and movement of donkeys. Engineered for superior comfort, protection, and performance.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Sign up to be ahead of the rest—LEB production begins June 30!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"4px","bottom":"27px"}}}} -->
+<p style="margin-top:4px;margin-bottom:27px">The NEW Cavallo LEB (Long Ear Boot) will arrive this FALL! Your long-eared friend will be braying with joy!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"textColor":"red","className":"is-style-fill c-button\u002d\u002dsimple","style":{"elements":{"link":{"color":{"text":"var:preset|color|red"}}},"spacing":{"padding":{"left":"0","right":"0","top":"0","bottom":"0"}},"color":{"background":"#ffffff00"}}} -->
+<div class="wp-block-button is-style-fill c-button--simple"><a class="wp-block-button__link has-red-color has-text-color has-background has-link-color wp-element-button" href="http://cavallo.local/meet-the-leb-long-ear-donkey-hoof-boot/" style="background-color:#ffffff00;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0" target="_blank" rel="noreferrer noopener">Sign Up for LEB First Run &gt;&gt;<svg xmlns="http://www.w3.org/2000/svg" width="16" height="17">    <path d="m9.356 3.644 4.5 4.5a.512.512 0 0 1 0 .712l-4.5 4.5a.507.507 0 0 1-.712-.712L12.294 9H2.5a.5.5 0 1 1 0-1h9.794l-3.65-3.644a.506.506 0 0 1 .712-.712Z"></path></svg><br></a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"id":202353,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="http://cavallo.local/wp-content/uploads/2025/04/Turquoise-LEB-donkey-hoof-boot-on-hoof-side-back-view-2-1.jpg" alt="Cavallo Turquoise LEB donkey hoof boot on hoof side back view" class="wp-image-202353"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"id":202354,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="http://cavallo.local/wp-content/uploads/2025/04/Cavallo-LEB-Donkey-Long-Ear-Hoof-Boot-bottom-sole-1.jpg" alt="Cavallo LEB Donkey Long Ear Hoof Boot bottom sole" class="wp-image-202354"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"id":202352,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="http://cavallo.local/wp-content/uploads/2025/04/Turquoise-LEB-donkey-hoof-boot-on-hoof-2-1.jpg" alt="Cavallo Turquoise LEB donkey hoof boot on hoof" class="wp-image-202352"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|xxl","bottom":"var:preset|spacing|xl"},"margin":{"top":"0","bottom":"0"}}},"backgroundColor":"light-red-1","layout":{"type":"constrained","contentSize":""}} -->
+<div class="wp-block-group has-light-red-1-background-color has-background" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--xxl);padding-bottom:var(--wp--preset--spacing--xl)"><!-- wp:heading {"textAlign":"center"} -->
+<h2 class="wp-block-heading has-text-align-center">Share Your Experience:<br>Have You Used Cavallos for Recovery AND Riding?</h2>
+<!-- /wp:heading -->
+
+<!-- wp:media-text {"mediaId":202357,"mediaLink":"http://cavallo.local/newsletter/april-2025-cavallo-newsletter/take-cavallo-hoof-boots-survey-image-of-carole-herder/","mediaType":"image","mediaWidth":31} -->
+<div class="wp-block-media-text is-stacked-on-mobile" style="grid-template-columns:31% auto"><figure class="wp-block-media-text__media"><img src="http://cavallo.local/wp-content/uploads/2025/04/Take-Cavallo-Hoof-Boots-survey-image-of-Carole-herder.jpg" alt="Take Cavallo Hoof Boots survey - image of Carole Herder" class="wp-image-202357 size-full"/></figure><div class="wp-block-media-text__content"><!-- wp:paragraph {"placeholder":"Content…"} -->
+<p>Share your thoughts in our quick survey and help us continue providing the best hoof protection for your equine partner.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>As a thank-you, you’ll be entered to win a pair of Cavallo Hoof Boots!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Click to get started—it only takes seconds! You’ll automatically be entered in our draw! (Canada &amp; USA only).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"left","fontSize":"large"} -->
+<p class="has-text-align-left has-large-font-size">Answer our survey for a chance to WIN a pair of Cavallo Boots!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"textColor":"red","className":"is-style-fill c-button\u002d\u002dsimple","style":{"elements":{"link":{"color":{"text":"var:preset|color|red"}}},"spacing":{"padding":{"left":"0","right":"0","top":"0","bottom":"0"}},"color":{"background":"#ffffff00"}}} -->
+<div class="wp-block-button is-style-fill c-button--simple"><a class="wp-block-button__link has-red-color has-text-color has-background has-link-color wp-element-button" href="https://www.surveymonkey.com/r/QZ97787" style="background-color:#ffffff00;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0" target="_blank" rel="noreferrer noopener">Take Survey for Chance to WIN</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons -->
+
+<!-- wp:paragraph {"placeholder":"Content…"} -->
+<p></p>
+<!-- /wp:paragraph --></div></div>
+<!-- /wp:media-text -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"textAlign":"center","level":4} -->
+<h4 class="wp-block-heading has-text-align-center"><strong>March Survey Winner Announced!</strong></h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"align":"center","style":{"spacing":{"margin":{"top":"4px","bottom":"27px"}}}} -->
+<p class="has-text-align-center" style="margin-top:4px;margin-bottom:27px">The winner of March’s newsletter survey contest is Sharon Hirsch of New Haven, CT! Congrats, Sharon! She has been contacted by email so she can receive her free pair of Cavallo Hoof Boots!</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"var:preset|spacing|xl","bottom":"var:preset|spacing|xl"},"margin":{"top":"0","bottom":"0"}}},"backgroundColor":"white","layout":{"type":"constrained","contentSize":""}} -->
+<div class="wp-block-group alignfull has-white-background-color has-background" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--xl);padding-bottom:var(--wp--preset--spacing--xl)"><!-- wp:columns {"style":{"spacing":{"padding":{"top":"0","bottom":"0"}}}} -->
+<div class="wp-block-columns" style="padding-top:0;padding-bottom:0"><!-- wp:column {"verticalAlignment":"top","width":"44.48%"} -->
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis:44.48%"><!-- wp:heading -->
+<h2 class="wp-block-heading">Recovery Since 2006: The Cavallo Legacy of Innovation</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"fontSize":"large"} -->
+<p class="has-large-font-size">In 2006, we pioneered the first hoof boot explicitly designed for both riding and therapy. We recognized that equine rehabilitation shouldn’t mean sidelining your connection with your horse.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"4px","bottom":"27px"}}}} -->
+<p style="margin-top:4px;margin-bottom:27px">With Cavallo, horses could stay active and supported — whether they were navigating rocky terrain or recovering from Laminitis, Navicular issues, abscesses, or other hoof sensitivities!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Since then, we’ve helped thousands of horses around the world stay sound, comfortable, and moving forward — with the peace of mind that their hooves are supported every step of the way!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Today, we’re proud to see more companies embracing the path we pioneered. And while others follow, we continue to lead—with confidence and clarity in our legacy.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Cavallo ~ The first ~ The best ~ Leading the way.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Thank you to all of you — our customers, vets, riders, and horses — who have made this journey so meaningful.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Your trust is what keeps us innovating every single day.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"top","width":"","style":{"spacing":{"padding":{"right":"0","left":"0","top":"0","bottom":"0"}}},"layout":{"type":"constrained","contentSize":"585px","justifyContent":"right","wideSize":""}} -->
+<div class="wp-block-column is-vertically-aligned-top" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:image {"id":202360,"scale":"cover","sizeSlug":"full","linkDestination":"none","style":{"color":{"duotone":"unset"},"border":{"width":"0px","style":"none","radius":"10px"}}} -->
+<figure class="wp-block-image size-full has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2025/04/Recovery-Rode-Pony-Mag-UK-ad-2025-2.jpg" alt="Recover &amp; Ride with any Cavallo Hoof Boot Style" class="wp-image-202360" style="border-style:none;border-width:0px;border-radius:10px;object-fit:cover"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|xxl","bottom":"var:preset|spacing|xxl"},"margin":{"top":"0","bottom":"0"}}},"backgroundColor":"light-red-1","layout":{"type":"constrained","contentSize":""}} -->
+<div class="wp-block-group has-light-red-1-background-color has-background" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--xxl);padding-bottom:var(--wp--preset--spacing--xxl)"><!-- wp:heading -->
+<h2 class="wp-block-heading">Official Consteed Smart Horse Sneaker Launch Photos:</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>As the visionary founders behind Cavallo Hoof Boots, Carole and Greg were recently honoured on the global stage at the exclusive launch of the Continental Consteed Smart Horse Sneaker in Hanover, Germany.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Cavallo Hoof Boots serve as the physical foundation for this groundbreaking innovation—forming the base of the Consteed Smart Horse Sneaker—making Carole and Greg’s recognition both well-earned and deeply significant.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>This prestigious event brought together horse lovers, equestrian elites, forward-thinking engineers, and equine industry pioneers for an unforgettable evening of elegance and innovation.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Scroll through the photos below to experience the glamour, energy, and excitement of a night where the future of comfortable equine performance took center stage:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:acf/gallery-slider {"name":"acf/gallery-slider","data":{"title":"","_title":"field_667e90b44c95d","items":["202374","202369","202370","202367","202368","202372","202373","202371"],"_items":"field_667e91994c95e","html_anchor":"","_html_anchor":"field_672f5663be83a"},"mode":"edit"} /--></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|xxl","bottom":"var:preset|spacing|xxl"},"margin":{"top":"0","bottom":"0"}}},"backgroundColor":"white","layout":{"type":"constrained","contentSize":""}} -->
+<div class="wp-block-group has-white-background-color has-background" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--xxl);padding-bottom:var(--wp--preset--spacing--xxl)"><!-- wp:heading {"textAlign":"center"} -->
+<h2 class="wp-block-heading has-text-align-center">New PCHP Member Has Something to Say!</h2>
+<!-- /wp:heading -->
+
+<!-- wp:media-text {"mediaId":202378,"mediaLink":"http://cavallo.local/newsletter/april-2025-cavallo-newsletter/cavallo-hoof-boots-sponsors-progressive-hoof-care-practitioners-members-2/","mediaType":"image","mediaWidth":29} -->
+<div class="wp-block-media-text is-stacked-on-mobile" style="grid-template-columns:29% auto"><figure class="wp-block-media-text__media"><img src="http://cavallo.local/wp-content/uploads/2025/04/Cavallo-Hoof-Boots-sponsors-Progressive-Hoof-Care-Practitioners-Members-2.jpg" alt="Cavallo Hoof Boots sponsors Progressive Hoof Care Practitioners Members" class="wp-image-202378 size-full"/></figure><div class="wp-block-media-text__content"><!-- wp:paragraph {"placeholder":"Content…"} -->
+<p><em>“To Carole and all you wonderful folks at Cavallo, thank you so much for sponsoring new&nbsp;<a href="https://progressivehoofcare.org/" target="_blank" rel="noreferrer noopener">Progressive Hoof Care Practitioners (PHCP)</a>&nbsp;members! Thanks to your generous offer, I am now a member of this group!</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><em>Over the years, I have found that the Cavallo boots have been the best for my horses – they fit well, stay on (I have only lost one in over eight years!), don’t rub ( because of the fit and break-in period), are easy to apply and remove, and the colors offered in the Treks are just plain fun. Again, thank you so much for encouraging membership to PHCP. It proves that this company really does care about the horse.”</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>– Mary L.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"placeholder":"Content…"} -->
+<p>We are beyond thrilled to sponsor PHCP’s&nbsp;next 100 new members by covering their $50 initiation fee! That means when you join PHCP as a member or student, your total membership cost will be just $75!&nbsp;</p>
+<!-- /wp:paragraph --></div></div>
+<!-- /wp:media-text -->
+
+<!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"}} -->
+<div class="wp-block-buttons"><!-- wp:button {"backgroundColor":"dark-red"} -->
+<div class="wp-block-button"><a class="wp-block-button__link has-dark-red-background-color has-background wp-element-button" href="https://progressivehoofcare.org/membership/" target="_blank" rel="noreferrer noopener">Become a Member!</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"var:preset|spacing|xl","bottom":"var:preset|spacing|xl"},"margin":{"top":"0","bottom":"0"}}},"backgroundColor":"light-red-1","layout":{"type":"constrained","contentSize":""}} -->
+<div class="wp-block-group alignfull has-light-red-1-background-color has-background" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--xl);padding-bottom:var(--wp--preset--spacing--xl)"><!-- wp:columns {"style":{"spacing":{"padding":{"top":"0","bottom":"0"}}}} -->
+<div class="wp-block-columns" style="padding-top:0;padding-bottom:0"><!-- wp:column {"verticalAlignment":"top","width":"44.48%","backgroundColor":"light-red-1"} -->
+<div class="wp-block-column is-vertically-aligned-top has-light-red-1-background-color has-background" style="flex-basis:44.48%"><!-- wp:heading -->
+<h2 class="wp-block-heading">You're Going to LOVE This…</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"fontSize":"large"} -->
+<p class="has-large-font-size">Something Exciting is Coming!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"4px","bottom":"27px"}}}} -->
+<p style="margin-top:4px;margin-bottom:27px">Big things are happening at Cavallo… Stay tuned!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>We’ve been working on something incredible behind the scenes, and we can’t wait to share it with you!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Something BIG is coming soon, and it’s going to make your Cavallo experience even better. But for now, we’re keeping it under wraps.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Stay tuned for more details—trust us, you’ll want to be the first to know!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong><a href="https://www.facebook.com/CavalloHoofboots/">Follow us on Facebook</a></strong> for an exclusive sneak peek!!&nbsp;</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"top","width":"","style":{"spacing":{"padding":{"right":"0","left":"0","top":"0","bottom":"0"}}},"layout":{"type":"constrained","contentSize":"585px","justifyContent":"right","wideSize":""}} -->
+<div class="wp-block-column is-vertically-aligned-top" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:image {"id":203291,"scale":"cover","sizeSlug":"full","linkDestination":"none","style":{"color":{"duotone":"unset"},"border":{"width":"0px","style":"none","radius":"10px"}}} -->
+<figure class="wp-block-image size-full has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2025/04/Website-teaser-FB-post.gif" alt="Cavallo Hoof Boots new website teaser post" class="wp-image-203291" style="border-style:none;border-width:0px;border-radius:10px;object-fit:cover"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|xxl","bottom":"var:preset|spacing|xxl"},"margin":{"top":"0","bottom":"0"}}},"backgroundColor":"white","layout":{"type":"constrained","contentSize":""}} -->
+<div class="wp-block-group has-white-background-color has-background" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--xxl);padding-bottom:var(--wp--preset--spacing--xxl)"><!-- wp:heading {"textAlign":"center"} -->
+<h2 class="wp-block-heading has-text-align-center">Guess Who's a Finalist for the EQUINE VISION AWARD?</h2>
+<!-- /wp:heading -->
+
+<!-- wp:media-text {"mediaId":202381,"mediaLink":"http://cavallo.local/newsletter/april-2025-cavallo-newsletter/cavallo-hoof-boots-president-carole-herder-equine-industry-vision-awards/","mediaType":"image","mediaWidth":32} -->
+<div class="wp-block-media-text is-stacked-on-mobile" style="grid-template-columns:32% auto"><figure class="wp-block-media-text__media"><img src="http://cavallo.local/wp-content/uploads/2025/04/Cavallo-Hoof-Boots-President-Carole-Herder-Equine-Industry-Vision-Awards.jpg" alt="Cavallo Hoof Boots President Carole Herder – Equine Industry Vision Awards" class="wp-image-202381 size-full"/></figure><div class="wp-block-media-text__content"><!-- wp:paragraph {"placeholder":"Content…"} -->
+<p>Since 2002, the prestigious&nbsp;<a href="https://www.americanhorsepubs.org/equine-industry-vision-award/" target="_blank" rel="noreferrer noopener">Equine Industry Vision Award (EIVA)</a>&nbsp;has honored 18 individuals and five organizations that exemplify outstanding visionary achievements or sustained contributions that have profoundly impacted the equine industry. The award recognizes ingenuity and service to the equine industry by inspiring these qualities in others.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The committee has narrowed the nominations to just four finalists, including Carole Herder, founder and president of Cavallo, due to her dedication to helping all horses move well while barefooted and booted.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"placeholder":"Content…"} -->
+<p>The 2025 Equine Industry Vision Award winner will be announced at the American Horse Publications Conference in Dallas, Texas, on May 16!</p>
+<!-- /wp:paragraph --></div></div>
+<!-- /wp:media-text --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"var:preset|spacing|xl","bottom":"var:preset|spacing|xl"},"margin":{"top":"0","bottom":"0"}}},"backgroundColor":"light-red-1","layout":{"type":"constrained","contentSize":""}} -->
+<div class="wp-block-group alignfull has-light-red-1-background-color has-background" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--xl);padding-bottom:var(--wp--preset--spacing--xl)"><!-- wp:columns {"style":{"spacing":{"padding":{"top":"0","bottom":"0"}}}} -->
+<div class="wp-block-columns" style="padding-top:0;padding-bottom:0"><!-- wp:column {"verticalAlignment":"top","width":"44.48%","backgroundColor":"light-red-1"} -->
+<div class="wp-block-column is-vertically-aligned-top has-light-red-1-background-color has-background" style="flex-basis:44.48%"><!-- wp:heading -->
+<h2 class="wp-block-heading">Saying Goodbye to Our Friend Christine</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"fontSize":"large"} -->
+<p class="has-large-font-size">In Loving Memory of Christine</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>It is with heavy hearts that we share the recent passing of our dear colleague and friend, Christine Mutch. Christine had been a valued member of the Cavallo family for many years. In fact, her journey with us began as the silk screen contractor during the early days, when I was designing rider garments.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>She passed unexpectedly due to a series of unforeseen complications while in the hospital. Christine is survived by her loving husband and three sons.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>She was cherished by our entire Cavallo team and by countless riders and horses whose lives were enriched by her deep knowledge of hoof care, her passion for barefoot horses, and her belief in the benefits of Cavallo Boots.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"top","width":"","style":{"spacing":{"padding":{"right":"0","left":"0","top":"0","bottom":"0"}}},"layout":{"type":"constrained","contentSize":"585px","justifyContent":"right","wideSize":""}} -->
+<div class="wp-block-column is-vertically-aligned-top" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:image {"id":202385,"scale":"cover","sizeSlug":"full","linkDestination":"none","style":{"color":{"duotone":"unset"},"border":{"width":"0px","style":"none","radius":"10px"}}} -->
+<figure class="wp-block-image size-full has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2025/04/Christine-Mutch-Head-Shot.webp" alt="Christine Mutch Head Shot" class="wp-image-202385" style="border-style:none;border-width:0px;border-radius:10px;object-fit:cover"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:columns {"style":{"spacing":{"padding":{"top":"0","bottom":"0"}}}} -->
+<div class="wp-block-columns" style="padding-top:0;padding-bottom:0"><!-- wp:column {"verticalAlignment":"top","width":"","style":{"spacing":{"padding":{"right":"0","left":"0","top":"0","bottom":"0"}}},"layout":{"type":"constrained","contentSize":"585px","justifyContent":"right","wideSize":""}} -->
+<div class="wp-block-column is-vertically-aligned-top" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:image {"id":202384,"scale":"cover","sizeSlug":"full","linkDestination":"none","style":{"color":{"duotone":"unset"},"border":{"width":"0px","style":"none","radius":"10px"}}} -->
+<figure class="wp-block-image size-full has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2025/04/Painting-by-Christine-Mutch-Cysko-Rocky-Sockitt.jpg" alt="Painting by late beloved Cavallo Hoof Boots team member Christine Mutch – Cysko, Rocky &amp; Sockitt" class="wp-image-202384" style="border-style:none;border-width:0px;border-radius:10px;object-fit:cover"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"top","width":"44.48%","backgroundColor":"light-red-1"} -->
+<div class="wp-block-column is-vertically-aligned-top has-light-red-1-background-color has-background" style="flex-basis:44.48%"><!-- wp:paragraph -->
+<p>Our hearts go out to Christine’s beloved family, animals and friends. Christine will always be remembered with love, and her absence is deeply felt by us all.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Please enjoy this beautiful painting by Christine, showing a few of her favourite horses ~ Cysko, Rocky &amp; Sockitt.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":202383,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="http://cavallo.local/wp-content/uploads/2025/04/Copy-of-LOGO-trans-white-lettering-1-1024x256.webp" alt="Remembering Christine Mutch - Cavallo Hoof Boots" class="wp-image-202383"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column {"width":"66.66%"} -->
+<div class="wp-block-column" style="flex-basis:66.66%"><!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Wishing you many happy trails</h3>
+<!-- /wp:heading -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"id":4076,"width":"187px","height":"auto","sizeSlug":"full","linkDestination":"none","align":"left"} -->
+<figure class="wp-block-image alignleft size-full is-resized"><img src="http://cavallo.local/wp-content/uploads/2024/10/5381858031fd2babec50665b30807366.png" alt="" class="wp-image-4076" style="width:187px;height:auto"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"0","bottom":"0"}}},"fontSize":"large"} -->
+<p class="has-large-font-size" style="margin-top:0;margin-bottom:0">Carole Herder</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"spacing":{"padding":{"right":"0","left":"0"}}}} -->
+<p style="padding-right:0;padding-left:0">President and founder of Cavallo Horse &amp; Rider Inc</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":4085,"width":"242px","height":"auto","sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full is-resized"><img src="http://cavallo.local/wp-content/uploads/2024/10/carole-books.jpg" alt="" class="wp-image-4085" style="width:242px;height:auto"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":"33.33%"} -->
+<div class="wp-block-column" style="flex-basis:33.33%"><!-- wp:image {"id":4084,"sizeSlug":"full","linkDestination":"none","style":{"border":{"radius":"10px"}}} -->
+<figure class="wp-block-image size-full has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2024/10/carole-herder.jpg" alt="" class="wp-image-4084" style="border-radius:10px"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->

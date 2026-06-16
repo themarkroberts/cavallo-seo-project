@@ -1,0 +1,7 @@
+<!-- wp:image {"id":1112,"width":"279px","height":"auto","sizeSlug":"full","linkDestination":"none","align":"left"} -->
+<figure class="wp-block-image alignleft size-full is-resized"><img src="http://cavallo.local/wp-content/uploads/2024/09/2012-Dragon.jpeg" alt="" class="wp-image-1112" style="width:279px;height:auto"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>This year Chinese New Year starts on Jan 23, this starts the first of 15 days of celebration and the start of the Year of the Dragon. Last year, the Year of the Rabbit, was characterized by calm and tranquility. The Year of the Dragon will be marked by prosperity, excitement, unpredictability, exhilaration and intensity. People respond to the spirit of the Dragon with energy, vitality and unbridled enthusiasm, often throwing all caution to the wind. In keeping with the spirit of the Dragon in 2012, we at Cavallo definitely have some exciting things in store for this year! We want to especially thank Trevor and Anita, our Cavallo team in Asia, for all of their hard work and we wish everyone happiness, health, wealth and prosperity in 2012!</p>
+<!-- /wp:paragraph -->

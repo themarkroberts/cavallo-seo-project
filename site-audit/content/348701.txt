@@ -1,0 +1,309 @@
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:image {"id":68941} -->
+<figure class="wp-block-image"><img src="http://cavallo.local/wp-content/uploads/2022/02/Celebrating-Dynamic-Lives-of-Cavallo-Community-768x138.png" alt="Your Cavallo Hoof Boots Newsletter" class="wp-image-68941"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"textAlign":"center","level":5} -->
+<h5 class="wp-block-heading has-text-align-center">Welcome to the "Cavallo Team" Edition of your Cavallo News</h5>
+<!-- /wp:heading --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"textAlign":"center"} -->
+<h2 class="wp-block-heading has-text-align-center">Psst... You're Looking at an Enterprising "Woman of the Year" Winner!</h2>
+<!-- /wp:heading --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"id":110472,"style":{"border":{"radius":{"topLeft":"10px","topRight":"10px","bottomLeft":"10px","bottomRight":"10px"}}}} -->
+<figure class="wp-block-image has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2022/07/Carole-Joy-Photo-2.jpg" alt="Cavallo Hoof Boots President Carole Herder" class="wp-image-110472" style="border-top-left-radius:10px;border-top-right-radius:10px;border-bottom-left-radius:10px;border-bottom-right-radius:10px"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:paragraph -->
+<p>I’ve got fun news to share! Enterprising Women Magazine selects top entrepreneurs to honour at its annual celebration and conference, and I’m very excited to be included on this year’s list!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>As many of you know, I work to educate horse owners about the benefits of barefoot and booted riding. I was one of only five women selected in the world in my category, and I’m proud to represent the only equestrian brand awarded.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>I’m honoured to be considered a peer amongst the most courageous and clever women entrepreneurs in the world. As women, we must work harder and smarter and still remember to be mothers, wives, and women. I often joke with my friend that I wish I had a wife to take care of things.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:embed {"url":"https://youtu.be/gB_ovOMVHuc?si=_B_-ZpLADwRjMvrK","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-4-3 wp-has-aspect-ratio","style":{"spacing":{"margin":{"right":"var:preset|spacing|md","left":"var:preset|spacing|md"}}}} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio" style="margin-right:var(--wp--preset--spacing--md);margin-left:var(--wp--preset--spacing--md)"><div class="wp-block-embed__wrapper">
+https://youtu.be/gB_ovOMVHuc?si=_B_-ZpLADwRjMvrK
+</div></figure>
+<!-- /wp:embed -->
+
+<!-- wp:heading {"textAlign":"center"} -->
+<h2 class="wp-block-heading has-text-align-center">How my Past Led to my Future as Cavallo President</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>With all the recent boot inquiries we’re getting from the rodeo crowd, I’m taking a trip down memory lane to my barrel racing days. Here’s a video of me and my horse ‘AsBadAsMyDad’ aka. Dot, kicking butt together! So much fun:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>When I first got Dot, we started training to barrel race. Unfortunately, she wasn’t 100% sound. Some days she’d be fine, but others she was just not quite right. I did everything in my search for answers, because this is one well-bred athlete, and I didn’t understand why she could be 100% sound. All the testing was inconclusive, which brought me to a pivotal point in my life. In frustration, I began my search for alternative answers. I learned that it was all about her feet being clamped with metal shoes.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>You see, Dot won the Canadian Supreme as a three-year-old, but she was shod and worked too hard too soon, a tiny 00 shoe on this high-performance beauty. After pulling off her shoes and being unsure what direction to take, I found the answer in hoof boots. Dot was comfortable, confident, and always willing. No more lameness and problems. Her hooves naturally expanded to a healthy, full shape. She became symptom-free, and we shaved seconds off our previous best barrel-racing times</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>I knew I stood out as the only barefoot barrel racer at the time, but many have suggested to me since that I was quite possibly the first barefoot barrel racer in Canada. At the time, most hadn’t heard of keeping a performance horse barefoot. But the results? Well, there’s a reason Olympic riders are taking the shoes off in numbers these days.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>I developed Cavallo Hoof Boots to keep my barefoot horses as comfortable as possible when trail riding, trailering and during turnout – and the rest is history. It’s been a wonderful journey, and it’s far from over! To find out more about my story, please check out my two books: <a href="https://www.amazon.com/There-Are-Horseshoes-Heaven-Tradition-ebook/dp/B01BMYYRZ6/ref=sr_1_3?crid=2KGKH8BEX5MZY&amp;keywords=carole+herder&amp;qid=1657224304&amp;sprefix=carole+herder%2Caps%2C158&amp;sr=8-3" target="_blank" rel="noreferrer noopener">There Are No Horseshoes in Heaven</a> and <a href="http://getbook.at/HoofPrintsontheJourney" target="_blank" rel="noreferrer noopener">Hoof Prints on the Journey. </a></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"textAlign":"center"} -->
+<h2 class="wp-block-heading has-text-align-center">Who are your Cavallo Team Members?</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>You’re important. As Cavallo President, I make sure that you&nbsp;<a href="http://cavallo.local/contact-us/" target="_blank" rel="noreferrer noopener">always have an open door</a>&nbsp;to any help and information we can offer in terms of successfully booting your horse. I’ve spent years putting together the perfect team of like-minded animal lovers to help you. Being a horse owner isn’t always easy, so please know that we’re here for you.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>My husband, Greg and I run&nbsp;<a href="http://cavallo.local/" target="_blank" rel="noreferrer noopener">Cavallo</a>&nbsp;from our acreage in Roberts Creek, Canada, together with our team of superstar employees, horses, and dogs at our sides. When you call in, you’ll often hear a canine customer service agent in the background! Everyone at Cavallo is bonded by a deep love for animals (specifically horses), and a drive to do whatever is in our power to help horses thrive and be understood – free of pain and discomfort. So…&nbsp;<strong>Who are we?</strong></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"textAlign":"center","level":4} -->
+<h4 class="wp-block-heading has-text-align-center">Meet Greg Giles, Cavallo CEO</h4>
+<!-- /wp:heading --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"id":110485,"style":{"border":{"radius":{"topLeft":"10px","topRight":"10px","bottomLeft":"10px","bottomRight":"10px"}}}} -->
+<figure class="wp-block-image has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2022/07/Staff-Greg-452x452.jpg" alt="Cavallo Hoof Boots CEO, Greg Giles" class="wp-image-110485" style="border-top-left-radius:10px;border-top-right-radius:10px;border-bottom-left-radius:10px;border-bottom-right-radius:10px"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:paragraph -->
+<p>Cavallo CEO, Greg Giles, moved from Australia to join the Cavallo Team! His history and years of experience in design, production and the footwear business taught him that exceptionally high quality is imperative for longevity and customer satisfaction. In 1999, as Managing Director of Old Macs, Greg began his hoof boot education.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>In 2006, Greg delivered his wealth of sourcing, manufacturing, commerce and marketing prowess to further expand both Cavallo Products and the brand. If you’re lucky enough to meet Greg, you’ll know it – he will have you rolling on the floor laughing, and your horse will be very well-booted!</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"textAlign":"center","level":4} -->
+<h4 class="wp-block-heading has-text-align-center">Krystle Davies, Customer Experience Manager</h4>
+<!-- /wp:heading -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"id":110486,"style":{"border":{"radius":{"topLeft":"10px","topRight":"10px","bottomLeft":"10px","bottomRight":"10px"}}}} -->
+<figure class="wp-block-image has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2022/07/Satff-Krystle-452x452.jpg" alt="Krystle Davies, Cavallo Hoof Boots Customer Service" class="wp-image-110486" style="border-top-left-radius:10px;border-top-right-radius:10px;border-bottom-left-radius:10px;border-bottom-right-radius:10px"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:paragraph -->
+<p>Krystle’s love for horses started at a young age, and she began riding seriously at 10 years old. She joined Cavallo in 2009 and has been with us ever since. Along the way, she completed her Bachelor’s Degree in Psychology, married her wonderful partner, Aaron and started her own hobby farm. A wealth of barefoot &amp; booted knowledge, Krystle passionately shares Cavallo’s mission to develop and distribute innovative products of excellent quality that provide comfort, protection, support, and value for both horse and rider.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"textAlign":"center","level":4} -->
+<h4 class="wp-block-heading has-text-align-center">Brigitta Luettge, Customer Experience Expert</h4>
+<!-- /wp:heading --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"id":110487,"style":{"border":{"radius":{"topLeft":"10px","topRight":"10px","bottomLeft":"10px","bottomRight":"10px"}}}} -->
+<figure class="wp-block-image has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2022/07/Staff-Brigitta-452x452.jpg" alt="Brigitta, Cavallo Hoof Boots Customer Service" class="wp-image-110487" style="border-top-left-radius:10px;border-top-right-radius:10px;border-bottom-left-radius:10px;border-bottom-right-radius:10px"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:paragraph -->
+<p>Brigitta has always loved horses, and ALL animals, for that matter. And our customers tell us- it shows! Brigitta and her life partner, Andrew, sold their iconic restaurant and purchased an acreage (for her two gorgeous horses) very near the Cavallo offices. Word got out that Brigitta had some time on her hands, so I quickly invited her to become part of the team! Brigitta brings along decades of experience dealing with every horsey matter known to man, after owning a horse riding business in Whistler, BC. She is happy to support Cavallo customers since she sees the comfort Cavallo Boots offer her own horses every day.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"textAlign":"center","level":4} -->
+<h4 class="wp-block-heading has-text-align-center">Tina Wesseling, Customer Experience Expert</h4>
+<!-- /wp:heading --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"id":110488,"style":{"border":{"radius":{"topLeft":"10px","topRight":"10px","bottomLeft":"10px","bottomRight":"10px"}}}} -->
+<figure class="wp-block-image has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2022/07/Staff-Tina-452x452.jpg" alt="Tina, Cavallo Hoof Boots Customer Service" class="wp-image-110488" style="border-top-left-radius:10px;border-top-right-radius:10px;border-bottom-left-radius:10px;border-bottom-right-radius:10px"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:paragraph -->
+<p><span style="margin: 0px; padding: 0px;">Our beautiful <a href="https://sunshinecoastcanada.com/" target="_blank">Sunshine Coast, BC,</a> has been Tina’s home for the past twenty-plus years.</span> She was attracted to the rugged beauty of the Pacific West Coast, and she enjoys meaningful relationships with nature, animal life and people. On sunny days, you’ll find Tina on a beach walk or at home in her garden. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>When you call in and talk with Tina, you’ll enjoy a warm, kind voice and awesome customer service. Happy horses and grateful humans light up Tina’s days at Cavallo!</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"textAlign":"center","level":4} -->
+<h4 class="wp-block-heading has-text-align-center">Yvonne Welz, Customer Experience Expert</h4>
+<!-- /wp:heading --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"id":110490,"style":{"border":{"radius":{"topLeft":"10px","topRight":"10px","bottomLeft":"10px","bottomRight":"10px"}}}} -->
+<figure class="wp-block-image has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2022/07/Satff-Yvonne-e1660326961163-452x326.jpg" alt="Yvonne Welz, Cavallo Hoof Boots Customer Service" class="wp-image-110490" style="border-top-left-radius:10px;border-top-right-radius:10px;border-bottom-left-radius:10px;border-bottom-right-radius:10px"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:paragraph -->
+<p>You may have chatted with Yvonne if you’ve interacted with our Facebook page! Yvonne is a lifelong horsewoman with over 30 years of equine management and training experience. Formerly a competitive dressage rider, she schooled many horses up to an advanced level and achieved national awards with them. Always focused on learning, she studied the art of classical horsemanship for over 25 years. Professionally, she was an Advertising Art Director, until fate intervened when her beloved champion dressage mare foundered in the summer of 1999. The journey to save that mare altered the course of her life, and from then on, Yvonne has been completely devoted to the barefoot horse movement.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Through founding&nbsp;<a href="http://cavallo.local/yvonne-welz-of-the-horses-hoof-joins-cavallo-hoof-boots-team/" target="_blank" rel="noreferrer noopener">The Horse’s Hoof Magazine</a>&nbsp;and website in 2000, Yvonne was instrumental in helping to introduce the methods of natural barefoot horse care to the USA. Her magazine was devoted to barefoot hoof trimming, natural horse care, bitless riding, and ethical horse care topics (still available as a collection of online back-issues.) Yvonne’s number one passion in life is helping horse owners and their horses stay healthy and happy – so joining the Cavallo Team was simply a “natural” for her! For years she has used Cavallo Hoof Boots on her own horses every single day, and can testify about the superior comfort and protection they provide on hard, rocky Arizona desert ground.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Yvonne lives in Queen Creek, Arizona with her husband, James (a barefoot hoof care professional since 2000), and their herd of 4 bay mares. She created a small riding school and enjoys giving lessons on her beautiful barefoot, Cavallo-booted, bitless school horses – teaching the next generation of horse people all about healthy horse care!</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"textAlign":"center","level":4} -->
+<h4 class="wp-block-heading has-text-align-center">Jennifer Mundell, Relations Coordinator</h4>
+<!-- /wp:heading -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"id":110489,"style":{"border":{"radius":{"topLeft":"10px","topRight":"10px","bottomLeft":"10px","bottomRight":"10px"}}}} -->
+<figure class="wp-block-image has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2022/07/Satff-Jenny-452x452.jpg" alt="Jennifer Mundell, Relations Coordinator, Cavallo Hoof Boots" class="wp-image-110489" style="border-top-left-radius:10px;border-top-right-radius:10px;border-bottom-left-radius:10px;border-bottom-right-radius:10px"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:paragraph -->
+<p>Jenny began working with Cavallo in 2015. Jenny handles social media, marketing and growing partnerships between Cavallo and other equine industry organizations. She spends her free time outdoors with her dogs, on the beach or in the beautiful BC forest.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>She grew up with three horses but has not had her own horse as an adult, so her job at Cavallo helps to fill that gap! Jenny’s job at Cavallo and being active with dog rescue are Jenny’s chosen ways to express her passion for helping animals.&nbsp;</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"textAlign":"center","level":4} -->
+<h4 class="wp-block-heading has-text-align-center">Heidi Melocco, Public Relations &amp; Press</h4>
+<!-- /wp:heading --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"id":110491,"style":{"border":{"radius":{"topLeft":"10px","topRight":"10px","bottomLeft":"10px","bottomRight":"10px"}}}} -->
+<figure class="wp-block-image has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2022/07/Satff-Heidi-452x452.jpg" alt="Heidi Melocco, Cavallo Hoof Boots Press Coordinator" class="wp-image-110491" style="border-top-left-radius:10px;border-top-right-radius:10px;border-bottom-left-radius:10px;border-bottom-right-radius:10px"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:paragraph -->
+<p>With her finger always on the pulse of the horse world, Heidi helps Cavallo spread the word about new products and equine wellness. She has been working in the horse magazine and equine publishing world for over 20 years. Heidi authored&nbsp;<em>Western Horseman’s</em>&nbsp;<em>Understanding Lameness, Western Horseman’s Legends 6 and 9,&nbsp;</em>and&nbsp;<em>Goodnight’s Guide to Great Horsemanship.</em>&nbsp;She writes for several nationally-circulated horse magazines and holds first-prize awards from&nbsp;<em>American Horse Publications</em>&nbsp;for her writing and photography.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Heidi started riding Ponies of the Americas at the young age of five. In college, she was president and later assistant coach of the Ohio Wesleyan University Equestrian Team. Now, she’s a registered instructor with PATH International. Heidi resides on her small-acreage horse property with her husband, Jared, daughter, Savannah, and her many lovely animals of all sizes!</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"textAlign":"center","level":4} -->
+<h4 class="wp-block-heading has-text-align-center">Patricia, Chief Financial Officer</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Patricia is a horse person, too! She grew up riding and was happy to revisit this passion as an adult by joining the Cavallo Team and getting a horse. Patricia is the one who keeps our books in order and everything working financially, so that we always have boots to provide for you, and we are always able to pay for them.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"textAlign":"center"} -->
+<h2 class="wp-block-heading has-text-align-center">Reach Out to Us Anytime!</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center"><strong>Have a question or comment for us, or just want to say hello? Maybe you’d like to share a photo of your horse for us to post to our Facebook page?  </strong><a href="http://cavallo.local/contact-us/" target="_blank" rel="noreferrer noopener"><strong>Please find us here</strong></a><span style="margin: 0px; padding: 0px;"><a href="http://cavallo.local/contact-us/" target="_blank"><strong>. </strong></a><strong>W</strong></span><strong>e will be very happy to hear from you! </strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":348703,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="http://cavallo.local/wp-content/uploads/2026/04/2025-07-17-Cavallo-Hoof-Boots-Staff-Photo.jpg" alt="" class="wp-image-348703" title="Cavallo Hoof Boots Customer Service Sizing assistance"/><figcaption class="wp-element-caption">Untitled design - 1</figcaption></figure>
+<!-- /wp:image --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"textAlign":"center"} -->
+<h2 class="wp-block-heading has-text-align-center">The World is Getting Booted!</h2>
+<!-- /wp:heading --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column {"width":"33.33%"} -->
+<div class="wp-block-column" style="flex-basis:33.33%"><!-- wp:image {"id":110546,"width":"195px","height":"auto","align":"center"} -->
+<figure class="wp-block-image aligncenter is-resized"><img src="http://cavallo.local/wp-content/uploads/2022/07/Cavallo-globe-worldwide-logo-300x300.jpg" alt="" class="wp-image-110546" style="width:195px;height:auto"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":"66.66%"} -->
+<div class="wp-block-column" style="flex-basis:66.66%"><!-- wp:paragraph -->
+<p><strong>Did you know? </strong>Cavallo Hoof Boots are now distributed in 25 countries worldwide! Tens of thousands of horses every year are benefiting from the comfort and protection provided to their hoofs while being ridden on any terrain at any speed. </p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:block {"ref":348453} /--></div>
+<!-- /wp:group -->

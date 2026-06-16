@@ -1,0 +1,23 @@
+<!-- wp:image {"id":1197,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="http://cavallo.local/wp-content/uploads/2024/09/road.png" alt="" class="wp-image-1197"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>By Carole Herder</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":"MsoNormal"} -->
+<p class="MsoNormal"><span lang="EN-CA">Most people have a timetable to live by: kids to pick up from school, work deadlines to meet, errands to be run before the shops shut. Too often our time with our horses also has to be slotted in to this busy schedule. Maybe you can squeeze in half an hour in the morning before you rush to work or grab a quick ride down the lane before dinner time? Part of having a horse is delighting in them so here’s a thought, get rid of the agenda and enjoy them! I recently heard someone say to a new rider, “Take your time, you have this horse for the rest of their life so enjoy them!” Give yourself more time with them, or plan to do less in the time you have so it’s better quality.</span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":"MsoNormal"} -->
+<p class="MsoNormal"><span lang="EN-CA">Another way to further enjoy your time together is to invite someone new to ride along with you. Expand your social life – it’s a great way to make new friends, find out about different activities and maybe even learn some extra skills.</span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":"MsoNormal"} -->
+<p class="MsoNormal"><span lang="EN-CA">Or why not further get rid of the winter and ‘spruce up’ ! Give your horses a bath, shampoo them from head to toe; brush, comb and scrub them. Spend some quality time with them and then take them out on a ride and show them off, coat gleaming, mane and tail flowing, no more green spots or mud patches. Maybe even try some fancy plaiting or a new accessory?</span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":"MsoNormal"} -->
+<p class="MsoNormal"><span lang="EN-CA">If pleasure riding is going to be part of your life, make the most of it by loving every minute of it.</span></p>
+<!-- /wp:paragraph -->

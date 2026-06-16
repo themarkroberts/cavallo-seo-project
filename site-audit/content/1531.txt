@@ -1,0 +1,71 @@
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading"><span style="color: #008080;">Horse Handling &amp; Riding Styles</span></h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"align":"left"} -->
+<p class="has-text-align-left">I still find it mildly amusing when people joke about how badly behaved their horse is, how he constantly invades their space, won’t stand still and drags the owner around. They think this is hilarious and laugh it off because he is okay to ride most of the time. They comment about him being unruly as though he’s quite a character – almost like they’re proud of him.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"left"} -->
+<p class="has-text-align-left"><strong>Here’s my penny’s worth for earning some respect (the non-violent way) from your equine friends (the four legged type!):</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"left"} -->
+<p class="has-text-align-left"><strong>Horsemanship 101</strong>: &nbsp;Be able to touch your horse all over</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"left"} -->
+<p class="has-text-align-left"><strong>Horsemanship 102</strong>: &nbsp;Gain respect through controlling the movement of your horse on the ground</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"left"} -->
+<p class="has-text-align-left"><strong>Horsemanship 103</strong>: Learn the three R’s (Request, Response, Release)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3,"align":"left"} -->
+<h3 class="wp-block-heading"><strong><span style="color: #008080;">Try these exercises:</span></strong></h3>
+<!-- /wp:heading -->
+
+<!-- wp:image {"id":5943,"align":"left"} -->
+<figure class="wp-block-image alignleft"><img src="//cavallo.local/wp-content/uploads/2015/08/Comfy-Horse-300x250.gif" alt="Horse Hoof Boots" class="wp-image-5943"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph {"align":"left"} -->
+<p class="has-text-align-left">1. &nbsp;Ask your horse to come forwards from a long rope, smoothly and in a straight line</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"left"} -->
+<p class="has-text-align-left">2. &nbsp;Ask your horse to back up, including one step at a time</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"left"} -->
+<p class="has-text-align-left">3. &nbsp;Ask your horse to stand still for 1 minute, 3 minutes, and 4 minutes, maintaining a respectful distance</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"left"} -->
+<p class="has-text-align-left">4. &nbsp;Ask your horse to step sideways smoothly and easily – try this over a pole</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"left"} -->
+<p class="has-text-align-left">5. &nbsp;The "L" exercise – ask you horse to move through L shaped poles ensuring they bend in both directions, including one step at a time (and for the more advanced, try it going backwards!)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"left"} -->
+<p class="has-text-align-left">All of the above should&nbsp;be done without pulling, yanking, tugging or hitting. Owning and riding a horse is about building a relationship and this is done&nbsp;through looking after them correctly, and training them correctly.&nbsp; Very basic tips, but sometimes a little reminder is required.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"left"} -->
+<p class="has-text-align-left">Oh, and above all – KEEP HIM COMFORTABLE! &nbsp;Cushion his feet and back in <span style="color: #0000ff;"><a href="http://cavallo.local/" target="_blank" rel="noopener"><span style="color: #0000ff;">Cavallo Hoof Boots and Cavallo Total Comfort System Saddle Pads.</span></a></span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":5795,"align":"center"} -->
+<figure class="wp-block-image aligncenter"><img src="//cavallo.local/wp-content/uploads/2015/06/Caroles-452x181.png" alt="horse hoof boots" class="wp-image-5795"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph {"align":"left"} -->
+<p class="has-text-align-left"></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->

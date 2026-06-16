@@ -1,0 +1,54 @@
+<!-- wp:group {"style":{"spacing":{"margin":{"top":"var:preset|spacing|md","bottom":"var:preset|spacing|md"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group" style="margin-top:var(--wp--preset--spacing--md);margin-bottom:var(--wp--preset--spacing--md)"><!-- wp:heading {"textAlign":"center","level":1} -->
+<h1 class="wp-block-heading has-text-align-center">A Free Laminitis Guide to Help You &amp; Your Equine</h1>
+<!-- /wp:heading -->
+
+<!-- wp:image {"id":5806,"sizeSlug":"full","linkDestination":"none","align":"center"} -->
+<figure class="wp-block-image aligncenter size-full"><img src="http://cavallo.local/wp-content/uploads/2024/10/lami.jpg" alt="Cavallo Hoof Boots Free Laminitis Guide Download" class="wp-image-5806"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:html -->
+<div class="klaviyo-form-XJZafz"></div>
+<!-- /wp:html -->
+
+<!-- wp:html -->
+<script>
+window._klOnsite = window._klOnsite || [];
+window._klOnsite.push(['openForm', 'XJZafz']);
+</script>
+<!-- /wp:html --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"backgroundColor":"white","layout":{"type":"constrained","contentSize":""}} -->
+<div class="wp-block-group has-white-background-color has-background"><!-- wp:columns {"verticalAlignment":"center"} -->
+<div class="wp-block-columns are-vertically-aligned-center"><!-- wp:column {"verticalAlignment":"center","width":"44.48%"} -->
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis:44.48%"><!-- wp:heading -->
+<h2 class="wp-block-heading">It's a Gift We Hope You Never Need...</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Are you going through a Laminitis event with your horse, or just wanting to be prepared in case it happens in the future?&nbsp; Healing from Laminitis can be a tough journey for a horse, but in some ways, it can be even tougher on its owner. This guide is something you can tuck away in your toolkit, in case you ever need it.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><em><strong>Your Guide to Using Cavallo Boots for Laminitis Recovery&nbsp;</strong></em>will “behoove” both you and your equine. Here’s everything you need to know about using Cavallo Boots to assist in Laminitis recovery or any hoof rehabilitation situation.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>It’s important to know that you are not alone. So many share these feelings of hopelessness and fear when guiding their beloved horse through the healing process. But know that there truly can be light at the end of the tunnel. Read real stories from your fellow horse owners who’ve been through it all and come out the other side.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"4px","bottom":"40px"}}}} -->
+<p style="margin-top:4px;margin-bottom:40px"><strong>It’s simple. And it works. You’ll see!</strong></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"center","width":"","style":{"spacing":{"padding":{"right":"0","left":"0","top":"0","bottom":"0"}}},"layout":{"type":"constrained","contentSize":"585px","justifyContent":"left","wideSize":""}} -->
+<div class="wp-block-column is-vertically-aligned-center" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:image {"id":5809,"scale":"cover","sizeSlug":"full","linkDestination":"none","style":{"color":{"duotone":"unset"},"border":{"width":"0px","style":"none","radius":"10px"}}} -->
+<figure class="wp-block-image size-full has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2024/10/Cavallo-Laminitis-Guide-Image-1.jpg" alt="Cavallo Hoof Bots Laminitis Guide" class="wp-image-5809" style="border-style:none;border-width:0px;border-radius:10px;object-fit:cover"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:block {"ref":333715} /-->

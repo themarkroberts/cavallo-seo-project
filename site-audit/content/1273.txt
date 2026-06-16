@@ -1,0 +1,19 @@
+<!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="http://cavallo.local/wp-content/uploads/2024/09/Carole-at-Desk-1-Copy-e1405953352400.jpg" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>By Carole Herder</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":"MsoNormal"} -->
+<p class="MsoNormal"><span lang="EN-CA">We were so excited to see 700 people register for the Webinar “6 Ways to Help Your Horse Grow Younger and Live Longer”! That’s a big crowd! While doing it from the comfort of my office chair was a little easier that traveling to say Melbourne or Massachusetts, I missed your faces. Talking to my computer screen was, well shall I say – a bit weird. </span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":"MsoNormal"} -->
+<p class="MsoNormal"><span lang="EN-CA"> Interaction did take place at the end with a flood of questions and amazing comments. One woman said she’s been using her Cavallos regularly for over 5 years and on really aggressive terrain too. That was nice to hear! Questions ranged from the Cavallo application for a Navicular diagnosis to wearing them in snow and ice. There are still a few questions outstanding and your answers are on the way. So this whole webinar technology thing is really kind of great, once you get used to it. But we all know technology can be troublesome. I was worried about the videos’ streaming properly - the audio staying consistent - the internet going down. With these potential issues rambling around my brain, I have to admit, for me it was a bit daunting. But then once underway, passion kicked in and all I cared about was getting the message out. </span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":"MsoNormal"} -->
+<p class="MsoNormal"><span lang="EN-CA">Between that and the 3 day Mane Event Equine Education and Trade Show, the week has flown by. I am so grateful to The Cavallo Community for coming out to seek knowledge and education and join our team. One thing I know for sure is that we never know everything. There is always more. And sometimes just one little bit of information can be the unexpected piece that completes the puzzle and things fall right into place to show you a whole new perspective. If we go around thinking we know everything, we miss the mystery and excitement of new discovery. We all want our horses to be comfortable, happy and well. They bring us so much joy. Let’s keep learning and changing the world – one horse at a time.</span></p>
+<!-- /wp:paragraph -->

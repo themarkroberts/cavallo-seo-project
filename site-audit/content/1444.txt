@@ -1,0 +1,39 @@
+<!-- wp:paragraph -->
+<p>By Carole Herder</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>A friend of mine rang me in a panic recently and said she had a photo to send of her horse’s hoof and could I take a look. See below.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":5075,"linkDestination":"custom","align":"left"} -->
+<figure class="wp-block-image alignleft"><a href="//cavallo.local/wp-content/uploads/2014/11/Blog-74.jpg"><img src="//cavallo.local/wp-content/uploads/2014/11/Blog-74-452x253.jpg" alt="Horse Hoof Boots" class="wp-image-5075"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>‘Looks like White Line Disease’, I messaged her back. She was horrified. Not only did she keep her horse barefoot, but he lived outside and was on a grass/hay only diet. She couldn’t understand it.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The first thing I had to explain to her was that White Line Disease is not actually a disease, it is a bacterial (some say fungal) infection causing a separation of the outer and inner hoof wall. This didn’t really help her. But when I went on to say that the hoof she showed me looked like it only had a minor infection and could be easily treated, she settled down a little. Of course, if in doubt, always consult a veterinarian or Natural Hoof Care practitioner.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>White Line Disease (WLD), also known as Seedy Toe or Foot Rot, is quite prevalent. Often attributed to shod, stalled horses, those living outside in hot and humid or wet conditions or some with a bad diet can also be affected. Even those with hoof imbalances or left untrimmed and have over-grown or cracked hooves can be prone to WLD. And of course, don’t forget every horse is different. Some really healthy horses can get it as well. My friend was very confused that all of her other horses were fine. Like humans, some bodies are more forgiving of the diets we have or conditions we live in.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Natural remedies are much more beneficial than toxic ones. While the toxic ones may kill the fungus quickly, they also tend to kill off some live tissue while they’re at it. For the early stages of the infection, natural remedies such as Tea Tree Oil and even Manuka Honey, which has excellent anti-bacteria properties, are highly recommended. Often, just one or two soaks will do the trick, and our Horse Hoof Boots are excellent for soaking hooves without losing the bandage and thus the effect of the remedy! While you don’t want to wrap up the infected foot, as bacteria will only breed more in air-tight dark areas, a good twenty minute soak will allow the remedy to absorb up into the hoof and attack the infection right inside. In this case, frequent scraping and cleaning and then stuffing the area with Tea Tree Oil soaked batting alternating with fresh air time has done the trick.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Managing bacteria can be difficult as the specific causes are unknown and different treatments work for different horses. The best defense is avoidance so ensure proper regular trimming, good diet, a healthy environment and loads of comfortable movement.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:spacer {"height":"40px"} -->
+<div style="height:40px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->

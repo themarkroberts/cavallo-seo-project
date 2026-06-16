@@ -1,0 +1,19 @@
+<!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="http://cavallo.local/wp-content/uploads/2024/09/mcdonalds-300x212-1.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>By Carole Herder</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>I found a great interview recently with Dr. Robert Bowker, one of the leading hoof research pioneers in our discipline. You can read the full interview here (dated 07/01/14) <a href="http://www.foundationsofsoundness.com/blog.html" target="_blank" rel="noopener">http://www.foundationsofsoundness.com/blog.html</a> but I would like to reiterate one of his points regarding diet.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>In the interview, Dr. Bowker talks about the holistic approach to horses and how they are now living longer under our care. We are paying more attention to their feet and their diet and their overall health. Trimming, boarding and horsemanship are key elements in keeping a horse healthy but their diet is just as vital. I think the reason this aspect is often neglected is because the effects aren’t seen for a long time. We, as humans, could eat junk food for years, but we won’t see the ill-effect it has on our bodies until way down the line. It is the same for horses. If we neglect their feet we see the problems arise pretty quick. If we neglect their well-being, it often appears as bad behavior. But bad diet? This often won’t be seen until it is too late.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The crazy thing is, horses actually need a very simple diet. Many will live perfectly well on some good quality hay and free choice salt and minerals. You do not need to be spending exuberant amounts of money on bags and bags of supplemented feed. And of course good diet will not only deter long-term disease and illness, but will help the shorter-term hoof quality as well. Do the research and find out what is needed for your horse. Learn a little about nutrition and the digestive system and you will help your horse a lot.</p>
+<!-- /wp:paragraph -->

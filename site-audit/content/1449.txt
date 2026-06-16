@@ -1,0 +1,43 @@
+<!-- wp:paragraph -->
+<p>I recently purchased and used the Cavallo Simple boots and absolutely love them!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>My horse is a 14 year old quarter horse gelding. Not long after I first purchased him about 3 years ago , he had laminitis. It was a very long process to get him in better health again and then riding. He is now doing great, but requires special rocker toe horse shoes on the front to keep him comfortable. We enjoy trail riding, local fun shows, and western pleasure together. We really have a special bond.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The opportunity came up for us to attend a 6 mile benefit trail ride a good friend of mine was hosting for a friend of hers. The ride would raise money to help her with her medical bills. This was an event I very much wanted to attend. I was worried that the length of the ride and terrain was more than we were used to and concerned my horse would get sore or loose a shoe along the way. My friend suggested I try the Cavallo simple boots. I ordered them and got Maxx used to wearing them at home here and there in the pasture. I wanted to keep his shoes on , but still use the boots for special trail rides such as this. Calling Cavallo customer service , the rep suggested I place a thin piece of leather down in the bottom of the boots to help protect them if I was going to keep his shoes on as well . She mentioned many customers use this method successfully. This is what I did for our ride.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":5109,"linkDestination":"custom","align":"center"} -->
+<figure class="wp-block-image aligncenter"><a href="//cavallo.local/wp-content/uploads/2014/11/Maxx.jpg"><img src="//cavallo.local/wp-content/uploads/2014/11/Maxx-452x367.jpg" alt="Horse Hoof Boots" class="wp-image-5109"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The ride was a huge success. My horse did wonderful! The boots did not come off, turn, or alter our riding in any way. The terrain was up and down hill, woods, dirt, rock , and small water crossings. I was completely impressed and he was comfortable the entire time. The boots do not even look worn at all besides the mud I had to wash off of them. Even the inside is perfectly in tact. The leather pieces worked great. There was also barely any dirt or water in the inside due to the drains on the sides of the boot. The boots are now washed, conditioned , and ready for our next ride.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>I want to thank your company for making such a great product that effects my and my horses life in such a positive way. I would suggest to anyone thinking of trying horse boots to get the Cavallo simple boot.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Thank you,</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Lauren Walski</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Pennsylvania USA</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:spacer {"height":"40px"} -->
+<div style="height:40px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->

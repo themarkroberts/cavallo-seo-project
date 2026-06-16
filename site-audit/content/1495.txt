@@ -1,0 +1,35 @@
+<!-- wp:paragraph -->
+<p>Recently, Greg and I were very personally touched after a visit to Rainier Therapeutic Riding in Yelm, Washington.&nbsp; We wanted to see firsthand the work being done at the center. &nbsp;Since beginning their program in 2010, they have focused solely on the rehabilitation of military service veterans who are facing physical and emotional challenges after returning from service.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Rainier Therapeutic Riding, a Premier PATH center, received national attention when the story of one of their veterans, Aaron Heliker, was highlighted in the 2014 documentary, <em>Riding My Way Back</em>.&nbsp; Many of the veterans are trying to overcome the effects of Traumatic Brain Injury (TBI), Post Traumatic Stress Disorder (PTSD) and physical injuries they incurred during service.&nbsp; Program participants are often battling feelings of extreme isolation and some are at risk for suicide.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":5514,"align":"center","className":"wp-image-5514 size-large alignleft"} -->
+<figure class="wp-block-image aligncenter wp-image-5514 size-large alignleft"><img src="//cavallo.local/wp-content/uploads/2015/04/Debbi-452x301.jpg" alt="Horse Hoof Boots" class="wp-image-5514"/><figcaption class="wp-element-caption">Debbi Fisher and Root Beer</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph {"align":"left"} -->
+<p class="has-text-align-left">&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Debbi Fisher, founder of Rainier Therapeutic Riding, is excited that the center has recently taken the metal shoes off their therapy horses, letting them live a more natural lifestyle of being "Barefoot &amp; Booted". Debbi believes that, as opposed to using metal shoes, the combination of living barefoot and using hoof boots while riding gives the hoof a much better opportunity to function naturally. The unshod hoof is able to spread on contact with the ground, causing blood to pump through the lower leg – this minimizes disease and, in turn, minimizes pain.<br>Debbi knows that a comfortable horse is a good therapy horse, and that hoof health is everything. A therapy horse normally works a three to five year span before its retirement, due the physical and mental challenges of the job. Taking metal shoes off and using the Cavallo Boots while riding is an effort to increase the physical comfort of the horses, which will enable the center to provide better quality care to its veterans. Extending a horse’s working life reduces the frequency of having to seek, test, and train a new horse for the job, which is a lengthy and expensive process.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Our team at Cavallo is so happy to see the horses and humans of Rainier Therapeutic Riding enjoying the benefits of using Cavallo Hoof Boots. We are honoured to be in Debbi’s company of friends and proud to sponsor RTR.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>For more information about Rainier Therapeutic Riding, please visit: <span style="color: #0000ff;"><a href="http://www.rtriding.org/"><span style="color: #0000ff;">http://www.rtriding.org/</span></a></span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":5458,"align":"center"} -->
+<figure class="wp-block-image aligncenter"><img src="//cavallo.local/wp-content/uploads/2015/03/Carolesig1.png" alt="Horse Hoof Boots" class="wp-image-5458"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:spacer {"height":"40px"} -->
+<div style="height:40px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->

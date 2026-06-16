@@ -1,0 +1,11 @@
+<!-- wp:image {"id":1150,"width":"183px","height":"auto","sizeSlug":"full","linkDestination":"none","align":"left"} -->
+<figure class="wp-block-image alignleft size-full is-resized"><img src="http://cavallo.local/wp-content/uploads/2024/09/gunnar.jpg" alt="" class="wp-image-1150" style="width:183px;height:auto"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>LOVE THE SPORT HOOF BOOTS!!! I was a bit concerned when measuring my 16.1hh Friesian, Gunnar for Cavallo boots for his comfort as we get thru the summer drought when grass sugars peak. Looked like size 6 might be too small but took a chance. So glad I did! They fit with enough room to easily go on without a struggle and took less than 15 minutes for him to acclimate. He feels secure and comfortable in them. Now we can ride anywhere ( except in competition) without concerns. This is important because we do demos and can't always know ahead of time what the footing will be. Very happy!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><em>- Leslie Berro, Davidson, NC</em></p>
+<!-- /wp:paragraph -->

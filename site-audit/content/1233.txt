@@ -1,0 +1,15 @@
+<!-- wp:image {"id":5098,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="http://cavallo.local/wp-content/uploads/2013/08/blue-sky-horse.jpg" alt="" class="wp-image-5098"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>By Carole Herder</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Falling in love for the first time, I was a bright romping eight year old. Driving through the Canadian prairies, my family and I were on one of our Sunday afternoon outings. It was a day very different than the others. I could feel it then, and I can still see us when I close my eyes now; manually rolling the windows down, no seat belts, my sister and I with the wind in our hair and heads stretching out of the ’59 Chevy. You know the kind of day when everything seems enhanced. The breeze, the sweet smells of spring and fresh cut hay, the wind blowing softly, moving through the poplar leaves with rustling crunchiness. Out of the corner of my eye I saw him – beautiful, strong, majestic and shiny. The wind caught his mane, lifted it, flowing it skywards as if he had wings. “Stop the car! Daddy please! Stop the car,” I pled.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The majestic beast flew to the fence that separated us and came to a thundering halt, shaking, snorting and stomping his right leg, nostrils flaring wide with red fire. He was daring me to catch him, challenging me to come into his world. My body bristled with passion and a warm flush enveloped me. He was as pure and raw as nature itself. In that moment I knew my destiny. It wasn’t a matter of if or even how, I just knew that my life was somehow meant to be with horses. Some call these “peak” or “turning” points. It’s just a realization for certain of who you are and who you’re meant to be. If we’re lucky we are aware when they happen, we follow the feeling and we end up living our destiny, our purpose, or as called in Sanskrit: Dharma. Well, I got the message, loud and clear that day that I was destined to be with horses and even though it took 20 years or so, I am now immersed. Trying to improve the lives of horses around the world is my purpose. It is what I live for and what my life is meant to be. And it all started on that day, that I still see as clearly as the bright blue sky on a brilliant summer’s day.</p>
+<!-- /wp:paragraph -->

@@ -1,0 +1,79 @@
+<!-- wp:image {"id":348580,"sizeSlug":"large","linkDestination":"none","style":{"border":{"radius":{"topLeft":"15px","topRight":"15px","bottomLeft":"15px","bottomRight":"15px"}}}} -->
+<figure class="wp-block-image size-large has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2021/03/Uxia-Blanco-with-Green-Trek-Hoof-boot-by-Cavallo-Spain-1024x503.jpg" alt="" class="wp-image-348580" style="border-top-left-radius:15px;border-top-right-radius:15px;border-bottom-left-radius:15px;border-bottom-right-radius:15px"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"level":4,"className":"bard-text-block style-scope"} -->
+<h4 class="wp-block-heading bard-text-block style-scope"><span style="color: #000000;"><b class="bard-text-block style-scope">Uxía and Cissa's Brave Journey</b></span></h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"className":"bard-text-block style-scope"} -->
+<p class="bard-text-block style-scope"><span style="color: #000000;">Uxía is an equine educator and horsewoman in Barcelona, and she's forging new barefoot pathways in Spain. Her social media accounts are some of the most influential in Spain. They are among few references in their area about natural horsemanship, groundwork and bitless and barefoot horsekeeping. She's our kinda girl!</span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading"><span style="color: #000000;"><strong>A Radical Metamorphosis</strong></span></h4>
+<!-- /wp:heading -->
+
+<!-- wp:image {"id":60006,"width":"335px","height":"auto","align":"left","style":{"border":{"radius":{"topLeft":"15px","topRight":"15px","bottomLeft":"15px","bottomRight":"15px"}}}} -->
+<figure class="wp-block-image alignleft is-resized has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2021/03/Capture-1-225x300.jpg" alt="Uxia Blanco - Barefoot Horse Cavallo Hoof Boots Spain" class="wp-image-60006" style="border-top-left-radius:15px;border-top-right-radius:15px;border-bottom-left-radius:15px;border-bottom-right-radius:15px;width:335px;height:auto"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph {"className":"bard-text-block style-scope"} -->
+<p class="bard-text-block style-scope"><span style="color: #000000;">Theirs is a story of overcoming. Cissa and Uxía have been together for nine years.&nbsp; In that time, these two have undergone a radical metamorphosis. Uxía was brought up with a traditional and violent way of training horses, which is the norm in her area. This created a lot of psychological trauma for Cissa. Growing up, Uxía knew nothing about equine welfare. For years, like other horses in her area, Cissa lived in solitary confinement in a dark and filthy stable every day of the week.&nbsp;</span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":"bard-text-block style-scope"} -->
+<p class="bard-text-block style-scope"><span style="color: #000000;">Not surprisingly, this lifestyle led to troubling behavioural problems in Cissa. Seeing Cissa unhappy motivated Uxía to educate herself in the area of horsemanship and ethology. When she finished her training and returned to Galicia with this new approach, Uxía became a local pioneer, bringing natural horsemanship to her area. Most importantly, she has helped Cissa and has positively impacted many other horses since. </span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4,"className":"bard-text-block style-scope"} -->
+<h4 class="wp-block-heading bard-text-block style-scope"><span style="color: #000000;">Finding Her Niche</span></h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"className":"bard-text-block style-scope"} -->
+<p class="bard-text-block style-scope"><span style="color: #000000;">Uxía often felt that the people of Galicia were not quite ready for her yet, and didn't always value her work. She spent three years swimming against the tides in Galicia and recently made a big move... Two months ago, she decided to leave her job, her studies and her family to relocate to Barcelona! Uxía and Cissa have found their niche there, and Uxía's work is highly valued. She now has a lot of clients, and the word of what she does is quickly spreading! </span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":"bard-text-block style-scope"} -->
+<p class="bard-text-block style-scope"><span style="color: #000000;">The one drawback is that Barcelona's terrain is very hot, dry, and rocky, and Cissa has sensitive feet. This is where we come in! Uxía started using Cavallos to give Cissa protection and comfort. The result is one very happy horse! </span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4,"className":"bard-text-block style-scope"} -->
+<h4 class="wp-block-heading bard-text-block style-scope"><span style="color: #000000;">Uxía's Other Talent - Videography</span></h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"className":"bard-text-block style-scope"} -->
+<p class="bard-text-block style-scope"><span style="color: #000000;">She recently sent us this incredible video she made to thank us for the confidence her <a href="http://cavallo.local/product-category/hoof-boot/trek-hoof-boots/" target="_blank" rel="noopener noreferrer">Trek Boots</a> have given Cissa. Normally, I would say that this story has a very happy ending, but deep down, I know it's just the beginning for these two!</span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:embed {"url":"https://www.youtube.com/watch?v=PhctElutQos","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://www.youtube.com/watch?v=PhctElutQos
+</div></figure>
+<!-- /wp:embed -->
+
+<!-- wp:paragraph {"className":"bard-text-block style-scope"} -->
+<p class="bard-text-block style-scope"><span style="color: #000000;">You can follow Uxía at YouTube <a href="https://www.youtube.com/user/uxiablancopi" target="_blank" rel="noopener noreferrer">HERE ~&nbsp; </a></span><span style="color: #000000;">Follow her on Instagram <a href="https://www.instagram.com/uxiablancoycissa/" target="_blank" rel="noopener noreferrer">HERE ~ </a></span><span style="color: #000000;">Find her on TikTok <a href="https://www.tiktok.com/@uxiablancoycissa?lang=en" target="_blank" rel="noopener noreferrer">HERE!</a></span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><span style="color: #000000;">Wishing you many happy trials, following your truth,</span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":31657,"align":"left"} -->
+<figure class="wp-block-image alignleft"><img src="http://cavallo.local/wp-content/uploads/2020/07/OFFICIAL-Carole-Herder-2020-Signature-Hoof-Prints-Book-LR-1.png" alt="Carole Herder 2020 Signature - Hoof Prints Book - LR" class="wp-image-31657"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:embed {"providerNameSlug":"youtube","responsive":true} /-->

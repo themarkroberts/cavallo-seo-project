@@ -1,0 +1,77 @@
+<!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading"><span style="color: #000000;">Thinking of Losing the Metal Shoes this Spring?</span></h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><span style="color: #000000;">It’s spring and the time and I have several friends who usually have their farriers put metal shoes back on for their summer rides. A couple of friends have come to me this year, wondering about keeping their horses barefoot and using boots when needed on the trails - they are on the fence, thinking of losing the metal shoes this Spring, looking for answers. They don't want their horses to be sore and they don’t want to worry about boots coming off. I do have some great pointers I'd love to share with you all about the process of switching to barefoot for good.</span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading"><span style="color: #000000;"><strong>You're Halfway There!</strong></span></h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><span style="color: #000000;">It’s great that you’re thinking about keeping your horse barefoot! Your horse’s body is designed to function at its best when barefoot hooves can flex and help blood pump and flow throughout his body. With shoes on, your horse’s hooves are limited and can’t spread in the way they were designed. With each step a horse takes, the hoof naturally spreads a bit and draws the sole flat, to provide space for his weight to be absorbed. Your horse is already barefoot now from having his shoes off in the winter, so you’re halfway there on your journey to keep him barefoot and the most comfortable!</span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><span style="color: #000000;">You can keep your horse barefoot at home and put on his Cavallos any time you ride. Our friend,</span> <a href="https://www.whole-picture.com/" target="_blank" rel="noopener noreferrer">Heidi Melocco</a>,<span style="color: #000000;"> just made the decision to leave her Quarter Horse, Charlie, barefoot. She now has a set of fou</span>r <a href="http://cavallo.local/product-category/hoof-boot/trek-hoof-boots/" target="_blank" rel="noopener noreferrer">Cavallo Trek Hoof Boots</a> <span style="color: #000000;">for him and uses them whenever he isn’t on his sandy home turf. Reading about her transition process with him will help you in your decision-making, too:</span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading"><span style="color: #000000;">Heidi and Charlie's Barefoot Journey</span></h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><span style="color: #000000;"><em>“My new horse Charlie has great hooves,”&nbsp; Heidi says. “They are strong and don’t easily chip. In the past, Charlie showed in reined cow horse and reining competitions, so he has been used to wearing shoes. My goals with him involve riding and maybe even some liberty showing. We also take walks down the dirt roads around our property and I’d like to do more trail riding. I sure don’t want his feet to be sore at any time. He's often at home on great footing in his paddock and sandy arena. He doesn’t need shoes most of the time, so we are seeing how he does as a fully barefoot horse.</em></span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><span style="color: #000000;"><em>“I had Charlie’s shoes pulled in the fall so I didn’t have to worry about him slipping on the snow and ice here in Colorado. I don’t have an indoor, so our winter workouts are limited. Just this week, I had the farrier out for spring trims. I also asked him for help to make sure Charlie’s new boots fit him well. I wanted to make sure I had ordered the right size and there would be no slipping at the heel.</em></span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading"><span style="color: #000000;"><strong>Charlie's Farrier Assists in the Transition</strong></span></h4>
+<!-- /wp:heading -->
+
+<!-- wp:image {"id":60620,"align":"center"} -->
+<figure class="wp-block-image aligncenter"><img src="http://cavallo.local/wp-content/uploads/2021/04/Heidi-Melocco-Charlie-goes-barefoot-w-Farrier-Trek-LR-1.jpeg" alt="Farrier helps horse go barefoot" class="wp-image-60620"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><span style="color: #000000;"><em>“Charlie’s hooves were in great shape after the winter and the boots fit perfectly. I was glad because I had measured multiple times to make sure I ordered the right size, but wanted an expert’s opinion. My farrier helped me put them on for the first time. Charlie was great and was very accepting. He did have a few funny steps at first but then walked normally. My farrier did like the idea of adding Cavallo’s Comfort Sleeves or Pastern Wraps to make sure that nothing rubs his legs when he has them on for longer work sessions.</em></span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><span style="color: #000000;"><em>“I am glad to have the boots to keep his soles healthy when we move over Colorado’s rocky terrain. These new Treks are so much lighter than the boots I have used in the past. I think of them as his sneakers that we put on when we head down the road. At home, I feel good knowing that he has good footing and really doesn’t need to have anything on.</em></span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><span style="color: #000000;"><em>“It felt good to have expert help along the way—and to be able to reach out to the folks at Cavallo, too. They were super helpful and their sizing tips were right on! There are also lots of good resources on the Cavallo site to help in the transition to barefoot process. It feels good to know I’m doing something that’s great for his overall health.”</em></span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong><span style="color: #000000;">Watch this video I made to find out more about the transition to barefoot</span><a href="https://www.youtube.com/watch?v=O93hG__9ytE&amp;t=2s" target="_blank" rel="noopener noreferrer"> HERE!</a></strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:embed {"url":"https://www.youtube.com/watch?v=O93hG__9ytE\u0026t=2s","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://www.youtube.com/watch?v=O93hG__9ytE&amp;t=2s
+</div></figure>
+<!-- /wp:embed -->
+
+<!-- wp:paragraph -->
+<p><strong>Don't forget to sign up here for our free newsletter and special community discounts: </strong><a href="http://cavallo.local/subscribe-to-the-cavallo-horse-and-rider-newsletter/"><strong>www.cavallo.local/CavalloNews</strong></a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Wishing you happy trails during this beautiful season,</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":31657,"align":"left"} -->
+<figure class="wp-block-image alignleft"><img src="http://cavallo.local/wp-content/uploads/2020/07/OFFICIAL-Carole-Herder-2020-Signature-Hoof-Prints-Book-LR-1.png" alt="Carole Herder 2020 Signature - Hoof Prints Book - LR" class="wp-image-31657"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->

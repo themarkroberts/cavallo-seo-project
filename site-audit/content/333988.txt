@@ -1,0 +1,153 @@
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading -->
+<h2 class="wp-block-heading">Winter Hoof Care Tips for Horse Owners!&nbsp;</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><em>By </em>your <em>Cavallo Team</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="http://cavallo.local/wp-content/uploads/2026/01/Winter-Hoof-Care-Maren-post.jpg" alt="Winter Hoof Care for barefoot and shod horses" title="Winter Hoof Care Maren post"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>Winter hoof care often feels like its own discipline! Not only are we dealing with frozen water troughs, muddy paddocks, icy pathways, and rock-hard footing, but we also have to consider<a href="http://cavallo.local/we-winterize-our-houses-vehicles-why-not-winterize-your-horse/" target="_blank" rel="noreferrer noopener">&nbsp;how winter conditions affect our horses’ hooves.</a>&nbsp;Once the ground freezes and moisture levels rise, minor issues can escalate quickly unless you stay ahead of them with a consistent routine.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:group {"style":{"dimensions":{"minHeight":"578px"},"border":{"radius":{"topLeft":"10px","topRight":"10px","bottomLeft":"10px","bottomRight":"10px"},"width":"0px","style":"none"}},"backgroundColor":"light-red-1","layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"center"}} -->
+<div class="wp-block-group has-light-red-1-background-color has-background" style="border-style:none;border-width:0px;border-top-left-radius:10px;border-top-right-radius:10px;border-bottom-left-radius:10px;border-bottom-right-radius:10px;min-height:578px"><!-- wp:image {"style":{"border":{"radius":{"topLeft":"10px","topRight":"10px","bottomLeft":"10px","bottomRight":"10px"}}}} -->
+<figure class="wp-block-image has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2026/01/Trimming-a-hoof-in-snow-winter.jpg" alt="Trimming a hoof in snow winter" style="border-top-left-radius:10px;border-top-right-radius:10px;border-bottom-left-radius:10px;border-bottom-right-radius:10px" title="Trimming a hoof in snow winter"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading">The Foundation Beneath Every Hoof</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>A correct, regular trim is the foundation of all hoof care. Even though many horses work less in winter, their hooves continue to grow, and a longer trim cycle allows the capsule to creep forward. That shift affects breakover, alters loading patterns, and increases strain on internal structures, such as the deep digital flexor tendon and the laminae.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Keeping trims on schedule helps maintain balance, preserves proper hoof mechanics, and supports more secure footing on unpredictable winter ground.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"flex","flexWrap":"nowrap","orientation":"horizontal","verticalAlignment":"top","justifyContent":"center"}} -->
+<div class="wp-block-group"><!-- wp:image {"className":"is-style-default","style":{"layout":{"selfStretch":"fixed","flexSize":"700px"},"border":{"radius":{"topLeft":"10px","topRight":"10px","bottomLeft":"10px","bottomRight":"10px"}}}} -->
+<figure class="wp-block-image has-custom-border is-style-default"><img src="http://cavallo.local/wp-content/uploads/2025/03/Cavallo-Trek-Boots-for-Winter-Laminitis-Sandra-Klein-Bend-Oregon.jpg" alt="Cavallo Trek Boots for Winter Metabolic Laminitis Sandra Klein, Bend, Oregon" style="border-top-left-radius:10px;border-top-right-radius:10px;border-bottom-left-radius:10px;border-bottom-right-radius:10px" title="Cavallo Trek Boots for Winter Metabolic Laminitis Sandra Klein, Bend, Oregon"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:group {"style":{"dimensions":{"minHeight":"0px"}},"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"center"}} -->
+<div class="wp-block-group" style="min-height:0px"><!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading">Moisture: A Silent Saboteur of Hoof Health</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>If you live in a wet climate, preventing thrush and white line disease becomes even more critical.&nbsp;<a href="http://cavallo.local/boots-that-stay-on-in-thick-snow-and-freezing-mud/" target="_blank" rel="noreferrer noopener">Winter brings mud and slush</a>, along with ice and snow, and cold weather doesn’t stop bacterial activity, especially when paddocks stay damp and muddy. Using a non-caustic antibacterial product regularly helps protect the frog and central sulcus without harming healthy tissue. Daily cleaning and treating the deeper areas of the frog can help prevent infection when the hoof is harder to regenerate damaged structures.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading">It Isn’t Just Cold - It’s a Nutritional Test</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Nutrition is especially important during the winter months. Horses burn more calories to stay warm, and they miss out on nutrients found in fresh pasture, including essential vitamin E. Hay-based diets are often low in the minerals required for strong keratin formation and healthy hoof horn. Providing balanced zinc, copper, essential amino acids, and adequate vitamin E supports growth and keeps the hoof more resilient against seasonal stressors.&nbsp; &nbsp;</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"dimensions":{"minHeight":"578px"},"border":{"radius":{"topLeft":"10px","topRight":"10px","bottomLeft":"10px","bottomRight":"10px"},"width":"21px"}},"backgroundColor":"light-red-1","borderColor":"light-red-1","layout":{"type":"flex","flexWrap":"nowrap","verticalAlignment":"top"}} -->
+<div class="wp-block-group has-border-color has-light-red-1-border-color has-light-red-1-background-color has-background" style="border-width:21px;border-top-left-radius:10px;border-top-right-radius:10px;border-bottom-left-radius:10px;border-bottom-right-radius:10px;min-height:578px"><!-- wp:image {"style":{"border":{"radius":{"topLeft":"10px","topRight":"10px","bottomLeft":"10px","bottomRight":"10px"}},"layout":{"selfStretch":"fixed","flexSize":"1300px"}}} -->
+<figure class="wp-block-image has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2026/01/Cavallo-Hoof-Boots-shod-horses-in-Winter-ice-balling-ice-stilts-snow-balling.jpg" alt="Cavallo Hoof Boots shod horses in Winter - ice balling ice stilts snow balling" style="border-top-left-radius:10px;border-top-right-radius:10px;border-bottom-left-radius:10px;border-bottom-right-radius:10px" title="Cavallo Hoof Boots shod horses in Winter – ice balling ice stilts snow balling"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading">Barefoot or Shod — Winter Wants Hoof Boots</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Once you’ve covered your foundations for strong winter hooves, it’s worth considering when additional support may be helpful. Winter is one of the seasons where hoof boots can make a noticeable difference in your horse’s comfort. Boots provide dependable traction on snow, ice, and&nbsp;<a href="http://cavallo.local/soften-the-impact-of-hard-winter-ground/" target="_blank" rel="noreferrer noopener">frozen ground</a>, and&nbsp;<a href="http://cavallo.local/we-winterize-our-houses-vehicles-why-not-winterize-your-horse/" target="_blank" rel="noreferrer noopener">you can add ice studs</a>&nbsp;when conditions become especially slick.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Many people also turn their horses out in boots on icy days. If your horse is shod over winter,&nbsp;<a href="http://cavallo.local/product-category/hoof-boot/" target="_blank" rel="noreferrer noopener">Cavallo Hoof Boots</a>&nbsp;can even be used over top to improve traction and prevent snowballing or “ice stilts.” Beyond grip, boots offer cushioning over hard, uneven, and frozen surfaces, which helps both during turnout and under saddle.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Cavallo boots are also frequently used to improve comfort for horses dealing with&nbsp;<a href="http://cavallo.local/a-winter-laminitis-saga/" target="_blank" rel="noreferrer noopener">Winter Laminitis.&nbsp;</a>Adding<a href="http://cavallo.local/product-category/hoof-boot-accessories/hoof-boot-pads/" target="_blank" rel="noreferrer noopener">&nbsp;hoof boot pads&nbsp;</a>can redistribute pressure and further soften impact, allowing the horse to stay mobile while the hoof stabilizes.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="http://cavallo.local/a-winter-laminitis-saga/" target="_blank" rel="noreferrer noopener"><strong>Learn  More About Winter Laminitis</strong></a></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:spacer {"height":"10px"} -->
+<div style="height:10px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading">Why the Coldest Months Set Horses Up for a Successful Barefoot Transition</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Winter can be one of the most supportive seasons to transition a horse out of metal shoes and into barefoot mode, supported by hoof boots.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Many owners already choose to pull metal shoes during the winter months to give their horses a break, especially as riding and workload naturally decrease. With fewer miles and more consistent routines, the hoof grows more slowly and has more time to rebalance and strengthen without the pressure of peak-performance demands. Using hoof boots for protection and traction as needed allows the transition to happen comfortably and deliberately. This turns a seasonal pause into a positive reset – and heads horses into spring stronger, more confident, and better prepared for the year ahead.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"top"} -->
+<div class="wp-block-column is-vertically-aligned-top"><!-- wp:embed {"url":"https://youtu.be/O93hG__9ytE","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://youtu.be/O93hG__9ytE
+</div></figure>
+<!-- /wp:embed --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:spacer {"height":"22px"} -->
+<div style="height:22px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:image {"width":"571px","height":"auto","aspectRatio":"4.000053081373746","align":"center"} -->
+<figure class="wp-block-image aligncenter is-resized"><img src="http://cavallo.local/wp-content/uploads/2022/12/Studs-and-stud-tool.jpg" alt="Studs and stud tool" style="aspect-ratio:4.000053081373746;width:571px;height:auto" title="Studs and stud tool"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:spacer {"height":"22px"} -->
+<div style="height:22px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading">Winter Rewards Steady and Consistent Horse Care</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>When trimming, nutrition, thrush management, and protective booting all work together, your horse can move more comfortably and avoid many of the seasonal hoof and horse health issues that tend to appear in cold weather. A steady routine carries horses through winter in far better shape and sets the stage for healthier hooves come spring.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>What are some of your favourite winter hoof-care tricks?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"width":"1007px","height":"auto","aspectRatio":"1.953721708018978","align":"left"} -->
+<figure class="wp-block-image alignleft is-resized"><img src="http://cavallo.local/wp-content/uploads/2023/02/carole-signature-transparent-background-1.jpg" alt="Cavallo President Carole Herder signature" style="aspect-ratio:1.953721708018978;width:1007px;height:auto" title="Cavallo President Carole Herder signature"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:group -->

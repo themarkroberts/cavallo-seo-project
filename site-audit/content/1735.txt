@@ -1,0 +1,53 @@
+<!-- wp:paragraph -->
+<p>"EVERYTHING KNOWN TO MANKIND THAT CAN KILL YOU"</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Yes. This is my thought as the plane lands on the scorched, shimmering flatlands of&nbsp; "The Alice".&nbsp; <a href="https://en.wikipedia.org/wiki/Alice_Springs" target="_blank" rel="noopener">Alice Springs,</a> that is – Portal to the <a href="https://en.wikipedia.org/wiki/Outback" target="_blank" rel="noopener">Great Australian Outback.</a>&nbsp; Home of the 10 most venomous snakes in the world. Minuscule spiders lurking everywhere, including the toilet, that can suck the moisture from your body or kill you in 15 minutes flat. Crocs, the size of limousines.&nbsp; Yes, this is a scary place. And in my quest to see a wild <a href="https://en.wikipedia.org/wiki/Brumby" target="_blank" rel="noopener">Brumby</a> (aka Mustang); I cowgirl up and step out.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":13770,"width":"742px","height":"auto","align":"left"} -->
+<figure class="wp-block-image alignleft is-resized"><img src="http://cavallo.local/wp-content/uploads/2018/12/Deaths-in-Australia-by-animal-1-450x315.jpg" alt="Deaths in Australia by animal" class="wp-image-13770" style="width:742px;height:auto"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p> Life is full of surprises and, as it turns out, the creature that hurts us the most is kind of a rare thing out here. It’s the domestic, riding horse. Go figure. Check out this interesting article to find out more:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:embed {"url":"https://thenewdaily.com.au/news/2018/11/30/australian-deadly-animals"} -->
+<figure class="wp-block-embed"><div class="wp-block-embed__wrapper">
+https://thenewdaily.com.au/news/2018/11/30/australian-deadly-animals
+</div></figure>
+<!-- /wp:embed -->
+
+<!-- wp:paragraph -->
+<p>Wishing you many SAFE and happy trails in your <a href="http://cavallo.local/product-category/hoof-boot/" target="_blank" rel="noopener">Cavallos</a>,</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":11988,"linkDestination":"custom","align":"left"} -->
+<figure class="wp-block-image alignleft"><a href="https://www.amazon.com/There-are-Horseshoes-Heaven-Tradition/dp/1523978163/ref=sr_1_1?ie=UTF8&amp;qid=1541792609&amp;sr=8-1&amp;keywords=there+are+no+horseshoes+in+heaven"><img src="http://cavallo.local/wp-content/uploads/2018/08/Caroles-signature-with-click-here-452x261.jpg" alt="Carole herder's Signature and Book details" class="wp-image-11988"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph -->

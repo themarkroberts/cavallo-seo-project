@@ -1,0 +1,75 @@
+<!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading"><span style="color: #008080;">Thank You, Monty Roberts!</span></h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>To love a man like<a href="http://www.montyroberts.com/ab_about_monty/ab_about_monty_career/" target="_blank" rel="noopener"> Monty Roberts</a> is easy. &nbsp;His declares that his life’s goal is “to leave the world a better place than I found it, for horse and for people too.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Isn’t this something noble to aspire to?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Monty always makes us feel good too, about what we are doing here at Cavallo. &nbsp;He tells the world that <a href="http://cavallo.local/product-category/saddle-pads/" target="_blank" rel="noopener">“Cavallo Saddle Pads are the best pads in the world today”.</a>&nbsp; Thank you Monty!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>And can this man ride!</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading"><a href="http://www.montyroberts.com/ab_about_monty/ab_about_monty_career/" target="_blank" rel="noopener"><span style="color: #008080;"><strong>Monty's Achievements</strong></span></a></h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><strong>There are too many Monty accolades to mention, so here are just a few most current ones:</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>This first annual Equine Icon Award will recognize the individual who has had a dramatic and critical impact on the lives of horses and who represents, either directly or&nbsp;indirectly, as an Icon of the Equine/Human Bond. &nbsp;<a href="https://equusinternationalfilmfestival.com" target="_blank" rel="noopener">The 2017 Equus International Film Festival</a> will recognize Monty Roberts with this premier award (which falls on the 10th anniversary of the founding of&nbsp;<a href="https://horsehavenmt.org/" target="_blank" rel="noopener">Horse Haven Montana</a>, the cause behind the film festival).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Still very active in the industry, Monty Roberts has been asked to attend and demonstrate his <a href="http://www.montyroberts.com/ab_about_monty/ju_about/" target="_blank" rel="noopener">Join-Up®</a>&nbsp;method for the Spanish Riding School of Vienna, where the famous white Lipizzaner Stallions perform: <a href="http://www.srs.at/spanish-riding-school-invites-monty-roberts/" target="_blank" rel="noopener">&nbsp;http://www.srs.at/spanish-riding-school-invites-monty-roberts/</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Monty was nominated for the 2017&nbsp;Equine Industry Vision Award annually given by the American Horse Publications, the first major award to showcase innovation across the equine industry. Sponsored by Zoetis, the award is intended to recognize ingenuity and service.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Monty Roberts and director Jeanine Moret were nominated for&nbsp;“Whisper”&nbsp;as a Finalist in the Music Video Category for <a href="https://equusinternationalfilmfestival.com/" target="_blank" rel="noopener">Equus International Film Festival,</a> which will open the Festival as the featured music video.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Monty Roberts&nbsp;first gained widespread fame with the release of his New York Times Best Selling book,&nbsp;<a href="https://montyrobertsshop.com/" target="_blank" rel="noopener">The Man Who Listens To Horses</a>;&nbsp;a chronicle of his life and development of his non-violent horse training methods called&nbsp;<a href="http://www.montyroberts.com/ab_about_monty/ju_about/">Join-Up®.</a>&nbsp;Monty grew up on a working horse farm as a firsthand witness to traditional, often violent methods of horse training and breaking the spirit with an abusive hand. &nbsp;Rejecting that, he went on to win nine world championships in the show ring. &nbsp;Today, Monty's goal is to share his message that "Violence is never the answer." &nbsp;Roberts has been encouraged by Her Majesty Queen Elizabeth II with the award of the Membership in <a href="https://en.wikipedia.org/wiki/Royal_Victorian_Order" target="_blank" rel="noopener">The Royal Victorian Order</a>, as well as becoming Patron of Join-Up International. &nbsp;Other honors received were the ASPCA "Founders" award and the MSPCA George T. Angell Humanitarian Award. &nbsp;Monty is credited with launching the first of its kind&nbsp;<a href="http://www.montyroberts.com/university">Equus Online University</a>; &nbsp;an interactive online lesson site that is the definitive learning tool for violence-free training.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Monty is a trusted authority in our industry and deserves all this and more.<code></code></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Happy Trails,</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":10645,"width":"300px"} -->
+<figure class="wp-block-image is-resized"><img src="//www.cavallo.local/wp-content/uploads/2017/12/CaroleSig.jpg" alt="Carole Herder's Signature" class="wp-image-10645" style="width:300px"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":10798,"align":"left"} -->
+<figure class="wp-block-image alignleft"><img src="//www.cavallo.local/wp-content/uploads/2018/01/Caroles-Signature-2017.png" alt="Carole Herder's Signature" class="wp-image-10798"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph -->

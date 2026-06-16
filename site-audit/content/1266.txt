@@ -1,0 +1,19 @@
+<!-- wp:image {"id":5072,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="http://cavallo.local/wp-content/uploads/2013/10/herbs.png" alt="" class="wp-image-5072"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>By Carole Herder</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>An herb garden for your horse may sound a bit fanciful but there are plenty of things you can do to help your equine friend get some of their dietary requirements without building a botanical biosphere. Horses will pick and choose plants that their bodies instinctively know they need, so you don’t even have to worry about that. Just get a nice variety scattered around their grazing area (preferably around the edges to avoid them being stomped on too much!) and let nature run its course. Very often I see pastures that are too sterile or too barren. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Herbs can be categorised as nutrients, nutrient-medicinal or medicinal. So you must be careful what you choose and be sure to get the most correct individual herb within each plant family. Some herbs can be toxic if distributed inappropriately. Two of the hardiest and safest ones to grow include dandelion (a diuretic and rich in potassium, vitamin H, calcium and magnesium – excellent for hoof problems!) and chamomile (anti-inflammatory and analgesic). All mint varieties are good (antispasmodic – great for the stomach) and calendula (antibacterial, antifungal, antiviral and anti-inflammatory – wow! Also a great skin healer) and echinacea (antiviral and anti-bacterial, used as a prophylactic) are also good starters. And of course there is the willow tree, an excellent analgesic for horses. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>And even if you don’t have the luxury of planting in your own pasture, you can simply grow your own individual herb garden and then give the herbs to your horse as a food supplement cut fresh or dried or in a tincture or oil. But remember, nothing replaces the good advice of a vet or other professional if you are in any doubt. Happy gardening!</p>
+<!-- /wp:paragraph -->

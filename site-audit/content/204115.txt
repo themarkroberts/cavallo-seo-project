@@ -1,0 +1,475 @@
+<!-- wp:group {"layout":{"type":"constrained","contentSize":""}} -->
+<div class="wp-block-group"><!-- wp:group {"style":{"spacing":{"padding":{"top":"0","bottom":"0","left":"0","right":"0"},"margin":{"top":"0","bottom":"0"}}},"layout":{"type":"constrained","contentSize":"835px"}} -->
+<div class="wp-block-group" style="margin-top:0;margin-bottom:0;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:heading {"textAlign":"center","level":1,"style":{"typography":{"letterSpacing":"-0.01em"}}} -->
+<h1 class="wp-block-heading has-text-align-center" style="letter-spacing:-0.01em">Cavallo LEB "Long Ear Boots" User Manual</h1>
+<!-- /wp:heading --></div>
+<!-- /wp:group -->
+
+<!-- wp:paragraph {"align":"center","style":{"spacing":{"margin":{"top":"var:preset|spacing|xl","bottom":"var:preset|spacing|xl"}}},"fontSize":"large"} -->
+<p class="has-text-align-center has-large-font-size" style="margin-top:var(--wp--preset--spacing--xl);margin-bottom:var(--wp--preset--spacing--xl)">The Cavallo LEB Long Ear Boot is the only Hoof Boot designed specifically for donkeys.&nbsp;Whether you’re already familiar with hoof boots or exploring them for the first time, choosing the LEB means your donkey is stepping into comfort, protection, and freedom of movement. Donkeys aren’t just small, long-eared horses - their hooves are narrower, more upright, with strong frogs and large heel bulbs.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":204784,"width":"1156px","height":"auto","scale":"cover","sizeSlug":"large","linkDestination":"none","align":"center","style":{"border":{"radius":"10px"}}} -->
+<figure class="wp-block-image aligncenter size-large is-resized has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2025/08/DSC00489-1024x683.jpg" alt="Cavallo LEB Long Ear Boots for Donkeys" class="wp-image-204784" style="border-radius:10px;object-fit:cover;width:1156px;height:auto"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph {"align":"center","style":{"spacing":{"margin":{"top":"var:preset|spacing|xl","bottom":"var:preset|spacing|xl"}}},"fontSize":"large"} -->
+<p class="has-text-align-center has-large-font-size" style="margin-top:var(--wp--preset--spacing--xl);margin-bottom:var(--wp--preset--spacing--xl)">That’s why the LEB isn’t a modified horse boot, but a purpose-built design created from the ground up to match your donkey’s unique anatomy. Developed with input from leading donkey trimmers and hoof care professionals, the LEB offers a secure, supportive fit that respects natural hoof function. It reflects a philosophy rooted in barefoot wellness—supporting healthy movement without pain or restriction—and incorporates decades of real-world feedback from equine caretakers worldwide. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"center","style":{"spacing":{"margin":{"top":"var:preset|spacing|xl","bottom":"var:preset|spacing|xl"}}},"fontSize":"large"} -->
+<p class="has-text-align-center has-large-font-size" style="margin-top:var(--wp--preset--spacing--xl);margin-bottom:var(--wp--preset--spacing--xl)">This manual is your complete guide to success. Inside, you’ll find everything needed to measure, fit, break in, and care for your LEBs—plus practical tips, troubleshooting advice, and bonus insights from other devoted donkey owners who’ve already made the switch.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|lg","bottom":"var:preset|spacing|lg","left":"var:preset|spacing|lg","right":"var:preset|spacing|lg"},"margin":{"top":"var:preset|spacing|xl","bottom":"0"}},"border":{"width":"1px","color":"#DDD4D0","radius":"10px"}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group has-border-color" style="border-color:#DDD4D0;border-width:1px;border-radius:10px;margin-top:var(--wp--preset--spacing--xl);margin-bottom:0;padding-top:var(--wp--preset--spacing--lg);padding-right:var(--wp--preset--spacing--lg);padding-bottom:var(--wp--preset--spacing--lg);padding-left:var(--wp--preset--spacing--lg)"><!-- wp:heading -->
+<h2 class="wp-block-heading">Table of Contents</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list {"ordered":true,"start":1,"style":{"elements":{"link":{"color":{"text":"var:preset|color|red"}}},"typography":{"fontStyle":"normal","fontWeight":"600"}},"textColor":"red","fontSize":"large"} -->
+<ol start="1" style="font-style:normal;font-weight:600" class="wp-block-list has-red-color has-text-color has-link-color has-large-font-size"><!-- wp:list-item -->
+<li><a href="#Block-1">What are the Cavallo LEB Long Ear Boots?</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="#Block-2">Understanding Donkey Hoof Health &amp; the Barefoot Advantage</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="#Block-3">How to Measure and Size for Your Donkey</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="#Block-4">How to Put On and Take Off Cavallo LEB Boots</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="#Block-5">Fitting and Break-In Period</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="#Block-6">What Makes The Cavallo LEB Long Ear Boot Different?</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="#Block-7">Troubleshooting</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="#Block-8">Care and Cleaning</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="#Block-9">Therapeutic Use, Turnout &amp; Barefoot Protection</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="#Block-10">Using Long Ear Boots in Mud, Water &amp; Snow</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="#Block-11">When to Use Cavallo Hoof Boots</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="#Block-12">Return, Exchange &amp; Warranty Information</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="#Testimonial">Cavallo Donkey Testimonial</a>s</li>
+<!-- /wp:list-item --></ol>
+<!-- /wp:list --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"reverse-order\u002d\u002dmobile","style":{"spacing":{"padding":{"top":"var:preset|spacing|xxl","bottom":"var:preset|spacing|xxl"},"margin":{"top":"0","bottom":"0"},"blockGap":"var:preset|spacing|xxl"},"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"backgroundColor":"gray-2","textColor":"primary","layout":{"type":"constrained","contentSize":""}} -->
+<div id="Block-1" class="wp-block-group reverse-order--mobile has-primary-color has-gray-2-background-color has-text-color has-background has-link-color" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--xxl);padding-bottom:var(--wp--preset--spacing--xxl)"><!-- wp:columns {"verticalAlignment":"top"} -->
+<div class="wp-block-columns are-vertically-aligned-top"><!-- wp:column {"verticalAlignment":"top","width":"44.48%"} -->
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis:44.48%"><!-- wp:heading -->
+<h2 class="wp-block-heading">What are the Cavallo LEB Long Ear Boots?</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The Cavallo LEB Long Ear Boots were designed with one purpose: to protect donkey hooves with care and precision. Unlike horse boots, Cavallo LEB boots are shaped and designed specifically for the narrow, upright structure of a donkey’s foot.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Each LEB features a flexible yet durable TPU sole. This classic Cavallo sole absorbs shock while allowing natural hoof expansion and contraction. It helps your donkey move freely across gravel, rock, or uneven ground.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The boot collar is made from soft foam to reduce pressure and prevent rubbing. A front-fastening Velcro system keeps the boot secure while making it easy to put on and take off.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The rugged tread provides excellent traction in all conditions. Built-in side drainage channels help release water and debris, keeping hooves clean and dry during wet use.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Cavallo LEB Long Ear boots are perfect for daily turnout, trail riding, hoof rehab, or therapeutic use. Whether your donkey needs extra protection on the trails, due to sore hooves or is transitioning to barefoot, the LEB delivers comfort and peace of mind.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"top","width":"","style":{"spacing":{"padding":{"right":"0","left":"0","top":"0","bottom":"0"}}},"layout":{"type":"constrained","contentSize":"585px","justifyContent":"right","wideSize":""}} -->
+<div class="wp-block-column is-vertically-aligned-top" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:image {"id":204786,"width":"585px","height":"auto","sizeSlug":"full","linkDestination":"none","style":{"border":{"radius":"10px"}}} -->
+<figure class="wp-block-image size-full is-resized has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2025/08/DSC00593-1-1.jpg" alt="What is the Cavallo LEB Donkey Hoof Boot?" class="wp-image-204786" style="border-radius:10px;width:585px;height:auto"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"margin":{"top":"0","bottom":"0"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group" style="margin-top:0;margin-bottom:0"><!-- wp:acf/featured-products {"name":"acf/featured-products","data":{"version":"default","_version":"field_66cf1d8c0c859","image":204393,"_image":"field_66b86add96e9f","title":"","_title":"field_66b86a9496e9d","text":"","_text":"field_66b86ad296e9e","cta":{"title":"Shop the Cavallo LEB","url":"http://cavallo.local/product/leb-long-ear-hoof-boot/","target":"_blank"},"_cta":"field_66b86af996ea0","items":["3708","3438"],"_items":"field_66b86b1596ea1","html_anchor":"","_html_anchor":"field_672f5663be83a"},"mode":"edit"} /--></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"reverse-order\u002d\u002dmobile","style":{"spacing":{"padding":{"top":"var:preset|spacing|xxl","bottom":"var:preset|spacing|xxl"},"margin":{"top":"0","bottom":"0"}},"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"backgroundColor":"gray-2","textColor":"primary","layout":{"type":"constrained","contentSize":""}} -->
+<div id="Block-2" class="wp-block-group reverse-order--mobile has-primary-color has-gray-2-background-color has-text-color has-background has-link-color" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--xxl);padding-bottom:var(--wp--preset--spacing--xxl)"><!-- wp:heading {"textAlign":"center"} -->
+<h2 class="wp-block-heading has-text-align-center">Understanding Donkey Hoof Health &amp; the Barefoot Advantage</h2>
+<!-- /wp:heading -->
+
+<!-- wp:image {"id":204793,"sizeSlug":"full","linkDestination":"none","align":"center","style":{"border":{"radius":"10px"},"spacing":{"margin":{"top":"var:preset|spacing|lg","bottom":"var:preset|spacing|md"}}}} -->
+<figure class="wp-block-image aligncenter size-full has-custom-border" style="margin-top:var(--wp--preset--spacing--lg);margin-bottom:var(--wp--preset--spacing--md)"><img src="http://cavallo.local/wp-content/uploads/2025/08/image1-6-1.jpg" alt="Donkey Hoof Trimming and Hoof health" class="wp-image-204793" style="border-radius:10px"/><figcaption class="wp-element-caption">Megan Hensley - The Donkey Farrier</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>Donkey hooves are remarkable. Shaped by generations of survival on harsh, rocky desert terrain, they are built for strength, resilience, and endurance. In their natural environment, donkeys travel long distances daily across dry, barren, and abrasive ground. This constant movement over challenging surfaces naturally toughens their hooves, keeping them strong, balanced, and functional without the need for human intervention.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>However, domestic life often looks very different. Today’s donkeys spend more time on soft footing, like grass and sand paddocks, in bedded stalls, and eat a diet significantly richer than the barren desert grass. Furthermore, domestic donkeys tend to move far less than their wild cousins. These conditions, although comfortable, can weaken and make donkey hooves more vulnerable over time. Regular movement, frequent trims, and a well-balanced low-sugar diet all help support natural hoof strength. However, protection is still sometimes needed, especially on modern surfaces that weren’t part of a donkey’s evolutionary journey.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Although metal shoes have long been used to protect hooves, they were never designed with donkeys in mind. Nailing rigid metal into tough, fibrous donkey hooves can restrict blood flow, limit flexibility, and create long-term discomfort. Donkey hooves are not meant to be punctured or braced in this way.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Cavallo Hoof Boots offer a better way. Designed to support natural function, the Cavallo LEB Long Ear Boot allows the hoof to flex and move freely while still protecting it from sharp stones, hard ground, or harsh footing. They reduce concussion, improve circulation, and provide comfort without causing damage.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>With the proper care and a thoughtful transition, donkeys can live barefoot and thrive, just as nature intended. Cavallo LEBs offer protection when needed, and freedom when not. They're easy to apply, remove, and maintain, making them a smart, humane choice for long-term hoof health.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:columns {"verticalAlignment":"top","style":{"spacing":{"padding":{"top":"var:preset|spacing|lg","bottom":"var:preset|spacing|lg","left":"var:preset|spacing|lg","right":"var:preset|spacing|lg"}}}} -->
+<div class="wp-block-columns are-vertically-aligned-top" id="Block-3" style="padding-top:var(--wp--preset--spacing--lg);padding-right:var(--wp--preset--spacing--lg);padding-bottom:var(--wp--preset--spacing--lg);padding-left:var(--wp--preset--spacing--lg)"><!-- wp:column {"verticalAlignment":"top","width":"","style":{"spacing":{"padding":{"right":"0","left":"0","top":"0","bottom":"0"}}},"layout":{"type":"constrained","contentSize":"585px","justifyContent":"right","wideSize":""}} -->
+<div class="wp-block-column is-vertically-aligned-top" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:image {"id":204247,"width":"558px","height":"auto","sizeSlug":"full","linkDestination":"none","style":{"border":{"radius":"10px"}}} -->
+<figure class="wp-block-image size-full is-resized has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2025/07/Untitled-design-15.png" alt="" class="wp-image-204247" style="border-radius:10px;width:558px;height:auto"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"top","width":"60%","style":{"spacing":{"padding":{"right":"var:preset|spacing|md"}}}} -->
+<div class="wp-block-column is-vertically-aligned-top" style="padding-right:var(--wp--preset--spacing--md);flex-basis:60%"><!-- wp:heading -->
+<h2 class="wp-block-heading">How to Measure and Size Your Donkey for the Cavallo LEB Long Ear Boot</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Proper fit starts with accurate measurement. The Cavallo LEB Long Ear Boot measurement includes the heel bulbs, unlike other Cavallo styles. Here’s how to measure your donkey’s hooves for the best results.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>1. Prepare the Hoof:</strong><br>Always measure after a trim, as sizing already accounts for future growth. Clean the hoof so that all areas are clearly visible. Use a ruler or measuring tape with precise increments (e.g., 1/16 inch or millimetres) to ensure accuracy.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>2. Measure the Hoof Length:</strong><br>Place the “0” mark of your measuring tape at the toe and extend it straight to the back of the heel bulbs. Keep your ruler flat and straight for the most precise reading. Measure the length between the toe and the back of the heel bulbs.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>3. Measure the Hoof Width:</strong><br>Find the widest part of the hoof and place your measuring tool at one edge. Extend it straight across to the other side, keeping it level.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>4. Take Photos for Accuracy (Optional):</strong><br>For extra assurance, please take clear, well-lit photos of your donkey’s hooves with your measuring tool placed flat and straight at the zero mark. If you need help choosing the right size, our team is happy to provide a free, expert sizing recommendation.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>If you require further assistance with sizing, please contact our Cavallo Sizing Team at <strong><a>info@cavallo.local</a></strong>.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:acf/banner-cta {"name":"acf/banner-cta","data":{"text":"\u003ch3 style=\u0022text-align: center;\u0022\u003eFree Sizing Service: Let Us Do the Work\u003c/h3\u003e\r\
+\u003cp style=\u0022text-align: center;\u0022\u003e\u003cspan style=\u0022font-size: 20px;\u0022\u003eFor Best Results, Send Us Your Photos for a FREE Expert Sizing Recommendation:\u003c/span\u003e\u003c/p\u003e","_text":"field_66f10c7106c07","cta":{"title":"Upload Your Photos","url":"#","target":""},"_cta":"field_66f10c9706c08","upload_modal":"1","_upload_modal":"field_66f11861256ea","cta_2":"","_cta_2":"field_6874db98b4e1e","html_anchor":"Black-4","_html_anchor":"field_672f5663be83a"},"align":"full","mode":"preview"} /-->
+
+<!-- wp:group {"className":"reverse-order\u002d\u002dmobile","style":{"spacing":{"padding":{"top":"var:preset|spacing|xxl","bottom":"var:preset|spacing|xxl"},"margin":{"top":"0","bottom":"0"},"blockGap":"var:preset|spacing|xxl"},"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"backgroundColor":"light-red-1","textColor":"primary","layout":{"type":"constrained","contentSize":""}} -->
+<div id="Block-4" class="wp-block-group reverse-order--mobile has-primary-color has-light-red-1-background-color has-text-color has-background has-link-color" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--xxl);padding-bottom:var(--wp--preset--spacing--xxl)"><!-- wp:columns {"verticalAlignment":"top"} -->
+<div class="wp-block-columns are-vertically-aligned-top"><!-- wp:column {"verticalAlignment":"top","width":"44.48%"} -->
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis:44.48%"><!-- wp:heading -->
+<h2 class="wp-block-heading">How to Put On and Take Off Cavallo LEB Long Ear Boots</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Fitting your Cavallo LEB Long Ear Boots is simple for both you and your donkey. Donkeys are thoughtful and cautious by nature, so take your time and give them space to adjust to the new sensation of boots on their hooves.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Before you begin, ensure the boots are clean and fully open. All boots must remain in brand-new, clean, and resellable condition to be eligible for return or refund. We recommend trying them on in a dry, clean area to keep them protected in case an exchange is needed.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Unfasten all Velcro straps and fold the padded collar outward. Gently lift your donkey’s front foot and slide it into the boot, toe-first. The toe should sit snugly at the front of the boot. Next, place your donkey's hoof on the ground,&nbsp;push the tongue firmly against the toe, and bring the Velcro flaps around from back to front, fastening them securely in place.&nbsp;Keeping the top sides level as you cross the flaps over snugly, the collar should rest comfortably against the pastern without gaps, the top and bottom of the boot should be evenly aligned, and the boot should feel squarely seated around the hoof.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Once fastened, lift the hoof and perform a twist test by gently rotating the boot from side to side. If the boot moves&nbsp;around&nbsp;independently from the hoof, it may be too large or not fitted correctly. If it’s very hard to get on, the boot may be too small. A snug fit is ideal—the boot should feel secure but not tight. A small amount of movement back and forth, 1/4"-1/2" of an inch, may be acceptable.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Important Fitting Note:<br></strong> You should never have to force your Cavallo LEB Long Ear Boot onto your donkey’s hoof. If you do, it’s likely too small. Likewise, if the boot rotates freely around the hoof, it’s too big. A slight wiggle is okay, as the hoof expands when bearing weight and even more during movement.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"top","width":"","style":{"spacing":{"padding":{"right":"0","left":"0","top":"0","bottom":"0"}}},"layout":{"type":"constrained","contentSize":"585px","justifyContent":"right","wideSize":""}} -->
+<div class="wp-block-column is-vertically-aligned-top" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:image {"id":204262,"width":"585px","height":"auto","sizeSlug":"full","linkDestination":"none","style":{"border":{"radius":"10px"}}} -->
+<figure class="wp-block-image size-full is-resized has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2025/07/Untitled-design-16-1-edited.png" alt="" class="wp-image-204262" style="border-radius:10px;width:585px;height:auto"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"reverse-order\u002d\u002dmobile","style":{"spacing":{"padding":{"top":"var:preset|spacing|xxl","bottom":"var:preset|spacing|xxl"},"margin":{"top":"0","bottom":"0"},"blockGap":"var:preset|spacing|xxl"},"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"textColor":"primary","layout":{"type":"constrained","contentSize":""}} -->
+<div id="Block-5" class="wp-block-group reverse-order--mobile has-primary-color has-text-color has-link-color" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--xxl);padding-bottom:var(--wp--preset--spacing--xxl)"><!-- wp:columns {"verticalAlignment":"top"} -->
+<div class="wp-block-columns are-vertically-aligned-top"><!-- wp:column {"verticalAlignment":"top","width":"","style":{"spacing":{"padding":{"right":"0","left":"0","top":"0","bottom":"0"}}},"layout":{"type":"constrained","contentSize":"585px","justifyContent":"left","wideSize":""}} -->
+<div class="wp-block-column is-vertically-aligned-top" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:image {"id":204267,"width":"585px","height":"auto","sizeSlug":"full","linkDestination":"none","style":{"border":{"radius":"10px"}}} -->
+<figure class="wp-block-image size-full is-resized has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2025/07/Turquoise-LEB-donkey-hoof-boot-on-hoof.jpg" alt="Turquoise LEB donkey hoof boot on hoof" class="wp-image-204267" style="border-radius:10px;width:585px;height:auto"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"top","width":"44.48%"} -->
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis:44.48%"><!-- wp:heading -->
+<h2 class="wp-block-heading">Cavallo LEB Long Ear Boot Fitting and Break-In Period</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Just like breaking in a new pair of shoes, your donkey’s LEBs will need a short adjustment period. The soft foam collar and padded leather heel bulb protection are designed for optimal comfort, but they still require a few short wear sessions to mould perfectly to your donkey’s unique pastern and hoof shape. The break-in period not only softens the materials but also gives your donkey time to adjust to the new sensation of wearing boots.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Start with 15 to 30 minutes of Cavallo LEB Long Ear Boot wear during the first few days. After each use, check for signs of discomfort, such as chafing, heat, or hesitation to walk. If all goes well, gradually double the wear time over the course of the week. By days four to seven, most donkeys will feel confident and comfortable in their new boots and are ready to wear them full time for riding or rehabilitation.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Some donkeys may need more time, especially those who are sensitive, recovering from hoof issues, or unused to hoof handling. In these cases, consider using vet wrap around the heel bulbs. This adds a layer of cushioning around the heel bulbs and pastern, helping prevent irritation during extended rehabilitative wear or for sensitive donkeys.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>If any signs of discomfort continue, recheck your measurements or contact Cavallo’s support team for fitting guidance. A correct fit combined with a thoughtful introduction ensures your donkey enjoys long-lasting comfort and freedom of movement in their Cavallo LEB Long Ear Boots.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"reverse-order\u002d\u002dmobile","style":{"spacing":{"padding":{"top":"var:preset|spacing|xxl","bottom":"var:preset|spacing|xxl"},"margin":{"top":"0","bottom":"0"},"blockGap":"var:preset|spacing|xxl"},"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"backgroundColor":"light-red-1","textColor":"primary","layout":{"type":"constrained","contentSize":""}} -->
+<div id="Block-6" class="wp-block-group reverse-order--mobile has-primary-color has-light-red-1-background-color has-text-color has-background has-link-color" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--xxl);padding-bottom:var(--wp--preset--spacing--xxl)"><!-- wp:columns {"verticalAlignment":"top"} -->
+<div class="wp-block-columns are-vertically-aligned-top"><!-- wp:column {"verticalAlignment":"top","width":"100%"} -->
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis:100%"><!-- wp:heading {"textAlign":"center"} -->
+<h2 class="wp-block-heading has-text-align-center">What Makes The Cavallo LEB Long Ear Boot Different?</h2>
+<!-- /wp:heading -->
+
+<!-- wp:image {"id":204367,"width":"671px","height":"auto","sizeSlug":"full","linkDestination":"none","align":"center","style":{"border":{"radius":"10px"},"spacing":{"margin":{"top":"var:preset|spacing|lg","bottom":"var:preset|spacing|lg","left":"0","right":"0"}}}} -->
+<figure class="wp-block-image aligncenter size-full is-resized has-custom-border" style="margin-top:var(--wp--preset--spacing--lg);margin-right:0;margin-bottom:var(--wp--preset--spacing--lg);margin-left:0"><img src="http://cavallo.local/wp-content/uploads/2025/08/LEB-Slim-1-vs-CLB-Slim-4.jpeg" alt="" class="wp-image-204367" style="border-radius:10px;width:671px;height:auto"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>While the Cavallo LEB shares many of the same great features as other Cavallo boots—like the shock-absorbing, flexible sole—the LEB shape and structure are entirely different. Even compared to the Slim Sole range—developed for longer, narrower horse hooves—donkeys need an even more specialized fit.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The Cavallo LEB Long Ear Boot is designed entirely with your donkey in mind. No expense was spared in finding the perfect fit, and the Cavallo LEB boots have been built from the ground up, not adapted from horse boots, but explicitly created for donkey hooves.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The photo above directly compares the Cavallo LEB size 1 (left) to the Cavallo CLB Slim Sole size M4 (right). The LEB’s unique shape, width, and design provide your donkey's hooves with a secure, comfortable, and customized fit.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"reverse-order\u002d\u002dmobile","style":{"spacing":{"padding":{"top":"var:preset|spacing|xxl","bottom":"var:preset|spacing|xxl"},"margin":{"top":"0","bottom":"0"},"blockGap":"var:preset|spacing|xxl"},"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"textColor":"primary","layout":{"type":"constrained","contentSize":""}} -->
+<div id="Block-7" class="wp-block-group reverse-order--mobile has-primary-color has-text-color has-link-color" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--xxl);padding-bottom:var(--wp--preset--spacing--xxl)"><!-- wp:columns {"verticalAlignment":"top"} -->
+<div class="wp-block-columns are-vertically-aligned-top"><!-- wp:column {"verticalAlignment":"top","width":"44.48%"} -->
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis:44.48%"><!-- wp:heading -->
+<h2 class="wp-block-heading">Troubleshooting for Your Cavallo LEB Long Ear Boots</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>If you notice your donkey’s Cavallo LEB Long Ear Boots aren’t fitting quite right, even after the break-in period, it’s essential to take a closer look. The first and most crucial step is to <strong>reevaluate the fit and size</strong> of your boots. A proper fit ensures comfort, protection, and effective performance in every step.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>If the boots feel too loose, check that the Velcro straps are fastened securely and that your donkey’s hooves were measured correctly after a fresh trim. Remember that LEB sizing includes the heel bulbs, which is unique to this style. Loose boots may twist or shift during movement. In many cases, adding <strong><a href="http://cavallo.local/faq/cavallo-hoof-boot-pads/">Hoof Boot Pads</a></strong> can help create a snugger, more tailored fit for your donkey. If the boots feel too tight or are challenging to put on, stop and reassess. Never force the boot onto the hoof. Tightness often indicates the boots are too small, or the fit may not account for natural hoof shape changes. Donkeys undergoing hoof rehabilitation or recovery may also require a different size over time, as their hoof balance improves and the shape of their hooves changes in response to proper trimming and movement.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"top","width":"","style":{"spacing":{"padding":{"right":"0","left":"0","top":"0","bottom":"0"}}},"layout":{"type":"constrained","contentSize":"585px","justifyContent":"right","wideSize":""}} -->
+<div class="wp-block-column is-vertically-aligned-top" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:image {"id":204380,"width":"585px","height":"auto","sizeSlug":"full","linkDestination":"none","style":{"border":{"radius":"10px"}}} -->
+<figure class="wp-block-image size-full is-resized has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2025/08/Donkey-with-turquoise-Cavallo-LEB-Hoof-Boot-in-mouth-Megan-Hensley.jpg" alt="" class="wp-image-204380" style="border-radius:10px;width:585px;height:auto"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"reverse-order\u002d\u002dmobile","style":{"spacing":{"padding":{"top":"var:preset|spacing|xxl","bottom":"var:preset|spacing|xxl"},"margin":{"top":"0","bottom":"0"},"blockGap":"var:preset|spacing|xxl"},"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"backgroundColor":"light-red-1","textColor":"primary","layout":{"type":"constrained","contentSize":""}} -->
+<div id="Block-8" class="wp-block-group reverse-order--mobile has-primary-color has-light-red-1-background-color has-text-color has-background has-link-color" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--xxl);padding-bottom:var(--wp--preset--spacing--xxl)"><!-- wp:columns {"verticalAlignment":"top"} -->
+<div class="wp-block-columns are-vertically-aligned-top"><!-- wp:column {"verticalAlignment":"top","width":"","style":{"spacing":{"padding":{"right":"0","left":"0","top":"0","bottom":"0"}}},"layout":{"type":"constrained","contentSize":"585px","justifyContent":"left","wideSize":""}} -->
+<div class="wp-block-column is-vertically-aligned-top" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:image {"id":204379,"width":"585px","height":"auto","sizeSlug":"full","linkDestination":"none","style":{"border":{"radius":"10px"}}} -->
+<figure class="wp-block-image size-full is-resized has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2025/08/LEB-7.png" alt="" class="wp-image-204379" style="border-radius:10px;width:585px;height:auto"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"top","width":"44.48%"} -->
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis:44.48%"><!-- wp:heading -->
+<h2 class="wp-block-heading">Care and Cleaning For Your Cavallo LEB Boots</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Caring for your Cavallo LEB Long Ear Boots is crucial to maintaining their excellent condition and prolonging their lifespan. Fortunately, cleaning Cavallo boots is quick and easy thanks to their low-maintenance design and durable materials. After each ride, rinse off any mud, manure, or debris using a hose or a bucket of clean water, if necessary. Use a stiff brush to remove dried dirt from the sole and tread. A metal Velcro brush can help keep the Velcro fasteners free of debris and functioning properly.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>If a deeper clean is needed, use a mild antibacterial soap diluted in warm water. Gently scrub the boot inside and out, then rinse thoroughly to remove all soap residue. Never use harsh chemicals or detergents, as these can damage the materials or compromise the boot’s performance. Allow the boots to air dry naturally, away from direct sunlight and heat sources, such as heaters or dryers. Excessive heat can cause the boot’s shape to warp.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Furthermore, Proper storage is essential. Keep your Cavallo LEBs in a cool, dry place with good airflow when not in use. Avoid extreme temperature changes, such as storing your boots in your horse trailer for long periods, as this can degrade the TPU in the boot soles over time. With good care, your Cavallo boots will stay secure, comfortable, and ready to protect your donkey’s hooves on any terrain for years to come.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"reverse-order\u002d\u002dmobile","style":{"spacing":{"padding":{"top":"var:preset|spacing|xxl","bottom":"var:preset|spacing|xxl"},"margin":{"top":"0","bottom":"0"},"blockGap":"var:preset|spacing|xxl"},"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"textColor":"primary","layout":{"type":"constrained","contentSize":""}} -->
+<div id="Block-9" class="wp-block-group reverse-order--mobile has-primary-color has-text-color has-link-color" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--xxl);padding-bottom:var(--wp--preset--spacing--xxl)"><!-- wp:columns {"verticalAlignment":"top"} -->
+<div class="wp-block-columns are-vertically-aligned-top"><!-- wp:column {"verticalAlignment":"top","width":"44.48%"} -->
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis:44.48%"><!-- wp:heading -->
+<h2 class="wp-block-heading">Therapeutic Use, Turnout &amp; Barefoot Protection</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Cavallo LEB Long Ear Boots aren’t just for riding - they are also a valuable tool for hoof rehabilitation, daily turnout, and barefoot protection. Donkeys can wear LEBs during recovery from hoof issues such as laminitis, founder, abscesses, bruising, white line disease (WLD), thin soles, and other similar conditions. Cavallo hoof boots help reduce pressure on sensitive areas while providing consistent protection from external trauma, such as sharp stones or hard ground. The flexible sole absorbs shock, allowing the hoof to move naturally and encouraging healthy blood flow, which supports healing.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>When extra support is needed—especially during extended wear periods or for rehabilitative purposes—<strong><a href="http://cavallo.local/faq/cavallo-hoof-boot-pads/">Hoof Boot Pads</a></strong> and vet wrap (around the pastern) can be added for improved comfort and cushioning. These accessories help prevent rubbing while supporting the hoof through every stage of recovery.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>For donkeys suffering from white line disease, LEBs can be especially useful. The side drainage holes can be temporarily sealed with duct tape to prevent contamination, while gauze or a child’s diaper can be wrapped around the hoof to absorb moisture and hold treatments in place. This makes LEBs a helpful aid in both protection and recovery.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>With their lightweight, breathable design and rugged tread, Cavallo LEBs keep your donkey comfortable and sure-footed through every step of healing or play. Whether your donkey is rehabbing an injury or simply enjoying their turnout time, LEBs provide gentle, practical support without ever limiting their natural movement.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"top","width":"","style":{"spacing":{"padding":{"right":"0","left":"0","top":"0","bottom":"0"}}},"layout":{"type":"constrained","contentSize":"585px","justifyContent":"right","wideSize":""}} -->
+<div class="wp-block-column is-vertically-aligned-top" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:image {"id":204266,"width":"585px","height":"auto","sizeSlug":"full","linkDestination":"none","style":{"border":{"radius":"10px"}}} -->
+<figure class="wp-block-image size-full is-resized has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2025/07/LEB-Turquoise-Donkey-boots.jpg" alt="" class="wp-image-204266" style="border-radius:10px;width:585px;height:auto"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"reverse-order\u002d\u002dmobile","style":{"spacing":{"padding":{"top":"var:preset|spacing|xxl","bottom":"var:preset|spacing|xxl"},"margin":{"top":"0","bottom":"0"},"blockGap":"var:preset|spacing|xxl"},"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"backgroundColor":"light-red-1","textColor":"primary","layout":{"type":"constrained","contentSize":""}} -->
+<div id="Block-10" class="wp-block-group reverse-order--mobile has-primary-color has-light-red-1-background-color has-text-color has-background has-link-color" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--xxl);padding-bottom:var(--wp--preset--spacing--xxl)"><!-- wp:columns {"verticalAlignment":"top"} -->
+<div class="wp-block-columns are-vertically-aligned-top"><!-- wp:column {"verticalAlignment":"top","width":"","style":{"spacing":{"padding":{"right":"0","left":"0","top":"0","bottom":"0"}}},"layout":{"type":"constrained","contentSize":"585px","justifyContent":"left","wideSize":""}} -->
+<div class="wp-block-column is-vertically-aligned-top" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:image {"id":204279,"width":"585px","height":"auto","sizeSlug":"full","linkDestination":"none","style":{"border":{"radius":"10px"}}} -->
+<figure class="wp-block-image size-full is-resized has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2025/07/donkey-snow_1048944-15047683-edited-1.jpg" alt="" class="wp-image-204279" style="border-radius:10px;width:585px;height:auto"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"top","width":"44.48%"} -->
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis:44.48%"><!-- wp:heading -->
+<h2 class="wp-block-heading">Using LEBs in Mud, Water &amp; Snow</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Cavallo Long Ear Boots provide excellent protection and traction in wet, muddy, and snowy conditions. A few simple practices can help ensure your donkey remains secure and comfortable in their LEBs, especially when navigating challenging terrain.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>First and foremost, a proper fit is essential. Boots that fit snugly are much less likely to twist, shift, or come off during movement. Before heading out, double-check that all Velcro straps are fastened securely. Remove any debris from the fasteners, such as dirt or hay.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>LEBs are water-friendly and feature drainage slots, so puddles, rivers, lakes, and wet conditions aren’t a problem.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>If you need extra security, especially during trail rides or turnout in slick or sticky conditions, <a href="http://cavallo.local/product/simple-elb-boot-buckle-strap/"><strong>Cavallo Buckle Straps</strong></a> can replace the standard Velcro closures. For icy ground, and frozen or slippery surfaces, consider installing<strong><a href="http://cavallo.local/product-category/hoof-boot-accessories/hoof-boot-studs/"> Cavallo Studs</a></strong>. These screw-in studs provide added grip, helping to prevent slipping on snow, mud, or ice.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>After any use in wet or muddy conditions, be sure to remove the boots and clean them thoroughly. Rinse off any mud with clean water and allow them to air dry away from direct heat or sunlight before storing or using them again.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>With proper care and a secure fit, your Cavallo LEBs will stay in place and perform beautifully, regardless of the weather.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"reverse-order\u002d\u002dmobile","style":{"spacing":{"padding":{"top":"var:preset|spacing|xxl","bottom":"var:preset|spacing|xxl"},"margin":{"top":"0","bottom":"0"},"blockGap":"var:preset|spacing|xxl"},"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"textColor":"primary","layout":{"type":"constrained","contentSize":""}} -->
+<div id="Block-11" class="wp-block-group reverse-order--mobile has-primary-color has-text-color has-link-color" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--xxl);padding-bottom:var(--wp--preset--spacing--xxl)"><!-- wp:columns {"verticalAlignment":"top"} -->
+<div class="wp-block-columns are-vertically-aligned-top"><!-- wp:column {"verticalAlignment":"top","width":"44.48%"} -->
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis:44.48%"><!-- wp:heading -->
+<h2 class="wp-block-heading">When to Use Your Cavallo LEB Long Ear Boots</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The Cavallo LEB Long Ear Boot was built for real-world use, but like all gear, it works best under the right conditions. You can use the Cavallo LEB during rides over gravel, rocky terrain, sand, pavement, and more. They’re also ideal for turnout in abrasive or uneven pastures, and for hoof rehab from laminitis, founder, navicular, and white line disease (WLD). If your donkey is recovering from an injury or transitioning to barefoot, the Cavallo LEB Long Ear Boot provides reliable protection while still allowing the hoof to function naturally.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Cavallo Long Ear Boots shine during rehabilitation from laminitis, WLD, abscesses, bruising, or sole tenderness. Because the boot design supports the hoof wall and relieves pressure from the sole and frog, it helps promote healing without compromising comfort.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>While Cavallo boots are a fantastic option for hoof protection, they’re not a substitute for proper trimming or farrier care. Always ensure your donkey is trimmed regularly and that boots are used as part of a complete hoof care routine. With the proper use, your LEBs will help your donkey stay happy, safe, and mobile in any environment!</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"top","width":"","style":{"spacing":{"padding":{"right":"0","left":"0","top":"0","bottom":"0"}}},"layout":{"type":"constrained","contentSize":"585px","justifyContent":"right","wideSize":""}} -->
+<div class="wp-block-column is-vertically-aligned-top" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:image {"id":204802,"width":"585px","height":"auto","sizeSlug":"full","linkDestination":"none","style":{"border":{"radius":"10px"}}} -->
+<figure class="wp-block-image size-full is-resized has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2025/08/LEB-2.jpg" alt="" class="wp-image-204802" style="border-radius:10px;width:585px;height:auto"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"reverse-order\u002d\u002dmobile","style":{"spacing":{"padding":{"top":"var:preset|spacing|xxl","bottom":"var:preset|spacing|xxl"},"margin":{"top":"0","bottom":"0"},"blockGap":"var:preset|spacing|xxl"},"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"backgroundColor":"light-red-1","textColor":"primary","layout":{"type":"constrained","contentSize":""}} -->
+<div id="Block-12" class="wp-block-group reverse-order--mobile has-primary-color has-light-red-1-background-color has-text-color has-background has-link-color" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--xxl);padding-bottom:var(--wp--preset--spacing--xxl)"><!-- wp:columns {"verticalAlignment":"top"} -->
+<div class="wp-block-columns are-vertically-aligned-top"><!-- wp:column {"verticalAlignment":"top","width":"","style":{"spacing":{"padding":{"right":"0","left":"0","top":"0","bottom":"0"}}},"layout":{"type":"constrained","contentSize":"585px","justifyContent":"left","wideSize":""}} -->
+<div class="wp-block-column is-vertically-aligned-top" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:image {"id":204271,"width":"585px","height":"auto","sizeSlug":"full","linkDestination":"none","style":{"border":{"radius":"10px"}}} -->
+<figure class="wp-block-image size-full is-resized has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2025/07/Cavallo-Hoof-Boots-video-on-cheeky-donkey-LEB.jpg" alt="" class="wp-image-204271" style="border-radius:10px;width:585px;height:auto"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"top","width":"44.48%"} -->
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis:44.48%"><!-- wp:heading -->
+<h2 class="wp-block-heading">Return, Exchange &amp; Warranty Information</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>We understand that getting the perfect fit on your own isn’t always easy, especially the first time. That’s why Cavallo offers complimentary, expert sizing through our website. We will size your Donkey, Mule, or Horse, and if the boots don’t fit, we offer a hassle-free sizing exchange on clean, unused boots. If you try on your LEBs and find they don’t fit correctly, simply contact our customer service team and <strong><a href="http://cavallo.local/exchange-return-policy-page/">initiate the exchange process</a></strong>. All Cavallo Boots must be in brand-new condition to be considered for exchange or refund.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>All Cavallo Hoof Boots, including the LEB, are backed by our 180 Best Boot manufacturer’s warranty. This is the longest hoof boot warranty on the market! This warranty covers defects in materials or craftsmanship that occur under regular use. It does not apply to damage caused by horses left unattended (including turnout), misuse, modification, or normal wear and tear; however, it provides you with peace of mind knowing that your boots are built to last.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>If you need help, we’re here for you. Our expert support team can walk you through troubleshooting, measurement confirmation, and accessory recommendations. Whether you’re just starting or need a quick exchange, you’ll always get personal, knowledgeable support from the Cavallo crew.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:acf/banner-cta {"name":"acf/banner-cta","data":{"text":"\u003ch3 style=\u0022text-align: center;\u0022\u003eStill Have Questions?\u003c/h3\u003e\r\
+\u003cp style=\u0022text-align: center;\u0022\u003e\u003cspan style=\u0022font-size: 20px;\u0022\u003eOur Cavallo Customer Care Team is always happy to assist you\u003c/span\u003e\u003c/p\u003e","_text":"field_66f10c7106c07","cta":{"title":"Contact Us","url":"http://cavallo.local/contact-us/","target":"_blank"},"_cta":"field_66f10c9706c08","download_file":"","_download_file":"field_66f10cc706c09","upload_modal":"0","_upload_modal":"field_66f11861256ea","cta_2":"","_cta_2":"field_6874db98b4e1e","html_anchor":"","_html_anchor":"field_672f5663be83a"},"mode":"preview"} /-->
+
+<!-- wp:acf/testimonials-single {"name":"acf/testimonials-single","data":{"text":"","_text":"field_66e03db188ac1","posts":["271454","204050","1983"],"_posts":"field_66e03dde88ac2","html_anchor":"Testimonial","_html_anchor":"field_672f5663be83a"},"mode":"preview"} /-->

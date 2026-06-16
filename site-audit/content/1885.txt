@@ -1,0 +1,229 @@
+<!-- wp:paragraph -->
+<p><span style="color: #000000;">Did you know we have a <a style="color: #000000;" href="https://www.youtube.com/user/CavalloHR" target="_blank" rel="noopener">Cavallo YouTube channel?</a>&nbsp; <strong>We sure do!</strong> You can connect with us here to learn how to measure, apply, and use your Cavallos for riding, driving, turnout, hoof rehab and more! &nbsp;This virtual learning tool gives you the instructions and helpful hints you need from the staff at Cavallo!&nbsp; Watch our how-to videos on your phone while you're with your horse in the barn. Or, catch up on the latest news about barefoot hoof care and find out how today's top riders are switching to ride in boots rather than on metal. Our library is continuously updated and connects you to a diverse community of riders, full of support and acceptance.</span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading"><strong><span style="color: #000000;">What does our YouTube Channel Offer You?</span></strong></h3>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading"><strong><span style="color: #000000;">Videos to help you get the right fit and make sure your horse feels great in his boots:</span></strong></h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><strong><span style="color: #000000;">Choosing the Right Boots: </span></strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:embed {"url":"https://www.youtube.com/watch?v=3dxxEjXlSPM","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://www.youtube.com/watch?v=3dxxEjXlSPM
+</div></figure>
+<!-- /wp:embed -->
+
+<!-- wp:paragraph -->
+<p><strong><span style="color: #000000;">How to Measure for Cavallos:</span></strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:embed {"url":"https://www.youtube.com/watch?v=y_5IK4IGiCU","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://www.youtube.com/watch?v=y_5IK4IGiCU
+</div></figure>
+<!-- /wp:embed -->
+
+<!-- wp:embed {"url":"https://www.youtube.com/watch?v=FqRLMm4u-6M","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://www.youtube.com/watch?v=FqRLMm4u-6M
+</div></figure>
+<!-- /wp:embed -->
+
+<!-- wp:paragraph -->
+<p><strong><span style="color: #000000;">How to Apply Hoof Boots Studs for Traction:</span></strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:embed {"url":"https://www.youtube.com/watch?v=0OTRcflt-zo","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://www.youtube.com/watch?v=0OTRcflt-zo
+</div></figure>
+<!-- /wp:embed -->
+
+<!-- wp:embed {"url":"https://www.youtube.com/watch?v=O0DoSlep_v0","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://www.youtube.com/watch?v=O0DoSlep_v0
+</div></figure>
+<!-- /wp:embed -->
+
+<!-- wp:paragraph -->
+<p><strong><span style="color: #000000;">Hoof Boot Fitting Tips:</span></strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:embed {"url":"https://www.youtube.com/watch?v=oQ6uMcA1H5w","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://www.youtube.com/watch?v=oQ6uMcA1H5w
+</div></figure>
+<!-- /wp:embed -->
+
+<!-- wp:embed {"url":"https://www.youtube.com/watch?v=i4nkZ4e_hHU","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-4-3 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://www.youtube.com/watch?v=i4nkZ4e_hHU
+</div></figure>
+<!-- /wp:embed -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading"><strong><span style="color: #000000;"><img class="wp-image-62393 alignright" src="http://cavallo.local/wp-content/uploads/2021/07/Find-Cavallo-Hoof-Boots-on-You-Tube-horse2-1-450x315.jpg" alt="Find Cavallo Hoof Boots on You Tube horse" width="294" height="352">Watch Horses Moving at Top speeds and Wearing Cavallo Boots on All Terrains:</span></strong></h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><strong><span style="color: #000000;">Cantering on the Road: </span></strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:embed {"url":"https://www.youtube.com/watch?v=aQEEa9Ylq7I","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://www.youtube.com/watch?v=aQEEa9Ylq7I
+</div></figure>
+<!-- /wp:embed -->
+
+<!-- wp:paragraph -->
+<p><strong><span style="color: #000000;">Beach Riding:</span></strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:embed {"url":"https://www.youtube.com/watch?v=i9SbrPzB8aA","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://www.youtube.com/watch?v=i9SbrPzB8aA
+</div></figure>
+<!-- /wp:embed -->
+
+<!-- wp:paragraph -->
+<p><strong><span style="color: #000000;">Riding on Gravel:</span></strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:embed {"url":"https://www.youtube.com/watch?v=nrQnSlTRBpY","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://www.youtube.com/watch?v=nrQnSlTRBpY
+</div></figure>
+<!-- /wp:embed -->
+
+<!-- wp:paragraph -->
+<p><strong><span style="color: #000000;">Winter Traction:</span></strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:embed {"url":"https://www.youtube.com/watch?v=e5gtkkoYs0o","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://www.youtube.com/watch?v=e5gtkkoYs0o
+</div></figure>
+<!-- /wp:embed -->
+
+<!-- wp:paragraph -->
+<p><strong><span style="color: #000000;">Julie Goodnight Testing her Cavallos on Rough Terrain:</span></strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:embed {"url":"https://www.youtube.com/watch?v=R2x0zwJyQdk","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://www.youtube.com/watch?v=R2x0zwJyQdk
+</div></figure>
+<!-- /wp:embed -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading"><strong><span style="color: #000000;">Today's top horse industry experts talk about how they’re booting up their horses, too:</span></strong></h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><strong><span style="color: #000000;">Double Dan Horsemanship:</span></strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:embed {"url":"https://www.youtube.com/watch?v=FjFBNzUe7Cw","providerNameSlug":"youtube","responsive":true} -->
+<figure class="wp-block-embed is-provider-youtube wp-block-embed-youtube"><div class="wp-block-embed__wrapper">
+https://www.youtube.com/watch?v=FjFBNzUe7Cw
+</div></figure>
+<!-- /wp:embed -->
+
+<!-- wp:embed {"url":"https://www.youtube.com/watch?v=APIKpWAdwkA","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-4-3 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://www.youtube.com/watch?v=APIKpWAdwkA
+</div></figure>
+<!-- /wp:embed -->
+
+<!-- wp:paragraph -->
+<p><strong><span style="color: #000000;">Emma Massingale:</span></strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:embed {"url":"https://www.youtube.com/watch?v=tTgDaKc2zYg","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://www.youtube.com/watch?v=tTgDaKc2zYg
+</div></figure>
+<!-- /wp:embed -->
+
+<!-- wp:paragraph -->
+<p><strong><span style="color: #000000;">Guy McLean:</span></strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:embed {"url":"https://www.youtube.com/watch?v=ordm5DqdmYA","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-4-3 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://www.youtube.com/watch?v=ordm5DqdmYA
+</div></figure>
+<!-- /wp:embed -->
+
+<!-- wp:paragraph -->
+<p><strong><span style="color: #000000;">Pat Parelli: </span></strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:embed {"url":"https://www.youtube.com/watch?v=T3c3FDbmKic","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-4-3 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://www.youtube.com/watch?v=T3c3FDbmKic
+</div></figure>
+<!-- /wp:embed -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><span style="color: #000000;">I frequently post my videos on the channel to help you learn more about barefoot horsemanship. Videos are such a great way to watch and learn. Make sure to subscribe to our channel to see more tips for riding in boots and to find out how our sponsored riders are taking their boots to new limits. This is the place to watch horses thrive and move out with their Cavallo Boots on!</span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading"><span style="color: #000000;">Reach out to Us Anytime!</span></h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><span style="color: #000000;">Along with this great resource, you can always contact us for in-person help or to ask more questions about your horse using Cavallos. We offer top-notch and very personal customer service so you can measure and fit your boots and always be learning more as you go! We love it when you take the time to connect with us.</span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><span style="color: #000000;"><strong>Visit us</strong><strong> online to learn about the <span style="color: #008080;"><a style="color: #008080;" href="http://cavallo.local/product-category/hoof-boot/" target="_blank" rel="noopener">full line of Cavallo Hoof Boots.</a></span> Call (877) 818-0037 from the USA or Canada or call direct, (604) 740-0037. Or catch up with us on <a href="https://www.facebook.com/CavalloHoofboots" target="_blank" rel="noopener">Facebook</a> or Instagram, or our online chat feature at <span style="color: #008080;">www.cavallo.local</span> !&nbsp;</strong></span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><span style="color: #000000;"><strong>Sign up here for Cavallo's free newsletter and special community discounts: </strong><span style="color: #008080;"><a style="color: #008080;" href="http://cavallo.local/subscribe-to-the-cavallo-horse-and-rider-newsletter/"><strong>http://cavallo.local/subscribe-to-the-cavallo-horse-and-rider-newsletter/</strong></a></span></span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><span style="color: #000000;"><em>Wishing you many happy hours connecting with us on YouTube!,</em></span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":31657,"linkDestination":"custom","align":"left"} -->
+<figure class="wp-block-image alignleft"><a href="https://getbook.at/HoofPrintsontheJourney"><img src="http://cavallo.local/wp-content/uploads/2020/07/OFFICIAL-Carole-Herder-2020-Signature-Hoof-Prints-Book-LR-1.png" alt="Carole Herder Signature - Cavallo Hoof Boots- Hoof Prints Book " class="wp-image-31657"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph -->

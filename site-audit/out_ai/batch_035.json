@@ -1,0 +1,86 @@
+[
+  {
+    "id": "1555",
+    "content_format": "Standard article (text + images)",
+    "summary": "Blog post celebrating jockey Michelle Payne as the first woman to win the Melbourne Cup in the race's 155-year history.",
+    "key_components": [],
+    "primary_cta": "None"
+  },
+  {
+    "id": "1557",
+    "content_format": "Standard article (text + images)",
+    "summary": "Customer testimonial from Lisa in England describing how Cavallo boots help manage her mare's recurring hoof canker by keeping the foot dry and medicated.",
+    "key_components": ["Pull quote/testimonial"],
+    "primary_cta": "None"
+  },
+  {
+    "id": "1559",
+    "content_format": "Standard article (text + images)",
+    "summary": "Educational post explaining how each hoof's frog acts as a blood pump, giving rise to the saying a horse has five hearts, and arguing barefoot/hoof boots aid circulation.",
+    "key_components": [],
+    "primary_cta": "None"
+  },
+  {
+    "id": "1561",
+    "content_format": "Standard article (text + images)",
+    "summary": "Carole Herder's travel blog about visiting Ireland, including an interview with equine therapist Niamh Fitzpatrick on Masterson Method and navicular recovery.",
+    "key_components": ["Image gallery"],
+    "primary_cta": "None"
+  },
+  {
+    "id": "1562",
+    "content_format": "Standard article (text + images)",
+    "summary": "Carole Herder recounts overhearing a trade-show conversation about leaving a horse barefoot versus shoeing for trail work, advocating Cavallo hoof boots instead of metal shoes.",
+    "key_components": ["Image gallery"],
+    "primary_cta": "None"
+  },
+  {
+    "id": "1563",
+    "content_format": "Standard article (text + images)",
+    "summary": "Motivational post on courage and overcoming fear in riding and in business, drawing on Carole Herder's experience founding Cavallo.",
+    "key_components": [],
+    "primary_cta": "None"
+  },
+  {
+    "id": "1565",
+    "content_format": "Listicle",
+    "summary": "Holiday-themed post listing Carole Herder's top ten horse films, with a nod to shopping the Cavallo store for gift ideas.",
+    "key_components": ["Bulleted list"],
+    "primary_cta": "Shop hoof boots"
+  },
+  {
+    "id": "1567",
+    "content_format": "Standard article (text + images)",
+    "summary": "Travel feature on Discovery Horse Tours in Jaco, Costa Rica, offering barefoot, bitless rainforest and beach rides on rescued horses.",
+    "key_components": ["Image gallery"],
+    "primary_cta": "None"
+  },
+  {
+    "id": "1569",
+    "content_format": "Standard article (text + images)",
+    "summary": "Light-hearted post on being addicted to horses, pivoting to introduce the affordable Cavallo ELB (Entry Level Boot) at $49.95 for barefoot transition and rehab.",
+    "key_components": [],
+    "primary_cta": "Shop hoof boots"
+  },
+  {
+    "id": "1571",
+    "content_format": "Standard article (text + images)",
+    "summary": "Barefoot hoof-care guide covering common transition issues: irregular trims, diet, mineral balance, lack of movement, and soft pasture.",
+    "key_components": ["Bulleted list"],
+    "primary_cta": "None"
+  },
+  {
+    "id": "1573",
+    "content_format": "Standard article (text + images)",
+    "summary": "Post on the physical and psychological health benefits of horse riding, citing a 2011 British Horse Society study linking riding to well-being.",
+    "key_components": [],
+    "primary_cta": "None"
+  },
+  {
+    "id": "1575",
+    "content_format": "Listicle",
+    "summary": "New Year listicle of 5 ways to improve your riding in 2016 (lessons, competitive trail riding, equilates, potassium, courses) plus tips to benefit your horse.",
+    "key_components": ["Table of contents/sections"],
+    "primary_cta": "Shop hoof boots"
+  }
+]

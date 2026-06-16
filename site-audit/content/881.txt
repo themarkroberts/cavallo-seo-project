@@ -1,0 +1,15 @@
+<!-- wp:image {"width":"400px","height":"auto","sizeSlug":"large","align":"left"} -->
+<figure class="wp-block-image alignleft size-large is-resized"><img src="http://cavallo.local/wp-content/uploads/2024/09/Bud3.jpg" alt="" style="width:400px;height:auto"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p> </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>I have a Missouri Foxtrotter who is going through a transition to natural trim. I just got the simple boots and tried them out on a trail ride this past Saturday. I started out the ride without the boots to see how he would do.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>After about a mile and a half on woody, somewhat rocky terrain I could see he was getting uncomfortable. I stopped for a break and put the Cavallo simple boots on his front hooves and headed out. WELL---the difference was like night and day. He had spring in his step and really wanted to GO!!!!!! He had no problem manuvering over large logs, muddy creek beds,and the same rocks he had problem with on the way out. We love the boots and I will keep them with me on all trail rides. They are a fantastic product! Thank you!</p>
+<!-- /wp:paragraph -->

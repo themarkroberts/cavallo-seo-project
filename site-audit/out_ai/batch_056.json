@@ -1,0 +1,86 @@
+[
+  {
+    "id": "1954",
+    "content_format": "Newsletter",
+    "summary": "September 2022 Cavallo customer newsletter teasing an upcoming promotion and sharing a story of a laminitic zebra mare rehabilitated with Cavallo hoof boots.",
+    "key_components": ["Image gallery", "Table of contents/sections", "Testimonials"],
+    "primary_cta": "Read more"
+  },
+  {
+    "id": "1958",
+    "content_format": "FAQ / informational",
+    "summary": "Explains how Cavallo hoof boots stay on via their patented conical shape and industrial Velcro, with fitting guidance for keeping boots secured.",
+    "key_components": ["Video embed"],
+    "primary_cta": "Measure your horse"
+  },
+  {
+    "id": "1962",
+    "content_format": "Listicle",
+    "summary": "Lists six ways Cavallo hoof boots protect horses from gravel, covering stone bruises, sensitivity, and rough-terrain pain for barefoot and shod horses.",
+    "key_components": ["Image gallery", "Video embed"],
+    "primary_cta": "Shop hoof boots"
+  },
+  {
+    "id": "1963",
+    "content_format": "Standard article (text + images)",
+    "summary": "Summarizes a Western Kentucky University study finding Cavallo Trek hoof boots provide hoof protection, traction, and reduced pressure versus metal shoes.",
+    "key_components": ["Image gallery", "Video embed"],
+    "primary_cta": "Read more"
+  },
+  {
+    "id": "1966",
+    "content_format": "Standard article (text + images)",
+    "summary": "Argues for winterizing horses with Cavallo hoof boots and studs to prevent snow/ice ball-up, bruising, and injuries during cold-weather riding.",
+    "key_components": ["Image gallery", "Video embed"],
+    "primary_cta": "Shop hoof boots"
+  },
+  {
+    "id": "1967",
+    "content_format": "Standard article (text + images)",
+    "summary": "Describes how Cavallo hoof boots stay on in thick snow and freezing mud, detailing the conical design, TPU soles, leather padding, and break-in tips.",
+    "key_components": ["Video embed"],
+    "primary_cta": "Shop hoof boots"
+  },
+  {
+    "id": "1969",
+    "content_format": "Standard article (text + images)",
+    "summary": "Tells the story of Romeo, a pony with insulin resistance and winter laminitis, and how Cavallo boots eased his cold-weather hoof pain.",
+    "key_components": ["Image gallery", "Testimonials"],
+    "primary_cta": "Read more"
+  },
+  {
+    "id": "1972",
+    "content_format": "FAQ / informational",
+    "summary": "Advises horse owners on handling hoof puncture wounds, including cleaning, packing, and using Cavallo boots to aid comfort during healing.",
+    "key_components": ["Image gallery"],
+    "primary_cta": "Read more"
+  },
+  {
+    "id": "1975",
+    "content_format": "Standard article (text + images)",
+    "summary": "A personal narrative from Cavallo's president on transitioning away from her first farrier and taking ownership of her horse's hoof care.",
+    "key_components": ["Video embed"],
+    "primary_cta": "Read more"
+  },
+  {
+    "id": "1977",
+    "content_format": "Long-form guide / pillar",
+    "summary": "In-depth guide to navicular disease in horses, covering early warning signs, causes, management, and how Cavallo boots support affected horses.",
+    "key_components": ["Image gallery", "Bulleted list"],
+    "primary_cta": "Read more"
+  },
+  {
+    "id": "1987",
+    "content_format": "Standard article (text + images)",
+    "summary": "Explains how Cavallo hoof boots protect thin-soled and sensitive horses from painful surfaces, absorbing shock and providing immediate relief.",
+    "key_components": ["Image gallery"],
+    "primary_cta": "Shop hoof boots"
+  },
+  {
+    "id": "1988",
+    "content_format": "Landing / marketing page",
+    "summary": "Launch announcement for the Trek Pro hoof boot, listing 15 reasons it improves on the Trek with a molded upper, sleek design, and special pricing.",
+    "key_components": ["Image gallery", "Video embed", "Bulleted list", "CTA button"],
+    "primary_cta": "Shop hoof boots"
+  }
+]

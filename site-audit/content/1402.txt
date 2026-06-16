@@ -1,0 +1,31 @@
+<!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="http://cavallo.local/wp-content/uploads/2024/09/WDYLAboutTrailRiding1.jpg" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>By Carole Herder</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Picture this: a glorious summer afternoon. The smell of freshly cut grass is hanging in the air. A slight breeze is blowing to keep the hazy day cool. Birds are flitting, butterflies are darting and bees are buzzing, busy in an otherwise peaceful and relaxed atmosphere. Now picture this: a bright, frosty morning. The silence surrounds you except for the grass crunching underfoot as you watch your breath steam out and then disappear. You are toasty in your double layers of socks and thermal vests under two fleeces and your extra warm snow gloves are on. Which scenario do you prefer?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>These are two of my favorite types of days to go trail riding. A lazy ride out on a beautiful summer’s day, where everything seems to slow down and it’s just you and your horse, plodding along, enjoying the sunshine and the breeze, perhaps stopping for a picnic on the way, beside the river or in a wild-flower-filled meadow. And the very cold but very wonderful frosty winter morning, and it feels like you and your horse are the only ones in the whole world that are up and about. Your horse is keen to get out trotting to keep warm and the scenery has been intricately painted by Jack Frost to look like a magnificent outdoor crystal palace.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>I love the anticipation of a trail ride. Packing up all my gear and making sure all the tack is in order. Then getting my horse organised: grooming, picking out the feet, tacking up, popping on his hoof boots. And thinking: where will we go today? How long will we go for? Do I need to bring anything extra? Will I meet up with my friends or ride solo? Every ride is different, even if the trail is the same. Your mood is different, as is that of your horse and who knows what you will bump into out there (hopefully not literally!).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Finally, everything is ready and you and your trusty stead head off out onto the trail to jaunt along like old buddies with not a care in the world, or go exploring and find a new adventure to tackle. I always get a feeling of elation when going out, the joy of riding my favorite horse and being together, just the two of you. Or even when in a group, looking down with a smile as you watch your horse’s neck and head jog along. What a marvelous way to spend a few hours.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Why don’t you send us in some of your favourite trail riding experiences, especially if done in Cavallo hoof boots! We’d love to hear about your adventures.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:spacer {"height":"40px"} -->
+<div style="height:40px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->

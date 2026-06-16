@@ -1,0 +1,63 @@
+<!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading"><strong>Hooves Gone Wild!</strong></h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Here’s a special story I love about an incredible challenge my friend, <a href="https://en.wikipedia.org/wiki/Monty_Roberts" target="_blank" rel="noopener">Monty Roberts</a>&nbsp;took on.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>All his life, Monty has marveled at the <a href="https://en.wikipedia.org/wiki/Mustang" target="_blank" rel="noopener">wild horses of the Western United States</a>. How in the world can these horses survive on rocky, high deserts with no foot care of any kind? &nbsp;Monty attended many conferences on equine foot care. He heard so-called experts giving speeches on what angle the feet should be, the best methods of trimming and the proper use of metal shoes. He finds it interesting that the best feet in the world of horses are those that have none of these advantages! Nature will dictate the angle that is appropriate. The surface of the earth will do a better job of trimming than any trained farrier could ever do. Monty observed ranchers releasing domestic stallions in an effort to upgrade the wild genetic pool. Most of these horses die within three to four weeks if they are not gradually allowed to go bare and toughen their feet. The absence of shoes will tease and condition the foot to grow and produce the strongest possible tissues to sustain soundness.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading"><strong>Challenging Monty</strong></h4>
+<!-- /wp:heading -->
+
+<!-- wp:image {"id":9798,"linkDestination":"custom","align":"left"} -->
+<figure class="wp-block-image alignleft"><a href="http://www.montyroberts.com/horses/shy-boy/"><img src="//www.cavallo.local/wp-content/uploads/2017/08/montyfield.jpg" alt="Monty Roberts with Shy Boy" class="wp-image-9798"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>With this new information, Mr. Roberts was asked by the <a href="https://www.tournamentofroses.com/" target="_blank" rel="noopener">Rose Parade Festival</a> to produce a tribute to the American Mustang. He agreed to train six wild horses in six months who had been captured on the high deserts of the western United States. One of those horses was the amazing&nbsp;<a href="http://www.montyroberts.com/horses/shy-boy/" target="_blank" rel="noopener">Shy Boy, </a>who we all know and love.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Monty was adamant upon keeping their feet shoeless. This meant that he had to get special permission from the Parade Committee. They rode five horses in the Rose Bowl Parade and led the sixth. Monty reported that not one horse slipped an inch during the entire five miles! No horse took a lame step or appeared to be in any discomfort during the entire trip. After the parade, officials were astonished by the marvelous condition of these six horses.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading"><strong>Appreciating the Unshod Hoof</strong></h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Another test was conducted on <a href="http://www.montyroberts.com/ab_about_monty/flag__intro/" target="_blank" rel="noopener">Flag Is Up Farms</a> by Monty’s staff. It was not connected to any academic institution nor was it conducted under any scientific rules. Monty simply suspected that they could bring the horse world information about natural feet. He concluded that most shod horses will migrate to an angle that is far shallower than this test produced. The horses on test ranged between 50 and 56° at the conclusion. Monty’s belief is that this must be what nature intended for these feet. As he compared the thickness of the walls of these horses to domestic animals often shod, the difference was dramatic. Each of these horses received good quality hay of two types throughout the six months. No concentrate feed or any substance meant to enhance foot health and growth was given them.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.youtube.com/watch?v=4BB4XCdQCts" target="_blank" rel="noopener">Monty’s Shy Boy</a> has never had a whisker cut or a nail in his hoof. And he has traveled down the streets of the Tournament of Roses New Year’s Day Parade (twice!) in bare feet! Whether we agree with the testing procedures or the results produced, I appreciate the intention and the time Monty dedicates to figure things out. Nature is the teacher we would do well to observe and listen intently to.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Of course from our perspective, anytime a horse has the extra weight of rider and tack, he would be more comfortable with the overall protection and comfort of <a href="http://cavallo.local/product-category/hoof-boot/" target="_blank" rel="noopener">Cavallo Hoof Boots.</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":5} -->
+<h5 class="wp-block-heading"><strong>Happy Trails,</strong></h5>
+<!-- /wp:heading -->
+
+<!-- wp:image {"id":10645,"width":"300px"} -->
+<figure class="wp-block-image is-resized"><img src="//www.cavallo.local/wp-content/uploads/2017/12/CaroleSig.jpg" alt="Carole Herder's Signature" class="wp-image-10645" style="width:300px"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":10798,"align":"left"} -->
+<figure class="wp-block-image alignleft"><img src="//www.cavallo.local/wp-content/uploads/2018/01/Caroles-Signature-2017.png" alt="Carole Herder's Signature" class="wp-image-10798"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->

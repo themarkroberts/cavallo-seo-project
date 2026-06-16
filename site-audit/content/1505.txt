@@ -1,0 +1,7 @@
+<!-- wp:paragraph -->
+<p>First of all i'd like to say that both my horse and I LOVE his Cavallo Boots. It makes for riding the forest over the stoney/rocky/gravelly terrain MUCH nicer for my horse. They are great boots, easy to put on, and even before I ask my horse to raise his leg so I can put his boot on, he raises it on his own, when he sees the boot. I find this really neat as it shows that he does NOT mind wearing them at all .. in fact, the Cavallo Boots make for an awesome ride. If he did not wear the Boots, he would be a bit ouchy and hesitant to walk on the gravelly trail .. he'd be finding the 2 inch strip of grass to walk on .. however, with the Boots, he walks EVERYWHERE without any hesitation. We would NOT be without our Cavallo Boots. I did have another pair made by a different company, and they really were more cumbersome to walk in, and were heavier on his feet. My Motto is ``HAPPY HORSE = HAPPY RIDER`` .. Cavallo ALL THE WAY!!! :)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:spacer {"height":"40px"} -->
+<div style="height:40px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->

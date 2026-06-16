@@ -1,0 +1,19 @@
+<!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="http://cavallo.local/wp-content/uploads/2024/09/ClinicHoof1.jpg" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>By Carole Herder</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>“The same care which is given to the horse’s food and exercise, to make his body grow strong, should also be devoted to keeping his feet in condition” – Xenophon, The Art of Horsemanship, written twenty-three centuries ago. I read this quote recently in an article by Tom Teskey entitled, ‘Breaking Traditions: A Veterinary Medical and Ethical Perspective on the Modern Day Usage of Steel Horseshoes’. A fascinating read, as are all of Teskey’s literature. Here are some points from that article that I would like to reiterate.<br>Foals receive a pasture trim right from the beginning, so straight away, just when they are developing and growing, we are already messing with their feet incorrectly and flattening off those hooves. This leads on to their first shoes where more flattening of the solar aspect takes pace and all concavity, domes, triangles and conical shapes (which form the strongest and most perfect and dynamic shape in the world) are taken away, and then a ring of steel is nailed on to it. I don’t need to spell out how unnatural this is and how this will ultimately result in disease, deformation, stagnation and lameness.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Driving nails through a natural physical barrier opens the doors to fungus and bacteria and only encourages chipping, breaks and cracks.Steel on hooves allow concussive forces, vibrations and sudden, extreme temperatures to enter the hoof. The built-in shock absorbency cannot work when a steel shoe restricts the natural expansion of the hoof. Because the middle of the hoof is elevated, the rest of the leg must now take on the tasks of dispelling these concussive forces, a job the joints, ligaments and cartilages further up in the leg were never designed to do. Compromising the horse’s hoof by nailing a steel shoe on to it will lead to lameness and shoulder, neck and back issues.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>There is so much to say here! Keep reading part 2 of this article to learn more about how we all need to help change people’s beliefs, especially in veterinarians, farriers and other horse care professionals.</p>
+<!-- /wp:paragraph -->

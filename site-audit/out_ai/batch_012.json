@@ -1,0 +1,86 @@
+[
+  {
+    "id": "1074",
+    "content_format": "Standard article (text + images)",
+    "summary": "Customer update on a barefoot horse named Tippy competing in ACTHA trail rides and NVRHA events while wearing Cavallo boots on rocky Arizona terrain.",
+    "key_components": ["Testimonials"],
+    "primary_cta": "None"
+  },
+  {
+    "id": "1075",
+    "content_format": "Standard article (text + images)",
+    "summary": "Short testimonial from Lorna, a TREC rider for Team Great Britain in Scotland, praising the all-terrain performance of Cavallo Sport Hoof Boots on a trail ride.",
+    "key_components": ["Testimonials"],
+    "primary_cta": "None"
+  },
+  {
+    "id": "1076",
+    "content_format": "Standard article (text + images)",
+    "summary": "Guest blog by Dutch Henry profiling Lonesome Dove Equestrian Center, a Texas program where veterans with PTSD find healing through horses.",
+    "key_components": ["Image gallery", "Testimonials"],
+    "primary_cta": "None"
+  },
+  {
+    "id": "1077",
+    "content_format": "Standard article (text + images)",
+    "summary": "Customer testimonial from Holly in Bend, Oregon about an 11-year-old gelding with soft soles regaining comfort on rocky trails using Cavallo hoof boots.",
+    "key_components": ["Testimonials"],
+    "primary_cta": "None"
+  },
+  {
+    "id": "1079",
+    "content_format": "Standard article (text + images)",
+    "summary": "Customer testimonial from Lynn in Winfield, BC about a club-footed Arabian mare whose Cavallo Sport Hoof Boots stayed secure through mud, bog, and rocky terrain.",
+    "key_components": ["Testimonials"],
+    "primary_cta": "None"
+  },
+  {
+    "id": "1081",
+    "content_format": "FAQ / informational",
+    "summary": "Announcement of a free Cavallo booklet answering common hoof boot questions on hoof mechanism, boots vs. metal shoes, measuring for fit, barefoot trimming, and gaited horses.",
+    "key_components": ["Bulleted list"],
+    "primary_cta": "Sign up for free booklet"
+  },
+  {
+    "id": "1083",
+    "content_format": "Standard article (text + images)",
+    "summary": "Customer testimonial from Jackie in Rushville, Ohio about using Cavallo hoof boots over an APHA show gelding's shod feet for turnout protection against sprung shoes.",
+    "key_components": ["Testimonials"],
+    "primary_cta": "None"
+  },
+  {
+    "id": "1085",
+    "content_format": "Standard article (text + images)",
+    "summary": "Guest blog by Joe Camp on training horses with verbal vocabulary and treats, arguing horses can learn words and that treats accelerate communication.",
+    "key_components": ["Image gallery"],
+    "primary_cta": "None"
+  },
+  {
+    "id": "1086",
+    "content_format": "Standard article (text + images)",
+    "summary": "Customer testimonial from Marianne Allen about a 20-year-old barefoot gelding named Stormy wearing red Cavallo Simple Boots for protection on debris-covered roads.",
+    "key_components": ["Testimonials"],
+    "primary_cta": "None"
+  },
+  {
+    "id": "1088",
+    "content_format": "Standard article (text + images)",
+    "summary": "Cavallo Crusader profile of rider Erika Tanney and her horse Jazz in Kansas, covering their ACTHA achievements and bridleless riding partnership.",
+    "key_components": ["Testimonials"],
+    "primary_cta": "None"
+  },
+  {
+    "id": "1090",
+    "content_format": "Standard article (text + images)",
+    "summary": "Guest blog by Dutch Henry on Freedom Horses, an equine-assisted therapy program founded by Betsi Bixby to help abused women heal through horses.",
+    "key_components": ["Image gallery", "Testimonials"],
+    "primary_cta": "None"
+  },
+  {
+    "id": "1091",
+    "content_format": "Standard article (text + images)",
+    "summary": "Informational article on how a horse's body and musculature change with age, season, and weight, affecting saddle fit, recommending Cavallo Total Comfort System memory-foam saddle pads.",
+    "key_components": ["Image gallery"],
+    "primary_cta": "Shop saddle pads"
+  }
+]

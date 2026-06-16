@@ -1,0 +1,35 @@
+<!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="http://cavallo.local/wp-content/uploads/2024/09/Hoof-Anatomy.jpg" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>By Carole Herder</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>There are many physical issues we come across with our horses. Some of the most common hoof-related ones include laminitis, founder and navicular. But what is the difference between them all, how can we help our horses when these problems occur and how can we prevent them from happening in the first place?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>First, the definitions:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Laminitis – a disease that affects the hooves. Symptoms include foot tenderness, inflammation and increased temperature. The cause is pain of the digital laminae within the hoof and this inflammation can be triggered by an excess of sweet, lush grass, chemical wormers and vaccinations or too much grain in the diet.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Founder – severe laminitis can cause rotation or sinking of the pedal/coffin bone (third phalanx or P3) which can result in anatomical changes in the position of the bone and even penetration through the sole of the hoof.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Navicular – a disease or syndrome causing soundness problems in the horse. Inflammation or degeneration of the navicular bone and surrounding tissues, usually in the front feet, can lead to severe lameness.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The key to avoiding the above problems is to improve how we care for our horses. Good boarding, natural diet and proper trimming for the bare feet will all help. If a problem does occur, contact your vet and trimmer immediately and if they don’t give you advice you are happy with, find someone else! There is plenty of information on the internet about these conditions, but don’t get scared by what you read. Most problems can be resolved with the right care.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>An excellent interview on Navicular with Dr. Robert Bowker can be found here: <a href="http://thenaturallyhealthyhorse.com/interview-dr-robert-bowker-navicular-disease/" target="_blank" rel="noopener">http://thenaturallyhealthyhorse.com/interview-dr-robert-bowker-navicular-disease/</a>.</p>
+<!-- /wp:paragraph -->

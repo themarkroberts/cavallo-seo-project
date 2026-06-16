@@ -1,0 +1,31 @@
+<!-- wp:paragraph -->
+<p>By Carole Herder</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>To blanket or not to blanket – that is the question. That time of year is coming around again, the season is changing, the days are getting cooler and the nights are getting colder. All I see is horsey people running in and out to the paddocks and barns, taking blankets off, putting blankets on, holding different blankets up and trying to decide which weight to use. All of my friends are on their smart phones constantly checking out the weather to see if blankets are needed that night. Bordering on crazy!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":5018,"linkDestination":"custom","align":"left"} -->
+<figure class="wp-block-image alignleft"><a href="//cavallo.local/wp-content/uploads/2014/10/BLog73.jpg"><img src="//cavallo.local/wp-content/uploads/2014/10/BLog73.jpg" alt="Horse Hoof Boots" class="wp-image-5018"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The blanket question is almost as heated as the barefoot hoof question (but not quite!). Personally, I think there are pros and cons for each argument. Yes, we want to keep our horses more naturally and they have evolved to survive all kinds of weather, without human interference. And yes, there are many wild and feral horses across the globe who manage perfectly well without our rugs. But what if your horses aren't kept naturally, what if you need them clipped or clean or dry, what if they are old and sick?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Horses are naturally equipped to deal with all kinds of weather. They have amazing inbuilt thermo-regulation devices! Thick winter hair will replace thin summer hair in order to help with insulation and act as a windbreaker. These layers will stand up when it is cold and lay down when it is warm. Raindrops and snowflakes literally fall off the downward tilted hairs. They have lightly muscled lower legs which consequently require less circulation and heat. Their large digestive tracts process a mostly fibrous diet when generates large amounts of heat. Long nasal passages warm the air before it reaches the lungs. Their relatively thick, blocky bodies retain heat for longer. They use their own rumps for wind blocks! Their blunt equine muzzles contain so much blood that the cold finds it hard to get in. If they choose to stand still rather than run around, they will shiver to keep warm – this is genuinely a highly effective heating device.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>I will leave it up to yourselves but do consider the above before you go acquiring expensive blankets and bundling your horse up like a sausage roll!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:spacer {"height":"40px"} -->
+<div style="height:40px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->

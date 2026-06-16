@@ -1,0 +1,15 @@
+<!-- wp:image {"id":1217,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="http://cavallo.local/wp-content/uploads/2024/09/dotandslash.png" alt="" class="wp-image-1217"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>By Carole Herder</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"left"} -->
+<p class="has-text-align-left">We cannot ignore that our domestic animals are animals in captivity. They generally have far less space than they would in a natural environment and far too often that space is less than desired or adequate. For the most part, they do not have control over their own continued existence – running from danger, finding food, mating for propagation of the species, etc. Survival depends on the ability to make the correct choices. Yet, our domestic horses, our friends, receive their food, grooming, and exercise mostly at our hands. They have little say in the matter. This lack of control and independence in their living conditions and environments can have a mental or emotional impact that can be a challenge for their health, well being and even shorten their lifespan if not considered by their human caretakers, by you and me. Look at Polar bears for example. When kept in zoos they have a 65% infant mortality rate. Wild elephants live for about 56 years, but captive ones have an average lifespan of 17 years.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>This is not to say, we should not keep our horses, but just to be aware of their innate desire to have some control over their environments. They want a sense of freedom as much as you and I do. My horse Slash loves to open gates. It makes him feel really smart. So we have gates around the property that he can open which do not allow escape. He goes and stands on the other side and acts very proud of himself. He calls out for us to come see him standing there. Occasionally I’ll lock Dot in her stall so that Slash can open the latch and free her. Then they go and graze together. He stays really close to her with one eye on me just to make sure I notice and as if to say “Ha! See how smart I am?”</p>
+<!-- /wp:paragraph -->

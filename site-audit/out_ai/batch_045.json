@@ -1,0 +1,86 @@
+[
+  {
+    "id": "1729",
+    "content_format": "Standard article (text + images)",
+    "summary": "Short blog recap of Cavallo sponsoring and attending the Pacific Hoof Care Practitioners (PHCP) conference, with photos of the team meeting hoof care professionals.",
+    "key_components": ["Bulleted list"],
+    "primary_cta": "None"
+  },
+  {
+    "id": "1731",
+    "content_format": "Standard article (text + images)",
+    "summary": "Announcement introducing UK horsewoman Emma Massingale as Cavallo's new Global Ambassador, covering her natural horsemanship work, BBC documentary, and her endorsement of Cavallo Hoof Boots.",
+    "key_components": ["Bulleted list"],
+    "primary_cta": "Shop hoof boots"
+  },
+  {
+    "id": "1732",
+    "content_format": "Standard article (text + images)",
+    "summary": "Educational post on spotting equine soreness, focusing on saddle fit and hoof function as the two main 'hot spots' and the warning signs of a poorly fitting saddle.",
+    "key_components": ["Image gallery", "Video embed", "Bulleted list"],
+    "primary_cta": "Read more"
+  },
+  {
+    "id": "1733",
+    "content_format": "Standard article (text + images)",
+    "summary": "Customer review feature highlighting a positive Facebook testimonial about Cavallo ELB hoof boots and the company's responsive customer service replacing a defective boot.",
+    "key_components": ["Testimonials", "Pull quote/testimonial"],
+    "primary_cta": "Shop hoof boots"
+  },
+  {
+    "id": "1734",
+    "content_format": "Standard article (text + images)",
+    "summary": "Light Cinderella-themed promotional post about Cavallo's sparkly bling hoof boots, featuring a video produced by Global Ambassador Emma Massingale and her horses.",
+    "key_components": ["Video embed"],
+    "primary_cta": "Watch video"
+  },
+  {
+    "id": "1735",
+    "content_format": "Standard article (text + images)",
+    "summary": "First-person travel story about visiting the Australian Outback near Alice Springs in search of wild Brumbies, reflecting on dangerous wildlife and horse safety.",
+    "key_components": ["Video embed"],
+    "primary_cta": "Read more"
+  },
+  {
+    "id": "1737",
+    "content_format": "Standard article (text + images)",
+    "summary": "Story of a Japanese barefoot enthusiast, Chika, who researched Cavallo via YouTube and traveled to Equitana in Melbourne to buy Cavallo hoof boots for her horse.",
+    "key_components": ["Image gallery", "Video embed"],
+    "primary_cta": "None"
+  },
+  {
+    "id": "1738",
+    "content_format": "Standard article (text + images)",
+    "summary": "Feature on Teddy the Shetland, a famous London therapy pony and Instagram celebrity, fitted with Cavallo CLB 'Bling' hoof boots for red-carpet appearances.",
+    "key_components": ["Video embed", "Testimonials"],
+    "primary_cta": "Shop hoof boots"
+  },
+  {
+    "id": "1739",
+    "content_format": "Newsletter",
+    "summary": "Cavallo's January 2019 'Friends of Cavallo' roundup covering magazine features, Monty Roberts' PTSD equine therapy program, and other community news.",
+    "key_components": ["Image gallery", "Table of contents/sections"],
+    "primary_cta": "Read more"
+  },
+  {
+    "id": "1740",
+    "content_format": "Standard article (text + images)",
+    "summary": "Reflective post about Belinde De Bruyckere's sculpture 'We are all Flesh' seen at an Adelaide art gallery, exploring its meaning on mortality and human vulnerability.",
+    "key_components": ["Video embed", "Pull quote/testimonial"],
+    "primary_cta": "None"
+  },
+  {
+    "id": "1741",
+    "content_format": "Standard article (text + images)",
+    "summary": "February 2019 collection of customer testimonials, including an x-ray founder-recovery story crediting Cavallo Hoof Boots with helping a horse walk sound again.",
+    "key_components": ["Image gallery", "Testimonials", "Table of contents/sections", "Pull quote/testimonial"],
+    "primary_cta": "Shop hoof boots"
+  },
+  {
+    "id": "1742",
+    "content_format": "Newsletter",
+    "summary": "Cavallo's February 2019 'Friends of Cavallo' roundup featuring Emma Massingale's European tricycle trip, an MS rider's boot review, and Monty Roberts' symposium.",
+    "key_components": ["Image gallery", "Video embed", "Table of contents/sections", "Pull quote/testimonial"],
+    "primary_cta": "Read more"
+  }
+]

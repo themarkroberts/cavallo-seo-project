@@ -1,0 +1,137 @@
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"level":1} -->
+<h1 class="wp-block-heading">A BIG THANK YOU for being part of our Cavallo Community!</h1>
+<!-- /wp:heading --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"0"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group" style="padding-top:0"><!-- wp:image {"id":5321,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="http://cavallo.local/wp-content/uploads/2024/10/Triple-download-books.jpg" alt="" class="wp-image-5321"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column {"width":"66.66%"} -->
+<div class="wp-block-column" style="flex-basis:66.66%"><!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading">Download my latest Bestseller, Hoof Prints on the Journey!</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Keeping horses is a challenge… The good news is, you’re not alone. Your horse community is here to help! At the forefront of revolutionary new wisdom, this book will help you navigate issues such as Laminitis and Navicular Disease. Get curious. A few small changes can move you from regret to inspiration!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons {"style":{"spacing":{"margin":{"top":"var:preset|spacing|lg","bottom":"var:preset|spacing|lg"}}},"layout":{"type":"flex","justifyContent":"center"}} -->
+<div class="wp-block-buttons" style="margin-top:var(--wp--preset--spacing--lg);margin-bottom:var(--wp--preset--spacing--lg)"><!-- wp:button {"backgroundColor":"red","style":{"border":{"radius":"50px"}}} -->
+<div class="wp-block-button"><a class="wp-block-button__link has-red-background-color has-background wp-element-button" href="http://cavallo.local/wp-content/uploads/2024/10/HoofPrintsontheJourney.pdf" style="border-radius:50px" target="_blank" rel="noreferrer noopener">Download Hoof Prints on the Jouney</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":"33.33%"} -->
+<div class="wp-block-column" style="flex-basis:33.33%"><!-- wp:image {"id":5308,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="http://cavallo.local/wp-content/uploads/2024/10/hoof-prints-on-the-journey.jpg" alt="Hoof Prints on the Journey" class="wp-image-5308"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:separator {"className":"is-style-default","backgroundColor":"pale-silver"} -->
+<hr class="wp-block-separator has-text-color has-pale-silver-color has-alpha-channel-opacity has-pale-silver-background-color has-background is-style-default"/>
+<!-- /wp:separator --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column {"width":"66.66%"} -->
+<div class="wp-block-column" style="flex-basis:66.66%"><!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading">Download No Horseshoes in Heaven</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>My first bestseller, No Horseshoes in Heaven, offers a profound and passionate exploration of past patterns, guiding you through an entertaining and thought-provoking invitation to make alternative choices.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Protect your horse from pain and discomfort and maximize your riding experience through scientific evidence and real-life stories.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons {"style":{"spacing":{"margin":{"top":"var:preset|spacing|lg","bottom":"var:preset|spacing|lg"}}},"layout":{"type":"flex","justifyContent":"center"}} -->
+<div class="wp-block-buttons" style="margin-top:var(--wp--preset--spacing--lg);margin-bottom:var(--wp--preset--spacing--lg)"><!-- wp:button {"backgroundColor":"red","style":{"border":{"radius":"50px"}}} -->
+<div class="wp-block-button"><a class="wp-block-button__link has-red-background-color has-background wp-element-button" href="http://cavallo.local/wp-content/uploads/2024/10/No-Horseshoes-in-Heaven-Full-Book-Download.pdf" style="border-radius:50px" target="_blank" rel="noreferrer noopener">Download No Horseshoes in Heaven</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":"33.33%"} -->
+<div class="wp-block-column" style="flex-basis:33.33%"><!-- wp:image {"id":5309,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="http://cavallo.local/wp-content/uploads/2024/10/no-horseshoes-in-heaven-300x479-1.png" alt="There Are No Horseshoes In Heaven" class="wp-image-5309"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:separator {"className":"is-style-default","backgroundColor":"pale-silver"} -->
+<hr class="wp-block-separator has-text-color has-pale-silver-color has-alpha-channel-opacity has-pale-silver-background-color has-background is-style-default"/>
+<!-- /wp:separator --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column {"width":"66.66%"} -->
+<div class="wp-block-column" style="flex-basis:66.66%"><!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading">Learn from the Cavallo Barefoot Trim Manual</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>From age 10, renowned barefoot trimmer Lynn Seeley has developed great respect, sensitivity, and understanding for all equine breeds and has improved their well-being through the removal of metal shoes and trimming to health and soundness.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Now, Lynn shares his gentle methods through this illustrated manual and video hosted by me. This valuable manual should be in every horse owner’s library:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="http://cavallo.local/wp-content/uploads/2014/05/CAVALLOBarefootTrim_002.pdf" target="_blank" rel="noreferrer noopener"></a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons {"style":{"spacing":{"margin":{"top":"var:preset|spacing|lg","bottom":"var:preset|spacing|lg"}}},"layout":{"type":"flex","justifyContent":"center"}} -->
+<div class="wp-block-buttons" style="margin-top:var(--wp--preset--spacing--lg);margin-bottom:var(--wp--preset--spacing--lg)"><!-- wp:button {"backgroundColor":"red","style":{"border":{"radius":"50px"}}} -->
+<div class="wp-block-button"><a class="wp-block-button__link has-red-background-color has-background wp-element-button" href="http://cavallo.local/wp-content/uploads/2024/10/CAVALLOBarefootTrim_002.pdf" style="border-radius:50px" target="_blank" rel="noreferrer noopener">Download Cavallo Barefoot Trim Manual</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons -->
+
+<!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading">And don't forget to watch the Cavallo Barefoot Trim Video that accompanies the manual:</h4>
+<!-- /wp:heading -->
+
+<!-- wp:buttons {"style":{"spacing":{"margin":{"top":"var:preset|spacing|lg","bottom":"var:preset|spacing|lg"}}},"layout":{"type":"flex","justifyContent":"center"}} -->
+<div class="wp-block-buttons" style="margin-top:var(--wp--preset--spacing--lg);margin-bottom:var(--wp--preset--spacing--lg)"><!-- wp:button {"backgroundColor":"red","style":{"border":{"radius":"50px"}}} -->
+<div class="wp-block-button"><a class="wp-block-button__link has-red-background-color has-background wp-element-button" href="http://cavallo.local/barefoot-trim-video/" style="border-radius:50px" target="_blank" rel="noreferrer noopener">Watch the Cavallo Barefoot Trim Video</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":"33.33%"} -->
+<div class="wp-block-column" style="flex-basis:33.33%"><!-- wp:image {"id":5327,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="http://cavallo.local/wp-content/uploads/2024/10/Cavallo-Hoof-Boots-Barefoot-Trim-Manual.jpg" alt="Cavallo Hoof Boots Barefoot Trim Manual" class="wp-image-5327"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:separator {"className":"is-style-default","backgroundColor":"pale-silver"} -->
+<hr class="wp-block-separator has-text-color has-pale-silver-color has-alpha-channel-opacity has-pale-silver-background-color has-background is-style-default"/>
+<!-- /wp:separator --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"textAlign":"center"} -->
+<h2 class="wp-block-heading has-text-align-center">Please enjoy my gifts to you. I hope my books help you and your horse on your barefoot &amp; booted journey!</h2>
+<!-- /wp:heading --></div>
+<!-- /wp:group -->
+
+<!-- wp:block {"ref":333715} /-->

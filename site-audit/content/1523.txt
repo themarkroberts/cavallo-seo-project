@@ -1,0 +1,91 @@
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading"><span style="color: #008080;"><strong>Your First Ten Steps to Going Barefoot</strong></span></h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>So, you want to get your horse barefoot but you are not sure where to start. Here are the top ten steps on getting you going the right way to a better life for you and your horse:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>1. &nbsp;Read, Read, Read: get your hands on as many barefoot books as possible and ‘read all about it’. Authors such as <strong>Hiltrud Strasser</strong>, <strong>Jaime Jackson</strong> and <strong>Pete&nbsp;Ramey</strong> &nbsp;are excellent sources of information to give you a good foundation for this learning curve. Review online articles, journals and websites to gain even more knowledge about regular barefoot hooves and those with pathologies. Give us a call at Cavallo with any questions you might have. Check out our articles and the information on our web site. Try these links for more access to information:<span style="color: #008080;"> <strong><a href="http://cavallo.local/why-bare-foot/" target="_blank" rel="noopener"><span style="color: #008080;">http://cavallo.local/why-barefoot</span></a></strong></span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":5891,"align":"right","className":"wp-image-5891 size-medium"} -->
+<figure class="wp-block-image alignright wp-image-5891 size-medium"><img src="//cavallo.local/wp-content/uploads/2015/07/Barefoot-Facts-300x198.jpg" alt="Horse Hoof Boots" class="wp-image-5891"/><figcaption class="wp-element-caption">Cavallo's 'The Bare Facts'</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>2. &nbsp;Join internet mailing lists, forums and Facebook groups: these are great to gather ideas, review opinions and start discussions.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>3. &nbsp;Integrate some basic principles of Natural Hoof Care into your horse care management:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>-Turn-out as much as possible( if not 24 hours a day) to encourage movement</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>- Turn-out with other horses as much as possible to simulate herd lifestyle</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>- If stabled, keep it immaculate – standing in manure/urine is detrimental to barefoot hooves</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>- Access to free choice hay/grazing when turned out</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>- To ensure the healthiest and strongest barefoot hooves, turn-out terrain should be similar to the terrain they work on</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>- Adopt natural trimming techniques to maintain a strong and healthy hoof</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;4. &nbsp;Find a local professional barefoot trimmer to support you. If you can’t find one, ask your farrier if they are willing to learn and support you. If this won’t work, learn trimming yourself. Check out the Cavallo Barefoot Trim <span style="color: #008080;"><strong><a href="http://cavallo.local/product/trimming-guide-with-dvd/" target="_blank" rel="noopener"><span style="color: #008080;">http://cavallo.local/product/trimming-guide-with-dvd/</span></a></strong></span> &nbsp;If this is unfeasible, send your horse to a rehabilitation centre.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>5. &nbsp;Purchase some trimming tools - even if you have a farrier/trimmer to look after the feet of your horse, it is very handy if you can do some maintenance trims in between (after attending suitable clinics of course!). Some basic tools like a rasp, hoof knife and decent gloves will manage any small chips or imbalances in between farrier visits</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>6. <strong>&nbsp;It’s time. Do it: take the shoes off!!!</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>7. &nbsp;Measure and photo - taking measurements and photographs is a great way of keeping track of changes and improvements in your horse’s feet and body. Measure and photo before shoes are removed, after shoes are removed and after each trim to really see the differences.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>8. &nbsp;Order Cavallo Hoof Boots to keep you in the saddle while giving the hooves the protection they require. You can even use them for turn out to get your horse comfortably moving around. &nbsp;<a href="http://cavallo.local/?products=hoof-boot" target="_blank" rel="noopener"><span style="color: #008080;"><strong><span style="color: #008080;">http://cavallo.local/products=hoof-boot</span></strong></span></a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>9. &nbsp;Start the barefoot trim: keep this regular as prevention is better than cure.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>10. &nbsp;Be careful but brave! And congratulate yourself.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>And don’t forget, always keep learning, learning, learning.</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":5795,"align":"left"} -->
+<figure class="wp-block-image alignleft"><img src="//cavallo.local/wp-content/uploads/2015/06/Caroles-452x181.png" alt="horse hoof boots" class="wp-image-5795"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->

@@ -1,0 +1,71 @@
+<!-- wp:image {"id":2470,"sizeSlug":"full","linkDestination":"none","align":"left"} -->
+<figure class="wp-block-image alignleft size-full"><img src="http://cavallo.local/wp-content/uploads/2024/09/Joe1SlickerHR-221x300-1.jpg" alt="" class="wp-image-2470"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>One of Cavallo's favourite people is Joe Camp. You may know him as the author of the book and movie <em>Benji</em>; or more recently for <em>The Soul of a Horse </em>and <em>The Soul of a Horse Blogged - The Journey Continues</em>.&nbsp; Joe received a question about saddles from a new horse owner and we wanted to share his thoughtful response with you.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>On Thu, Dec 30, 2010 at 7:43 PM, Eliza *** &lt;********@gmail.com&gt; wrote:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Joe and Kathleen,</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>I am new to the horsie thing and have read your books. I am looking to buy a new saddle for my 26 year old horse, and I ride western. Are there certain kinds of saddles that are better for a horse than others?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Thank you very much!<br>Eliza</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Joe's response -</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Eliza,<br>Things I don't know: exactly how to answer your question.<br>Things I know (or think I know):</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Saddles that do not fit the horse correctly (and who knows exactly what that means) can cause problems wherever they are misfit. I ride bareback a lot.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":444,"align":"left"} -->
+<figure class="wp-block-image alignleft"><a href="//cavallo.local/wp-content/uploads/2011/02/JoeCashCU-HR.jpg"><img src="//cavallo.local/wp-content/uploads/2011/02/JoeCashCU-HR-300x138.jpg" alt="" class="wp-image-444"/></a><figcaption class="wp-element-caption">Joe and Cash</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>The lighter the saddle - obviously - the better for the horse. I currently use a ten pound Wintec dressage saddle; yes, with all my western garb (boots, hat, etc). I know Mr. Cash likes it better than the 40 lb western saddle I formerly used; and so do I as there are shoulder rotator cuff tears in both my shoulders :)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Saddle Pads</h3>
+<!-- /wp:heading -->
+
+<!-- wp:image {"id":445,"linkDestination":"custom","align":"right"} -->
+<figure class="wp-block-image alignright"><a href="http://cavallo.local/"><img src="//cavallo.local/wp-content/uploads/2011/02/W-1001-AP-300x247.jpg" alt="" class="wp-image-445" title="Saddle Pads"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>I use the Cavallo Total Comfort System Saddle Pad, designed to promote even distribution of weight to the weight-bearing longissimus dorsi muscles along either side of the horse's backbone; to keep weight off the horse's spine; and to allow room for the horse's scapula to move properly within the narrow confines of the saddle. The Cavallo Total Comfort System Saddle Pads help your horse increase his movement around the shoulder. The gullet system encourages horses to lift their spine and use themselves properly while taking pressure off the withers. This unique memory foam sandwich helps your saddle fit better. In addition to the lightweight thinness of the Cavallo pad I love the reversible feature as I prefer to ride with the 100% New Zealand wool to my horse. Monty Roberts says the Cavallo pads are the best pads in the world today.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Link:<a href="http://cavallo.local/product-category/saddle-pads/" target="_blank" rel="noopener"> Saddle Pad Features</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>A lot of people are finding success in "treeless saddles" to avoid misfit saddle trees. I haven't found one that works for me. And, as mentioned above, I find that cutting way back on the weight and using the Cavallo closed-cell foam saddle pad (above) is the best combo I've found so far.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Hope this helps.<br>Joe</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>To read more about Joe visit his website at <a href="http://www.thesoulofahorse.com/" target="_blank" rel="noopener">www.thesoulofahorse.com</a></p>
+<!-- /wp:paragraph -->

@@ -1,0 +1,85 @@
+<!-- wp:heading {"level":3,"style":{"spacing":{"padding":{"top":"var:preset|spacing|md","bottom":"var:preset|spacing|md"}}}} -->
+<h3 class="wp-block-heading" style="padding-top:var(--wp--preset--spacing--md);padding-bottom:var(--wp--preset--spacing--md)">Read our latest submission from our guest blogger,<a href="https://en.wikipedia.org/wiki/Joe_Camp" target="_blank" rel="noreferrer noopener"> author Joe Camp:</a></h3>
+<!-- /wp:heading -->
+
+<!-- wp:image {"id":2526,"sizeSlug":"full","linkDestination":"none","align":"left","style":{"border":{"radius":{"topLeft":"15px","topRight":"15px","bottomLeft":"15px","bottomRight":"15px"}}}} -->
+<figure class="wp-block-image alignleft size-full has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2024/09/MeganAndHoof.jpg" alt="" class="wp-image-2526" style="border-top-left-radius:15px;border-top-right-radius:15px;border-bottom-left-radius:15px;border-bottom-right-radius:15px"/><figcaption class="wp-element-caption">Donkey Farrier Megan Hensley</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"level":6} -->
+<h6 class="wp-block-heading">I squealed so loud that Kathleen came racing into our study, skidding halfway across the room on the throw rug we’ve been meaning to toss out because it’s obviously dangerous. “What in the world is the matter??” she screeched.</h6>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>“It was a squeal of joy,” I said. “Look, read this!”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>She peered over my shoulder at a Facebook post I was reading. I had received one of those annoying emails saying somebody had mentioned my name – which usually means trouble - and had clicked to see what I was being roasted about this time. But I was more than pleasantly surprised. Tickled to death, actually.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>We have run into so many shoeing farriers whose minds are clamped absolutely shut and will not embrace even the slightest possibility that the knowledge to be gained by a little research in the right direction could change their lives and the lives of all the horses they touch. Not so with <strong><a href="https://www.donkeyhooves.com/" target="_blank" rel="noreferrer noopener">donkey farrier Megan Hensley,</a> </strong>the author of the Facebook post Kathleen was now reading. And what an inspiration it was to read. Here it is, in her own words:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><em>"Last fall, I made a big decision to cut my Horseshoeing business nearly in half. Mostly because I enjoy working with burros and ponies, and applying steel shoes is a lot of work. I’ve been on the fence about completely hanging up my anvil and hammers for a long time. I figured I would just do something else entirely. However, I discovered I just needed inspiration. I needed knowledge. I had quit learning. That is, until I read The Soul of the Horse by Joe Camp, which spurred me into a massive research effort.</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><em>"I learned that the hoof is a powerful mechanism which pumps blood throughout the whole system. When we shoe a horse we shut that down, make it impossible to pump that blood. We are damaging the whole animal. The function of the frog and the digital cushion is crucial for the health of the animal. I learned that shoes keep the foot from flexing and keep the frog from coming into contact with the ground, which in turn weakens the internal structure of the hoof, which is responsible for pumping blood! Wow! I'm really excited about the barefoot approach and the practice of using hoof boots for protection when needed. I feel refreshed and also feel like it was the sign I had been asking for! I'm re-inventing myself and my business right now! There is so much to learn. I know I am going to be able to help donkeys and horses even more now.</em>"</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":349426,"width":"449px","height":"auto","sizeSlug":"full","linkDestination":"none","align":"left","style":{"border":{"radius":{"topLeft":"15px","topRight":"15px","bottomLeft":"15px","bottomRight":"15px"}}}} -->
+<figure class="wp-block-image alignleft size-full is-resized has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2011/07/Joe-Camp-with-his-horse.jpg" alt="Author Joe Camp with his horse" class="wp-image-349426" style="border-top-left-radius:15px;border-top-right-radius:15px;border-bottom-left-radius:15px;border-bottom-right-radius:15px;width:449px;height:auto" title="Horse Hoof Boots"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>I dropped her a note of shameless adulation, and a few days later got this response:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>"<em>Hi Joe! Just now getting around to responding to your comment. I did check out Happier Healthy Horses! Great stories!</em>"</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>"<em>Since I posted that note, I have convinced my client with a "navicular" horse to pull everything that the vet had us applying (she had been showing no improvement) and to get her barefoot. We did this yesterday. She could hardly stand on either front foot when the other one was lifted. She was shaking so. The left side was the worst. So I pulled that shoe and pad first. She immediately relaxed and put weight on the foot, and she even made a huge SIGH, then lifted the other foot for me without me asking. Like she was saying, "Here, get this shoe off too, please!" I have always been concerned about how her frog was practically non-existent, and she was always battling thrush.</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><span style="margin: 0px; padding: 0px;">"<em>Pete Ramey's 'Under the Horse' is blowing my mind!</em></span><em> My intuition all along had me feeling like something was wrong with what I was doing... so now I have the info to help this horse. Her boots are being ordered along with several pads. I am excited for this process. I will start a blog about my change from Farrier to Barefoot Specialist. My forge and anvil are going on Craigslist!</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>"<em>Today I had another shoeing appointment. I showed up and told my client that, with the knowledge I have recently acquired, I could no longer nail shoes onto a horse.</em> I explained why, and he said, "You’re the expert. Thank you for keeping yourself educated. Let's<em> pull the shoes and get fitted!" So awesome!!!</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>"<em>Called another client who said, "Makes sense to me! Pull 'em and get me boots!" Yay! Tomorrow I am again going to an appointment with a horse I am supposed to re-shoe. I will let you know how it goes. Thanks again, Joe! This is so exciting!!!</em>"</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>I believe it’s as exciting for Kathleen and me as it is for Megan. When I think of how many horses are going to live better, healthier, happier lives because this one lady decided to read a book, to take a step out of the box, out of her knowledge and comfort zone. To even open the door to the slightest possibility that there might be a better way. And to ultimately get excited enough about her findings to completely reinvent her entire life. To put her forge and anvil on Craigslist! Wow! All I can say is: Well done, Megan Hensley! Well done indeed. Your re-invention is going to mean so much to so many, not the least of which will be other farriers who will follow your role model and re-invent their lives… and that is the fuel that keeps the fires burning in Kathleen’s and my bellies, that keeps us moving ever forward toward that holy grail that means that no horse has to suffer any longer because of the unenlightened hand of a human.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Thank you, Megan! From all of us. I will spread your willingness to learn as far and wide as I can.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Joe</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":5,"style":{"elements":{"link":{"color":{"text":"var:preset|color|red"}}},"spacing":{"padding":{"top":"var:preset|spacing|sm","bottom":"var:preset|spacing|sm"}}},"textColor":"red"} -->
+<h5 class="wp-block-heading has-red-color has-text-color has-link-color" style="padding-top:var(--wp--preset--spacing--sm);padding-bottom:var(--wp--preset--spacing--sm)">To join Megan's online hoof-trimming educational programs, <a href="https://www.donkeyhooves.com/" target="_blank" rel="noreferrer noopener"><strong>visit her HERE!</strong></a></h5>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>For more from Joe Camp read his national best seller, The Soul of a Horse – Life Lessons from the Herd, and The Soul of a Horse Blogged – and The Journey Continues, visit <a href="http://www.thesoulofahorse.com">www.thesoulofahorse.com</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:image {"id":115055,"sizeSlug":"full","linkDestination":"none","style":{"border":{"radius":{"topLeft":"15px","topRight":"15px","bottomLeft":"15px","bottomRight":"15px"}}}} -->
+<figure class="wp-block-image size-full has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2019/05/Megan-Hensley-baby-donkey-Cavallo-Hoof-Boots-Visor-e1668476583497-1.jpg" alt="Megan Hensley &amp; baby donkey Cavallo Hoof Boots Visor" class="wp-image-115055" style="border-top-left-radius:15px;border-top-right-radius:15px;border-bottom-left-radius:15px;border-bottom-right-radius:15px"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:group -->

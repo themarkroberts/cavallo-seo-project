@@ -1,0 +1,51 @@
+<!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading"><strong>A Beautiful Bond</strong></h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Some years ago, we noticed we had some pretty significant things in common with <a href="https://www.pathintl.org" target="_blank" rel="noopener">PATH International</a>.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Firstly, we share an ultimate love and respect for horses;&nbsp; with a strong belief that horses have the ability to heal people. Secondly, we believe that horses deserve to be comfortable and pain-free.&nbsp; We at <a href="http://cavallo.local/" target="_blank" rel="noopener">Cavallo</a> are truly moved by the commitment, compassionate and generosity of spirit shown by all the staff and volunteers of PATH. These are the people who give not only of their time, but of their hearts to the work they do; healing PTSD syndrome suffered by war vets, sexually abused children, autism and many other seriously debilitating conditions, all with the kind assistance of amazing horses.&nbsp; As a business and in our way of helping to give, we are proud of the generous sponsorship we have maintained with PATH over the years.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading"><strong>Cavallo at the Conference</strong></h4>
+<!-- /wp:heading -->
+
+<!-- wp:image {"id":8751,"linkDestination":"custom","align":"left"} -->
+<figure class="wp-block-image alignleft"><a href="https://www.pathintl.org/"><img src="//www.cavallo.local/wp-content/uploads/2017/05/PATH-Intl.jpe" alt="Image of PATH International Logo" class="wp-image-8751"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph {"className":"alignnone"} -->
+<p class="alignnone">Every year, PATH International holds their <a href="https://www.pathintl.org/path-intl-conferences/international" target="_blank" rel="noopener">Conference and Annual Meeting</a>.&nbsp; Here, PATH Members can attend workshops and educational sessions to learn of the latest discoveries in the world of <a href="https://en.wikipedia.org/wiki/Equine-assisted_therapy" target="_blank" rel="noopener">Equine Assisted Activities and Therapy (EAAT)</a>. &nbsp;At the conference, they also hold their Keynote and Awards Luncheon, a celebration which is dedicated to the people and equines making a difference in EAAT. So fabulous!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>This year, our very own (and very charming) Jenny Mundell is super excited to be attending the conference in San Antonio.&nbsp; She’ll be at the Sponsor’s Showcase, to personally reach out to PATH members face to face. She’ll be there with some product samples and be able to answer your questions about <a href="http://cavallo.local/how-to-measure/" target="_blank" rel="noopener">measuring, fitting,</a> and the function of <a href="http://cavallo.local/product-category/hoof-boot/" target="_blank" rel="noopener">Cavallo Hoof Boots.</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>So if you’re headed to the conference, don’t forget to stop by the Cavallo table at the Sponsor’s Showcase - or give Jenny a wave and a shout!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Happy Trails,</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":10645,"width":"300px"} -->
+<figure class="wp-block-image is-resized"><img src="//www.cavallo.local/wp-content/uploads/2017/12/CaroleSig.jpg" alt="Carole Herder's Signature" class="wp-image-10645" style="width:300px"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":10798,"align":"left"} -->
+<figure class="wp-block-image alignleft"><img src="//www.cavallo.local/wp-content/uploads/2018/01/Caroles-Signature-2017.png" alt="Carole Herder's Signature" class="wp-image-10798"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->

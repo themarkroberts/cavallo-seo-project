@@ -1,0 +1,15 @@
+<!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="http://cavallo.local/wp-content/uploads/2024/09/barefootasventure.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>By Carole Herder</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>So you’re not sure if your horse can handle being barefoot? Are there still people out there telling you that you must shoe your horse? Is your horse shod just because that is always the way it has been and everyone else does it?<br>Well, check this out for proof that barefoot works, in the extreme, never mind for your local village hack!<br>1,000 km – vast wilderness – semi-wild horses – ten days riding – no marked course – tents and nomads – high risk of severe physical injury and even death: this is the Mongol Derby, the world’s toughest and longest horse race. It is a recreation of Genghis Khan’s ancient postal system – a mammoth network of 25 horse stations across the Mongolian steppe. Riders change their feisty Mongolian horses at each station, approximately 40km apart, and stay with the local nomadic herding families that run the stations and provide the horses. And guess what? THEY ARE ALL BAREFOOT HORSES.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>And here is another amazing place I found: Perseverance Arabian and Endurance Horses – the leading barefoot endurance stud in South Africa. Their horses have achieved many ‘first’ records: they were the first to complete a 100 miler in Africa barefoot and the first to complete Fauresmith 201km barefoot. One of their horses won an 80km endurance ride in 3 hours and 32 minutes, barefoot, and was given an award for the best condition horse. Laura Seegers (the owner) and her horse were chosen to ride for South Africa at the FEI World Endurance Championships in 2012, barefoot. And lucky for you, you can have a chance to experience these amazing creatures for yourself: the stud offers working riding holidays and farm stay holidays for families and individuals. What an experience – South Africa on barefoot Arabian horses. At one 80km competition, Blakeridge Ride, they reported 35% of the field were barefoot! Definitely the way to go.<br>So, still coming up with excuses not to keep your horse barefoot? Well stop!<br>Pull off the metal and get your Cavallos!</p>
+<!-- /wp:paragraph -->

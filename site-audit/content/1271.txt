@@ -1,0 +1,23 @@
+<!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="http://cavallo.local/wp-content/uploads/2024/09/liberty.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>By Carole Herder</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Videos like <a href="http://www.youtube.com/watch?v=U2fIZhAKfbw">this one</a> give me goose bumps. It’s something that I will always aspire to but know deep down I will never quite get there. The time, patience and consistency required to achieve this, as well as a natural softness and apathy with horses, is monumental.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>On the other hand, there are plenty of little things we can still do with our horses to give us a small taste of this experience. I have managed to get my horse to follow me around the paddock in walk and trot, move all four feet individually as I ask and go through gates and turn and wait for me, all at liberty. Some parts are simply a training trick, some parts show that the horse genuinely wants to be with me. I think there is no feeling in the world like that of knowing a horse wants to be near me; the respect and bond that can be achieved is next to none in nature.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>But why work with a horse at liberty? As I mentioned already, the feeling that comes with knowing that a horse wants to be near you, without you having to drag him around on the end of a rope, is out of this world. If your horse is badly behaved or having mental/physical/emotional problems, working at liberty successfully can improve your relationship to such an extent that they see you as the leader and are therefore happy and willing to do as you ask. This enhanced connection will give you a much more rewarding relationship together. If you can communicate successfully with your untied horse on the ground, imagine how wonderful it would be to be on his back like this.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Many natural training styles use some sort of liberty within their programmes: Monty Roberts has Join-Up, Pat Parelli has a whole liberty level and horsewomen such as Carolyn Resnick focus solely on working with horses at liberty. It is a wonderful feat to achieve but remember to do it sensibly and safely. Do not put you or your horse in danger – horses can revert to herd instincts when at liberty and you must know how to approach this.</p>
+<!-- /wp:paragraph -->

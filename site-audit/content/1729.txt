@@ -1,0 +1,46 @@
+<!-- wp:paragraph -->
+<p>If you were at the <a href="http://pacifichoofcare.net/" target="_blank" rel="noopener">Pacific Hoof Care Practitioners</a> (PHCP) conference last weekend, you were among the select few getting some amazing training in hoof care. Greg and I were thrilled to meet all you dedicated, smart and vibrant hoof care professionals. <a href="http://cavallo.local/" target="_blank" rel="noopener">Cavallo</a> quickly stepped up to show our support and admiration by sponsoring this event. We work with those we know, like and trust:&nbsp; like-minded and motivated trimmers pioneering the change in the world of hoof care, one horse at a time.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Here are a few photos from the conference!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":13280,"align":"left","className":"wp-image-13280 size-large"} -->
+<figure class="wp-block-image alignleft wp-image-13280 size-large"><img src="http://cavallo.local/wp-content/uploads/2018/11/Mia-ex-Quebec-Cavallo-at-Pacidic-Hoof-Care-Practioners-Coneference-in-Reno-2018-452x339.jpg" alt="Carole Herder, Greg Giles and Gregory Sokoloski Houston Mounted Patrol, Cavallo Hoof Boots at Pacidic Hoof Care Practitioners Conference Reno 2018" class="wp-image-13280"/><figcaption class="wp-element-caption">Greg and I with Mia from Quebec!</figcaption></figure>
+<!-- /wp:image -->
+<!-- wp:image {"id":13282,"width":"452px","height":"auto","align":"right","className":"size-large wp-image-13282"} -->
+<figure class="wp-block-image alignright is-resized size-large wp-image-13282"><img src="http://cavallo.local/wp-content/uploads/2018/11/Cavallo-at-the-Pacific-Hoof-Care-Practitioners-Conerence-in-Reno-Nevada-2018-Awards-Received-452x339.jpg" alt="Cavallo Hoof Boots - the Pacific Hoof Care Practitioners Conference in Reno 2018 - PHCP Awards Received" class="wp-image-13282" style="width:452px;height:auto"/><figcaption class="wp-element-caption">acific Hoof Care Practitioners award winner</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:group {"layout":{"type":"constrained","justifyContent":"right"}} -->
+<div class="wp-block-group"></div>
+<!-- /wp:group -->
+
+<!-- wp:spacer {"height":"1px"} -->
+<div style="height:1px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Wishing you many happy trails in your Cavallo Hoof Boots,</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":11988,"linkDestination":"custom","align":"left"} -->
+<figure class="wp-block-image alignleft"><a href="https://www.amazon.ca/There-Are-Horseshoes-Heaven-Tradition-ebook/dp/B01BMYYRZ6"><img src="http://cavallo.local/wp-content/uploads/2018/08/Caroles-signature-with-click-here-452x261.jpg" alt="Carole herder's Signature and Book details" class="wp-image-11988"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->

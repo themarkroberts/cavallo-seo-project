@@ -1,0 +1,117 @@
+<!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading">This is how it all started.</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>A few weeks ago, we received a request from Hawaii..</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><em>Aloha Carole</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":7248,"align":"right"} -->
+<figure class="wp-block-image alignright"><img src="//www.cavallo.local/wp-content/uploads/2016/11/image4-150x150.jpg" alt="image4" class="wp-image-7248"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><em>My name is Lori and I work for the Mayor of Honolulu. The May<br>or has&nbsp;</em><em>been riding my horses in various parades and the rule the parades have </em><em>is that every horse needs to be shod. It's so frustrating to deal with </em><em>these archaic views and policies. They are stating that the heat of </em><em>the asphalt is detrimental to the hooves. &nbsp;</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><em>Mahalo,&nbsp;</em><em>Lori</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>This was not the first time this issue has come across to us at Cavallo.&nbsp;&nbsp;&nbsp; Of course there is the consideration of significant heat conduction and transference from metal shoes on asphalt. Have they ever seen the sparks fly when metal hits that surface or even rocks on the trail at a speed?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>What about the benefits of protection that our Cavallo soles would provide?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":7246,"align":"left"} -->
+<figure class="wp-block-image alignleft"><img src="//www.cavallo.local/wp-content/uploads/2016/11/image2-e1479499608194-150x150.jpg" alt="image2" class="wp-image-7246"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>There are not studies available,<br>but I can tell you from experience our Cavallo soles do not transfer as much heat as metal. And if you 'compare apples to apples', the benefits of a properly functioning hoof that bears weight and encourages blood circulation is far superior to what happens to a shod horse moving on a hard surface. Here we do have studies! The University of Zurich in Switzerland conducted a study determining that 800 Hz frequency travels up the shod horses’ structure at a trot on asphalt.&nbsp; This amount is enough to kill live tissue, both within the hoof itself and further up the horse’s structure.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Obviously I offered The Mayor some boots. And here’s the response from Lori below:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":7250,"align":"right"} -->
+<figure class="wp-block-image alignright"><img src="//www.cavallo.local/wp-content/uploads/2016/11/IMG_0661-150x150.jpg" alt="img_0661" class="wp-image-7250"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><em>Our Aloha Festivals 70th Annual Parade was this weekend and the Mayor of Honolulu rode my horse, Misty. As I mentioned before, she has never been shod before so boots were being allowed as a compromise. Your boots worked absolutely perf<br>ectly!! They all stayed in place and did not rub her at all.</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><em>They actually blended in perfectly and looked so natural. I thank you very much for your support and WONDERFUL boots!!<br></em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><em>Mahalo,&nbsp;</em><em>Lori Kahikina<br></em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>All’s well that ends well.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":7320,"align":"left"} -->
+<figure class="wp-block-image alignleft"><img src="//www.cavallo.local/wp-content/uploads/2016/11/CH-Sign-updated-Nov-2016-1.jpg" alt="" class="wp-image-7320"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:image {"id":7251,"align":"left"} -->
+<figure class="wp-block-image alignleft"><img src="//www.cavallo.local/wp-content/uploads/2016/11/IMG_0702-150x150.jpg" alt="img_0702" class="wp-image-7251"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":7249,"align":"left"} -->
+<figure class="wp-block-image alignleft"><img src="//www.cavallo.local/wp-content/uploads/2016/11/IMG_0658-e1479499624192-150x150.jpg" alt="img_0658" class="wp-image-7249"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":7252,"align":"left"} -->
+<figure class="wp-block-image alignleft"><img src="//www.cavallo.local/wp-content/uploads/2016/11/IMG_0704-150x150.jpg" alt="img_0704" class="wp-image-7252"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":7253,"align":"left"} -->
+<figure class="wp-block-image alignleft"><img src="//www.cavallo.local/wp-content/uploads/2016/11/IMG_0706-150x150.jpg" alt="img_0706" class="wp-image-7253"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->

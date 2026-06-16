@@ -1,0 +1,43 @@
+<!-- wp:paragraph -->
+<p>Combining the accuracy of show jumping with the thrill of cross country eventing, Jumpcross is the UK's fastest growing equestrian sport. Cavallo's UK Distributor, Battles, put on an amazing Jumpcross event last week, inviting their prized top retailers for a day of impeccable hospitality and entertainment. Fifty-one International riders competed for US$12,000.00 in prize money. Cavallo CEO, Greg Giles enjoyed the day mingling with the competitors and meeting a number of key Cavallo UK retailers, consistently full of praise for Cavallo products.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Amongst the field of elite riders was Oliver Townend winner of both Badminton AND Burghley in 2009. WOW! Oliver was very interested in Cavallo Hoof Boots - a product he assumed had perfect application for use in case of a 'lost shoe'. And became even more fascinated when Greg explained that Cavallo hoof boots are ideal for transportation. Protecting prized horses is a top priority and by offering 100% hoof protection especially for the quarters and coronet, Cavallo boots are a must have. Oliver is eagerly awaiting delivery of his Cavallo Boots to transport all his horses!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"id":4909,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="http://cavallo.local/wp-content/uploads/2011/07/P1000911-300x225-1.jpg" alt="" class="wp-image-4909"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:paragraph -->
+<p>The ultimate winner on the day was Mark Kyle on Nitetime Cavalier – shown here with Battles Managing Director Mr Jim Bowen. Jim is presenting Mark with the inaugural Cavallo Horse &amp; Rider trophy – an award that will surely be well sought after in all future Lincoln Jumpcross days.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"id":4910,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="http://cavallo.local/wp-content/uploads/2011/07/P1000938-300x225-1.jpg" alt="" class="wp-image-4910"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Also attending were husband and wife Clayton and Lucinda Fredricks.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":852,"align":"center","className":"size-medium wp-image-852"} -->
+<figure class="wp-block-image aligncenter size-medium wp-image-852"><img src="//cavallo.local/wp-content/uploads/2011/07/P1000930-e1309905117346-225x300.jpg" alt="" class="wp-image-852"/><figcaption class="wp-element-caption">Clayton, Greg, and Lucinda</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>Clayton, winner of the 2005 World Cup and Silver Medalist at the Beijing Summer Olympics 2008 in three-day eventing and his wife Lucinda, who achieved a remarkable Burghley and Badminton back-to-back in 2006/7. She has also won Kentucky in 2009 and conducted course walks for the attendees of this event. What a remarkable couple. Lucinda and Clayton, as fellow Australians enjoyed chatting to Greg about the land downunder.</p>
+<!-- /wp:paragraph -->

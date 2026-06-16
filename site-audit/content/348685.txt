@@ -1,0 +1,337 @@
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:image {"id":63877} -->
+<figure class="wp-block-image"><img src="http://cavallo.local/wp-content/uploads/2022/02/Celebrating-Dynamic-Lives-header-2021-768x138.png" alt="Cavallo Hoof Boots Newsletter Heading" class="wp-image-63877"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"textAlign":"center","level":5} -->
+<h5 class="wp-block-heading has-text-align-center">Welcome to Your Cavallo Newsletter!</h5>
+<!-- /wp:heading --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"textAlign":"center","level":1} -->
+<h1 class="wp-block-heading has-text-align-center">Hoof Boots Fit for a Queen!</h1>
+<!-- /wp:heading --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"style":{"border":{"radius":{"topLeft":"15px","topRight":"15px","bottomLeft":"15px","bottomRight":"15px"}}}} -->
+<figure class="wp-block-image has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2024/10/Fell-Pont-Adventures-Podcast-Queen-Elizabeth-and-Emma-using-Cavallo-Simple-Hoof-Boots.jpg" alt="Fell Pony Adventures Podcast - Queen Elizabeth and Emma using Cavallo Simple Hoof Boots" style="border-top-left-radius:15px;border-top-right-radius:15px;border-bottom-left-radius:15px;border-bottom-right-radius:15px" title="Fell Pony Adventures Podcast – Queen Elizabeth and Emma using Cavallo Simple Hoof Boots"/><figcaption class="wp-element-caption">Photo credit: Fell Pony Adventures</figcaption></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:paragraph -->
+<p>Brigitta, a Cavallo Customer Service Star, alerted us to this charming podcast by Fell Pony Adventures, in which interviewer Tom Lloyd interviews Queen Elizabeth’s former Groom, Terry Pendry!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>We also couldn’t help but notice that they posted this incredible photo of Queen Elizabeth’s beautiful pony,&nbsp; Carltonlima Emma, wearing our Cavallo Simple Hoof Boots – WOW!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="https://fellpony.co.uk/podcast" target="_blank" rel="noreferrer noopener">The FELL PONY Podcast</a> is a two-time winner of the Best International Podcast Award at the Equus Film Festival in 2021 and 2023 and is known for its award-winning conversations with guests, including riders, drivers, breeders, judges, adventurers and beyond!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="https://fellpony.co.uk/podcast/2023/6/22/episode-18-terry-pendry" target="_blank" rel="noreferrer noopener">Listen to the Fell Pony Podcast NOW</a>:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons {"style":{"spacing":{"margin":{"top":"32px"}}},"layout":{"type":"flex","justifyContent":"center"}} -->
+<div class="wp-block-buttons" style="margin-top:32px"><!-- wp:button {"backgroundColor":"red","className":"has-red-color","style":{"border":{"radius":"100px"},"spacing":{"padding":{"left":"65px","right":"65px","top":"12px","bottom":"12px"}},"typography":{"fontStyle":"normal","fontWeight":"800","lineHeight":"1.25"}}} -->
+<div class="wp-block-button has-red-color"><a class="wp-block-button__link has-red-background-color has-background wp-element-button" href="https://fellpony.co.uk/podcast/2023/6/22/episode-18-terry-pendry" style="border-radius:100px;padding-top:12px;padding-right:65px;padding-bottom:12px;padding-left:65px;font-style:normal;font-weight:800;line-height:1.25" target="_blank" rel="noreferrer noopener">Listen Here!</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"textAlign":"center"} -->
+<h2 class="wp-block-heading has-text-align-center">Beautiful Memories Made at Liberty Festival</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>We are thrilled to be the naming rights sponsor for the&nbsp;<a href="https://www.libertyfestival.com/clinicians" target="_blank" rel="noreferrer noopener">Liberty Horse Festival.</a>&nbsp;Alongside&nbsp;<a href="https://doubledanhorsemanship.com/dan-james/" target="_blank" rel="noreferrer noopener">Dan James,</a>&nbsp;<a href="https://www.marshallscountrystore.com/pages/ambermarshall" target="_blank" rel="noreferrer noopener">Amber Marshall,</a>&nbsp;<a href="https://www.actionhorses.co.uk/about-us" target="_blank" rel="noreferrer noopener">Ben Atkinson,</a>&nbsp;and more, this event epitomizes the spirit of freedom and the deep bond we share with our equine friends. What once seemed like movie magic, when we wondered, “How did they make that horse do that?” is now a reality—explained, demonstrated, and within our reach.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading {"level":5} -->
+<h5 class="wp-block-heading">Why Did Cavallo Sponsor the Liberty Festival?</h5>
+<!-- /wp:heading -->
+
+<!-- wp:embed {"url":"https://youtu.be/Uk6vG4lx96g?si=RQeG5uUnOlTFPs2z","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://youtu.be/Uk6vG4lx96g?si=RQeG5uUnOlTFPs2z
+</div></figure>
+<!-- /wp:embed --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:paragraph -->
+<p>Every horse rider now has the opportunity to participate. We marveled as horses paired up, danced, reared, rolled, and ran in perfect formation—all without bits, bridles, and sometimes even without riders. <a href="https://www.libertyhorseassociation.com/about_ilha" target="_blank" rel="noreferrer noopener">The International Liberty Horse Association</a> makes this possible for everyone. If you want to have more fun with your horse and dive deeper into liberty training, this association is for you. Connect with a vibrant community and celebrate each other’s triumphs.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Cavallo aligns with Liberty training as we also embrace liberty and the freedom to choose the less invasive treatment of horses’ hooves.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|red"}}}},"textColor":"red"} -->
+<p class="has-red-color has-text-color has-link-color"><a href="https://www.libertyhorseassociation.com/about_ilha" target="_blank" rel="noreferrer noopener"><strong>Find Out More >></strong></a></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"textAlign":"center"} -->
+<h2 class="wp-block-heading has-text-align-center">2024 Liberty Festival Clinicians</h2>
+<!-- /wp:heading --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image -->
+<figure class="wp-block-image"><img src="http://cavallo.local/wp-content/uploads/2024/10/Liberty-Festival-slide-1.jpg" alt="Double Dan Horsemanship's Dan James &amp; Ben Atkinson bios - 2024 Liberty Festival sposored by Cavallo" title="Liberty Festival slide Dan James &amp; Ben Atikinson"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image -->
+<figure class="wp-block-image"><img src="http://cavallo.local/wp-content/uploads/2024/10/Liberty-Festival-side-3.jpg" alt="Steve Rother and Amber Marshall bios - 2024 Liberty Festval" title="Liberty Festival side 3"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"textAlign":"center"} -->
+<h2 class="wp-block-heading has-text-align-center">Special Memory Album from this Year's Festival:</h2>
+<!-- /wp:heading --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"style":{"border":{"radius":{"topLeft":"10px","topRight":"10px","bottomLeft":"10px","bottomRight":"10px"}}}} -->
+<figure class="wp-block-image has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2024/10/Carole-Herder-Amber-Marshall-2-452x447.jpg" alt="Carole Herder &amp; Amber Marshall." style="border-top-left-radius:10px;border-top-right-radius:10px;border-bottom-left-radius:10px;border-bottom-right-radius:10px"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"style":{"border":{"radius":{"topLeft":"10px","topRight":"10px","bottomLeft":"10px","bottomRight":"10px"}}}} -->
+<figure class="wp-block-image has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2024/10/10.jpg" alt="10" style="border-top-left-radius:10px;border-top-right-radius:10px;border-bottom-left-radius:10px;border-bottom-right-radius:10px"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"style":{"border":{"radius":{"topLeft":"10px","topRight":"10px","bottomLeft":"10px","bottomRight":"10px"}}}} -->
+<figure class="wp-block-image has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2024/10/12.jpg" alt="12" style="border-top-left-radius:10px;border-top-right-radius:10px;border-bottom-left-radius:10px;border-bottom-right-radius:10px"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"textAlign":"center"} -->
+<h2 class="wp-block-heading has-text-align-center">Hello? You Have a Surprise Call from Carole Herder!</h2>
+<!-- /wp:heading --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"style":{"border":{"radius":{"topLeft":"10px","topRight":"10px","bottomLeft":"10px","bottomRight":"10px"}}}} -->
+<figure class="wp-block-image has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2024/10/jamie-jennings-Flyover-Farm.jpg" alt="Jamie Jennings Monty Roberts Certified Instructor - Flyover Farm" style="border-top-left-radius:10px;border-top-right-radius:10px;border-bottom-left-radius:10px;border-bottom-right-radius:10px" title="jamie jennings Flyover Farm"/><figcaption class="wp-element-caption">Jamie Jennings with her teacher, Monty Roberts</figcaption></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:paragraph -->
+<p>Horses in the Morning host co-host Jamie Jennings got an unexpected gift and a surprise call-in to her radio show from Carole!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Flyover Farm is a facility that specializes in educating humans and horses on nonviolent concepts. Jamie is a Monty Roberts-certified instructor who restarts and rehabilitates retired thoroughbreds off the track to prepare them for a new life—and she does it free of charge!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Some of the OTTBs she gets have really worn or chipped feet, some with lameness issues. Jamie’s friend Janet lent her some Cavallo Boots and Pastern Wraps for Lawless John, an OTTB with really small feet who needed help. The boots have done wonders for this guy!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>So… Jamie’s friends Janet and Ginger contacted us to ask if we could donate some boots in a range of sizes, and we did! Jamie was thrilled when all the packages arrived and sent us a beautiful thank you message. And then Carole surprised her by calling in to her morning show to surprise her! You can hear this fun exchange by clicking the button:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|red"}}}},"textColor":"red"} -->
+<p class="has-red-color has-text-color has-link-color"><a href="https://www.horseradionetwork.com/2024/10/helene-relief-auctions-and-weird-news-for-october-2-2024/" target="_blank" rel="noreferrer noopener"><strong>Hear Carole's Surprise Call >></strong></a></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"textAlign":"center"} -->
+<h2 class="wp-block-heading has-text-align-center">This Pony is the Town Mayor!</h2>
+<!-- /wp:heading --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"style":{"border":{"radius":{"topLeft":"10px","topRight":"10px","bottomLeft":"10px","bottomRight":"10px"}}}} -->
+<figure class="wp-block-image has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2024/10/Carole-Greg-with-Patrick-the-Pony-edited.jpg" alt="Carole &amp; Greg with Patrick the Pony edited" style="border-top-left-radius:10px;border-top-right-radius:10px;border-bottom-left-radius:10px;border-bottom-right-radius:10px" title="Carole &amp; Greg with Patrick the Pony edited"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:paragraph -->
+<p>Earlier this month, Greg and I embarked on an unforgettable adventure to meet the one and only Mayor of Cockington, England—Patrick the Pony! Have you heard of him? Our journey across the stunning British countryside took a twist as we got hilariously lost (but hey, who could complain with such beautiful views?). Eventually, we found our way to meet Patrick and his delightful owners, Hannah and Kirk Petrakis.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Meeting them all in person was such a joy! Patrick’s charm and the efforts they make to sprinkle a little magic into people’s lives felt even more special up close. They truly add love and light to this sometimes-uncertain world of ours.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>We’re beyond proud to provide Patrick with the comfy footwear he uses while visiting care homes, hospitals, schools, and special events, fulfilling his mayoral duties, and even trotting downtown to grab a pint of Guinness now and then! What a life!</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"textAlign":"center"} -->
+<h2 class="wp-block-heading has-text-align-center">Going Deeper with Equine Podiatry</h2>
+<!-- /wp:heading --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"style":{"border":{"radius":{"topLeft":"10px","topRight":"10px","bottomLeft":"10px","bottomRight":"10px"}}}} -->
+<figure class="wp-block-image has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2024/10/Carole-Greg-at-Equine-Podiatry-Conference-UK-2024.jpg" alt="Carole Herder &amp; Greg Giles from Cavallo Hoof Boots at Equine Podiatry Conference UK 2024" style="border-top-left-radius:10px;border-top-right-radius:10px;border-bottom-left-radius:10px;border-bottom-right-radius:10px" title="Carole &amp; Greg at Equine Podiatry Conference UK 2024"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:paragraph -->
+<p>As passionate hoof boot advocates, Greg and I felt right at home at the recent 2024 UK Equine Podiatry Association Conference. Equine professionals and horse owners alike enjoyed this conference, which hosted an impressive selection of speakers and experts in the area of equine health! </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Launched in 2006, the <a href="https://www.epauk.org/about-equine-podiatry/" target="_blank" rel="noreferrer noopener">Equine Podiatry Association</a> (UK) exists as a self-regulating professional body for Equine Podiatrists practicing in the UK.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Equine Podiatrists are highly trained specialists in shoeless hoofcare, who work closely with owners to achieve the healthiest hooves possible for their horse.&nbsp;</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"margin":{"top":"var:preset|spacing|xs"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group" style="margin-top:var(--wp--preset--spacing--xs)"><!-- wp:heading {"textAlign":"center","level":3} -->
+<h3 class="wp-block-heading has-text-align-center">Why are Equine Podiatrists So Successful?</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The equine podiatry approach is somewhat different from traditional farriery, educating owners so they can understand how different factors influence the health of the hoof, helping to develop hoof-friendly horse management practices and providing close support and guidance as the horse’s hooves change.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The horse has the innate ability to heal itself, and EPs work hard to ensure that the maxim “do no harm” is followed. This hoof care system is based on a very effective model which takes a complex structure (the equine foot) and breaks it down into a number of key parts that enable the EP to assess the health of your horse's feet and recommend ways of improving that health. They never use any kind of shoe that permanently fixes to the hoof. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Members of the Equine Podiatry Association (UK) are required to hold a relevant qualification, and prove update their skills yearly through continuous professional development, ensuring high standards of professional competence are maintained.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"textAlign":"center"} -->
+<h2 class="wp-block-heading has-text-align-center">Wild Horses &amp; Freedom: Learning with Steve Rother</h2>
+<!-- /wp:heading --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image -->
+<figure class="wp-block-image"><img src="http://cavallo.local/wp-content/uploads/2024/10/Steve-Rother-Life-at-Liberty-horse-podcast.jpg" alt="Steve Rother - guest of Life at Liberty horse podcast" title="Steve Rother – guest of Life at Liberty horse podcast"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:paragraph -->
+<p>In this episode of Life at Liberty – The Official Podcast of the International Liberty Horse Association, host Dan James from Double Dan Horsemanship sits down with renowned Liberty trainer, Steve Rother.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Steve shares his unique journey, which began with wild BLM Mustangs and grew to a deep expertise in Liberty horsemanship. Through guidance from legends like John Lyons, Pat Parelli, and Bill Lawrence, Steve transformed from a mustang handler to one of the world’s top Liberty trainers.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Listen in as Dan and Steve discuss the impact of wild horses on his method:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|red"}}}},"textColor":"red"} -->
+<p class="has-red-color has-text-color has-link-color"><a href="https://www.libertyhorseassociation.com/podcasts/life-at-liberty/episodes/2148876732" target="_blank" rel="noreferrer noopener"><strong>Listen In NOW >></strong></a></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|md","bottom":"var:preset|spacing|md","left":"var:preset|spacing|xs","right":"var:preset|spacing|xs"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group" style="padding-top:var(--wp--preset--spacing--md);padding-right:var(--wp--preset--spacing--xs);padding-bottom:var(--wp--preset--spacing--md);padding-left:var(--wp--preset--spacing--xs)"><!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column {"width":"600px","style":{"spacing":{"padding":{"right":"var:preset|spacing|sm","left":"var:preset|spacing|sm"}}}} -->
+<div class="wp-block-column" style="padding-right:var(--wp--preset--spacing--sm);padding-left:var(--wp--preset--spacing--sm);flex-basis:600px"><!-- wp:heading {"level":4,"style":{"typography":{"fontStyle":"normal","fontWeight":"200"}}} -->
+<h4 class="wp-block-heading" style="font-style:normal;font-weight:200">Wishing you many happy trails,</h4>
+<!-- /wp:heading -->
+
+<!-- wp:image {"id":201670,"width":"250px","aspectRatio":"2.9719663199603765","scale":"cover","sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full is-resized"><img src="http://cavallo.local/wp-content/uploads/2025/03/Carole-Herder-signature-no-background.png" alt="" class="wp-image-201670" style="aspect-ratio:2.9719663199603765;object-fit:cover;width:250px"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"level":4,"style":{"typography":{"fontSize":"22px"}}} -->
+<h4 class="wp-block-heading" style="font-size:22px"><strong>Carole Herder</strong></h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><strong>President and Founder of Cavallo Horse &amp; Rider Inc</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><em>Horses have always been my teachers.<br><br>Through them, I’ve learned that comfort changes everything—movement, trust, and the relationship we build together.<br><br>Cavallo was born from that understanding, and continues to grow from it.</em></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":"600px"} -->
+<div class="wp-block-column" style="flex-basis:600px"><!-- wp:image {"id":348448,"width":"450px","height":"auto","aspectRatio":"0.8849829456411517","sizeSlug":"full","linkDestination":"none","style":{"color":{"duotone":"unset"},"border":{"width":"0px","style":"none","radius":"10px"}}} -->
+<figure class="wp-block-image size-full is-resized has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2026/04/Carole-Herder-Cavallo-Hoof-Boots-founder-president-1.jpg" alt="" class="wp-image-348448" style="border-style:none;border-width:0px;border-radius:10px;aspect-ratio:0.8849829456411517;width:450px;height:auto"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->

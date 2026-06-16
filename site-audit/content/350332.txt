@@ -1,0 +1,537 @@
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading -->
+<h2 class="wp-block-heading">Equine Hoof Boot Research | Consteed &amp; Cavallo Hoof Boot Science &amp; Biomechanics</h2>
+<!-- /wp:heading --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:image {"id":350395,"sizeSlug":"full","linkDestination":"none","align":"center","style":{"spacing":{"margin":{"right":"var:preset|spacing|0","left":"var:preset|spacing|0"}}},"UAGHideDesktop":true,"UAGResponsiveConditions":true} -->
+<figure class="wp-block-image aligncenter size-full uag-hide-desktop" style="margin-right:var(--wp--preset--spacing--0);margin-left:var(--wp--preset--spacing--0)"><img src="http://cavallo.local/wp-content/uploads/2026/05/Consteed-features-with-close-up-of-app-on-phone-boot-scaled.jpg" alt="Consteed Hoof Boot features with close up of app on phone &amp; boot" class="wp-image-350395"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:image {"id":350396,"sizeSlug":"full","linkDestination":"none","style":{"spacing":{"margin":{"right":"var:preset|spacing|0","left":"var:preset|spacing|0"}}},"UAGHideMob":true,"UAGHideTab":true,"UAGResponsiveConditions":true} -->
+<figure class="wp-block-image size-full uag-hide-tab uag-hide-mob" style="margin-right:var(--wp--preset--spacing--0);margin-left:var(--wp--preset--spacing--0)"><img src="http://cavallo.local/wp-content/uploads/2026/05/Consteed-features-close-up-and-app-on-mobile-phone.jpg" alt="Consteed Hoof Boot features - close up and app on mobile phone" class="wp-image-350396"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Science-Backed Innovation</h3>
+<!-- /wp:heading --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:group {"layout":{"type":"flex","orientation":"vertical","justifyContent":"left"}} -->
+<div class="wp-block-group"><!-- wp:paragraph -->
+<p>A 2026 peer-reviewed study in the Veterinary Journal showed that the <a href="https://www.consteed.com/?locale=en-DE" target="_blank" rel="noreferrer noopener">Consteed Smart Hoof Sneaker™</a>—built on the Cavallo Trek Hoof Boot—can accurately measure limb loading during movement. By integrating pressure and motion sensors into the boot, researchers collected objective biomechanical data directly at the hoof, demonstrating the potential for portable, real-world monitoring of equine locomotion.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Two Innovators, One Goal: Better Lives for Horses.</h3>
+<!-- /wp:heading --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|md","bottom":"var:preset|spacing|md"}}},"backgroundColor":"light-red-1","layout":{"type":"constrained"}} -->
+<div class="wp-block-group has-light-red-1-background-color has-background" style="padding-top:var(--wp--preset--spacing--md);padding-bottom:var(--wp--preset--spacing--md)"><!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column {"layout":{"type":"constrained"}} -->
+<div class="wp-block-column"><!-- wp:embed {"url":"https://www.youtube.com/shorts/lV0v0F3Mn7w?feature=share","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-9-16 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-9-16 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://www.youtube.com/shorts/lV0v0F3Mn7w?feature=share
+</div></figure>
+<!-- /wp:embed --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":"800px","layout":{"type":"constrained"}} -->
+<div class="wp-block-column" style="flex-basis:800px"><!-- wp:paragraph -->
+<p>When trusted hoof protection meets intelligent movement technology, horse care takes a remarkable step forward. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The partnership between <a href="http://cavallo.local/product-category/hoof-boot/" target="_blank" rel="noreferrer noopener">Cavallo Hoof Boots</a> and the Consteed Smart Hoof Sneaker brings together Cavallo’s proven comfort, fit and hoof-first design with Consteed’s advanced sensor-based gait analysis—giving horse owners, veterinarians, and therapists a clearer window into how a horse truly moves. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Built on the Cavallo Trek Hoof Boot platform, this innovative system captures real-time hoof-force data during natural movement, providing practical insights into balance, loading, symmetry, and potential soundness concerns. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>For the good of the horse, it means more informed decisions, earlier awareness, and greater confidence in supporting comfort, performance, and long-term hoof health.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Detection of Limb Asymmetry</h3>
+<!-- /wp:heading --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:group {"layout":{"type":"flex","orientation":"vertical","justifyContent":"left"}} -->
+<div class="wp-block-group"><!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"id":350431,"sizeSlug":"full","linkDestination":"none","style":{"border":{"radius":{"topLeft":"10px","topRight":"10px","bottomLeft":"10px","bottomRight":"10px"}}}} -->
+<figure class="wp-block-image size-full has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2026/05/Consteed-App-hooves-close-up-on-tablet.jpg" alt="" class="wp-image-350431" style="border-top-left-radius:10px;border-top-right-radius:10px;border-bottom-left-radius:10px;border-bottom-right-radius:10px"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:paragraph -->
+<p>The Consteed Smart Hoof Sneaker successfully detected differences in load distribution between limbs.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Key Findings: </strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>Differences in vertical pressure and impulse between limbs were measurable.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>The system could identify imbalances in weight bearing.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p><strong>Benefit: </strong>The boot can detect subtle gait asymmetries that may not be easily visible.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Functional Benefits of the Smart Hoof Sneaker</h3>
+<!-- /wp:heading --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:group {"layout":{"type":"flex","orientation":"vertical"}} -->
+<div class="wp-block-group"><!-- wp:paragraph -->
+<p><strong>Objective Measurement of Hoof Forces</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The system measures key ground reaction force parameters directly at the hoof, including:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>Peak vertical pressure (PVP)</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Impulse (force over time)</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Peak loading rate</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Stride and stance timing with swing and stride duration</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>These measurements provide quantitative data about limb loading and gait symmetry.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column {"width":"","layout":{"type":"constrained"}} -->
+<div class="wp-block-column"><!-- wp:image {"id":350438,"aspectRatio":"0.8287343918606443","sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="http://cavallo.local/wp-content/uploads/2026/05/Consteed-Sole-composition-layers.jpg" alt="Consteed Sole composition layers" class="wp-image-350438" style="aspect-ratio:0.8287343918606443"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:group {"layout":{"type":"flex","orientation":"vertical"}} -->
+<div class="wp-block-group"><!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">How Does Consteed Work?</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Consteed is the only system of its kind that uses built-in sensors and advanced AI to measure and analyze a horse’s movement in real time. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Ground reaction forces are captured during the horse’s natural movement and sent wirelessly straight to your smartphone or tablet, where the Consteed turns raw data into powerful, easy-to-read insights. It's like having a mobile gait lab in your pocket!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Who is Consteed For?</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Whether you’re a veterinarian, uquine therapist or simply passionate about horses, Consteed is for YOU. Designed to be intuitive and accessible, it delivers real-time data you can act on, no tech degree required. It’s horse care, upgraded.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>To ensure a perfect fit, we partnered with Cavallo Hoof Boots, adapting their trusted Trek Boot exclusively for Consteed. Thanks to Cavallo’s decades of experience, the horse benefits from exceptional comfort while the built-in sensors are protected:</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Real-Time Wireless Monitoring</h3>
+<!-- /wp:heading --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|md","bottom":"var:preset|spacing|md"}}},"backgroundColor":"light-red-1","layout":{"type":"constrained"}} -->
+<div class="wp-block-group has-light-red-1-background-color has-background" style="padding-top:var(--wp--preset--spacing--md);padding-bottom:var(--wp--preset--spacing--md)"><!-- wp:group {"layout":{"type":"flex","orientation":"vertical"}} -->
+<div class="wp-block-group"><!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column {"width":"600px","layout":{"type":"constrained"}} -->
+<div class="wp-block-column" style="flex-basis:600px"><!-- wp:image {"id":350432,"sizeSlug":"full","linkDestination":"none","style":{"border":{"radius":{"topLeft":"15px","topRight":"15px","bottomLeft":"15px","bottomRight":"15px"}}}} -->
+<figure class="wp-block-image size-full has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2026/05/Consteed-App-layout-on-tablet-screen.jpg" alt="Consteed hoof boot wireless technology" class="wp-image-350432" style="border-top-left-radius:15px;border-top-right-radius:15px;border-bottom-left-radius:15px;border-bottom-right-radius:15px"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:paragraph -->
+<p><strong>Data from the boot is:</strong> </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Collected by sensors in the sole, processed in the onboard electronics and transmitted to you wirelessly in real time.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>This enables:</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>Immediate analysis</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Real-time monitoring of gait parameters</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Practical clinical workflow integration</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"level":3,"align":"left"} -->
+<h3 class="wp-block-heading">Continuous Multi-Stride Data Collection</h3>
+<!-- /wp:heading --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:group {"layout":{"type":"flex","orientation":"vertical"}} -->
+<div class="wp-block-group"><!-- wp:paragraph -->
+<p><strong>Because the sensors are attached directly to the hoof:</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>Measurements can be taken over many strides</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Data can be collected during natural movement</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p><strong>Benefits:</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>More representative gait data</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Reduced error compared with single-step force plate measurements</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Ability to monitor changes over time</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Portable Alternative to Force Plates</h3>
+<!-- /wp:heading --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|md","bottom":"var:preset|spacing|md"}}},"backgroundColor":"light-red-1","layout":{"type":"constrained"}} -->
+<div class="wp-block-group has-light-red-1-background-color has-background" style="padding-top:var(--wp--preset--spacing--md);padding-bottom:var(--wp--preset--spacing--md)"><!-- wp:group {"layout":{"type":"flex","orientation":"vertical"}} -->
+<div class="wp-block-group"><!-- wp:paragraph -->
+<p><strong>Traditional lameness analysis relies on stationary force plates embedded in floors, which have limitations:</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>Limited availability</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Fixed location</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Limited stride capture</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p><strong>Benefits:</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>Portable</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Field-usable</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Independent of location</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Can capture many consecutive strides</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>This makes the Consteed system practical for clinical and real-world use outside laboratory settings.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:image {"id":350498,"width":"1022px","height":"auto","sizeSlug":"full","linkDestination":"none","align":"center"} -->
+<figure class="wp-block-image aligncenter size-full is-resized"><img src="http://cavallo.local/wp-content/uploads/2026/05/Consteed-inner-sensors-2.png" alt="Consteed Smart Horse Sneaker inner sensors" class="wp-image-350498" style="width:1022px;height:auto"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Strong Correlation with Laboratory Force Plate Data</h3>
+<!-- /wp:heading --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column {"width":"400px","layout":{"type":"constrained"}} -->
+<div class="wp-block-column" style="flex-basis:400px"><!-- wp:image {"id":350518,"width":"400px","height":"auto","sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full is-resized"><img src="http://cavallo.local/wp-content/uploads/2026/05/Carole-Herder-Cavallo-Hoof-Boots-Founder-with-Consteed-Smart-Horse-Sneaker-Kit-1.jpg" alt="Carole Herder, Cavallo Hoof Boots Founder with Consteed Smart Horse Sneaker Kit" class="wp-image-350518" style="width:400px;height:auto"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"layout":{"type":"constrained"}} -->
+<div class="wp-block-column"><!-- wp:paragraph -->
+<p>Earlier validation work (referenced in the paper) found strong correlations between Smart Hoof Sneaker measurements and traditional force plate measurements for key parameters:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>Suggests the system can provide laboratory-quality biomechanical data in practical settings.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Potential for Early Lameness Detection</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>The device measures changes in force curves and loading rates, which previous research suggests may reveal issues before visible lameness occurs.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p><strong>This indicates potential for:</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>Early detection of gait problems</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Preventative monitoring</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Performance tracking</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Objective Monitoring Tool for Clinical and Field Use</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>Because the system is portable, sensor-based and data-driven, it offers potential as a routine monitoring tool in veterinary and training environments.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>The study concludes that the system can:</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>Detect differences between limbs</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Monitor changes in gait symmetry</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Provide quantitative kinetic data in clinical settings.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">How Hoof Forces Work</h3>
+<!-- /wp:heading --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|md","bottom":"var:preset|spacing|md"}}},"backgroundColor":"light-red-1","layout":{"type":"constrained"}} -->
+<div class="wp-block-group has-light-red-1-background-color has-background" style="padding-top:var(--wp--preset--spacing--md);padding-bottom:var(--wp--preset--spacing--md)"><!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:paragraph -->
+<p>When a horse moves, each hoof experiences powerful forces as it contacts the ground. Understanding these forces helps researchers and veterinarians better understand equine locomotion.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><strong>Ground Reaction Force:</strong> The force generated when the hoof pushes against the ground during movement.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Weight Distribution:</strong> Healthy horses distribute weight evenly between limbs.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Loading Rate:</strong> How quickly force is applied to the hoof during impact.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Stride Dynamics: </strong>Stride length, timing, and limb coordination influence overall movement efficiency.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"id":350507,"sizeSlug":"full","linkDestination":"none","style":{"border":{"radius":{"topLeft":"15px","topRight":"15px","bottomLeft":"15px","bottomRight":"15px"}}}} -->
+<figure class="wp-block-image size-full has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2026/05/Cosnteed-Boot-Kit-open.jpg" alt="" class="wp-image-350507" style="border-top-left-radius:15px;border-top-right-radius:15px;border-bottom-left-radius:15px;border-bottom-right-radius:15px"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"level":3,"align":"left"} -->
+<h3 class="wp-block-heading">Accurate and Calibrated Force Measurement</h3>
+<!-- /wp:heading --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:group {"layout":{"type":"flex","orientation":"vertical"}} -->
+<div class="wp-block-group"><!-- wp:paragraph -->
+<p><strong>The boots undergo pre-use calibration:</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>Sensors are loaded with known forces</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Resistance changes are mapped to force values</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Calibration ensures consistent measurements between boots</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Precision testing showed synchronization within ±3% between boots under loads up to 7000 N.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p><strong>Benefit</strong>: Reliable and comparable data across all four limbs.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Key Forces at the Hoof</h3>
+<!-- /wp:heading --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:group {"layout":{"type":"flex","orientation":"vertical"}} -->
+<div class="wp-block-group"><!-- wp:paragraph -->
+<p>The integrated sensor systems can measure these forces directly at the hoof, providing objective insights into equine locomotion and biomechanics.<br>“The instrumented hoof boot detected differences in limb loading and showed a more symmetrical distribution of forces between limbs after improvement of lameness.”— Keller et al., The Veterinary Journal, 2026</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|md","padding":{"top":"var:preset|spacing|gap","bottom":"var:preset|spacing|gap"}}},"backgroundColor":"light-red-1","layout":{"type":"flex","orientation":"vertical","justifyContent":"center"}} -->
+<div class="wp-block-group has-light-red-1-background-color has-background" style="padding-top:var(--wp--preset--spacing--gap);padding-bottom:var(--wp--preset--spacing--gap)"><!-- wp:heading {"level":3,"style":{"typography":{"textAlign":"center"}}} -->
+<h3 class="wp-block-heading has-text-align-center"><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-dark-red-color">Read the 2026 Consteed Peer-Reviewed Study:</mark></h3>
+<!-- /wp:heading -->
+
+<!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"}} -->
+<div class="wp-block-buttons"><!-- wp:button {"backgroundColor":"red","style":{"border":{"radius":"50px"}}} -->
+<div class="wp-block-button"><a class="wp-block-button__link has-red-background-color has-background wp-element-button" href="https://pubmed.ncbi.nlm.nih.gov/41759771/" style="border-radius:50px" target="_blank" rel="noreferrer noopener">Check Out the Study Here!</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:group {"layout":{"type":"flex","orientation":"vertical"}} -->
+<div class="wp-block-group"><!-- wp:heading {"level":5} -->
+<h5 class="wp-block-heading">Research Reference</h5>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"fontSize":"small"} -->
+<p class="has-small-font-size"><em>Keller, J., Hassenstein, M. J., Jung, K., &amp; Geburek, F. (2026). Equine lameness detection and monitoring during diagnostic anesthesia with an instrumented hoof boot. The Veterinary Journal, 317, 106614.</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"fontSize":"small"} -->
+<p class="has-small-font-size">The study describes an instrumented hoof boot system developed on the Cavallo Horse &amp; Rider™ Trek Hoof Boot platform at the University of Veterinary Medicine Hannover.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->

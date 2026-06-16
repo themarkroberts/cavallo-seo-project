@@ -1,0 +1,45 @@
+<!-- wp:paragraph -->
+<p>By Carole Herder</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>I was wrong and Today is a Good Day.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>It’s always a good day when I learn something new. Today, I have an opportunity to practice what I preach. You know, I am a big advocate of changing through education. More education means more opportunity. Think of all the things we are learning in science, medicine, behavior, environment and just the way things work.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>When nailing metal shoes onto horse's feet was thought to protect them, we did the right thing and nailed away. Smoking was considered elegant. Bottled formula was better nourishment than breast milk. Of course, I could go on.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:embed {"url":"https://www.youtube.com/watch?v=eS0MMwF9uFM\u0026feature=youtu.be","type":"video","providerNameSlug":"youtube","responsive":true,"align":"left","className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed alignleft is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://www.youtube.com/watch?v=eS0MMwF9uFM&amp;feature=youtu.be
+</div></figure>
+<!-- /wp:embed -->
+
+<!-- wp:paragraph -->
+<p>So, let’s talk about horse's hoofs. I have promoted heel first landing in my educational presentations for the past ten years. From what I had learned, this hoof mechanic made the most sense. The heel lands first, the frog makes contact with the ground to spread those heals and draws the sole flat to get out of the way of the descending bone column. It works.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Yet, lately I have pondered conflicting evidence and have seen horses landing both toe first and heel first and consequently the proponents of both suggesting that this is the correct landing. Landing flat was considered cumbersome…like a ski boot. But here’s the thing, horse hoofs are live tissue. They are flexible and when properly functioning expand under weight, especially when landing on a strong flat surface as a counter effect.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Toda,y I learned that landing flat is the best way of going for our beloved beasts and I am happy to pass this beautiful video on to you so you can see for yourself. Steve Hebreck of The Enlightened Equine does a fantastic job showing you the difference between toe first, heel first and flat:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":5390,"align":"center"} -->
+<figure class="wp-block-image aligncenter"><img src="//cavallo.local/wp-content/uploads/2015/03/threeBoots-452x151.jpg" alt="Cavallo Horse Hoof Boots and What is the proper way for a hoof to land on the ground." class="wp-image-5390"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Cavallo Horse Hoof Boots facilitate this miraculous process by providing the counter effect of a flat surface while providing 100% hoof protection and allowing the horse's hoof to function as nature intended.</p>
+<!-- /wp:paragraph -->

@@ -1,0 +1,15 @@
+<!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="http://cavallo.local/wp-content/uploads/2024/09/patterns-300x198-1.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>By Carole Herder</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Our universe is designed in patterns. Some are obvious and others less so. From the very structure of our cells to the consistent forms they make – human, horse, plant – it is all about patterns. Patterns don’t just show up in how something looks or is built, but how it behaves. Behavior may be action, communication, movement, etc. The waves of the ocean or of sound, the alignment and rotations of the planets and moons, the barking of dogs, pecking of hens, and beat of music, all are patterns. Simply put, patterns are similarities, differences and connections that have meaning across space and/or time. If you can learn to recognize patterns you can be in flow with them versus fighting them; or you can learn to influence them. As we strive to know and understand ourselves and our horses better and to be in tune with our personal well-being and that of our horses, we have to take a step back and remember how we’re part of a greater whole, our environment, all of nature, and the universe.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Patterns show up as a result of the simple rules we innately or culturally follow. If everyone follows the same short list of simple rules, then the group behaves in a coherent way as a whole. Have you seen a flock of birds take off from the brush? They may have initially taken to flight scattered, but they quickly come together, form a pattern and maneuver the wind as a unit and in the most aerodynamic way. They even maintain a consistent methodology if approached by a predator or if they come upon an obstacle. How do they know how to do that? Horses do the same thing. If a stallion alerts the herd to danger, the lead mare takes off, dictating the direction and pace at which they flee to safety. The horses group closely together, often head over rump. You would think they would hurt one another running so quickly and tightly, but it keeps them safe. The birds and horses innately have a set of simple rules that they follow to know how to move. As an outsider we can see the pattern that these simple rules form. If you can see patterns in your horse’s behavior and uncover the reasons or simple rules behind those patterns, you can understand him and work with him better.</p>
+<!-- /wp:paragraph -->

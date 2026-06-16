@@ -1,0 +1,123 @@
+<!-- wp:paragraph -->
+<p><span style="color: #000000;"><strong>Do you Know a Horse with Metal Shoes Who Needs a Bit Extra?&nbsp;</strong></span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><span style="color: #000000;">As an inventor and designer of horse hoof boots, there are always questions coming into my inbox. When I see big trends and the same questions asked again and again, I know there is a need that our boots are either addressing - or should be. </span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><span style="color: #000000;">Below is a question from one of our long-term boot users, who previously thought Cavallo Boots were only for the barefoot horse. </span><span style="color: #000000;">With many brands of boots, this is indeed the case, as most are not shaped or designed to accommodate a metal shoe. With my background in barrel racing, I come from a world of shod hoofs. I always wanted to make sure that horses with metal shoes could also enjoy the benefits, protection and relief offered by Cavallo Boots. I factored this into our designs from day one. There is no other hoof boot on the market that we know of that fits a shod horse so beautifully or has a sole that withstands a metal-shod hoof so well.</span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading"><span style="color: #000000;">Wait - Cavallos Aren't Just for Barefoot Horses?</span></h3>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading"><span style="color: #000000;"><strong>You're not the only one to ask! Here's that great question I mentioned, followed by my feedback:</strong></span></h4>
+<!-- /wp:heading -->
+
+<!-- wp:image {"id":64725,"align":"left"} -->
+<figure class="wp-block-image alignleft"><img src="http://cavallo.local/wp-content/uploads/2022/02/Cheyenne-Wimberly-trailering-transport-Trek-HR.4-452x302-2.jpg" alt="Barrel Racer Cheyenne Wimberly trailering transport horse" class="wp-image-64725"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><span style="color: #000000;"><em><strong>Q:</strong> I recently saw a trail rider with a shod horse put Cavallo Hoof Boots on her horse at the trailer before hitting the trail. She said she often likes the horse to wear the boots in the trailer, too, for safer travel. Why do riders put hoof boots over metal shoes? Don’t the metal shoes hurt the boots?</em></span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading"><strong><span style="color: #000000;">What a relevant question for today's horse owner! Here's my feedback about using our boots over metal shoes:</span></strong></h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><span style="color: #000000;"><strong>A:</strong> Every day, we're hearing from more and more riders who use hoof boots over (not instead of) metal shoes. While we would love to see more riders pull their horses’ metal shoes off altogether, we understand that shoes are deemed necessary in some showing traditions. There are also veterinary issues where medical teams suggest specific shoes and pads to help keep the horse sound and as pain-free as possible. Using boots over metal shoes offers more traction and even protection for horses when they are turned out.</span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><span style="color: #000000;">Our boots will fit and are durable over metal shoes. We actually offer <a href="http://cavallo.local/product-category/hoof-boot-accessories/hoof-boot-pads/" target="_blank" rel="noopener">Hoof Boot Pads</a> to put inside the boots to help add cushion for the horse and <a href="http://cavallo.local/product-category/hoof-boot-accessories/hoof-boot-pads/protection-pads/" target="_blank" rel="noopener">Protection Pads</a> to protect the boot soles. Here’s more about how the horse owners we know are successfully using <a href="http://cavallo.local/product-category/hoof-boot/" target="_blank" rel="noopener">Cavallo Hoof Boots</a> over metal horseshoes:</span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading"><span style="color: #000000;"><strong>Trailer Time</strong></span></h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><span style="color: #000000;">Outfitting shod show horses with boots during trailer rides can add support as well as traction for long road trips. We hear from our customers that the horses arrive at their show locations with less fatigue when they have worn the boots in the trailer. Horse owners can relax, knowing their horses are also safer and their hoofs are protected during travel.</span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading"><span style="color: #000000;"><strong>Show Horses</strong></span></h3>
+<!-- /wp:heading -->
+
+<!-- wp:image {"id":64826,"align":"left"} -->
+<figure class="wp-block-image alignleft"><img src="http://cavallo.local/wp-content/uploads/2022/02/Putting-Cavallo-Hoof-Boot-over-shod-horse-horseshoes-metal.-452x302-2.jpg" alt="Putting Cavallo Hoof Boot over shod horse horseshoes metal.." class="wp-image-64826"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><span style="color: #000000;">Cavallo Hoof Boots can be worn at any speed of riding. Some jumping competitors are choosing boots to place over their shod horses for jumping competitions. They are proven to absorb impact and minimize pressure on the hoof. For a horse that is jumping repetitively with the additional weight of a rider, the reduction in hoof pressure offered by Cavallo soles can add up to a lot of relief in the short and long term. <a href="https://equimed.com/news/general/western-kentucky-university-research-recommends-cavallo-trek-hoof-boots-for-hoof-protection-traction-and-reduced-pressure" target="_blank" rel="noopener">A university study by Jennifer Gill and Gabriella Lynn of the Western Kentucky University Equine Sciences department revealed just how much pressure is relieved with the boots.</a></span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading"><span style="color: #000000;"><strong>Safer Turnout</strong></span></h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><span style="color: #000000;">Back at home, show horses can wear the boots over their metal shoes during turnout in the pastures. When horses run, kick and play, it’s easy for injuries to occur. Boots provide traction to help horses reduce slips and falls and can provide easy insurance if one horse were to kick out at another--or to prevent overreach injuries. In the case of a shod horse going through hoof rehabilitation, Cavallos can be worn over metal shoes to offer additional comfort and full protection during healing. <a href="http://cavallo.local/why-trek-makes-the-perfect-therapy-rehab-hoof-boot/" target="_blank" rel="noopener">Read more about using Cavallo Boots to assist with hoof rehabilitation or turnout HERE.</a></span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading"><span style="color: #000000;"><strong>Extra Traction</strong></span></h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><span style="color: #000000;">No one wants to slip on treacherous trail-riding terrain. Metal slides easily against rock or hard ground and causes reverberation that can be harmful to horses’ hooves. Adding Cavallo Hoof Boots over metal shoes prevents the direct contact that produces shock, and the boot soles absorb much of the shock created by the impact. Cavallos can also help prevent stone bruising and hoof chips when riding on sharp gravel where metal shoes can't protect.</span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><span style="color: #000000;">Cavallo Hoof Boots add cushion and protection that can guard against your horse feeling tender footed or outright pain. And of course, Cavallos always make a perfect “spare tire” if a shod horse loses a metal shoe on the trail.</span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":5,"style":{"typography":{"fontSize":"18px"}}} -->
+<h5 class="wp-block-heading" style="font-size:18px"><em><span style="color: #000000;">Note: Please keep in mind that Cavallo cannot guarantee that boots used over metal shoes will hold up over prolonged use due to the force of metal, protruding nails, or sharp edges. Therefore, the&nbsp;warranty is void when boots are used over metal shoes.</span></em></h5>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><span style="color: #000000;">Wishing you many happy trails on comfy hoofs,</span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":31657,"width":"627px","height":"auto","aspectRatio":"1.9531257973972953","linkDestination":"none"} -->
+<figure class="wp-block-image is-resized"><img src="http://cavallo.local/wp-content/uploads/2022/02/OFFICIAL-Carole-Herder-2020-Signature-Hoof-Prints-Book-LR-1.png" alt="Carole Herder Signature - Cavallo Hoof Boots- Hoof Prints Book - LR" class="wp-image-31657" style="aspect-ratio:1.9531257973972953;width:627px;height:auto"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":5,"style":{"typography":{"fontSize":"18px"}}} -->
+<h5 class="wp-block-heading" style="font-size:18px"><em><span style="color: #000000;">Carole Herder is the author of the #1-bestselling books: There Are No Horseshoes in Heaven&nbsp;and the newly-released Hoofprints on The Journey. Her company, Cavallo Horse &amp; Rider Inc., manufactures and distributes horse products, including Cavallo Hoof Boots and Saddle Pads, to 26 countries worldwide. Herder designed and developed Cavallo Hoof Boots and Total Comfort System Saddle Pads. She's an honoured recipient of the BCBusiness Women Innovator Award, Royal Bank of Canada Woman Entrepreneur Award, a member of the Women Presidents' Organization, and a certified Chopra University Yoga Instructor and Ayurvedic Teacher.&nbsp;</span></em></h5>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":5,"style":{"typography":{"fontSize":"18px"}}} -->
+<h5 class="wp-block-heading" style="font-size:18px"><em><span style="color: #000000;">Visit us at<a style="color: #000000;" href="http://cavallo.local/">www.cavallo.local</a>to learn about the full line of Cavallo Horse &amp; Rider products. Call (877) 818-0037 from the USA or Canada or call direct, (604) 740-0037</span></em></h5>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph -->

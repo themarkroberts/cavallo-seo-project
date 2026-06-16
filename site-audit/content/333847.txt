@@ -1,0 +1,311 @@
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:image {"id":4011,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="http://cavallo.local/wp-content/uploads/2024/10/news-banner.jpg" alt="Cavallo Hoof Boots newsletter banner" class="wp-image-4011"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"textAlign":"center","level":1,"style":{"border":{"width":"0px","style":"none"},"elements":{"link":{"color":{"text":"var:preset|color|primary"}}},"spacing":{"margin":{"top":"-20px","bottom":"-20px"}}},"textColor":"primary","fontSize":"large"} -->
+<h1 class="wp-block-heading has-text-align-center has-primary-color has-text-color has-link-color has-large-font-size" style="border-style:none;border-width:0px;margin-top:-20px;margin-bottom:-20px">Enjoy Your Latest Cavallo News - Full of Hoof-Saving Hacks &amp; Tips to Keep your Horse Brilliantly Booted!</h1>
+<!-- /wp:heading --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"textAlign":"center","level":3,"style":{"spacing":{"margin":{"top":"22px","bottom":"0px","left":"30px","right":"30px"}},"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"textColor":"primary"} -->
+<h3 class="wp-block-heading has-text-align-center has-primary-color has-text-color has-link-color" style="margin-top:22px;margin-right:30px;margin-bottom:0px;margin-left:30px">Where Kind Hearts Meet</h3>
+<!-- /wp:heading --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"0"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group" style="padding-top:0"><!-- wp:columns {"style":{"spacing":{"margin":{"top":"0"},"padding":{"top":"0"}}}} -->
+<div class="wp-block-columns" style="margin-top:0;padding-top:0"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:embed {"url":"https://youtube.com/shorts/WN-8ccMpaak","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-1-1 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-1-1 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://youtube.com/shorts/WN-8ccMpaak
+</div></figure>
+<!-- /wp:embed --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:paragraph {"style":{"typography":{"lineHeight":"1.5"}}} -->
+<p style="line-height:1.5">As the <a href="https://www.theguardian.com/us-news/2026/jan/17/buddhist-monks-walk-for-peace" target="_blank" rel="noreferrer noopener">Venerable Buddhist monks </a>made their Walk for Peace through Raleigh, North Carolina, recently, something truly tender unfolded when they first encountered the mini therapy horses from Stampede of Love. <br><br>Kiwi the Mini Horse and his lovely Cavallo-CLB-clad co-workers from Stampede of Love Mini Horse Therapy stood quietly and patiently along the road. The first moment of recognition from the travelling monks was a soft, delighted “oooh” from the monks’ flag bearer...and that said it all. <br><br>There was no grand fanfare, just an unspoken meeting of kindred spirits - little hooves and gentle robes, presence and peace blending like a quiet prayer. In that instant, many hearts were touched. The monk, the onlookers, and everyone near enough to feel that the magic of kindness from equines can feel as vast as any sacred journey.<br><br>This 2,300-mile pilgrimage spreading compassion, unity, and mindfulness from Texas to Washington, D.C.,has been joyously celebrated by every community they have passed through.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:group {"style":{"border":{"radius":{"topLeft":"12px","topRight":"12px","bottomLeft":"12px","bottomRight":"12px"}}},"backgroundColor":"light-red-1","layout":{"type":"constrained"}} -->
+<div class="wp-block-group has-light-red-1-background-color has-background" style="border-top-left-radius:12px;border-top-right-radius:12px;border-bottom-left-radius:12px;border-bottom-right-radius:12px"><!-- wp:spacer {"height":"24px"} -->
+<div style="height:24px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading {"textAlign":"center","level":3,"style":{"spacing":{"margin":{"top":"18px","bottom":"18px","left":"30px","right":"30px"}},"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"textColor":"primary"} -->
+<h3 class="wp-block-heading has-text-align-center has-primary-color has-text-color has-link-color" style="margin-top:18px;margin-right:30px;margin-bottom:18px;margin-left:30px">Big Ideas &amp; Bright Minds: A Meeting of Passionate Equine Practitioners</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"spacing":{"padding":{"right":"30px","left":"30px"}}}} -->
+<p style="padding-right:30px;padding-left:30px">Hello friends,</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"spacing":{"padding":{"right":"29px","left":"29px"}},"typography":{"lineHeight":"1.5"}}} -->
+<p style="padding-right:29px;padding-left:29px;line-height:1.5">Looking back, we sure capped off the end of a wonderful 2025 in style! Here's my update from the American Association of Equine Practitioners (AAEP) Conference Greg and I recently attended in beautiful Denver:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:uagb/container {"block_id":"ed475859","directionDesktop":"row","wrapDesktop":"wrap","topPaddingDesktop":30,"bottomPaddingDesktop":30,"leftPaddingDesktop":30,"rightPaddingDesktop":30,"variationSelected":true,"isBlockRootParent":true} -->
+<div class="wp-block-uagb-container uagb-block-ed475859 alignfull uagb-is-root-container"><div class="uagb-container-inner-blocks-wrap"><!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"id":334063,"sizeSlug":"full","linkDestination":"none","align":"center","style":{"border":{"radius":{"topLeft":"13px","topRight":"13px","bottomLeft":"13px","bottomRight":"13px"}}}} -->
+<figure class="wp-block-image aligncenter size-full has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2026/01/Carole-Herder-Greg-Giles-Consteed-at-2025-AAEP-American-Association-of-Equine-Practitioners-Conference-2.jpg" alt="" class="wp-image-334063" style="border-top-left-radius:13px;border-top-right-radius:13px;border-bottom-left-radius:13px;border-bottom-right-radius:13px" title="Megan Hensley – on the ABC show Donkey King"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading {"level":3,"align":"left"} -->
+<h3 class="wp-block-heading">From Rehab to Ride: Cavallo Hoof Boots Shine at AAEP<br></h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"typography":{"lineHeight":"1.5"}}} -->
+<p style="line-height:1.5">AAEP has been running since 1954, and every year it gains more energy, more expertise, and more heart. It’s truly a gathering of people devoted to elevating the standard of care for horses around the world, which is a mission that’s very close to my own.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The Cavallo Hoof Boots on display at our booth drew continual attention from veterinarians. Many vets are now using Cavallos in rehabilitation programs, and I heard story after story about how our boots are supporting recovery and comfort.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Particularly exciting this year is how open the veterinary community is to innovation. There’s plenty of interesting technology on display, but nothing that compares to the AI diagnostics in the new <a href="https://www.consteed.com/en-de/page-viewer/forriders">Consteed Smart Hoof Sneaker.</a> This new breakthrough (still in its infancy) has the potential to genuinely transform equine wellness. Early lameness detection, before signs are visible to the human eye, gives horses a completely new chance at long-term soundness.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div></div>
+<!-- /wp:uagb/container -->
+
+<!-- wp:group {"style":{"border":{"radius":{"topLeft":"12px","topRight":"12px","bottomLeft":"12px","bottomRight":"12px"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group" style="border-top-left-radius:12px;border-top-right-radius:12px;border-bottom-left-radius:12px;border-bottom-right-radius:12px"><!-- wp:heading {"textAlign":"center","level":3,"style":{"spacing":{"margin":{"top":"18px","bottom":"18px"}},"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"textColor":"primary"} -->
+<h3 class="wp-block-heading has-text-align-center has-primary-color has-text-color has-link-color" style="margin-top:18px;margin-bottom:18px">Carole and Farrier Mike Wildenstein Share Common Ground in Helping Horses</h3>
+<!-- /wp:heading -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:embed {"url":"https://youtu.be/6br2hXHe2Hs?rel=0","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://youtu.be/6br2hXHe2Hs?rel=0
+</div></figure>
+<!-- /wp:embed --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"style":{"spacing":{"blockGap":"0px"}}} -->
+<div class="wp-block-column"><!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:paragraph -->
+<p>At AAEP, I had the distinct honour of catching up with <a href="https://www.americanfarriers.com/authors/338-michael-wildenstein" target="_blank" rel="noreferrer noopener">Mike Wildenstein, </a>one of the most respected figures in global hoof care.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Mike’s reputation as a master farrier is unparalleled: he is one of only a handful of professionals worldwide to earn Fellowship with Honors from the <a href="https://www.wcf.org.uk/" target="_blank" rel="noreferrer noopener">prestigious Worshipful Company of Farriers </a>in the United Kingdom and was inducted into the International Horseshoeing Hall of Fame. He also served as adjunct associate professor of Farrier Medicine and Surgery at Cornell University’s College of Veterinary Medicine, the only university in North America with a dedicated farrier program. <a href="https://www.themarthablog.com/2023/12/a-world-master-farrier-visits-my-farm.html" target="_blank" rel="noreferrer noopener">(AND Martha Stewart even blogged about him!)</a></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:group {"style":{"dimensions":{"minHeight":"266px"},"spacing":{"margin":{"top":"var:preset|spacing|gutter"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group" style="min-height:266px;margin-top:var(--wp--preset--spacing--gutter)"><!-- wp:paragraph -->
+<p>During our chat, Mike expressed genuine respect for the strides being made in horse hoof protection, particularly for innovative solutions that support the health and comfort of barefoot horses. While his expertise spans decades of trimming, shoeing, and teaching, he recognizes that modern hoof protection tools like Cavallo Hoof Boots are contributing to better outcomes for many equine athletes and leisure horses alike by offering alternatives that support natural movement and soundness.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Seeing thought leaders from across the equine world engage in thoughtful dialogue about hoof health reinforces Cavallo’s commitment to education, well-being, and practical solutions that help horses thrive. This joyful, impromptu meeting with Mike was a celebration of shared passion for improving hoof care and honouring the horse’s natural design.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"right":"var:preset|spacing|md","left":"var:preset|spacing|md"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group" style="padding-right:var(--wp--preset--spacing--md);padding-left:var(--wp--preset--spacing--md)"><!-- wp:heading {"textAlign":"center","level":3} -->
+<h3 class="wp-block-heading has-text-align-center"><strong>Donkeys in Mexico: Long Ears, Old Souls, and a Whole Lot of Heart</strong></h3>
+<!-- /wp:heading -->
+
+<!-- wp:spacer {"height":"26px"} -->
+<div style="height:26px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:group {"style":{"spacing":{"margin":{"top":"0","bottom":"0"},"padding":{"right":"0","left":"0"}}},"backgroundColor":"white","layout":{"type":"constrained"}} -->
+<div class="wp-block-group has-white-background-color has-background" style="margin-top:0;margin-bottom:0;padding-right:0;padding-left:0"><!-- wp:columns {"verticalAlignment":"top","style":{"spacing":{"margin":{"bottom":"0"}}}} -->
+<div class="wp-block-columns are-vertically-aligned-top" style="margin-bottom:0"><!-- wp:column {"verticalAlignment":"top","width":"","style":{"spacing":{"padding":{"right":"0","left":"0","top":"0","bottom":"0"}}},"layout":{"type":"constrained","contentSize":"585px","justifyContent":"left","wideSize":""}} -->
+<div class="wp-block-column is-vertically-aligned-top" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:image {"lightbox":{"enabled":false},"id":334060,"scale":"cover","sizeSlug":"full","linkDestination":"custom","align":"center","style":{"color":{"duotone":"unset"},"border":{"width":"0px","style":"none","radius":"10px"}}} -->
+<figure class="wp-block-image aligncenter size-full has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2026/01/Mexican-donkey-art-compilation.jpg" alt="Carole Herder - Mexican Donkey Art - Cavallo LEB Hoof Boot" class="wp-image-334060" style="border-style:none;border-width:0px;border-radius:10px;object-fit:cover"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"top","width":"44.48%"} -->
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis:44.48%"><!-- wp:group {"style":{"spacing":{"margin":{"bottom":"0"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group" style="margin-bottom:0"><!-- wp:paragraph {"align":"left"} -->
+<p class="has-text-align-left">Greg and I were just in Mexico, escaping the West Coast rain and cold. Rather than endless grey, this is a world of colour.<br><br>Warm air, light that lifts the spirit, texture, colour: painted walls, woven fabrics, flowers and that slow, easy rhythm that reminds us to breathe again.<br><br>And then of course, there’s the donkeys. Part of the landscape, the culture, an old soul with a job, a purpose, and a presence.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading">The Donkeys of Mexico: Strong, Steady, and Often Underestimated</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>There’s something about donkeys that makes people soften.<br><br>Maybe it’s their expression, that calm, watchful gaze that feels timeless and ancient.<br><br>Maybe it’s their long ears, swiveling like little radar dishes, catching every sound. Or maybe it’s the quiet strength and knowingness they carry.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"dimensions":{"minHeight":"335px"},"spacing":{"margin":{"top":"0"},"padding":{"right":"var:preset|spacing|lg","left":"var:preset|spacing|lg"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group" style="min-height:335px;margin-top:0;padding-right:var(--wp--preset--spacing--lg);padding-left:var(--wp--preset--spacing--lg)"><!-- wp:paragraph -->
+<p>Donkeys are so suited to Mexico. They don’t rush. They don’t panic. They just are. And even outside of the rural areas where they can be seen pulling carts, strolling alongside their human companions, carrying loads, they are woven into life in the form of art mosaics, sculptures, and weavings. Painted in wild colours, patterns, stripes, dots, flowers, as if joy itself turned into a donkey.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading">This Colourful Donkey Art is an Inspiration</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Art like this doesn’t come from nowhere.<br>Mexico doesn’t just have donkeys.<br>Mexico honours donkeys.<br>These colourful paper mâché donkey heads are like a reminder.<br>A reminder to honour the donkey, not just for what they do, but for who they are and their place in the fabric of history.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:group {"backgroundColor":"light-red-1","layout":{"type":"constrained"}} -->
+<div class="wp-block-group has-light-red-1-background-color has-background"><!-- wp:heading {"textAlign":"center","level":3,"style":{"elements":{"link":{"color":{"text":"var:preset|color|primary"}}},"spacing":{"padding":{"bottom":"0"}}},"backgroundColor":"light-red-1","textColor":"primary"} -->
+<h3 class="wp-block-heading has-text-align-center has-primary-color has-light-red-1-background-color has-text-color has-background has-link-color" style="padding-bottom:0"><strong>Love those Bright Colours of Mexico?</strong></h3>
+<!-- /wp:heading -->
+
+<!-- wp:group {"style":{"spacing":{"blockGap":"0px","padding":{"top":"0","bottom":"var:preset|spacing|md","left":"var:preset|spacing|md","right":"var:preset|spacing|md"}},"dimensions":{"minHeight":"556px"},"border":{"radius":{"topLeft":"12px","topRight":"12px","bottomLeft":"12px","bottomRight":"12px"}}},"backgroundColor":"light-red-1","layout":{"type":"constrained"}} -->
+<div class="wp-block-group has-light-red-1-background-color has-background" style="border-top-left-radius:12px;border-top-right-radius:12px;border-bottom-left-radius:12px;border-bottom-right-radius:12px;min-height:556px;padding-top:0;padding-right:var(--wp--preset--spacing--md);padding-bottom:var(--wp--preset--spacing--md);padding-left:var(--wp--preset--spacing--md)"><!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:embed {"url":"https://www.youtube.com/shorts/y65DzgDpnWk?feature=share","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-1-1 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-1-1 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://www.youtube.com/shorts/y65DzgDpnWk?feature=share
+</div></figure>
+<!-- /wp:embed --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"style":{"spacing":{"blockGap":"0px"}}} -->
+<div class="wp-block-column"><!-- wp:heading {"level":4,"style":{"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"textColor":"primary"} -->
+<h4 class="wp-block-heading has-primary-color has-text-color has-link-color">Recipe for Brightening Up Winter: Just add Cavallo Colour Straps to your choice of Boots and MIX!</h4>
+<!-- /wp:heading -->
+
+<!-- wp:spacer {"height":"34px"} -->
+<div style="height:34px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:paragraph {"placeholder":"Content…"} -->
+<p>Cavallo customers are having way too much fun with the new Cavallo Colour Pop Straps Pack! These bright, interchangeable colors make it easy to tell front boots from back boots, or assign a specific color to each horse so boots don't get mixed up.<br><br>On top of being incredibly practical, they’re a cheerful way to brighten up dull Winter days and add a little personality to your hoof boots.<br><br>Practical, playful, and unmistakably Cavallo — what’s not to love?</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:heading {"textAlign":"center","level":3,"style":{"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"textColor":"primary"} -->
+<h3 class="wp-block-heading has-text-align-center has-primary-color has-text-color has-link-color"><strong>What YOU'RE Saying: Saved by the Sole!</strong></h3>
+<!-- /wp:heading -->
+
+<!-- wp:group {"style":{"spacing":{"margin":{"top":"var:preset|spacing|lg","bottom":"var:preset|spacing|lg"}},"dimensions":{"minHeight":"184px"},"border":{"radius":{"topLeft":"12px","topRight":"12px","bottomLeft":"12px","bottomRight":"12px"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group" style="border-top-left-radius:12px;border-top-right-radius:12px;border-bottom-left-radius:12px;border-bottom-right-radius:12px;min-height:184px;margin-top:var(--wp--preset--spacing--lg);margin-bottom:var(--wp--preset--spacing--lg)"><!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"id":346525,"sizeSlug":"full","linkDestination":"none","style":{"border":{"radius":{"topLeft":"12px","topRight":"12px","bottomLeft":"12px","bottomRight":"12px"}}}} -->
+<figure class="wp-block-image size-full has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2026/01/Cavallo-Hoof-Boot-with-mail-stuck-in-sole-Jocelyn-Douglas-horse-Lucy.jpg" alt="" class="wp-image-346525" style="border-top-left-radius:12px;border-top-right-radius:12px;border-bottom-left-radius:12px;border-bottom-right-radius:12px"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"style":{"spacing":{"blockGap":"0px"}}} -->
+<div class="wp-block-column"><!-- wp:heading {"level":4,"style":{"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"textColor":"primary"} -->
+<h4 class="wp-block-heading has-primary-color has-text-color has-link-color">One Step From Disaster... Until the Boot Took the Hit!</h4>
+<!-- /wp:heading -->
+
+<!-- wp:spacer {"height":"34px"} -->
+<div style="height:34px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:paragraph {"placeholder":"Content…"} -->
+<p>A scary thing just happened to Jocelyn Douglas' horse, Lucy: </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"placeholder":"Content…"} -->
+<p><em>"I wanted to write to THANK YOU for your ELB boots. My horse picked up a nail on a walk around the property! It punctured the boot sole but did not hit HER sole. Can’t imagine what would have happened!" </em><br><br><em>- Best regards, Jocelyn and Lucy.</em><br><br>One nail hidden in the dirt. One full-weight step. That’s all it would have taken.<br><br>A hoof puncture can lead to lameness, infection, abscesses, emergency vet care, and weeks (or months!) of recovery. Even a small object can cause significant complications when it penetrates the hoof.<br><br>In this case, the Cavallo Hoof Boot sole prevented the injury entirely. Designed to be tough and durable while still allowing natural movement, Cavallo soles create a strong protective barrier against sharp, unexpected hazards during turnout or on the trail.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"placeholder":"Content…"} -->
+<p><br><br></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"right":"var:preset|spacing|md","left":"var:preset|spacing|md","bottom":"var:preset|spacing|xl"},"margin":{"bottom":"var:preset|spacing|lg"}},"dimensions":{"minHeight":"101px"}},"backgroundColor":"light-red-1","layout":{"type":"constrained"}} -->
+<div class="wp-block-group has-light-red-1-background-color has-background" style="min-height:101px;margin-bottom:var(--wp--preset--spacing--lg);padding-right:var(--wp--preset--spacing--md);padding-bottom:var(--wp--preset--spacing--xl);padding-left:var(--wp--preset--spacing--md)"><!-- wp:heading {"textAlign":"center","level":3,"style":{"elements":{"link":{"color":{"text":"var:preset|color|primary"}}},"spacing":{"padding":{"bottom":"0"}}},"backgroundColor":"light-red-1","textColor":"primary"} -->
+<h3 class="wp-block-heading has-text-align-center has-primary-color has-light-red-1-background-color has-text-color has-background has-link-color" style="padding-bottom:0"><strong>Celebrating Growth and Strong Cavallo Partnerships in UK</strong></h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"placeholder":"Content…"} -->
+<p>We’re proud to share an exciting update from our long-time UK distribution partner, Battles Group, who has recently expanded with the acquisition of Trilanco Ltd.<br><br>Battles has been a highly valued and trusted Cavallo Hoof Boots partner for many years, and this next chapter further strengthens our long-standing partnership and shared commitment to the UK market. Bringing together two highly respected businesses reinforces the Battles Group’s position within the equestrian and animal health markets, while ensuring the same high level of service, reliability, and expertise that Cavallo customers and retailers know and value.<br><br>Pictured here is Greg Giles, CEO of Cavallo Hoof Boots, alongside Martin Bullmer of Trilanco, Stefan Raschdorf <a href="https://www.consteed.com/en-de/page-viewer/forriders">of Consteed, </a>and Anna and Richard of Battles, Jeff, owner of Cavalier Equestria and Sonja and Nicholas of Wilde Acker—a great snapshot of the strong personal connections, long-standing relationships and shared values that support Cavallo’s work in the UK and beyond:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":346553,"sizeSlug":"large","linkDestination":"none","style":{"border":{"radius":{"topLeft":"12px","topRight":"12px","bottomLeft":"12px","bottomRight":"12px"}}}} -->
+<figure class="wp-block-image size-large has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2026/01/Greg-SPOGA-dinner-2026-with-Sonia-Battles-Trilanco-1024x517.jpg" alt="" class="wp-image-346553" style="border-top-left-radius:12px;border-top-right-radius:12px;border-bottom-left-radius:12px;border-bottom-right-radius:12px"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph {"placeholder":"Content…"} -->
+<p>For Cavallo, it’s very much business as usual, with exciting opportunities ahead as the Battles Group continues to invest in its people, infrastructure, and partnerships. We’re proud of the relationship we’ve built with the Battles Group and look forward to continued collaboration and growth as the next chapter unfolds.<br><br>Congratulations to the teams at Battles and Trilanco on this important milestone and exciting new chapter.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:heading {"textAlign":"center","level":3,"style":{"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"textColor":"primary"} -->
+<h3 class="wp-block-heading has-text-align-center has-primary-color has-text-color has-link-color"><strong><strong>The Best Hoof Boot for Cold, Winter Hands</strong>!</strong></h3>
+<!-- /wp:heading -->
+
+<!-- wp:group {"style":{"border":{"radius":{"topLeft":"12px","topRight":"12px","bottomLeft":"12px","bottomRight":"12px"}}},"backgroundColor":"light-red-1","layout":{"type":"constrained"}} -->
+<div class="wp-block-group has-light-red-1-background-color has-background" style="border-top-left-radius:12px;border-top-right-radius:12px;border-bottom-left-radius:12px;border-bottom-right-radius:12px"><!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:uagb/container {"block_id":"5fb2ae60","directionDesktop":"row","wrapDesktop":"wrap","topPaddingDesktop":30,"bottomPaddingDesktop":30,"leftPaddingDesktop":30,"rightPaddingDesktop":30,"variationSelected":true,"isBlockRootParent":true} -->
+<div class="wp-block-uagb-container uagb-block-5fb2ae60 alignfull uagb-is-root-container"><div class="uagb-container-inner-blocks-wrap"><!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:embed {"url":"https://youtube.com/shorts/E19cyHl8Xwo","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-9-19 wp-embed-aspect-9-16 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-9-19 wp-embed-aspect-9-16 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://youtube.com/shorts/E19cyHl8Xwo
+</div></figure>
+<!-- /wp:embed --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:paragraph -->
+<p>Winter hoof care can turn even the best of us into wimps! Cold hands, stiff fingers, and boots that suddenly feel ten times harder to manage don’t help, especially if you’re dealing with sore or arthritic hands. <br><br>If you’ve ever wondered what the easiest hoof boots to put on and take off really are, this is where Cavallo Hoof Boots shine. They open wide, go on fast and easy, and don’t require wrestling with tiny straps, tools  or frozen metal - even with gloves on. <br><br>This is why so many riders swear Cavallo is the best hoof boot overall: kinder to your hands, comfortable for your horse, and one less thing to battle on a cold winter day.<br><br>Want to deepen your friendship with Winter even further? Here's how:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons {"style":{"spacing":{"margin":{"top":"32px"}}},"layout":{"type":"flex","justifyContent":"center"}} -->
+<div class="wp-block-buttons" style="margin-top:32px"><!-- wp:button {"backgroundColor":"red","className":"has-red-color","style":{"border":{"radius":"100px"},"spacing":{"padding":{"left":"8px","right":"8px","top":"12px","bottom":"12px"}},"typography":{"fontStyle":"normal","fontWeight":"800","lineHeight":"1.25"}},"fontSize":"small"} -->
+<div class="wp-block-button has-red-color"><a class="wp-block-button__link has-red-background-color has-background has-small-font-size has-custom-font-size wp-element-button" href="http://cavallo.local/we-winterize-our-houses-vehicles-why-not-winterize-your-horse/" style="border-radius:100px;padding-top:12px;padding-right:8px;padding-bottom:12px;padding-left:8px;font-style:normal;font-weight:800;line-height:1.25" target="_blank" rel="noreferrer noopener">      Winterize Your Horse!       </a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div></div>
+<!-- /wp:uagb/container --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:paragraph {"style":{"spacing":{"padding":{"right":"var:preset|spacing|md","left":"var:preset|spacing|md"}}}} -->
+<p style="padding-right:var(--wp--preset--spacing--md);padding-left:var(--wp--preset--spacing--md)">Wishing you many happy trails,</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"spacing":{"padding":{"right":"var:preset|spacing|md","left":"var:preset|spacing|md"}}}} -->
+<p style="padding-right:var(--wp--preset--spacing--md);padding-left:var(--wp--preset--spacing--md)">- Carole Herder</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":309574,"width":"842px","height":"auto","aspectRatio":"1.9537240287916688","sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full is-resized"><img src="http://cavallo.local/wp-content/uploads/2022/11/carole-signature-transparent-background.jpg" alt="Cavallo Hoof Boots president Carole Herder signature" class="wp-image-309574" style="aspect-ratio:1.9537240287916688;width:842px;height:auto"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->

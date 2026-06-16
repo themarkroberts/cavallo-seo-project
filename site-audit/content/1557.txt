@@ -1,0 +1,7 @@
+<!-- wp:paragraph -->
+<p>I bought my mare as a 2 year old unknowing she had canker in all her feet, I'd never heard of canker. For 4 years now we have been battling this horrible infection/disease that no one really knows about. With my farrier and simple treatment it usually clears up in May and then comes back around October, October is the start of rain and mud here in the UK, My Cavallo boots have been a god send to me not only for riding in but in enabling my mare to go out in the field and live as much of a normal life at the time when the canker returns. I can put cotton wool in the hole in her frog put her Cavallos on and turn her out for the day even in the rain, by the time I remove the boots in the evening and pull out the cotton wool the bit furthest in the hole is dry and still medicated. Without these boot my horse would be stuck in her stable 24/7 and we would both be miserable, so thanks for a great boot that not only keeps her foot dryer keeps in the medication but is also very easy to put on, remove and clean for the morning after.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:spacer {"height":"40px"} -->
+<div style="height:40px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->

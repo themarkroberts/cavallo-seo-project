@@ -1,0 +1,529 @@
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:image {"id":6482,"width":"1196px","height":"auto","aspectRatio":"2.2886579336725488","sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full is-resized"><img src="http://cavallo.local/wp-content/uploads/2024/12/lami-page-header.jpg" alt="Your Cavallo Hoof Boots Laminitis Plan" class="wp-image-6482" style="aspect-ratio:2.2886579336725488;width:1196px;height:auto"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"textAlign":"center","level":4,"style":{"elements":{"link":{"color":{"text":"var:preset|color|white"}}}},"backgroundColor":"red","textColor":"white"} -->
+<h4 class="wp-block-heading has-text-align-center has-white-color has-red-background-color has-text-color has-background has-link-color">Join our Mailing List to GET 10% OFF any Boots, Wraps, Sleeves or Pads to help your horse:</h4>
+<!-- /wp:heading -->
+
+<!-- wp:html -->
+<div class="klaviyo-form-UM6aNG"></div>
+<!-- /wp:html --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading -->
+<h2 class="wp-block-heading">Welcome to Your Laminitis &amp; Hoof Issue Comfort Guide!</h2>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading">PLEASE NOTE: This page is ideal for anyone dealing with any painful hoof injury or ailment, not only laminitis. </h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><strong>It’s every horse owner’s nightmare.</strong> To see your horse walking stiffly, shifting his weight off his front hooves, or not wanting to move at all, can mean hoof damage and pain. Here, we’ll walk you through what to do if you suspect Laminitis. How to simply alter your daily horse care to promote health and healing, and how to navigate your horse’s recovery.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Our team has worked with many horse owners as they support their horses through Laminitic episodes. We’ve compiled these horse management tips to help your horse feel his best as soon as possible. And of course, before beginning any hoof care regime, make sure to always consult your veterinarian.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Here are the most common questions we hear about booting with Cavallos to help heal Laminitis. We hope these experiences and case studies will help your horse, and we wish you the best of luck during your horse’s healing time:</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"var:preset|spacing|gap","bottom":"var:preset|spacing|gap"},"blockGap":"var:preset|spacing|gutter"}},"backgroundColor":"light-red-1","layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignfull has-light-red-1-background-color has-background" style="padding-top:var(--wp--preset--spacing--gap);padding-bottom:var(--wp--preset--spacing--gap)"><!-- wp:media-text {"mediaId":202679,"mediaLink":"http://cavallo.local/your-cavallo-laminitis-healing-plan/y7fh75e5qzumc6yidejaka-2/","mediaType":"image","mediaWidth":30,"imageFill":false} -->
+<div class="wp-block-media-text is-stacked-on-mobile" style="grid-template-columns:30% auto"><figure class="wp-block-media-text__media"><img src="http://cavallo.local/wp-content/uploads/2025/04/y7fh75E5QzuMc6yIdeJAkA.jpeg" alt="" class="wp-image-202679 size-full"/></figure><div class="wp-block-media-text__content"><!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|gutter","bottom":"var:preset|spacing|gutter","left":"0","right":"0"},"margin":{"top":"0","bottom":"0"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--gutter);padding-right:0;padding-bottom:var(--wp--preset--spacing--gutter);padding-left:0"><!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading">"What actually happens to hooves during Laminitis?"</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"placeholder":"Content…"} -->
+<p>Laminitis, simply put, is like a breakdown of interlacing fingers, except these “fingers” are made of tissue (called lamellae) that attach the bone to the hoof wall. Compare it to a Velcro attachment, but instead of being made of synthetic material, it is live tissue. You can imagine this living matter, ripping apart, can be VERY painful.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"placeholder":"Content…"} -->
+<p>When the strength and quality of lamellae fail, these tissues are compromised; the bone may tear away from the hoof wall. The toe of the coffin bone could even plunge through the sole of the hoof, delivering merciless agony.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div></div>
+<!-- /wp:media-text --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"reverse-order\u002d\u002dmobile","style":{"spacing":{"padding":{"top":"var:preset|spacing|md","bottom":"var:preset|spacing|xxl"},"margin":{"top":"0","bottom":"0"}},"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"textColor":"primary","layout":{"type":"constrained","contentSize":""}} -->
+<div id="Block-1" class="wp-block-group reverse-order--mobile has-primary-color has-text-color has-link-color" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--md);padding-bottom:var(--wp--preset--spacing--xxl)"><!-- wp:columns {"verticalAlignment":"top"} -->
+<div class="wp-block-columns are-vertically-aligned-top"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading">“How will my horse tell me he’s suffering from Laminitis?”</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>There are various signs indicating symptoms of Laminitis, such as shifting weight from one foot to another, a strong digital pulse, appearing sore, frequently lying down, an irregular appearance, reluctance to move, unwillingness to move, rocking back and forth, sweating, an increased heart rate, and even staggering.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>If you suspect a problem, consult your veterinarian immediately.</strong></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"reverse-order\u002d\u002dmobile","style":{"spacing":{"padding":{"top":"0","bottom":"0"},"margin":{"top":"0","bottom":"0"}},"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"textColor":"primary","layout":{"type":"constrained","contentSize":""}} -->
+<div id="Block-1" class="wp-block-group reverse-order--mobile has-primary-color has-text-color has-link-color" style="margin-top:0;margin-bottom:0;padding-top:0;padding-bottom:0"><!-- wp:columns {"verticalAlignment":"top","style":{"spacing":{"padding":{"top":"var:preset|spacing|md","bottom":"var:preset|spacing|md"}}}} -->
+<div class="wp-block-columns are-vertically-aligned-top" style="padding-top:var(--wp--preset--spacing--md);padding-bottom:var(--wp--preset--spacing--md)"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading">"How does what my horse eats affect his hooves?"</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Everything your horse ingests influences his microbiome (the microorganisms in his body). The gut guards the immune system as it’s constantly exposed to new microbes, bugs, germs, and bacteria from food and water. The process begins in the stomach and small intestine with dizzying amounts of bacteria colonizing the upper intestinal tract. This commotion of sugars and starch produces lactate and volatile fatty acids, which are then absorbed by the horse and used for energy or to produce fats or glucose in the liver. This fermentation process reduces the blood sugars and amounts of enzymes required to digest.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The cycle results in more microorganisms being released into the intestinal fluid to help cultivate good bacteria. The same activities continue with even more bacteria in the colon, which then provide some resistance to viruses or bacteria that may be harmful. Your horse is a hindgut fermenter, which is a good thing because it means the flora of the hindgut can process, for a second time, the massive amounts of fiber he ingests. But this leaves horses vulnerable to failure to digest large amounts of sugars. Gut bacteria are essentially and inextricably connected to metabolism, immune function, vitamin and mineral absorption, central nervous system function, and mental health. The microbiome is at the forefront of progressive studies regarding the complete health of our horses and ourselves.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"var:preset|spacing|gap","bottom":"var:preset|spacing|gap"}}},"backgroundColor":"light-red-1","layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignfull has-light-red-1-background-color has-background" style="padding-top:var(--wp--preset--spacing--gap);padding-bottom:var(--wp--preset--spacing--gap)"><!-- wp:media-text {"mediaId":6484,"mediaLink":"http://cavallo.local/?attachment_id=6484","mediaType":"image","mediaWidth":30,"style":{"spacing":{"padding":{"top":"var:preset|spacing|xs"}}}} -->
+<div class="wp-block-media-text is-stacked-on-mobile" style="padding-top:var(--wp--preset--spacing--xs);grid-template-columns:30% auto"><figure class="wp-block-media-text__media"><img src="http://cavallo.local/wp-content/uploads/2024/12/Black-Trek-snow-@horse.conversations-snow-treks-hoofjpg.jpg" alt="Using Cavallo Hoof Boots to ease Winter Laminitis" class="wp-image-6484 size-full"/></figure><div class="wp-block-media-text__content"><!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|gutter","bottom":"var:preset|spacing|gutter","left":"0","right":"0"},"margin":{"top":"0","bottom":"0"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--gutter);padding-right:0;padding-bottom:var(--wp--preset--spacing--gutter);padding-left:0"><!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading">What is Winter Laminitis?</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"placeholder":"Content…"} -->
+<p>The physiological repercussions of cold temperatures coupled with restricted physical activity may lead to excessive constriction of blood vessels, resulting in compromised circulation essential for nourishing cellular structures within the hoof. Vasorestriction, an inherent protective mechanism to prevent excessive heat loss, can inadvertently impede the dissemination of vital oxygen and nutrients crucial for averting a laminitic episode. In the event of suspicion of this cold-induced phenomenon now denoted as winter laminitis, it is recommended to promote horse movement by providing the comfort of Cavallos and wrapping the lower limbs to maintain warmth. Consultation with a veterinarian regarding circulatory-enhancing medications to vasodilate the blood and reinstate the proper distribution of oxygen and nutrients necessary for the well-being of hoof tissue is also advised.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div></div>
+<!-- /wp:media-text --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"reverse-order\u002d\u002dmobile","style":{"spacing":{"padding":{"top":"var:preset|spacing|md","bottom":"var:preset|spacing|md"},"margin":{"top":"0","bottom":"0"}},"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"textColor":"primary","layout":{"type":"constrained","contentSize":""}} -->
+<div id="Block-1" class="wp-block-group reverse-order--mobile has-primary-color has-text-color has-link-color" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--md);padding-bottom:var(--wp--preset--spacing--md)"><!-- wp:columns {"verticalAlignment":"top","style":{"spacing":{"padding":{"bottom":"var:preset|spacing|xl"}}}} -->
+<div class="wp-block-columns are-vertically-aligned-top" style="padding-bottom:var(--wp--preset--spacing--xl)"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading">"What can I do to help my horse feel better right away?"</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The instant you have a diagnosis of Laminitis, you must act to make your horse more comfortable. Provide a soft bed for him to lie in, and if he prefers to remain standing, use Cavallo Boots with padded insoles. Cavallo offers a range of pads that can be used depending on the severity. You can even tape foam to his feet while waiting for your boots to arrive. Ice therapy treatment performed promptly will improve the situation dramatically. Unfortunately, this window of opportunity is only about 48 hours, so you must have a keen eye to identify the situation and move quickly.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Make your patient feel calmed by providing the comfort of relaxed companionship, plenty of fresh water, and hay soaked to remove the sugars (or find hay tested to be in the best range of nutrition). Offer free choice salt and minerals of the highest absorptive quality to increase immunity, hoof health, and healing. Above all, if you have identified a certain food as the cause of the attack, remove it. When appropriate, have your horse tested for hormone levels, particularly insulin, so that you can adapt his diet accordingly.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"reverse-order\u002d\u002dmobile","style":{"spacing":{"padding":{"top":"var:preset|spacing|md","bottom":"var:preset|spacing|md"},"margin":{"top":"0","bottom":"0"}},"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"textColor":"primary","layout":{"type":"constrained","contentSize":""}} -->
+<div id="Block-1" class="wp-block-group reverse-order--mobile has-primary-color has-text-color has-link-color" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--md);padding-bottom:var(--wp--preset--spacing--md)"><!-- wp:columns {"verticalAlignment":"top"} -->
+<div class="wp-block-columns are-vertically-aligned-top"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading">"How soon can Cavallo Boots help my horse feel better?"</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Cavallo Hoof Boots feature technologically advanced shock-absorbing soles, making every step predictable for your horse. They stop anticipating that a step could hurt and start to move more freely. Cavallo Boot soles absorb the concussive forces that would otherwise be transmitted through the hoof, reducing the risk of pain when moving on uneven surfaces.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The result is an immediate difference in your horse’s willingness to move. Your horse’s stride becomes noticeably more confident. We’ve established that movement encourages blood circulation, hoof expansion, oxygenation, and proper overall hoof function.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>When your horse can move, he is also more likely to be near his friends, which will, in turn, keep him moving and interested in life around him. Cavallo Boots provide the comfort and protection necessary for easy movement.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"var:preset|spacing|xxl","bottom":"var:preset|spacing|xxl"}}},"backgroundColor":"light-red-1","layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignfull has-light-red-1-background-color has-background" style="padding-top:var(--wp--preset--spacing--xxl);padding-bottom:var(--wp--preset--spacing--xxl)"><!-- wp:heading {"textAlign":"center","level":4} -->
+<h4 class="wp-block-heading has-text-align-center">Check out this ‘Before &amp; After’ from Shut the Door Rescue in Salem, CT:</h4>
+<!-- /wp:heading -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:paragraph {"align":"center","fontSize":"large"} -->
+<p class="has-text-align-center has-large-font-size">When Laminitis first struck, Hagar was in pain and was unable to get up:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":6485,"sizeSlug":"full","linkDestination":"none","style":{"border":{"radius":"10px"}}} -->
+<figure class="wp-block-image size-full has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2024/12/Hagar-with-Laminitis-BEFORE-shut-the-door-rescue-e1703177327338.jpg" alt="Draft horse with Laminitis - BEFORE using Cavallo Boots" class="wp-image-6485" style="border-radius:10px"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:paragraph {"align":"center","fontSize":"large"} -->
+<p class="has-text-align-center has-large-font-size">Hagar, just one month later, was moving comfortably in his Cavallo Hoof Boots:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:embed {"url":"https://www.youtube.com/watch?v=Y2gf1rChgQE","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-4-3 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://www.youtube.com/watch?v=Y2gf1rChgQE
+</div></figure>
+<!-- /wp:embed --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"reverse-order\u002d\u002dmobile","style":{"elements":{"link":{"color":{"text":"var:preset|color|primary"}}},"spacing":{"blockGap":"var:preset|spacing|gap"}},"textColor":"primary","layout":{"type":"constrained","contentSize":""}} -->
+<div id="Block-1" class="wp-block-group reverse-order--mobile has-primary-color has-text-color has-link-color"><!-- wp:columns {"verticalAlignment":"top"} -->
+<div class="wp-block-columns are-vertically-aligned-top"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading">"Is it true that "moving is healing" for a Laminitic horse?"</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The mental well-being of your equine is as important as his physical well-being. When pain is alleviated for a horse with Laminitis or any other painful hoof issue, your horse is happier and able to move more. Movement is your horse’s modus operandi. Moving stimulates blood flow, and the nourishing blood can work to the problem areas to facilitate faster, more effective healing. It’s also helpful to make sure your horse can see or be near his herd mates so he can be calm as he heals.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:columns {"verticalAlignment":"top"} -->
+<div class="wp-block-columns are-vertically-aligned-top"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading">"How has Laminitis been treated traditionally?"</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>We generally treat Laminitis as a hoof problem. Some suggest hoof supplements, nerve blocks, bar shoes, frog support, and corrective shoeing, such as lowering the heel and applying wedge pads. It seems counter-intuitive to lower and raise the heel, but these are some conventional treatments used. Some wedge the hoof in a “reverse wedge” to lever the coffin bone up at the front and back into the wall. Any wedging should be considered temporary, in compliance with corresponding angle percentages shown on radiographs, and monitored regularly.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Some recommend exercise to prevent obesity; others advocate box stall rest and confinement. Feed restriction is also a prescription. There are many considerations in treatment, but horses get uncomfortable when food is unavailable and stress levels elevate, so restricting feed should be a careful consideration.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Timing is essential in treatment, as is an understanding of the horse’s nature. Misperceived cures and treatments can increase levels of anxiety, thereby aggravating the distressing state of affairs further. Large doses of vitamin C, turmeric supplements, and even whole milk cream added to the feed have been touted as cures. There are countless opinions. It can be simple or very complex, which is the way of many things, including Laminitis. Seek help, seek knowledge, and develop an understanding of a horse’s nature. Make prevention your greatest tool.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"align":"full","className":"reverse-order\u002d\u002dmobile","style":{"spacing":{"padding":{"top":"var:preset|spacing|gap","bottom":"var:preset|spacing|gap"},"margin":{"top":"0","bottom":"0"},"blockGap":"var:preset|spacing|gap"},"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"backgroundColor":"light-red-1","textColor":"primary","layout":{"type":"constrained","contentSize":""}} -->
+<div class="wp-block-group alignfull reverse-order--mobile has-primary-color has-light-red-1-background-color has-text-color has-background has-link-color" id="Block-1" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--gap);padding-bottom:var(--wp--preset--spacing--gap)"><!-- wp:columns {"verticalAlignment":"top"} -->
+<div class="wp-block-columns are-vertically-aligned-top"><!-- wp:column {"style":{"spacing":{"padding":{"top":"var:preset|spacing|xs"}}}} -->
+<div class="wp-block-column" style="padding-top:var(--wp--preset--spacing--xs)"><!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading">"I can see that my horse moving better with the boots on. Can I leave them on 24/7?"</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Cavallos can be left on nearly 24/7 during turnout (we recommend taking boots off at least once a day to monitor for any signs of irritation and to rinse or air them out). To reduce bacterial build-up in your boots, mix a solution of 50% apple cider vinegar with 50% water and soak or spray into the boot and on the inside hoof sole regularly.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:columns {"verticalAlignment":"top"} -->
+<div class="wp-block-columns are-vertically-aligned-top"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading">"Can I use just one therapy boot if my horse has only one affected hoof?"</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>If just one hoof is affected by illness, you might instinctively order just one boot for the affected hoof. But always use caution against creating an imbalance in your horse, which can cause other issues. Make sure to always use a Cavallo Boot for the opposing hoof as well as the affected hoof.<br></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:columns {"verticalAlignment":"top"} -->
+<div class="wp-block-columns are-vertically-aligned-top"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading">"WHY Are Cavallo Boots So Effective for Relieving Laminitis Pain?"</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Step into the groundbreaking study conducted by Dr. Jennifer Gill and Gabriella Lynn from the Western Kentucky University Equine Science Department. They concluded the first-ever independent university study comparing between hoof boots and traditional metal shoes, with their top pick being the remarkable Cavallo Trek Hoof Boots.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Unlocking a realm of comfort, protection, and minimized hoof damage, the study is a testament to what Cavallo President, Carole Herder, has passionately been sharing with the equine community since 2006.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The research delved into the surface area, force, and pressure exerted on horse hooves navigating the unforgiving terrain of asphalt. Employing cutting-edge FujiFilm imaging, the scientists gauged the pressure experienced by the hooves, revealing dynamic insights through vibrant color mapping.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>According to Dr. Gill, “The Cavallo Hoof Boots proved to be a game-changer, safeguarding the entire hoof and surpassing other forms of protection like traditional horseshoes. The thicker tread of the Cavallo Trek Hoof Boots provided superior ground contact compared to metal horseshoes.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The results were unequivocal in favor of Cavallo Trek Hoof Boots, as Dr. Gill explains, “The pressure recorded with Cavallo was significantly lower than other treatments, precisely as we anticipated. The increased surface area in contact with the ground, thanks to the substantial tread, offers horses better traction and enhanced ability to handle forces and pressure on challenging terrains.”</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"reverse-order\u002d\u002dmobile","style":{"spacing":{"padding":{"top":"var:preset|spacing|gap","bottom":"var:preset|spacing|gap"},"margin":{"top":"0","bottom":"0"},"blockGap":"var:preset|spacing|gap"},"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"textColor":"primary","layout":{"type":"constrained","contentSize":""}} -->
+<div id="Block-1" class="wp-block-group reverse-order--mobile has-primary-color has-text-color has-link-color" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--gap);padding-bottom:var(--wp--preset--spacing--gap)"><!-- wp:columns {"verticalAlignment":"top"} -->
+<div class="wp-block-columns are-vertically-aligned-top"><!-- wp:column {"style":{"spacing":{"padding":{"top":"var:preset|spacing|xs"}}}} -->
+<div class="wp-block-column" style="padding-top:var(--wp--preset--spacing--xs)"><!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading">""Which Cavallo Boot style is best for healing?</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Although any style of Cavallo Boots, from CLB (mini boots) to BFB (draft-size boots), can be used, the Cavallo Trek Boot is enjoying widespread acknowledgment as the best Therapy/Rehab/Turnout Hoof Boot available in the world. Not bad for a hoof boot that’s also known as the world’s toughest trail boot!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Trek has some great features that make it stand out. The Trek upper is soft, flexible, and comfortable for your horse to wear. Made of the same durable TPU (Thermoplastic Urethane) material as the sole makes this boot upper super sturdy. A slight variation in the compound and the hexagonal shaping makes it pliable, breathable, and lightweight. Also, Pro Mesh material resists soaking up excess moisture. Even in very wet conditions, these boots remain light, breathable, and quick to dry. Trek’s soft padded collar provides comfort around the pastern. The back area molds to the shape of your horse’s bulbs for a custom fit and added bulb protection. The simple front closure system makes Cavallos very easy to put on and take off– even among the very young and older folks who have arthritis in their hands.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:columns {"verticalAlignment":"top"} -->
+<div class="wp-block-columns are-vertically-aligned-top"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading">"If there's no time to break in the boots, how can I use them right away?"</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Providing urgent relief for your horse can still be comfortably achieved even when you don’t have time for the recommended boot break-in period. When using Cavallos 24/7, you can reduce friction with a new boot by using Cavallo Pastern Wraps, Comfort Sleeves, or even vet wrap. As you know, breaking in your high-quality footwear can take a little time. Cavallo Boots are no different, and may require some time to shape to your horse’s individual hoof. Try the boots for 10 minutes the first day and if you see no signs of irritation, increase by another 15 minutes each day until you see the backs of the boots shaping to your horse’s bulb area nicely. Horse hoofs vary, and many horses adapt to their new footwear immediately without breaking in.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Once in use, just check them frequently at first for signs of friction (red, shiny, or hot skin, hair being rubbed off). If the signs are there, hold off using the boot for a couple of days and then start again using Pastern Wraps, Comfort Sleeves, or vet wrap to give extra comfort and reduce friction going forward. These boots are the perfect compliment to a bare hoof. Free from the restriction of clamped metal, the hoof can flex, absorb shock, and circulate blood and oxygen– distributing nourishment and fighting disease. Check out a video I made about breaking in your Cavallo Boots below. </p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:acf/banner-cta {"name":"acf/banner-cta","data":{"text":"\u003ch2 style=\u0022text-align: center;\u0022\u003eLearn How To Break In Your New Cavallo Hoof Boots\u003c/h2\u003e\r\
+\u003cp style=\u0022text-align: center;\u0022\u003e\u003cspan style=\u0022font-size: 20px;\u0022\u003eWith Cavallo President Carole herder \u003c/span\u003e\u003c/p\u003e","_text":"field_66f10c7106c07","cta":{"title":"Watch HERE","url":"https://www.youtube.com/watch?v=5R881ZhjDwA","target":"_blank"},"_cta":"field_66f10c9706c08","download_file":"","_download_file":"field_66f10cc706c09","upload_modal":"0","_upload_modal":"field_66f11861256ea","cta_2":"","_cta_2":"field_6874db98b4e1e","html_anchor":"","_html_anchor":"field_672f5663be83a"},"mode":"edit"} /-->
+
+<!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|gap"}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:media-text {"mediaId":6486,"mediaLink":"http://cavallo.local/your-cavallo-laminitis-healing-plan/apple-cider-vinegar-boots-bacteria-tip-laurie-harris-2020-02-18-600x600/","mediaType":"image","mediaWidth":30} -->
+<div class="wp-block-media-text is-stacked-on-mobile" style="grid-template-columns:30% auto"><figure class="wp-block-media-text__media"><img src="http://cavallo.local/wp-content/uploads/2024/12/Apple-Cider-Vinegar-boots-bacteria-tip-Laurie-Harris-2020-02-18-600x600-1.jpg" alt="Use apple cider vinegar to keep Cavallo Hoof Boots fresh" class="wp-image-6486 size-full"/></figure><div class="wp-block-media-text__content"><!-- wp:group {"style":{"spacing":{"margin":{"top":"0","bottom":"0"},"padding":{"top":"var:preset|spacing|gutter","bottom":"var:preset|spacing|gutter","left":"0","right":"0"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--gutter);padding-right:0;padding-bottom:var(--wp--preset--spacing--gutter);padding-left:0"><!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading">"How can I keep boots clean when my horse needs them 24/7?"</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"placeholder":"Content…"} -->
+<p>The physiological repercussions of cold temperatures coupled with restricted physical activity may lead to excessive constriction of blood vessels, resulting in compromised circulation essential for nourishing cellular structures within the hoof. Vasorestriction, an inherent protective mechanism to prevent excessive heat loss, can inadvertently impede the dissemination of vital oxygen and nutrients crucial for averting a laminitic episode. In the event of suspicion of this cold-induced phenomenon now denoted as winter laminitis, it is recommended to promote horse movement by providing the comfort of Cavallos and wrapping the lower limbs to maintain warmth. Consultation with a veterinarian regarding circulatory-enhancing medications to vasodilate the blood and reinstate the proper distribution of oxygen and nutrients necessary for the well-being of hoof tissue is also advised.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div></div>
+<!-- /wp:media-text -->
+
+<!-- wp:media-text {"mediaId":6487,"mediaLink":"http://cavallo.local/your-cavallo-laminitis-healing-plan/credit-jessica-brown-black-trek-boots-hannah-catalino-hugging-horse/","mediaType":"image","mediaWidth":30} -->
+<div class="wp-block-media-text is-stacked-on-mobile" style="grid-template-columns:30% auto"><figure class="wp-block-media-text__media"><img src="http://cavallo.local/wp-content/uploads/2024/12/Credit-Jessica-Brown-Black-Trek-Boots-Hannah-Catalino-hugging-horse.jpg" alt="Cavallo Hoof Boots to help heal Laminitis" class="wp-image-6487 size-full"/></figure><div class="wp-block-media-text__content"><!-- wp:group {"style":{"spacing":{"margin":{"top":"0","bottom":"0"},"padding":{"top":"var:preset|spacing|gutter","bottom":"var:preset|spacing|gutter","left":"0","right":"0"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--gutter);padding-right:0;padding-bottom:var(--wp--preset--spacing--gutter);padding-left:0"><!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading">"Are the boots worth the cost and investment?"</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"placeholder":"Content…"} -->
+<p>There’s a considerable bonus waiting for you when your horse turns the corner and is active again. You can use your same boots to ride over any terrain at any speed once your horse is feeling better!&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Cavallo Boots are rated as the #1 Top Trail Riding Boots globally. Cavallo soles and uppers are incredibly resistant to rocks, abrasion, asphalt, and creek beds– and since they resist soaking up excess moisture, the boots are always dry and ready for your next ride, even in damp, muddy conditions.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"placeholder":"Content…"} -->
+<p>Cavallo Boots can see you through your horse’s pain reduction and rehabilitation to the joys of riding again!</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div></div>
+<!-- /wp:media-text -->
+
+<!-- wp:media-text {"mediaId":6488,"mediaLink":"http://cavallo.local/your-cavallo-laminitis-healing-plan/carol-emonty/","mediaType":"image","mediaWidth":30} -->
+<div class="wp-block-media-text is-stacked-on-mobile" style="grid-template-columns:30% auto"><figure class="wp-block-media-text__media"><img src="http://cavallo.local/wp-content/uploads/2024/12/carol-emonty.jpg" alt="Carole Herder with Monty Roberts" class="wp-image-6488 size-full"/></figure><div class="wp-block-media-text__content"><!-- wp:group {"style":{"spacing":{"margin":{"top":"0","bottom":"0"},"padding":{"top":"var:preset|spacing|gutter","bottom":"var:preset|spacing|gutter","left":"0","right":"0"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--gutter);padding-right:0;padding-bottom:var(--wp--preset--spacing--gutter);padding-left:0"><!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading">"Is there hope for my horse after Laminitis?"</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"placeholder":"Content…"} -->
+<p>I had the honor of being a guest on Horsemanship Radio, and my host and long-time friend, Debbie Loucks (daughter of Monty Roberts), interviewed me.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"placeholder":"Content…"} -->
+<p>In this episode, I talk about how Laminitis is curable with proper, realistic, and appropriate information. Please have a listen to find out more:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons {"fontSize":"normal","layout":{"type":"flex","justifyContent":"left"}} -->
+<div class="wp-block-buttons has-custom-font-size has-normal-font-size"><!-- wp:button {"backgroundColor":"red","style":{"border":{"radius":"50px"}}} -->
+<div class="wp-block-button"><a class="wp-block-button__link has-red-background-color has-background wp-element-button" href="https://www.horsemanshipradio.com/2019/12/30/150-pain-treating-laminitis-and-sable-island-horses-by-omega-fields/" style="border-radius:50px">Listen Here!</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:group --></div></div>
+<!-- /wp:media-text --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"var:preset|spacing|xxl","bottom":"var:preset|spacing|xxl"}}},"backgroundColor":"light-red-1","layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignfull has-light-red-1-background-color has-background" style="padding-top:var(--wp--preset--spacing--xxl);padding-bottom:var(--wp--preset--spacing--xxl)"><!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading">"Do you have any videos I can watch about Laminitis?"</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>I’ve made several short videos to help navigate your horse’s Laminitis diagnosis and recovery.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>This first video explains what’s happening inside your horse’s hooves when affected by Laminitis:</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:paragraph -->
+<p><strong>I talk about a Laminitic horse’s unique needs regarding diet, herd connection, stress reduction, and hoof care:</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:embed {"url":"https://www.youtube.com/watch?v=anSyheXdDjU","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-4-3 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://www.youtube.com/watch?v=anSyheXdDjU
+</div></figure>
+<!-- /wp:embed --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:paragraph -->
+<p><strong>In my second video, I explain hoof function in detail, helping you understand how a healthy hoof bears weight:</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:embed {"url":"https://www.youtube.com/watch?v=Mt7Iq3bgZGc","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-4-3 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://www.youtube.com/watch?v=Mt7Iq3bgZGc
+</div></figure>
+<!-- /wp:embed --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|xxl","bottom":"var:preset|spacing|xxl"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group" style="padding-top:var(--wp--preset--spacing--xxl);padding-bottom:var(--wp--preset--spacing--xxl)"><!-- wp:media-text {"mediaId":6489,"mediaLink":"http://cavallo.local/?attachment_id=6489","mediaType":"image","mediaWidth":30} -->
+<div class="wp-block-media-text is-stacked-on-mobile" style="grid-template-columns:30% auto"><figure class="wp-block-media-text__media"><img src="http://cavallo.local/wp-content/uploads/2024/12/BigWig2.webp" alt="Cavallo Hoof Boots help horse with Laminitis" class="wp-image-6489 size-full"/></figure><div class="wp-block-media-text__content"><!-- wp:heading {"level":5} -->
+<h5 class="wp-block-heading">BigWig's Laminitis Recovery Story!</h5>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"placeholder":"Content…"} -->
+<p>Laminitis caused BigWig pain when his hoof wall separated, and his sole was penetrated. Horse owner Margaret Warner from the UK says Cavallo Hoof Boots helped her horse recover:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"placeholder":"Content…"} -->
+<p>“My horse, BigWig, has had Laminitis and been on box rest for weeks. X-rays revealed sole penetration, so even walking out of stable was very painful. As he started to improve, l let him wander around the yard. When the Cavallo Boots arrived l put them on, and immediately, he was so much more comfortable! He has been wearing them outside the stable for about a month, and the difference is amazing. He is out for a few hours daily, and the farrier is very pleased. We hope to start ridden-work soon, so l will ride with boots.”</p>
+<!-- /wp:paragraph --></div></div>
+<!-- /wp:media-text --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"0","bottom":"0"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group" style="padding-top:0;padding-bottom:0"><!-- wp:columns {"style":{"spacing":{"padding":{"top":"0","bottom":"0"}}}} -->
+<div class="wp-block-columns" style="padding-top:0;padding-bottom:0"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading">Frodo's Inspiring Laminitis Journey </h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Frodo was down for the count when his owner, UK dressage rider &amp; trainer, Sue Grice, discovered the benefits of using Cavallo Hoof Boots. Sue knew that if she was going to keep Frodo alive, she would have to keep him moving. He was in so much pain that he was reluctant to walk and put weight on his feet. Sue got him some Cavallo BFB (Big Foot) boots and Cavallo hoof boot pads to help ease his discomfort.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The boots do two things for a Laminitic horse. Durable, resilient, and shock-absorbing soles protect and make every step predictable, helping Frodo quickly realize that he didn’t have to anticipate stepping on a stone or wince at the pain of stepping down on uneven ground. The boots provide a huge amount of shock absorption, and they prevent excess shock from traveling through the hoof and lower leg (which can cause structural pain, even up to his shoulder and spinal structure).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The results were very exciting for Sue. Along with veterinary care and lots of TLC, she saw the boots motivating Frodo to do more again! His progress was gradual but steady, and he made a full recovery. Now, he is back to competing and loving life. Sue believes a great deal of his recovery is owed to his Cavallos.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:embed {"url":"https://www.youtube.com/watch?v=EGOwOmtr4cQ","type":"video","providerNameSlug":"youtube","responsive":true,"align":"center","className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed aligncenter is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://www.youtube.com/watch?v=EGOwOmtr4cQ
+</div></figure>
+<!-- /wp:embed --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"align":"full","backgroundColor":"light-red-1","layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignfull has-light-red-1-background-color has-background"><!-- wp:media-text {"mediaId":6490,"mediaLink":"http://cavallo.local/?attachment_id=6490","mediaType":"image","mediaWidth":30,"style":{"spacing":{"padding":{"top":"var:preset|spacing|xxl","bottom":"var:preset|spacing|xxl"}}}} -->
+<div class="wp-block-media-text is-stacked-on-mobile" style="padding-top:var(--wp--preset--spacing--xxl);padding-bottom:var(--wp--preset--spacing--xxl);grid-template-columns:30% auto"><figure class="wp-block-media-text__media"><img src="http://cavallo.local/wp-content/uploads/2024/12/Cavallo-Hoof-Boots-Staff-Pic.jpg" alt="Cavallo Hoof Boots Staff - customer service" class="wp-image-6490 size-full"/></figure><div class="wp-block-media-text__content"><!-- wp:group {"style":{"spacing":{"margin":{"top":"0","bottom":"0"},"padding":{"top":"var:preset|spacing|gutter","bottom":"var:preset|spacing|gutter","left":"0","right":"0"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--gutter);padding-right:0;padding-bottom:var(--wp--preset--spacing--gutter);padding-left:0"><!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading">Cavallo Cares</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"placeholder":"Content…"} -->
+<p>At Cavallo, one of the most common reasons people reach out to us is for help with Laminitis. We’re proud to say that Cavallo Boots have a long, proven track record of keeping horses on their feet while healing from an attack.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"placeholder":"Content…"} -->
+<p>The relief experienced by a horse can be seen instantly. We receive emails daily thanking us for how the boots helped their horses. To say that our jobs make us happy is an understatement. Every single letter that comes our way makes us smile!</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div></div>
+<!-- /wp:media-text --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"0","bottom":"0"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group" style="padding-top:0;padding-bottom:0"><!-- wp:media-text {"mediaId":6491,"mediaLink":"http://cavallo.local/your-cavallo-laminitis-healing-plan/cavallo-laminitis-guide-image-3/","mediaType":"image","mediaWidth":40,"style":{"spacing":{"padding":{"top":"0","bottom":"0"}}}} -->
+<div class="wp-block-media-text is-stacked-on-mobile" style="padding-top:0;padding-bottom:0;grid-template-columns:40% auto"><figure class="wp-block-media-text__media"><img src="http://cavallo.local/wp-content/uploads/2024/12/Cavallo-Laminitis-Guide-Image.jpg" alt="Cavallo Hoof Bots Laminitis Guide" class="wp-image-6491 size-full"/></figure><div class="wp-block-media-text__content"><!-- wp:group {"style":{"spacing":{"margin":{"top":"0","bottom":"0"},"padding":{"top":"var:preset|spacing|gutter","bottom":"var:preset|spacing|gutter","left":"0","right":"0"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--gutter);padding-right:0;padding-bottom:var(--wp--preset--spacing--gutter);padding-left:0"><!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading">Download Your Cavallo Boots Laminitis Guide:</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"placeholder":"Content…"} -->
+<p>Be sure to keep my quick and easy Laminitis Guide handy! It has all the pointers you need to help you get started using boots to help your horse.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"placeholder":"Content…"} -->
+<p>PLUS, it contains a selection of uplifting stories from Cavallo users who have successfully rehabbed their horse with the assistance of their Cavallo Boots:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"}} -->
+<div class="wp-block-buttons"><!-- wp:button {"backgroundColor":"red","style":{"border":{"radius":"50px"}}} -->
+<div class="wp-block-button"><a class="wp-block-button__link has-red-background-color has-background wp-element-button" href="http://cavallo.local/wp-content/uploads/2024/12/2023-Cavallo-Laminitis-Guide-w-Caroles-Edits-Final-1.pdf" style="border-radius:50px">Download Your Laminitis Guide Here</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:group --></div></div>
+<!-- /wp:media-text --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"0","bottom":"0"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group" style="padding-top:0;padding-bottom:0"><!-- wp:media-text {"mediaId":6494,"mediaLink":"http://cavallo.local/cavallo-hoof-boots-barefoot-trim-manual-video-2/","mediaType":"image","mediaWidth":40,"style":{"spacing":{"padding":{"top":"var:preset|spacing|xxl","bottom":"var:preset|spacing|xxl"}}}} -->
+<div class="wp-block-media-text is-stacked-on-mobile" style="padding-top:var(--wp--preset--spacing--xxl);padding-bottom:var(--wp--preset--spacing--xxl);grid-template-columns:40% auto"><figure class="wp-block-media-text__media"><img src="http://cavallo.local/wp-content/uploads/2024/12/Cavallo-Hoof-boots-Barefoot-Trim-Manual-Video.jpg" alt="Cavallo Hoof boots Barefoot Trim Manual &amp; Video" class="wp-image-6494 size-full"/></figure><div class="wp-block-media-text__content"><!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading">Download your Free Cavallo Barefoot Trim Manual &amp; Video:</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"placeholder":"Content…"} -->
+<p>From age 10, Lynn Seeley had been shoeing horses. Lynn understands how the hoof affects the entire horse and went on to improve their well-being through the removal of metal shoes and trimming barefoot horses to health and soundness.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"placeholder":"Content…"} -->
+<p>Now, with over 60 years of practice, Lynn shares his gentle trimming method through this illustrated manual and accompanying video (hosted by me!) This valuable manual should be in every horse owner’s library, either as a reference for yourself or as guidance for your Trimmer.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"}} -->
+<div class="wp-block-buttons"><!-- wp:button {"backgroundColor":"red","style":{"border":{"radius":"50px"}}} -->
+<div class="wp-block-button"><a class="wp-block-button__link has-red-background-color has-background wp-element-button" href="http://cavallo.local/wp-content/uploads/2024/10/CAVALLOBarefootTrim_002.pdf" style="border-radius:50px" target="_blank" rel="noreferrer noopener">Get Your Cavallo Barefoot Trim Manual Here</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div></div>
+<!-- /wp:media-text --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"0","bottom":"var:preset|spacing|sm"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group" style="padding-top:0;padding-bottom:var(--wp--preset--spacing--sm)"><!-- wp:heading {"textAlign":"center","level":3} -->
+<h3 class="wp-block-heading has-text-align-center">Further Resources &amp; Information:</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"fontSize":"large"} -->
+<p class="has-large-font-size">Cavallo offers a comprehensive FAQ and knowledge base, designed to answer all your questions. Please click <strong><a href="http://cavallo.local/faq/">HERE </a></strong>to read more.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"fontSize":"large"} -->
+<p class="has-large-font-size">Have additional questions? Please reach out to the Cavallo Support Staff, who are happy to assist you. The head office can be reached at <strong>1-877-818-0037</strong> or by email at <strong>Info@cavallo.local.</strong></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:acf/subscribe {"name":"acf/subscribe","data":{"title":"\u003ch2\u003eReceive Special Offers\u003c/h2\u003e\r\
+Sign up for our newsletter to get 10% off your first order, alongside exclusive promotions, industry news, tutorials, and more!","_title":"field_667bf8d5dd581","background_image":163,"_background_image":"field_667bfbf6dd582","form":"1","_form":"field_667bfc04dd583","html_anchor":"","_html_anchor":"field_672f5663be83a"},"mode":"edit"} /-->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->

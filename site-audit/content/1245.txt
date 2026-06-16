@@ -1,0 +1,39 @@
+<!-- wp:image {"id":5112,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="http://cavallo.local/wp-content/uploads/2013/09/montyfield.jpg" alt="" class="wp-image-5112"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>By Carole Herder</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Friends of Cavallo are constantly touring and teaching and training. Here is some of the stuff they are currently up to:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Monty Roberts: Monty has just been in Australia hosting some breath-taking seminars on horse handling. He will be at home in California in September for an open day at his farm before he jets off to Europe to spend some time in the UK and Finland. Monty is renowned for his nonviolent approach to horses and created the Join-Up technique using the language of ‘equus’ – an intriguing body language that speaks to horses. By using his principles you can create a willing partnership with your horse, useful in any relationship whether you are starting a young horse or are having trouble loading an old timer. Monty LOVES Cavallo Pads.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":1672,"align":"center"} -->
+<figure class="wp-block-image aligncenter"><img src="//cavallo.local/wp-content/uploads/2013/09/dd.jpg" alt="" class="wp-image-1672" title="horse hoof boots"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Double Dan: Dan James will be hosting live shows in Texas, Washington and British Columbia in September and October. Dan is part of the Double Dan duo and is renowned for his horsemanship skills. He has worked all over the world, from starting horses in Japan to training with cutting horses in Texas to working on a cattle ranch in Western Australia. He is recognized as a world class colt trainer and continues to wow audiences with his astounding horsemanship techniques and entertainment creations. Both Dan James and Dan Steers love Cavallo Hoof Boots and Pads.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":1673,"align":"center"} -->
+<figure class="wp-block-image aligncenter"><img src="//cavallo.local/wp-content/uploads/2013/09/GuyEA-300x168.jpg" alt="" class="wp-image-1673" title="horse hoof boots"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Guy McLean: Guy can be seen in New York in Saratoga Springs and in California at the Royal Winter Fair over the next few months. He presents utterly amazing performances showcasing horsemanship skills at their best. He was a boy who grew up on a ranch in Australia and from the tender age of four, could be found trail riding every day. His skills out grew his home farm when he could work with a horse to perfection, at liberty. As a horseman and entertainer, Guy now performs with a team of horses and is an inspiration across the globe. Guy loves Cavallo Hoof Boots and Cavallo Saddle Pads.</p>
+<!-- /wp:paragraph -->

@@ -1,0 +1,131 @@
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:image {"id":348240,"scale":"cover","sizeSlug":"full","linkDestination":"none","align":"center","style":{"border":{"radius":{"topLeft":"25px","topRight":"25px","bottomLeft":"25px","bottomRight":"25px"}}}} -->
+<figure class="wp-block-image aligncenter size-full has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2026/03/Free-book-download-promo-image-gift-from-Carole-Herder-Cavallo-Hoof-Boots.jpg" alt="" class="wp-image-348240" style="border-top-left-radius:25px;border-top-right-radius:25px;border-bottom-left-radius:25px;border-bottom-right-radius:25px;object-fit:cover"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"textAlign":"center","level":3,"style":{"spacing":{"padding":{"left":"var:preset|spacing|xs","right":"var:preset|spacing|xs","top":"var:preset|spacing|md","bottom":"0"},"margin":{"top":"0","bottom":"0"}}}} -->
+<h3 class="wp-block-heading has-text-align-center" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--md);padding-right:var(--wp--preset--spacing--xs);padding-bottom:0;padding-left:var(--wp--preset--spacing--xs)">Get your FREE copy of “Hoof Prints on the Journey” + exclusive hoof care tips, articles, and special offers:</h3>
+<!-- /wp:heading --></div>
+<!-- /wp:group -->
+
+<!-- wp:buttons {"style":{"spacing":{"padding":{"bottom":"var:preset|spacing|xl"}}},"layout":{"type":"flex","justifyContent":"center"}} -->
+<div class="wp-block-buttons" style="padding-bottom:var(--wp--preset--spacing--xl)"><!-- wp:button {"backgroundColor":"red","className":"has-red-color","style":{"border":{"radius":"100px"},"spacing":{"padding":{"left":"50px","right":"50px","top":"12px","bottom":"12px"}},"typography":{"fontStyle":"normal","fontWeight":"800","lineHeight":"1.45"}},"fontSize":"large"} -->
+<div class="wp-block-button has-red-color"><a class="wp-block-button__link has-red-background-color has-background has-large-font-size has-custom-font-size wp-element-button" href="http://cavallo.local/wp-content/uploads/2024/10/HoofPrintsontheJourney.pdf" style="border-radius:100px;padding-top:12px;padding-right:50px;padding-bottom:12px;padding-left:50px;font-style:normal;font-weight:800;line-height:1.45" target="_blank" rel="noreferrer noopener">Start Learning Now!</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons -->
+
+<!-- wp:heading {"textAlign":"center","style":{"spacing":{"padding":{"top":"var:preset|spacing|lg","left":"var:preset|spacing|xs","right":"var:preset|spacing|xs","bottom":"var:preset|spacing|lg"}}},"backgroundColor":"light-red-1"} -->
+<h2 class="wp-block-heading has-text-align-center has-light-red-1-background-color has-background" style="padding-top:var(--wp--preset--spacing--lg);padding-right:var(--wp--preset--spacing--xs);padding-bottom:var(--wp--preset--spacing--lg);padding-left:var(--wp--preset--spacing--xs)">Everything you need to support healthier hooves and a stronger bond.</h2>
+<!-- /wp:heading -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"textAlign":"center","style":{"spacing":{"padding":{"left":"var:preset|spacing|xs","right":"var:preset|spacing|xs","top":"var:preset|spacing|sm","bottom":"var:preset|spacing|sm"},"margin":{"top":"0","bottom":"0"}}}} -->
+<h2 class="wp-block-heading has-text-align-center" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--sm);padding-right:var(--wp--preset--spacing--xs);padding-bottom:var(--wp--preset--spacing--sm);padding-left:var(--wp--preset--spacing--xs)">From Carole Herder, founder of Cavallo Hoof Boots</h2>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"textAlign":"center","level":4} -->
+<h4 class="wp-block-heading has-text-align-center">Based on decades of experience helping horses around the world.</h4>
+<!-- /wp:heading --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"right":"var:preset|spacing|gutter","left":"var:preset|spacing|gutter"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group" style="padding-right:var(--wp--preset--spacing--gutter);padding-left:var(--wp--preset--spacing--gutter)"><!-- wp:image {"id":187854,"width":"286px","height":"auto","aspectRatio":"0.793322865878853","sizeSlug":"full","linkDestination":"none","align":"center"} -->
+<figure class="wp-block-image aligncenter size-full is-resized"><img src="http://cavallo.local/wp-content/uploads/2021/01/Carole-Herder-book-Hoof-Prints-on-the-Journey-cover-image.jpg" alt="Carole Herder - book Hoof Prints on the Journey cover image" class="wp-image-187854" style="aspect-ratio:0.793322865878853;width:286px;height:auto"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"textAlign":"center","level":4,"style":{"spacing":{"padding":{"right":"var:preset|spacing|xs","left":"var:preset|spacing|xs"}}}} -->
+<h4 class="wp-block-heading has-text-align-center" style="padding-right:var(--wp--preset--spacing--xs);padding-left:var(--wp--preset--spacing--xs)">Discover a more natural, connected approach to hoof care, wellness, and balance.</h4>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"textAlign":"center","level":6,"style":{"spacing":{"padding":{"top":"var:preset|spacing|sm"}}}} -->
+<h6 class="wp-block-heading has-text-align-center" style="padding-top:var(--wp--preset--spacing--sm)">Hoof care • Wellness • Balance • Connection </h6>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"textAlign":"center","level":6} -->
+<h6 class="wp-block-heading has-text-align-center">All in one simple guide (Limited-time offer, instant download)</h6>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"align":"left","style":{"spacing":{"padding":{"top":"var:preset|spacing|sm","bottom":"var:preset|spacing|xs","left":"var:preset|spacing|xs","right":"var:preset|spacing|xs"}}}} -->
+<p class="has-text-align-left" style="padding-top:var(--wp--preset--spacing--sm);padding-right:var(--wp--preset--spacing--xs);padding-bottom:var(--wp--preset--spacing--xs);padding-left:var(--wp--preset--spacing--xs)">If you’re here, it’s because you care deeply about your horse. and perhaps, like so many of us, you’ve felt that quiet worry... the kind that sits in your chest when something just doesn’t feel quite right. I wrote Hoof Prints on the Journey for you. For those moments of uncertainty, for the questions that don’t always have clear answers, and for the love that drives us to keep searching anyway. This book was born from my own journey - learning, sometimes the hard way, how much our horses depend on us to understand them, advocate for them, and make choices that truly support their well-being.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"left","style":{"spacing":{"padding":{"top":"var:preset|spacing|sm","bottom":"var:preset|spacing|xs","left":"var:preset|spacing|xs","right":"var:preset|spacing|xs"}}}} -->
+<p class="has-text-align-left" style="padding-top:var(--wp--preset--spacing--sm);padding-right:var(--wp--preset--spacing--xs);padding-bottom:var(--wp--preset--spacing--xs);padding-left:var(--wp--preset--spacing--xs)">What I’ve discovered and share with you in these pages is that you are not powerless. With the right knowledge and a willingness to look a little deeper, small, thoughtful changes can transform your horse’s comfort, soundness, and overall health. Inside my book, you’ll find simple, practical guidance to help you navigate common challenges. From lameness and hoof health, to insights from experts and stories from horse owners just like you, my hope is that this book brings you clarity, confidence, and a renewed sense of connection, so you and your horse can move forward together with trust, curiosity, and joy.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:heading {"textAlign":"center","level":3,"style":{"spacing":{"padding":{"top":"var:preset|spacing|lg","bottom":"var:preset|spacing|lg","left":"var:preset|spacing|sm","right":"var:preset|spacing|sm"}}},"backgroundColor":"light-red-1"} -->
+<h3 class="wp-block-heading has-text-align-center has-light-red-1-background-color has-background" style="padding-top:var(--wp--preset--spacing--lg);padding-right:var(--wp--preset--spacing--sm);padding-bottom:var(--wp--preset--spacing--lg);padding-left:var(--wp--preset--spacing--sm)">A Horse Lover's Review for Hoof Prints on the Journey:</h3>
+<!-- /wp:heading -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:columns {"style":{"spacing":{"padding":{"top":"var:preset|spacing|lg","bottom":"var:preset|spacing|lg","left":"var:preset|spacing|xs","right":"var:preset|spacing|xs"}}}} -->
+<div class="wp-block-columns" style="padding-top:var(--wp--preset--spacing--lg);padding-right:var(--wp--preset--spacing--xs);padding-bottom:var(--wp--preset--spacing--lg);padding-left:var(--wp--preset--spacing--xs)"><!-- wp:column {"layout":{"type":"constrained"}} -->
+<div class="wp-block-column"><!-- wp:image {"id":348253,"width":"357px","height":"auto","aspectRatio":"0.7502681591902968","sizeSlug":"full","linkDestination":"none","align":"center","style":{"border":{"radius":{"topLeft":"33px","topRight":"33px","bottomLeft":"33px","bottomRight":"33px"},"width":"0px","style":"none"}}} -->
+<figure class="wp-block-image aligncenter size-full is-resized has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2026/03/Horse-holding-Carole-Herders-Book-Hoof-Prints-on-the-Journey.jpg" alt="Horse holding Carole Herder's Book - Hoof Prints on the Journey" class="wp-image-348253" style="border-style:none;border-width:0px;border-top-left-radius:33px;border-top-right-radius:33px;border-bottom-left-radius:33px;border-bottom-right-radius:33px;aspect-ratio:0.7502681591902968;width:357px;height:auto"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"layout":{"type":"constrained"}} -->
+<div class="wp-block-column"><!-- wp:heading {"level":5} -->
+<h5 class="wp-block-heading">"It’s important to me that I honour my horse’s important role in my life..."</h5>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"spacing":{"padding":{"top":"var:preset|spacing|sm"}}}} -->
+<p style="padding-top:var(--wp--preset--spacing--sm)">"I was a fast convert after getting my first pair of Treks a few months ago. I have used them weekly with my gelding and can’t imagine I’ll ever go back to shoes! I loved them before I even knew the philosophies and reasons behind barefoot hoof care, but please tell Carole that reading her book has increased my understanding and cemented the philosophy for me.<br><br>Everyone talks about how horses are therapeutic. I’m the poster child for someone whose life is more livable because of them. It’s especially important to me that I honour my horse’s important role in my life by doing my best to keep him healthy and happy, too. I feel like I’m even closer to that ideal now."</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>– Lori Maroe</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:heading {"textAlign":"center","level":4,"style":{"spacing":{"padding":{"top":"var:preset|spacing|lg","bottom":"var:preset|spacing|lg","left":"var:preset|spacing|lg","right":"var:preset|spacing|lg"}}},"backgroundColor":"light-red-1"} -->
+<h4 class="wp-block-heading has-text-align-center has-light-red-1-background-color has-background" style="padding-top:var(--wp--preset--spacing--lg);padding-right:var(--wp--preset--spacing--lg);padding-bottom:var(--wp--preset--spacing--lg);padding-left:var(--wp--preset--spacing--lg)">Download your free copy today and enjoy a deeper connection with your equine!</h4>
+<!-- /wp:heading -->
+
+<!-- wp:buttons {"style":{"spacing":{"margin":{"top":"32px"},"padding":{"bottom":"var:preset|spacing|xl"}}},"layout":{"type":"flex","justifyContent":"center"}} -->
+<div class="wp-block-buttons" style="margin-top:32px;padding-bottom:var(--wp--preset--spacing--xl)"><!-- wp:button {"backgroundColor":"red","className":"has-red-color","style":{"border":{"radius":"100px"},"spacing":{"padding":{"left":"50px","right":"50px","top":"12px","bottom":"12px"}},"typography":{"fontStyle":"normal","fontWeight":"800","lineHeight":"1.45"}},"fontSize":"large"} -->
+<div class="wp-block-button has-red-color"><a class="wp-block-button__link has-red-background-color has-background has-large-font-size has-custom-font-size wp-element-button" href="http://cavallo.local/wp-content/uploads/2024/10/HoofPrintsontheJourney.pdf" style="border-radius:100px;padding-top:12px;padding-right:50px;padding-bottom:12px;padding-left:50px;font-style:normal;font-weight:800;line-height:1.45" target="_blank" rel="noreferrer noopener">Start Learning Now!</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons -->
+
+<!-- wp:spacer {"height":"61px"} -->
+<div style="height:61px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:group {"className":"reverse-order\u002d\u002dmobile","style":{"spacing":{"padding":{"top":"var:preset|spacing|sm","bottom":"var:preset|spacing|xxl","left":"var:preset|spacing|xs","right":"var:preset|spacing|xs"},"margin":{"top":"0","bottom":"0"},"blockGap":"var:preset|spacing|sm"}},"layout":{"type":"constrained","contentSize":"1200px"}} -->
+<div id="Pastern-Wraps-Carole-Happy-Trails" class="wp-block-group reverse-order--mobile" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--sm);padding-right:var(--wp--preset--spacing--xs);padding-bottom:var(--wp--preset--spacing--xxl);padding-left:var(--wp--preset--spacing--xs)"><!-- wp:columns {"verticalAlignment":"center"} -->
+<div class="wp-block-columns are-vertically-aligned-center"><!-- wp:column {"verticalAlignment":"center","width":"57.7%"} -->
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis:57.7%"><!-- wp:heading {"level":5,"style":{"typography":{"fontStyle":"normal","fontWeight":"200"}}} -->
+<h5 class="wp-block-heading" style="font-style:normal;font-weight:200">Wishing you many happy trails,</h5>
+<!-- /wp:heading -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"0","bottom":"0","left":"0","right":"0"},"margin":{"top":"47px","bottom":"0"}}},"layout":{"type":"constrained","contentSize":"227px","justifyContent":"left"}} -->
+<div class="wp-block-group" style="margin-top:47px;margin-bottom:0;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:image {"id":201670,"width":"159px","height":"auto","aspectRatio":"2.9725803151217516","sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full is-resized"><img src="http://cavallo.local/wp-content/uploads/2025/03/Carole-Herder-signature-no-background.png" alt="" class="wp-image-201670" style="aspect-ratio:2.9725803151217516;width:159px;height:auto"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:group -->
+
+<!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"0","bottom":"0","left":"0","right":"0"}}},"fontSize":"large"} -->
+<p class="has-large-font-size" style="margin-top:0;margin-right:0;margin-bottom:0;margin-left:0">Carole Herder</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"0","bottom":"0","left":"0","right":"0"}}}} -->
+<p style="margin-top:0;margin-right:0;margin-bottom:0;margin-left:0"> President and founder of Cavallo Horse &amp; Rider Inc</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"32px","bottom":"24px"}}}} -->
+<p style="margin-top:32px;margin-bottom:24px">Carole Herder, President and founder of Cavallo Horse &amp; Rider Inc., is an internationally acclaimed figure in the equestrian community. Her books, There Are No Horseshoes in Heaven and Hoof Prints on the Journey, have become international bestsellers, further solidifying her status as a thought leader in the industry.&nbsp;Since 1993, Carole has been deeply involved in horse health. Cavallo is a global leader in developing, manufacturing, and distributing horse products. Carole’s passion for horse comfort is evident in her designs, including the innovative Cavallo Hoof Boots and Total Comfort System Saddle Pads.<br><br>A true pioneer in the equestrian community, Carole is widely recognized for her expertise and contributions. She champions the benefits of keeping horses in their natural state, advocates for overall hoof health, and works towards the alleviation of debilitating disorders. Her achievements include being an honoured award recipient of the Royal Bank of Canada Woman Entrepreneur of the Year, British Columbia’s Businesswoman of the Year, and North America Enterprising Woman of the Year.&nbsp;<br>Carole is a certified Dr. Deepak Chopra Yoga, Meditation and Ayurvedic Lifestyle Instructor and a proud member of the Women Presidents Organization, supporting female entrepreneurs in every industry.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"center","width":"","style":{"spacing":{"padding":{"right":"0","left":"0","top":"0","bottom":"0"}}},"layout":{"type":"constrained","contentSize":"437px","justifyContent":"right","wideSize":""}} -->
+<div class="wp-block-column is-vertically-aligned-center" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:image {"id":201671,"scale":"cover","sizeSlug":"full","linkDestination":"none","style":{"color":{"duotone":"unset"},"border":{"width":"0px","style":"none","radius":"10px"}}} -->
+<figure class="wp-block-image size-full has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2025/03/Cavallo-Hoof-Boots-President-Carole-Herder-Web-signature-image-new-site-2025-LR.jpg" alt="" class="wp-image-201671" style="border-style:none;border-width:0px;border-radius:10px;object-fit:cover"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->

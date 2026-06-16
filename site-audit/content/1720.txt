@@ -1,0 +1,29 @@
+<!-- wp:paragraph -->
+<p>The hoof is a <a href="https://en.wikipedia.org/wiki/Horse_hoof" target="_blank" rel="noopener">miraculous structure</a> designed with innate intelligence to function as support for the weight of a horse in movement. In its natural state, it is an engineering marvel. When a horse's full weight descends, the hoof is sandwiched between that load and the ground. The <a href="https://www.oksnhc.com/hoof-anatomy-and-function.html" target="_blank" rel="noopener">hoof spreads apart, allowing the coffin bone to drop, like a trampoline</a>. This is the natural shock-absorbing feature of the hoof. The walls spread (up to 6mm from side to side) and the sole draws flat.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":12072,"align":"left"} -->
+<figure class="wp-block-image alignleft"><img src="//www.cavallo.local/wp-content/uploads/2018/08/The-equine-hoof-organ-300x235.jpg" alt="The equine hoof organ" class="wp-image-12072"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>It has been said metaphorically that a horse has 5 hearts; four on the ground and one in the chest. This refers to the frog’s blood pumping function, circulating blood down through the extremities and back again. <a href="https://en.wikipedia.org/wiki/Circulatory_system_of_the_horse" target="_blank" rel="noopener">Circulation is imperative to the distribution of oxygen and nutrients throughout the system.</a> Healthy blood flow aids in prevention and facilitates healing. Limited blood flow leads to degeneration. In addition, the frog spreads the heels apart, drawing the sole flat and inviting the bone structure of the leg to descend into the hoof. This is how shock is absorbed in the hoof capsule. In the case of a shod horse, if the frog cannot make ground contact and function as it should due to&nbsp;being restricted by the metal shoe, then shock cannot be correctly absorbed, and blood cannot freely flow.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:spacer {"height":"1px"} -->
+<div style="height:1px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:embed {"url":"https://www.youtube.com/watch?v=DXCFuHHMXM8","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://www.youtube.com/watch?v=DXCFuHHMXM8
+</div></figure>
+<!-- /wp:embed -->
+
+<!-- wp:paragraph -->
+<p>Being barefoot and booted allows the hoof to function as nature intended.&nbsp; As hoofs will adapt to whatever environment they are living in, your barefoot horse may need a bit of extra protection when heading out on some rocky trails if they are normally kept in a pasture.&nbsp; <a href="http://cavallo.local/how-to-measure/" target="_blank" rel="noopener">Cavallo Hoof Boots</a> are a perfect compliment to a barefoot lifestyle and giving your horse the freedom to live naturally and pain free.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph -->

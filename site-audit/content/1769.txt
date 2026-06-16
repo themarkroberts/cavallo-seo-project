@@ -1,0 +1,215 @@
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">&nbsp;</h3>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading"><strong>Here are some Cavallo Hoof Boot reviews that we received recently - thanks to everyone for this thoughtful feedback!&nbsp;</strong></h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":15142,"align":"left"} -->
+<figure class="wp-block-image alignleft"><img src="http://cavallo.local/wp-content/uploads/2019/05/Lynda-Testimonial-1.jpg" alt="Cavallo Hoof Boot review - Linda Spurlock" class="wp-image-15142"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":15141,"linkDestination":"custom","align":"left"} -->
+<figure class="wp-block-image alignleft"><a href="http://cavallo.local/product-category/hoof-boot/trek-hoof-boots/"><img src="http://cavallo.local/wp-content/uploads/2019/05/Cheryl-Lynn-Oikle-testimonail-1-223x300.jpg" alt="Cheryl Lynn Oikle - testimonial Cavallo Hoof Boots" class="wp-image-15141"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>"I have always had a shod horse but used Cavallo Treks in the Winter. I have ridden on blast rock, climbed mountains, and sunk in deep mud. I love these boots and they even stay on with canter work! My mare foundered last June and wore treks 24/7 until she settled. With the Cavallo Boots and a fabulous barefoot trimmer, we are back in the saddle rehabilitating and comfortable! I am sold on barefoot now and Cavallos are and will&nbsp;be my go to and first choice. I ride with boots now and my mare is happier than I have ever seen her!"</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>- Cheryl Lynn Oickle</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>"I ride in Pacific NW and the norm is muddy mucky trails. I've never lost a Cavallo Trek boot, and I've been using them for years. I have lost other boots prior to them though!&nbsp; I also ride Paso Finos!"</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>- Charlene A. Marley</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Happy Driving with Cavallo CLB!</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>"Good afternoon,</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Just wanted to send you a picture of my miniature's Cavallo boots that I received 2 weeks ago.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":15145,"align":"left"} -->
+<figure class="wp-block-image alignleft"><img src="http://cavallo.local/wp-content/uploads/2019/05/mccall-driving-mini-horse-Cavallo-Hoof-Boots-CLB-1.jpg" alt="mccall - driving mini horse Cavallo Hoof Boots CLB" class="wp-image-15145"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>I love them and Fannie is very comfortable with them. As you can see , she’s not that much bigger than a Newfie dog!&nbsp; Thanks again and keep developing new products that help the horse world!"</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>-Evelyn and Greg MacCaul</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:spacer {"height":"1px"} -->
+<div style="height:1px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Cavallo Crusaders at Equine Affaire!</h3>
+<!-- /wp:heading -->
+
+<!-- wp:image {"id":15147,"align":"left"} -->
+<figure class="wp-block-image alignleft"><img src="http://cavallo.local/wp-content/uploads/2019/05/Equine-Affaire-2019-Lisa-and-Jeff-Sapp-crusaders-3-1-150x150.jpg" alt="Equine Affaire 2019 - Lisa and Jeff Sapp - Cavallo Hoof Boot crusaders" class="wp-image-15147"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>Cavallo CEO Greg Giles recently had the pleasure of meeting Cavallo Crusaders, Lisa and Jeff Sapp, at Equine Affaire in C, Ohio!&nbsp; &nbsp;Lisa and Jeff have eight horses - ALL barefoot and booted in Cavallos!&nbsp; They even took the time to stop and educate people dropping by the Cavallo booth about how well our boots can work for their horses.&nbsp; Thanks again, Jeff and Lisa!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:spacer {"height":"1px"} -->
+<div style="height:1px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Laminitis - Recovering in Style with Cavallos!</h3>
+<!-- /wp:heading -->
+
+<!-- wp:image {"id":15153,"align":"left"} -->
+<figure class="wp-block-image alignleft"><img src="http://cavallo.local/wp-content/uploads/2019/05/Mona-recovering-from-Laminitis-in-Cavallo-Hoof-Boots-1-257x300.jpg" alt="Mona - recovering from Laminitis in Cavallo Hoof Boots..." class="wp-image-15153"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>"Hey Team,</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>After a rough winter my poor little miniature pony Mona started to develop Laminitis. The first few weeks she spent hours and hours laying down, had no appetite, and was in obvious pain. After a round of Bute she was doing a bit better but that obviously wasn’t a permanent fix. My vet recommended hoof boots to me, but I was having trouble finding them in miniature sizes until I stumbled across the CLB from Cavallo. I ordered a pair after measuring her feet (in pink sparkles, of course, she’s a palomino how could I not).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Today I put them on for the first time and I feel like this is the start to getting my pony back. I saw immediate results from her actually WANTING to walk instead of having to drag her behind me on the lead rope begging her to follow, to walking her on uneven footing back to her pen, although she was still stumbling a bit. she was taking confident steps and was happy to walk. With the Cavallo CLB, exercise, diet, and help from my farrier and vet, i have no doubt that Mona will be running around before I know it! Thank you for giving my pony the confidence in knowing that not every step has to hurt! I cannot wait to measure my riding mare and order a pair of hoof boots for her to make her more comfortable as well when we go out on the trail!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Attached is a picture of Mona a few minutes after putting the boots on, I think she likes them!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Thanks Again,"</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>-Maxi</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Tell us you Like us!</h3>
+<!-- /wp:heading -->
+
+<!-- wp:image {"id":14351,"align":"left"} -->
+<figure class="wp-block-image alignleft"><img src="http://cavallo.local/wp-content/uploads/2019/02/Review-us-1-300x240.jpg" alt="Review Cavallo Hoof Boots on Facebook or Google" class="wp-image-14351"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>If you care to leave us a <strong>Facebook or Google review</strong>, we will love you forever!&nbsp; Just click below:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>To leave us a recommendation on Facebook</strong> click <a href="http://bit.ly/2TP5bDN" target="_blank" rel="noopener">HERE</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Leave us a review on Google</strong> click <a href="https://search.google.com/local/writereview?placeid=ChIJiSCX5085hlQRMwRvTuRUU00" target="_blank" rel="noopener">HERE</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Thank you kindly!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:spacer {"height":"1px"} -->
+<div style="height:1px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:paragraph -->
+<p>Wishing you many happy trails,</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":11988,"linkDestination":"custom","align":"left"} -->
+<figure class="wp-block-image alignleft"><a href="https://www.amazon.com/There-are-Horseshoes-Heaven-Tradition/dp/1523978163/ref=sr_1_fkmrnull_1?keywords=there+are+no+horseshoes+in+heaven&amp;qid=1556906426&amp;s=gateway&amp;sr=8-1-fkmrnull"><img src="http://cavallo.local/wp-content/uploads/2018/08/Caroles-signature-with-click-here-452x261.jpg" alt="Carole Herder's book - There are no Horseshoes in Heaven" class="wp-image-11988"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->

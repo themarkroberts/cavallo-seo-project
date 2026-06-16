@@ -1,0 +1,291 @@
+<!-- wp:heading {"textAlign":"center","level":1,"style":{"spacing":{"padding":{"bottom":"var:preset|spacing|md"}}}} -->
+<h1 class="wp-block-heading has-text-align-center" style="padding-bottom:var(--wp--preset--spacing--md)">Your Cavallo News – September 2024</h1>
+<!-- /wp:heading -->
+
+<!-- wp:image {"id":4011,"width":"975px","height":"auto","sizeSlug":"full","linkDestination":"none","align":"center"} -->
+<figure class="wp-block-image aligncenter size-full is-resized"><img src="http://cavallo.local/wp-content/uploads/2024/10/news-banner.jpg" alt="" class="wp-image-4011" style="width:975px;height:auto"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|lg","bottom":"var:preset|spacing|lg"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group" style="padding-top:var(--wp--preset--spacing--lg);padding-bottom:var(--wp--preset--spacing--lg)"><!-- wp:heading {"textAlign":"center"} -->
+<h2 class="wp-block-heading has-text-align-center">Step Into the Future with the World's Most Intelligent Hoof Boot!</h2>
+<!-- /wp:heading -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:paragraph -->
+<p>We are so excited to be in the final design stages of the world’s first smart boot. This is truly a game changer, which will allow you to understand your horse’s health and well-being in real time through AI.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Imagine viewing your horse’s gait, balance, ground force reaction and more on your own personal device. This diagnostic tool can identify early signs of lameness before they are even visible to the eye. The sensors are placed in the sole of Cavallo Hoof Boots, transforming it into the world’s first diagnostic hoof boot.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Stay tuned for more news on&nbsp;<a href="https://www.consteed.com/en-de/page-viewer/forriders">Consteed!</a></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"id":327828,"sizeSlug":"full","linkDestination":"none","style":{"border":{"radius":"10px"}}} -->
+<figure class="wp-block-image size-full has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2025/10/image-1.jpg" alt="Cavallo News September 2024 - Consteed boot!" class="wp-image-327828" style="border-radius:10px"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|lg","bottom":"var:preset|spacing|lg"}}},"backgroundColor":"light-red-1","layout":{"type":"constrained"}} -->
+<div class="wp-block-group has-light-red-1-background-color has-background" style="padding-top:var(--wp--preset--spacing--lg);padding-bottom:var(--wp--preset--spacing--lg)"><!-- wp:heading {"textAlign":"center"} -->
+<h2 class="wp-block-heading has-text-align-center">Guns Up - Boots On!</h2>
+<!-- /wp:heading -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"id":327829,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="http://cavallo.local/wp-content/uploads/2025/10/image-2.jpg" alt="Texas Tech Uni Masked Rider - Cavallo News September 2024" class="wp-image-327829"/><figcaption class="wp-element-caption">Texas Masked Rider's horse wearing Trek</figcaption></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:paragraph -->
+<p>Texas Masked Rider's horse wearing Trek</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Underneath this mask is another Cavallo Boot lover!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The Texas Masked Rider is the well-known and beloved official mascot at Texas Tech University in Texas. A student selected through a competitive process holds the sought-after position of Masked Rider. A symbol of school spirit and tradition, the Masked Rider embodies the university’s heritage and values. The role is steeped in tradition and is meant to inspire pride and enthusiasm among students, alumni, and fans.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The Masked Rider leads the Texas Tech Red Raiders football team onto the field at home games and is a prominent figure during football games, riding a horse and energizing the crowd. The famous saying, “Guns Up!” is a spirited rally cry and signature exclamation that embodies the energy and enthusiasm of the Texas Tech University spirit.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The Texas Tech Masked Rider has exclusively used Cavallo Hoof Boots for many years. Cavallos are known for their excellent traction and not coming off the hoof, making them a good choice for the high-activity demands of the Masked Rider’s performances.&nbsp;</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:block {"ref":346487} /-->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|lg","bottom":"var:preset|spacing|lg"}}},"backgroundColor":"light-red-1","layout":{"type":"constrained"}} -->
+<div class="wp-block-group has-light-red-1-background-color has-background" style="padding-top:var(--wp--preset--spacing--lg);padding-bottom:var(--wp--preset--spacing--lg)"><!-- wp:heading {"textAlign":"center"} -->
+<h2 class="wp-block-heading has-text-align-center">Laminitic Donkeys Get a ‘Bootiful’ Transformation!</h2>
+<!-- /wp:heading -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:embed {"url":"https://youtu.be/kQtbS0u-ZQ0","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://youtu.be/kQtbS0u-ZQ0
+</div></figure>
+<!-- /wp:embed --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:paragraph -->
+<p><a href="https://turtlevalleydonkeyrefuge.com/about/" target="_blank" rel="noreferrer noopener">Turtle Valley Donkey Refuge</a>&nbsp;in BC recently reached out. They needed help with two of their beautiful Mammoth Donkey ladies, both suffering from Laminitis.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>We sent boots to help, and look what we got back! Nicky, their Herd Health Staff Member, made this excellent video for their ‘eBray’ Newsletter (we know…what an awesome name for a newsletter!).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>This 10-minute video walks you through the entire process of preparing and fitting an equine with Cavallos for the first time. Turtle Valley is always working to educate people about donkey care, so this will help you with those long-eared friends that you’re thinking of booting.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Turtle Valley Refuge has 100 donkeys of all shapes, sizes and ages in their care! They are located near Kamloops, BC (Canada) and welcome public visitors on special days.&nbsp;</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|lg","bottom":"var:preset|spacing|lg"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group" style="padding-top:var(--wp--preset--spacing--lg);padding-bottom:var(--wp--preset--spacing--lg)"><!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|lg","bottom":"var:preset|spacing|lg"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group" style="padding-top:var(--wp--preset--spacing--lg);padding-bottom:var(--wp--preset--spacing--lg)"><!-- wp:heading {"textAlign":"center"} -->
+<h2 class="wp-block-heading has-text-align-center">Whatever your Discipline, We've Got Ya!</h2>
+<!-- /wp:heading -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:paragraph -->
+<p>Roping cattle? Dressage? Maybe you’re a showjumper? All three?&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>No matter what your discipline of choice is, we’ve got a Cavallo Hoof Boot for your horse.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Dressage trainer and rider, Sue Grice and her horse cover all the bases in this video with sure footing and supremely comfortable hooves!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>(PS – Notice her horse’s movements before and AFTER being booted!)</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:embed {"url":"https://www.youtube.com/watch?v=TaHCn3yuvDQ","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://www.youtube.com/watch?v=TaHCn3yuvDQ
+</div></figure>
+<!-- /wp:embed --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"textAlign":"center"} -->
+<h2 class="wp-block-heading has-text-align-center">New Podcasts from the International Liberty Horse Association:</h2>
+<!-- /wp:heading -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"id":327832,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="http://cavallo.local/wp-content/uploads/2025/10/image-1-1.jpg" alt="" class="wp-image-327832"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><strong>Interview About Real Life with Amber Marshall</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Meet the REAL Amber: In this episode, your host, Dan James of Double Dan Horsemanship, sits down with Heartland’s Amber Marshall to discuss all things ‘Heartland horses’, plus personal stories that offer you a glimpse into Amber’s life outside of being ‘Amy’, her iconic character you know and love..</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.libertyhorseassociation.com/podcasts/life-at-liberty/episodes/2148780213" target="_blank" rel="noreferrer noopener">Listen Now!</a></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"id":327831,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="http://cavallo.local/wp-content/uploads/2025/10/image.png" alt="" class="wp-image-327831"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><strong>Ben Atkinson and Friends Talk at the Round Table</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Some of the most fascinating conversations happen between top trainers at the end of the day when they weren’t ‘on’. Hear Ty Murray, Warwick Schiller, and Ben &amp; Georgie Atkinson share their personal stories, challenges, and the transformative experiences that make Liberty horsemanship unique.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.libertyhorseassociation.com/podcasts/life-at-liberty/episodes/2148866005" target="_blank" rel="noreferrer noopener">Listen Now!</a></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"id":194848} -->
+<figure class="wp-block-image"><img src="http://cavallo.local/wp-content/uploads/2024/09/Jennifer-Hudock-Liberty-Hore-Podcast-452x452.jpg" alt="ennifer Hudock Liberty Hore Podcast" class="wp-image-194848"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><strong>Jennifer Hudock Says NO to the Rules of Time</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Have you ever felt that it’s too late to chase your dreams? That time has slipped through your fingers? Jennifer’s story reminds us that it’s NEVER too late to follow your heart. ILHA member Jennifer Hudock explores her inspiring story of passion, determination, and success within the Liberty discipline.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.libertyhorseassociation.com/podcasts/life-at-liberty/episodes/2148866005" target="_blank" rel="noreferrer noopener">Listen Now!</a></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:acf/custom-reviews {"name":"acf/custom-reviews","data":{"heading":"\u003cdiv class=\u0022elementor-element elementor-element-4247204 elementor-widget elementor-widget-heading\u0022 data-id=\u00224247204\u0022 data-element_type=\u0022widget\u0022 data-widget_type=\u0022heading.default\u0022\u003e\r\
+\u003cdiv class=\u0022elementor-widget-container\u0022\u003e\r\
+\u003ch2 class=\u0022elementor-heading-title elementor-size-default\u0022 style=\u0022text-align: center;\u0022\u003eCavallo Hoof Boot Reviews: Spotlight on TREC GB!\u003c/h2\u003e\r\
+\u003c/div\u003e\r\
+\u003c/div\u003e\r\
+\u003cdiv class=\u0022elementor-element elementor-element-146a527 elementor-widget__width-initial elementor-widget elementor-widget-text-editor\u0022 data-id=\u0022146a527\u0022 data-element_type=\u0022widget\u0022 data-widget_type=\u0022text-editor.default\u0022\u003e\r\
+\u003cdiv class=\u0022elementor-widget-container\u0022\u003e\r\
+\u003cp style=\u0022text-align: center;\u0022\u003eThe Trek GB 2024 National Championships just happened in August. Meet some of their finest competitors!\u003c/p\u003e\r\
+\r\
+\u003c/div\u003e\r\
+\u003c/div\u003e","_heading":"field_678f5c6d7ab11","items_0_image":202100,"_items_0_image":"field_678f6fd99eead","items_0_name":"– Sheaffe Monteith","_items_0_name":"field_678f70129eeae","items_0_title":"10 Years and Counting...","_items_0_title":"field_678f70459eeb0","items_0_cta":"","_items_0_cta":"field_678f7c4c46a5d","items_0_small_content":"“I just wanted to share a recent photo of myself and my boy, Benny...\u0022","_items_0_small_content":"field_678f701e9eeaf","items_0_full_content":"“I just wanted to share a recent photo of myself and my boy, Benny, at the Cavallo TREC GB National Championships. We travelled over to Scotland from Ireland and had an amazing time. I have used Cavallo Trek boots for nearly 10 years now and love them still. Thank you, Sheaffe”","_items_0_full_content":"field_678f70679eeb1","items_1_image":201709,"_items_1_image":"field_678f6fd99eead","items_1_name":"Jan","_items_1_name":"field_678f70129eeae","items_1_title":"\u0022Haven't rubbed or twisted!\u0022","_items_1_title":"field_678f70459eeb0","items_1_cta":"","_items_1_cta":"field_678f7c4c46a5d","items_1_small_content":"“Hi, I just wanted to let you know how much Polly and I really appreciate our Cavallo Trek Boots...\u0022","_items_1_small_content":"field_678f701e9eeaf","items_1_full_content":"Who is this triumphant rider? ⭐️ Meet Janet Bradshaw. She is a TREC GB rider and she won a pair of Green Trek Boots in competition! We enjoyed hearing this report from her and Polly:\r\
+\r\
+“Hi, I just wanted to let you know how much Polly and I really appreciate our Cavallo Trek Boots. They are enabling our equine podiatrist to manage Polly’s feet much better so her hooves are looking great. They also give Polly a lot more comfort and confidence over stony ground so she is much happier on tracks now.\r\
+\r\
+They are easy to put on and off and haven’t rubbed or twisted at all!\r\
+\r\
+Best wishes, Jan (Photo credit: Tamsin Minchen)","_items_1_full_content":"field_678f70679eeb1","items_2_image":327834,"_items_2_image":"field_678f6fd99eead","items_2_name":"Zoe","_items_2_name":"field_678f70129eeae","items_2_title":"Two Very Happy Winners","_items_2_title":"field_678f70459eeb0","items_2_cta":"","_items_2_cta":"field_678f7c4c46a5d","items_2_small_content":"“Thank you so much for the lovely prizes and hoof pick (always handy!). Schweppes can’t wait to try them...\u0022","_items_2_small_content":"field_678f701e9eeaf","items_2_full_content":"Schweppes and Zoe Morton, a TREC GB horse and rider duo, recently won Cavallo Trek Boots and Comfort Pads as a competition prize!\r\
+\r\
+“Thank you so much for the lovely prizes and hoof pick (always handy!). Schweppes can’t wait to try them – though he’s having a hoof trim next week so we may wait until then to actually ride out in them!! I’ve never won such great prizes – we feel truly special!”\r\
+\r\
+xx – Zoe","_items_2_full_content":"field_678f70679eeb1","items":3,"_items":"field_678f5c917ab12","html_anchor":"","_html_anchor":"field_672f5663be83a"},"mode":"preview"} /-->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|lg","bottom":"var:preset|spacing|lg"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group" style="padding-top:var(--wp--preset--spacing--lg);padding-bottom:var(--wp--preset--spacing--lg)"><!-- wp:heading {"textAlign":"center"} -->
+<h2 class="wp-block-heading has-text-align-center">But How Do they ALWAYS Stay ON?</h2>
+<!-- /wp:heading -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"id":327833,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="http://cavallo.local/wp-content/uploads/2025/10/image-1-2.jpg" alt="" class="wp-image-327833"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:paragraph -->
+<p>Cavallo Hoof Boots tackle the issue of fit by mimicking the natural shape of your horse’s hooves. ⁠<br>⁠<br>Their conical shape, secured with industrial-strength Velcro, ensures that your boots stay put when properly sized and fitted. ⁠<br>⁠<br>Cavallo Boots are valued for protecting the entire hoof, including the bulb area. They have a tongue that adjusts to your horse’s hoof angle and a soft, padded leather collar for added security. ⁠<br>⁠<br>Inside, leather-covered foam padding shapes to your horse’s bulb area during the break in period, offering a snug, custom fit. This unique design PLUS the option of a Regular (roundish) or Slim (more narrow) sole guarantees your Cavallos stay on, no matter the hoof type or terrain. Reach out to us today and find a boot that fits your every need!</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"margin":{"top":"0"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group" style="margin-top:0"><!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column {"width":"66.66%"} -->
+<div class="wp-block-column" style="flex-basis:66.66%"><!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Wishing you many happy trails</h3>
+<!-- /wp:heading -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"id":4076,"sizeSlug":"full","linkDestination":"none","align":"left"} -->
+<figure class="wp-block-image alignleft size-full"><img src="http://cavallo.local/wp-content/uploads/2024/10/5381858031fd2babec50665b30807366.png" alt="" class="wp-image-4076"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"0","bottom":"0"}}},"fontSize":"large"} -->
+<p class="has-large-font-size" style="margin-top:0;margin-bottom:0">Carole Herder</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"spacing":{"padding":{"right":"0","left":"0"}}}} -->
+<p style="padding-right:0;padding-left:0">President and founder of Cavallo Horse &amp; Rider Inc</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Carole Herder, President and founder of Cavallo Horse &amp; Rider Inc., is an internationally acclaimed figure in the equestrian community. Her books, There Are No Horseshoes in Heaven and Hoof Prints on the Journey, have become international bestsellers, further solidifying her status as a thought leader in the industry.&nbsp;Since 1993, Carole has been deeply involved in horse health. Cavallo is a global leader in developing, manufacturing, and distributing horse products. Carole’s passion for horse comfort is evident in her designs, including the innovative Cavallo Hoof Boots and Total Comfort System Saddle Pads.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>A true pioneer in the equestrian community, Carole is widely recognized for her expertise and contributions. She champions the benefits of keeping horses in their natural state, advocates for overall hoof health, and works towards the alleviation of debilitating disorders. Her achievements include being an honoured award recipient of the Royal Bank of Canada Woman Entrepreneur of the Year, British Columbia’s Businesswoman of The Year, and North America Enterprising Woman of The Year.&nbsp;<br>Carole is a certified Dr. Deepak Chopra Yoga, Meditation and Ayurvedic Lifestyle Instructor and a proud member of the Women Presidents Organization, supporting female entrepreneurs in every industry.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":"33.33%"} -->
+<div class="wp-block-column" style="flex-basis:33.33%"><!-- wp:image {"id":4084,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="http://cavallo.local/wp-content/uploads/2024/10/carole-herder.jpg" alt="" class="wp-image-4084"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":4085,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="http://cavallo.local/wp-content/uploads/2024/10/carole-books.jpg" alt="" class="wp-image-4085"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->

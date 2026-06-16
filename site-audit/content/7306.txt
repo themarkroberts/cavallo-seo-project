@@ -1,0 +1,3 @@
+<!-- wp:group {"layout":{"type":"constrained","contentSize":"900px"}} -->
+<div class="wp-block-group"><!-- wp:gravityforms/form {"formId":"9","ajax":true,"inputBorderRadius":"10","inputBackgroundColor":"#F6F2F0","inputPrimaryColor":"#494A58","buttonPrimaryBackgroundColor":"#C8102E"} /--></div>
+<!-- /wp:group -->

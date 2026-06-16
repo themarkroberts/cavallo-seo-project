@@ -1,0 +1,31 @@
+<!-- wp:paragraph -->
+<p>By Carole Herder</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>What sort of personality does your horse have? I blogged about anthropomorphism recently and human traits and characteristics are certainly something we all put upon our horses! Is he cheeky, quirky, stubborn, willful, lazy, or excitable?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>How many of us adjust the way we present ourselves based on who we are in the company of? We will be formal at business meetings, cautious when making new friends, sympathetic around sad people, wary in angry environments. We know people learn differently – some are visual learners, some auditory, and some tactile. I know I adjust my approach and speech sometimes, depending on who I am talking to. Do you adjust your personality based around your horses too? One of the greatest challenges for horse trainers is to control your own emotions. It is very easy to lose your temper, or be forceful instead of firm, or lose patience too quickly. Getting to know your horse’s personality can help you understand how they learn, avoid confrontations and aid in training. Horses are not machines, they don’t all learn the same way and they can be much happier and more willing if understood better.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The Parelli system has a neat system for ‘diagnosing’ your horse’s personality and thus you can adjust your training methods accordingly. Of course, not every horse is as black and white as this but it’s a good starting point and helps us humans focus a little more.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":5250,"linkDestination":"custom","align":"left"} -->
+<figure class="wp-block-image alignleft"><a href="//cavallo.local/wp-content/uploads/2015/02/Blog78.jpg"><img src="//cavallo.local/wp-content/uploads/2015/02/Blog78.jpg" alt="Determining Your Horse's personality with Parelli Horsemanship" class="wp-image-5250"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Basically, you can have a Left Brain Extrovert, Left Brain Introvert, Right Brain Extrovert or Right Brain Introvert, to simplify it. There is tons of information on the website regarding horsenalities (as they have become known as), including detailed descriptions and charts. This is a good starting place: <a href="http://parellisurvivalguide.com/category/the-basics-of-the-parelli-natural-horsemanship-method/horsenalities/" target="_blank" rel="noopener">http://parellisurvivalguide.com/category/the-basics-of-the-parelli-natural-horsemanship-method/horsenalities/</a>.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:spacer {"height":"40px"} -->
+<div style="height:40px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->

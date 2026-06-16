@@ -1,0 +1,15 @@
+<!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="http://cavallo.local/wp-content/uploads/2024/09/horsesrunning-1024x768-e1457990686158.jpg" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>By Carole Herder</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>You are a predator. It has nothing to do with your true intentions; it is your role in his natural world. Horses can be wary of us especially if the relationship is new, and sometimes even when it isn’t. If they’re afraid or unsure they will be on guard and react out of fear and for survival rather than as the loving, gentle awe inspiring creatures they are. So what can you do to? Understand the differences between predator and prey and change your behaviors accordingly to create a safe, open environment where both you and your horse can be more vulnerable. It is about stripping away assumptions and being honest about intentions and the very heart of being – for both you and your horse.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>When interacting with your horse, be aware of the behaviors and very nature of your presence that he may perceive as predator like. Consider what alternative behaviors might be less threatening. Some of the things that imply our predatory nature are things we can’t help, such as the placement of our eyes. In reality, we humans are predators and as such our eyes are placed at the front of our heads for sharp, focused sight. The eyes of prey animals are on either side of their head so that they can consistently keep a 360 degree lookout for danger. Your horse can see almost completely around himself, save for a tiny blind spot almost directly behind him. You can’t change the placement of your eyes, but be aware that your horse has noticed them. Similarly, the placement of our ears is that of a predator, laid back and flat against our heads. And then we smile, which could in the animal world signify an animal ready to run at them, ears flat, teeth bared. I have heard that this is why horses like cowboy hats. The turned up rim of a cowboy hat gives the appearance of straight-up, forward facing ears like those of a prey animal. They give a sense of comfort and make us less threatening at first sight. I don’t know. It could be so or it could be just the cowboy being ‘all hat’.</p>
+<!-- /wp:paragraph -->

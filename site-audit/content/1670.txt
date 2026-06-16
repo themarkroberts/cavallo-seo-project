@@ -1,0 +1,85 @@
+<!-- wp:paragraph -->
+<p><strong>Now more than ever, it’s important to have data that ensures we understand our diversity and the pressure on the horse world, so that it can appropriately be sustained.</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Please consider completing this survey so that the information can be compiled and distributed to all parties to better maintain our industry. <strong>&nbsp;The deadline for the survey is August 18th.</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><span style="color: #0000ff;"><a style="color: #0000ff;" href="http://www.horsecouncil.org/2017-economic-impact-study/" target="_blank" rel="noopener">The AHCF 2017 Economic Impact Study</a></span>&nbsp;for the United States horse industry is an opportunity to showcase how important the vast equine industry is to the United States economy.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading"><strong>Here are some ways the survey findings can be used:</strong></h4>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>Help members of Congress and public fully understand the impact of government action on the economy and the industry;</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Examine consequences and impacts of economic development projects and efforts;</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Economic Impact Studies are used frequently in planning and decision making regarding product development and to aid in development of marketing strategies.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading"><strong>2005 AHCF Economic Impact Study Results</strong></h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><span style="color: #0000ff;"><a style="color: #0000ff;" href="http://www.horsecouncil.org/economics/" target="_blank" rel="noopener">The 2005 Economic Impact Study</a></span>&nbsp;established that the horse industry (including racing, showing, and recreation) had a $39 billion effect on the US economy.&nbsp; The industry involved more than 4 million Americans, 9.2 million horses, and supported 1.4 million full-time jobs.&nbsp; The study provided invaluable demographic data and insights into professions and other industries impacted by equine ownership. &nbsp;The study proved to be extremely helpful to the industry’s efforts in documenting its size, diversity and economic importance to public officials, the press and other media.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading"><strong>How to Complete the Survey</strong></h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>If you wish to participate in this survey, please click here:&nbsp;<span style="color: #0000ff;"><a style="color: #0000ff;" href="http://www.horsecouncil.org/2017-economic-impact-study/" target="_blank" rel="noopener">http://www.horsecouncil.org/2017-economic-impact-study/</a></span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>To read more about the survey, please click here:&nbsp;&nbsp;<span style="color: #0000ff;"><a style="color: #0000ff;" href="http://www.horsecouncil.org/press-release/deadline-take-survey-update-economic-impact-survey-extended/">http://www.horsecouncil.org/press-release/participate-2017-economic-impact-study-united-states-horse-industry/</a></span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading"><strong>About the American Horse Council</strong></h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The American Horse Council was organized in 1969 to represent the horse industry in Washington before Congress and the federal regulatory agencies.&nbsp; It is a non-profit corporation that represents all segments of the equine industry. &nbsp;To find out more or to become a member, please visit:&nbsp;<a href="http://www.horsecouncil.org/take-action/">&nbsp;<span style="color: #0000ff;">http://www.horsecouncil.org/take-action/</span></a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Thank you very much for supporting our horse industry by taking the time to complete the survey – I appreciate it.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Happy Trails,</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":10645,"width":"300px"} -->
+<figure class="wp-block-image is-resized"><img src="//www.cavallo.local/wp-content/uploads/2017/12/CaroleSig.jpg" alt="Carole Herder's Signature" class="wp-image-10645" style="width:300px"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":10798,"align":"left"} -->
+<figure class="wp-block-image alignleft"><img src="//www.cavallo.local/wp-content/uploads/2018/01/Caroles-Signature-2017.png" alt="Carole Herder's Signature" class="wp-image-10798"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p> </p>
+<!-- /wp:paragraph -->

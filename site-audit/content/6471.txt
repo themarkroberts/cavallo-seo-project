@@ -1,0 +1,53 @@
+<!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|gap"}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"level":1} -->
+<h1 class="wp-block-heading"><strong>Join the Cavallo Associate Sellers' Program!</strong></h1>
+<!-- /wp:heading -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|gutter","bottom":"var:preset|spacing|gutter","left":"var:preset|spacing|gutter","right":"var:preset|spacing|gutter"}}},"backgroundColor":"light-red-1","layout":{"type":"constrained"}} -->
+<div class="wp-block-group has-light-red-1-background-color has-background" style="padding-top:var(--wp--preset--spacing--gutter);padding-right:var(--wp--preset--spacing--gutter);padding-bottom:var(--wp--preset--spacing--gutter);padding-left:var(--wp--preset--spacing--gutter)"><!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center"><strong>Are you a qualified Farrier or Trimmer or large animal veterinarian and want to become a Cavallo Associate Seller? Just give us a call toll-free at 1-877-818-0037 or email us at info@cavallo.local and you can get started!</strong></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:media-text {"mediaId":6472,"mediaLink":"http://cavallo.local/?attachment_id=6472","mediaType":"image","imageFill":true,"backgroundColor":"light-red-1"} -->
+<div class="wp-block-media-text is-stacked-on-mobile is-image-fill-element has-light-red-1-background-color has-background"><figure class="wp-block-media-text__media"><img src="http://cavallo.local/wp-content/uploads/2024/12/Maia-Chaput-Quebec-Trimmer-Associate.jpg" alt="Maia Chaput PHCP Practitioner &amp; Cavallo Hoof Boots Associate" class="wp-image-6472 size-full" style="object-position:50% 50%"/></figure><div class="wp-block-media-text__content"><!-- wp:group {"style":{"spacing":{"margin":{"top":"0","bottom":"0"},"padding":{"top":"var:preset|spacing|gap","bottom":"var:preset|spacing|gap","left":"0","right":"0"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--gap);padding-right:0;padding-bottom:var(--wp--preset--spacing--gap);padding-left:0"><!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading"><strong>Partnering for the Good of Horses</strong></h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Booting horses has gained increasing acceptance worldwide. Cavallo has been at it for some years now, distributing tens of thousands of Cavallo Hoof Boots around the world every year, for both shod and barefoot horses alike.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"placeholder":"Content…"} -->
+<p>As a qualified farrier or trimmer or large animal vet, providing correct care is vital to ensuring that our equine friends have a fruitful and healthy life. You are welcome to join Join the Cavallo Associate Sellers’ Program to ensure this continued successful hoof care outcome for horses!</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div></div>
+<!-- /wp:media-text --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading">Provide Protection and Profit</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Partnering with Cavallo will help you to be gainful in your hoof care business, and you can provide your clients with the highest-quality boots for trail riding, turnout, as a spare tire, to assist in hoof rehabilitation, or for extra protection over metal shoes. Boosting your income while providing a service to horse owners serves everyone. Your expertise guarantees proper trims and custom boot measuring and fitting service. Measuring and fitting equines for Cavallos is a simple and reliable process which requires no special training courses or tools.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Join the Cavallo Associate Sellers’ Program! The program is for meticulous and educated front-runners in hoof care.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|md","padding":{"top":"var:preset|spacing|gap","bottom":"var:preset|spacing|gap"}}},"backgroundColor":"light-red-1","layout":{"type":"constrained"}} -->
+<div class="wp-block-group has-light-red-1-background-color has-background" style="padding-top:var(--wp--preset--spacing--gap);padding-bottom:var(--wp--preset--spacing--gap)"><!-- wp:heading {"textAlign":"center","level":4} -->
+<h4 class="wp-block-heading has-text-align-center"><strong>The Cavallo Team is here to help you. Because by the way – YOU ROCK!</strong></h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">To find out more, please don’t hesitate to call us toll-free at <strong>1-877-818-0037</strong> or email us at <strong><a href="mailto:info@cavallo.local"><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-red-color">info@cavallo.local</mark></a></strong> and you can get started!</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->

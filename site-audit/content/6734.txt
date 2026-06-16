@@ -1,0 +1,33 @@
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"level":1} -->
+<h1 class="wp-block-heading">Why Does Sandi Simons Recommend Cavallo Hoof Boots?</h1>
+<!-- /wp:heading --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|gap"}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:media-text {"mediaId":6735,"mediaLink":"http://cavallo.local/?attachment_id=6735","mediaType":"image","mediaWidth":30,"imageFill":true,"backgroundColor":"light-red-1"} -->
+<div class="wp-block-media-text is-stacked-on-mobile is-image-fill-element has-light-red-1-background-color has-background" style="grid-template-columns:30% auto"><figure class="wp-block-media-text__media"><img src="http://cavallo.local/wp-content/uploads/2024/12/Sandi-Simons-1.jpg" alt="Sandi Simons recommends Cavallo Horse Hoof Boots" class="wp-image-6735 size-full" style="object-position:50% 50%"/></figure><div class="wp-block-media-text__content"><!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|md","bottom":"var:preset|spacing|md","left":"0","right":"0"},"margin":{"top":"0","bottom":"0"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--md);padding-right:0;padding-bottom:var(--wp--preset--spacing--md);padding-left:0"><!-- wp:paragraph {"placeholder":"Content…"} -->
+<p>Sandi Simons is a mother of five, a wife, a businesswoman, a horse trainer and an International horse presenter! She developed a remarkable training system called Creating Confidence. It’s designed for women who feel they’ve have lost confidence in the saddle for any reason. She’s now helped thousands of women all over the world to regain their confidence to get back in the saddle, whilst enjoying a safe and harmonious relationship with their horses!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Sandi Simons’s Students Look to her for Recommendations</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Sandi finds that the women taking her classes often ask her how best to protect their horse’s hoofs during training, without putting metal shoes on. Why Does Sandi Simons Recommend Cavallos Hoof Boots? This is how Sandi and Carole met! Sandi had decided that Cavallo Hoof Boots were the best on the market, so she reached out to Carole for more information to share with her students. The rest is history!</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div></div>
+<!-- /wp:media-text -->
+
+<!-- wp:paragraph -->
+<p>A life-long horsewoman, Sandi’s worked in many aspects of the horse industry in Australia long term. She’s also been involved with some of the biggest equine events around the world. Her insightful, compassionate nature makes her a truly unique and effective coach. Sandi’s motto? Live your dream, love your passion and come and see what it is all about. After all, you’re worth it!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:embed {"url":"https://www.youtube.com/watch?v=U6sBsSKQjUI","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://www.youtube.com/watch?v=U6sBsSKQjUI
+</div></figure>
+<!-- /wp:embed --></div>
+<!-- /wp:group -->

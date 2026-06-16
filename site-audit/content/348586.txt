@@ -1,0 +1,201 @@
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:image -->
+<figure class="wp-block-image"><img src="http://cavallo.local/wp-content/uploads/2022/02/Celebrating-Dynamic-Lives-header-2021.png" alt="Cavallo Hoof Boots Newsletter Heading" title="Cavallo Hoof Boots Newsletter Heading"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"textAlign":"center","level":5} -->
+<h5 class="wp-block-heading has-text-align-center">Enjoy Your Latest Cavallo News - Full of Hoof-Saving Hacks &amp; Tips to Keep your Horse Brilliantly Booted!</h5>
+<!-- /wp:heading --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"textAlign":"center"} -->
+<h2 class="wp-block-heading has-text-align-center">Meet Your New Favourite Upgrade: Say Hello to the Trek/Trek Pro/BFB Colour Pop Straps Pack!</h2>
+<!-- /wp:heading -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="http://cavallo.local/wp-content/uploads/2025/11/Cavallo-Trek-BFB-Colour-Pop-hoof-boot-Straps-Pack.jpg" alt="Cavallo Trek &amp; BFB Colour Pop hoof boot Straps Pack" title="Cavallo Trek &amp; BFB Colour Pop hoof boot Straps Pack"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"textAlign":"center","level":3} -->
+<h3 class="wp-block-heading has-text-align-center">Mix. Match. Make Those Boots YOURS!</h3>
+<!-- /wp:heading --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image -->
+<figure class="wp-block-image"><img src="http://cavallo.local/wp-content/uploads/2025/11/Cavallo-TREK-BFB-BLUE-YELLOW-ORANGE-Replacement-Strap-3-Pack-white-background-all-colours-2025.jpg" alt="Cavallo Hoof Boots Colour Pop Pack 3 pairs straps - yellow turquoise orange" title="Cavallo TREK BFB BLUE YELLOW ORANGE Replacement Strap 3 Pack – white background all colours- 2025"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:paragraph -->
+<p>Is your horse a true individual? Elevate your Cavallo Trek, Trek Pro or BFB Hoof Boots with the Colour Pop Straps Pack! This pack is a vibrant collection of 3 pairs of durable hoof boot straps in hunter orange, bright yellow and turquoise. Trek/Trek Pro/BFB Colour Pop straps let you switch up your horse’s look in seconds!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Whether you’re hitting the trails, competing, or just out for a ride, these colourful straps not only look great, but help provide a secure fit to keep your boots in place, no matter the terrain. Have multiple horses, or different-sized fronts &amp; backs? Tell your boots apart at a glance!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="http://cavallo.local/product/trek-bfb-colour-pop-straps-3-pack/" target="_blank" rel="noreferrer noopener">Meet Your Colour Pop Strap Pack!</a></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"textAlign":"center","level":3} -->
+<h3 class="wp-block-heading has-text-align-center">Celebrating Innovation: Carole Herder Shines as the RBC Women of Influence Award Finalist</h3>
+<!-- /wp:heading -->
+
+<!-- wp:embed {"url":"https://www.youtube.com/watch?v=D5WZom9mKzc","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://www.youtube.com/watch?v=D5WZom9mKzc
+</div></figure>
+<!-- /wp:embed -->
+
+<!-- wp:paragraph -->
+<p>Our Cavallo President Carole Herder didn’t just create a product when she invented Cavallo Hoof Boots – she sparked a movement that changed the future of horses around the globe!&nbsp; &nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>A Message from Carole:&nbsp;</strong><em>“Hello, Carole Herder here! I recently attended the&nbsp;<a href="https://www.womenofinfluence.ca/2025/09/11/meet-carole-herder-rbc-canadian-women-entrepreneur-awards-innovation-finalist/" target="_blank" rel="noreferrer noopener">2025&nbsp;RBC Canadian Women Entrepreneur Award</a><a href="https://www.womenofinfluence.ca/2025/09/11/meet-carole-herder-rbc-canadian-women-entrepreneur-awards-innovation-finalist/" target="_blank" rel="noreferrer noopener">s</a>&nbsp;Gala!</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><em>To be surrounded by so many incredible women—women honouring their journeys, their courage, and their brilliance—moved me in ways I didn’t expect. Being the Western Canada finalist at the Awards Gala, selected from over 9,000 applicants, was an honour I’ll carry with me.</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><em>I walk away inspired, grateful, and more committed than ever to changing the world one horse at a time!”</em></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"textAlign":"center","level":3} -->
+<h3 class="wp-block-heading has-text-align-center">Emma Massingale &amp; Her Ponies: Matching Outfits, Matching Hearts</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Leave it to Emma Massingale to turn a simple outing into pure magic. She took her new electric scooter out while Albert and Ernie (their cozy Shetland sweaters perfectly matching Emma’s) trotted right along in perfect harmony! Tweedy, the mini Dachshund, was supervising the expedition, of course! ?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Their wee little hooves stayed comfy and confident on the gravel roads in their sparkly Cavallo CLB Hoof Boots! But now we can’t stop wondering… Is it time to create matching Cavallo Bling Boots for Emma, too?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:embed {"url":"https://youtu.be/79wA9L4YRB8?si=wpNF3Jln_yeMWQlk","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://youtu.be/79wA9L4YRB8?si=wpNF3Jln_yeMWQlk
+</div></figure>
+<!-- /wp:embed --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"textAlign":"center","level":3} -->
+<h3 class="wp-block-heading has-text-align-center">Bookmark This Lifesaver: Your Quick Reference Guide to Immediate Relief During Any Hoof Issue or Injury:</h3>
+<!-- /wp:heading --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image -->
+<figure class="wp-block-image"><img src="http://cavallo.local/wp-content/uploads/2025/11/Cavallo-LEB-Donkey-Hoof-Boots-for-Laminitis.jpg" alt="Cavallo LEB Donkey Hoof Boots for Laminitis" title="Cavallo LEB Donkey Hoof Boots for Laminitis"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:paragraph -->
+<p>If your horse ever faces a hoof crisis, you’re not alone… And you don’t have to navigate it in the dark.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>This simple web page guide is here to give you clear, comforting steps you can take to immediately ease pain and support healing – using Cavallo Boots you already have on hand!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Those same boots you ride with are invaluable in an emergency hoof situation. Cavallo is still the first ever (and still the best) riding hoof boot that doubles as a therapy boot, helping horses with Laminitis, Navicular, punctures, abscesses, and other hoof ailments and injuries.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Bookmark this page so you have it handy if ever needed! We hope that day never comes, but we know this will help if it ever does. And if you need more help, our knowledgeable team is always happy to answer your questions. We’re always here for you — and your equine!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="http://cavallo.local/why-trek-makes-the-perfect-therapy-rehab-hoof-boot/" target="_blank" rel="noreferrer noopener">Get your Quick Guide Here &gt;&gt;</a></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"textAlign":"center","level":3} -->
+<h3 class="wp-block-heading has-text-align-center">What is a 'Beverage Burro'? The World's Most Adorable Way to Be Served a Drink!</h3>
+<!-- /wp:heading -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image -->
+<figure class="wp-block-image"><img src="http://cavallo.local/wp-content/uploads/2025/11/LEB-Booted-Beverage-Burro.gif" alt="Cavallo LEB donkey hoof Booted Beverage Burro!" title="Cavallo LEB donkey hoof Booted Beverage Burro!"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:paragraph -->
+<p>Beverage Burros are the newest trend sweeping events, weddings and celebrations of every kind.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>These charming little donkeys trot right into the heart of the party in their Cavallo LEB Boots, carrying ice-cold drinks and treats in their saddle packs. They mingle with guests, pose for photos, and bring a level of joy and novelty that no traditional bartender can match!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>And when it comes to standout stars in this growing industry, the&nbsp;<a href="https://www.facebook.com/share/r/1FzKyhVrwe/" target="_blank" rel="noreferrer noopener">Beverage and Beer Burros of Big Tank Ranch</a>&nbsp;are leading the way. Known for their sweet manners, calm personalities, and irresistible cuteness, these well-trained burros are the perfect party partners!</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading -->
+<h2 class="wp-block-heading">One Step Ahead in Bio-Security: Cavallo’s Protocols to Prevent EHV-1 Transmission</h2>
+<!-- /wp:heading --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"id":215992} -->
+<figure class="wp-block-image"><img src="http://cavallo.local/wp-content/uploads/2025/11/Preventing-EHV-1-disease-for-horses-Cavallo-Hoof-Boots-protocol-452x452.jpg" alt="Preventing EHV-1 disease for horses - Cavallo Hoof Boots protocol" class="wp-image-215992"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:paragraph -->
+<p><em>We’re aware of the recent rise in Equine Herpesvirus (EHV-1) cases across the U.S. and want you to feel completely confident in the products you purchase from us.&nbsp;</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><em>As part of our enhanced biosecurity protocols, we’re taking extra precautions by quarantining all returned boots for two weeks before they’re redistributed.&nbsp;</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><em>We’re here to support you and your horses every step of the way. Please stay safe and give your horses an extra pat from us.&nbsp;</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><em>-Carole</em></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:block {"ref":348454} /-->

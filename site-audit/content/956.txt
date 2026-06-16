@@ -1,0 +1,43 @@
+<!-- wp:paragraph -->
+<p>We at Cavallo Horse &amp; Rider want you, riders who are committed to the comfort and long-term health of your horses, to know about all of the top-quality horse equipment and tack we offer. Our website answers almost any question you might think to ask about our products, and we make it easy for you to purchase directly from us in addition to offering our products through distributors in over twenty countries worldwide.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Tell Your Cavallo Stories</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>But no factoid or product description or measurement or testing grade can give you the whole story of what it means to use Cavallo’s unique, revolutionary horse gear. We believe two things might help to give you that whole story. One is sharing our story, why we work so hard to bring you each item and how we hope that item might help you and your horse. The other is helping you share your stories and your horses’ stories about your experiences with our products.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Every so often, we will feature a Cavallo product. We’ll give you a little more of our story about it and ask you to share your stories about it. Please, if you have used a featured product, comment on the blog post about it to help other riders decide if that product is right for them. Today, we want to feature our Western Barrel/Endurance/Stock Saddle Pad from our Total Comfort System Saddle Pad line.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Saddle Pad Featured Today</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":172,"linkDestination":"custom","align":"left"} -->
+<figure class="wp-block-image alignleft"><a href="//cavallo.local/wp-content/uploads/2010/09/W-509-Barrel.jpg"><img src="//cavallo.local/wp-content/uploads/2010/09/W-509-Barrel-300x183.jpg" alt="Barrel/Endurance Saddle Pad" class="wp-image-172" title="Saddle Pad"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>We know endurance saddle pads and pads for all high performance sports have to be shaped to your horse's top line, allowing ample wither space.&nbsp; We designed our Western Barrel/Endurance/Stock Saddle Pad with that shape and added our memory foam to ensure that pressure and weight are not continual, but yielding.&nbsp; This pad is excellent for all sports requiring lateral flexion.&nbsp; It offers the maximum defense against back pain, while being thin enough to maintain "feel".&nbsp; This saddle pad fits like a glove.&nbsp; The newer Performance Enhanced version adds firm poly fiber sheets alongside the protective memory foam inserts for more stability and load equalization.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:spacer {"height":"1px"} -->
+<div style="height:1px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:paragraph -->
+<p><strong>Enter Our Drawing</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>We believe the Total Comfort System Saddle Pad is the best saddle pad on the market. If you are a sports rider, the Western Barrel/Endurance/Stock model may be the best saddle pad for you. Please comment on our blog and let us know how our attention to design and features has worked for you. We’ll enter you in a monthly draw for Cavallo products.</p>
+<!-- /wp:paragraph -->

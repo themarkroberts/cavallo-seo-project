@@ -1,0 +1,163 @@
+<!-- wp:paragraph -->
+<p>What's your Cavallo Community up to?&nbsp;<a href="http://cavallo.local/product-category/hoof-boot/" target="_blank" rel="noopener noreferrer"> Cavallo Hoof Boots</a> in a University study, Monty Roberts on the future of horse racing, free equestrian magazines, the American Mini Horse Association, Emma Massingale's latest video and so much MORE!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Cavallo in the Movies - Crossing Costa Rica with Two Untrained Rescue Horses</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><em>"The filming of our soon-to-be-released movie “Taming Wild: Pura Vida” included some of the most incredible terrain I have ever crossed with horses. Apollo and Zeus traveled in comfort in their <a href="https://www.facebook.com/CavalloHoofboots/?__tn__=K-R&amp;eid=ARDLf3GGoyKVRWhyjrvwKZwQ7JPKVK4bg-G2yBM-GKKJozQyg1yKMByz7aJLTltJ-e-csFNSEOff2Eg8&amp;fref=mentions&amp;__xts__%5B0%5D=68.ARCahsB8eZ-NuDfbZB0h5RFqVBE9wo6KrxBFn4LfZLUSEqPnLSZLtn4bWMHnrnclXMmTmNRo5QU7NIPBmsOoRJiV5axJhTqByow5wQdAvWxjxPpWsxZYT3bg8pP35dKYGpEk8-vbn4xFpwSBGJYHkgoAGP35WCNeGlp_AVijp7yZSMBS7cH9_t1gUJE">Cavallo Hoof Boots</a> and I am so grateful to Cavallo for their sponsorship of the film! If you are looking for some solid protection over all surfaces... check them out!"</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><em>-Andrea Wady - Pura Vida Equus</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Watch the trailer for Taming Wild: Pura Vida:</h3>
+<!-- /wp:heading -->
+
+<!-- wp:embed {"url":"https://youtu.be/q2Qbtj3dXNQ","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://youtu.be/q2Qbtj3dXNQ
+</div></figure>
+<!-- /wp:embed -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Hoof Anatomy Course - Special Coupon Code for Cavallo Community Members!</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.oksnhc.com/" target="_blank" rel="noopener noreferrer">The Okanagan School of Natural Hoof Care</a> offers an <a href="https://www.oksnhc.com/online-course.html" target="_blank" rel="noopener noreferrer">online Hoof Anatomy and Theory Course,</a> perfect for barefoot the horse owner, or those interested in going barefoot.&nbsp; As a Cavallo Community Member, please use your coupon code: "LAUNCH" to save $99 CAD off the regular course price when signing up! (Coupon code will be valid until September 30, 2019)&nbsp; <a href="https://www.oksnhc.com/store/p114/Online_Trimming_Course.html" target="_blank" rel="noopener noreferrer">CLICK HERE TO ENROLL!</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:embed {"url":"https://www.oksnhc.com/uploads/b/16589830-612866591918397903/natural_hoof_trimming_course_100_909.mp4","type":"rich","providerNameSlug":"embed-handler"} -->
+<figure class="wp-block-embed is-type-rich is-provider-embed-handler wp-block-embed-embed-handler"><div class="wp-block-embed__wrapper">
+https://www.oksnhc.com/uploads/b/16589830-612866591918397903/natural_hoof_trimming_course_100_909.mp4
+</div></figure>
+<!-- /wp:embed -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Monty Roberts on Horse Racing's Future</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>In the latest Horsemanship Radio episode: Monty Roberts and Ada Gates have over 100 years of combined experience in the Horse Racing industry. They LOVE their horses.&nbsp; Monty shares a vision of what it would take to revolutionize the racing industry in favor of the horse.&nbsp; He also answers the question of what would help horses enjoy the sport again. Ada Gates, the first woman farrier licensed to work on the racetracks of the United States, shares her list of improvements that seem to be coming!&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.horsemanshipradio.com/2019/08/28/142-monty-on-racings-future-track-farrier-by-omega-fields/" target="_blank" rel="noopener noreferrer">LISTEN TO EPISODE HERE!</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="http://cavallo.local/wp-content/uploads/2019/09/Monty-Roberts-Cavalo-Hoof-Boots-1.jpg" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.horsemanshipradio.com/2019/08/28/142-monty-on-racings-future-track-farrier-by-omega-fields/" target="_blank" rel="noopener noreferrer" data-elementor-open-lightbox=""><br> </a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">We Ride Sport &amp; Trail Magazine</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The August Issue of Sport &amp; Trail Magazine has my article, 32 Tips for Trailering your Horse and also features &nbsp;nationally renowned equine photographer, Ozana Sturgeon, who writes about “Surviving Bear Country” and takes readers along on a virtual feast of wildlife that resides in Yellowstone Park.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="https://weride-magazine.com/2019/08/02/the-august-2019-issue/" target="_blank" rel="noopener noreferrer">CLICK HERE TO READ!</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="http://cavallo.local/wp-content/uploads/2019/09/We-Ride-Sport-Trail-Mag-Cavallo-Hoof-Boots-August-2019-1-1.jpg" alt="We Ride Sport &amp; Trail Mag Cavallo Hoof Boots August 2019"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Flint - Emma Massingale's Sweet Connemara</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Emma has been having fun with Flint - one of her wonderful Liberty Team ponies. Flint's a fantastic team player but individually he shows such talent! They took some time to just play around with him at Liberty.&nbsp; What fun they had!&nbsp; And what a pleasure to watch the friendship between them.&nbsp; <a href="https://www.youtube.com/watch?v=NtrZOx09F3I&amp;t=167s" target="_blank" rel="noopener noreferrer">WATCH HERE!</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="http://cavallo.local/wp-content/uploads/2019/09/Emma-Massingale-Flint-Cavallo-Green-Trek-Hoof-Boots-1.jpg" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Cavallo Under Study</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Cavallo Trek Boots were recently used in a Western Kentucky University Study to determine the impact on hoofs with and without the use of Hoof Boots. This article, published by thehorse.com describes how the study was performed...but we think you already know the results!&nbsp; &nbsp;&nbsp;<a href="https://thehorse.com/177314/hoof-boots-can-protect-barefoot-trail-horses-feet/" target="_blank" rel="noopener noreferrer">CLICK TO READ!</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="http://cavallo.local/wp-content/uploads/2019/09/cavallo-hoof-boots-rugged-Trek-Nantucket-Blue-1.jpg" alt="Cavallo Trek Hoof Boots University of Western Kentucky Study"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Equi-Ads Magazine - August Issue</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Equi-Ads is your free, quality online magazine source for all things equine!&nbsp; Take a peek inside the September issue to find one of my articles and more! <a href="https://en.calameo.com/read/0000043068b86dfae183e" target="_blank" rel="noopener noreferrer">&nbsp;READ HERE!</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="http://cavallo.local/wp-content/uploads/2019/09/Equiads-August-2019-Cavallo-Hoof-Boots-1.jpg" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Cavallo in Northwest Horse Source Magazine</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Growing at a Gallop!&nbsp; Things are really happening in the world of Cavallo Hoof Boots! Read about the Cavallo story in Northwest Horse Source Magazine!&nbsp; <a href="https://mydigitalpublication.com/publication/?i=591779&amp;ver=html5&amp;p=6&amp;fbclid=IwAR3EuqWDX6CtARXFMVZJmuJprqdH5kswQS4eGOTp2QV0zx0UXXvTnIjMG8I#{%22page%22:%226%22,%22issue_id%22:591779}" target="_blank" rel="noopener noreferrer">CLICK TO READ!</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="http://cavallo.local/wp-content/uploads/2019/09/NWHS-Cover-Cavallo-Hoof-Boots-Growing-at-a-Gallop-jpg-1.jpg" alt="Northwest Horse Source Cover Cavallo Hoof Boots Growing at a Gallop jpg"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">American Miniature Horse Association</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Cavallo CLB is proud to be the Official Hoof Boot of the AMHA!&nbsp; We also recently attended and happily sponsored the 2019 American Miniature Horse World Championships in Fort Worth, Texas!&nbsp; Congratulations to all winners and participants - it was a show to remember!&nbsp; Watch a video about the World Championships&nbsp;<a style="font-size: 14px; background-color: #ffffff;" href="https://www.facebook.com/americanminiature/videos/amha-world-show-invitation/265916234115158/" target="_blank" rel="noopener noreferrer">HERE!</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="http://cavallo.local/wp-content/uploads/2019/09/AMHA-World-Championships-Cavallo-CLB-Hoof-Boots-1.jpg" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Best of America by Horseback Newsletter</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Cavallo is proud to sponsor this monthly newsletter that caters to those who truly love America's trails and love to ride!&nbsp; Also - it's a must read for anyone wanting to win a pair of Cavallos - hint hint!&nbsp; <a href="https://myemail.constantcontact.com/August-2019-Newsletter---Love-Knows-No-Bounds.html?soid=1122440115424&amp;aid=1Ot152OVRWE" target="_blank" rel="noopener noreferrer">CLICK TO READ!</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="http://cavallo.local/wp-content/uploads/2019/09/Best-of-America-by-Horseback-Cavallo-Hoof-Boots-1.jpg" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":5} -->
+<h5 class="wp-block-heading">Wishing you happy trails and happy reading,</h5>
+<!-- /wp:heading -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="http://cavallo.local/wp-content/uploads/2018/08/Caroles-signature-with-click-here-768x444.jpg" alt="Carole Herder's book - There are no Horseshoes in Heaven"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.amazon.com/There-Are-Horseshoes-Heaven-Tradition-ebook/dp/B01BMYYRZ6" target="_blank" rel="noopener noreferrer" data-elementor-open-lightbox=""><br> </a></p>
+<!-- /wp:paragraph -->

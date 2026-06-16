@@ -1,0 +1,11 @@
+<!-- wp:image {"id":1274,"width":"443px","height":"auto","sizeSlug":"full","linkDestination":"none","align":"left"} -->
+<figure class="wp-block-image alignleft size-full is-resized"><img src="http://cavallo.local/wp-content/uploads/2024/09/Carole-at-Desk-1-Copy-e1405953352400.jpg" alt="" class="wp-image-1274" style="width:443px;height:auto"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>Eighteen years ago, as a new horse owner I became convinced that the practice of nailing metal shoes onto horse’s hoofs was counterproductive to their overall health. When I questioned this practice, the standard reply was “because we always have”. To me this was unacceptable and I became passionate to find an alternative. The only option available at that time was a type of boot meant to cover the hoof in the event of a lost metal shoe until the farrier would arrive and nail the metal back on. When I asked riders if they would use a Hoof boot as an alternative to nailing metal shoes, the answer was “yes” as long as it was simple to fit, easy to size, easy to use and stayed on over any terrain.&nbsp; I designed and developed a Hoof boot that would meet these criteria. In 2005, I patented and launched the world’s first front opening Hoofboot, the Cavallo Simple Boot. The then unchallenged 1000 year old tradition of nailing metal shoes is now risking extinction. People are pulling off the metal horse shoes and turning to Cavallo Hoofboots.&nbsp; The worldwide landscape for hoof care has changed forever. I am proud to lead the enthusiastic Cavallo team against convention as we pilot the movement responsible for freeing horses of the archaic practice of nailing metal shoes. Cavallo Hoof boots are currently sold in over 23 countries. We at Cavallo are proud to be responsible for thousands of horse owners freeing their horses of metal shoes and turning to the natural and easy alternative – Cavallo. Life is Simple</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Carole Herder</p>
+<!-- /wp:paragraph -->

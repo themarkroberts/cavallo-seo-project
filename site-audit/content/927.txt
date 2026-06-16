@@ -1,0 +1,7 @@
+<!-- wp:image {"sizeSlug":"large","align":"left"} -->
+<figure class="wp-block-image alignleft size-large"><img src="http://cavallo.local/wp-content/uploads/2024/09/Carole.jpg" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>"I use the Cavallo Total Comfort System Saddle Pad because it's good for my horse and it's good for me. I developed these pads using the finest materials and manufacturers and I know that they are the best!"</p>
+<!-- /wp:paragraph -->

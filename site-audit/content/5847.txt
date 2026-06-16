@@ -1,0 +1,59 @@
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"level":1} -->
+<h1 class="wp-block-heading">Look Who Loves Cavallo Boots!</h1>
+<!-- /wp:heading -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Dan James – That’s Who!<br></h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Australian World Champion, Road to The Horse winner, Dan James has won more than 15 Championships in Reining, Freestyle and Mustang Makeover – WOW! And he’s always using his Cavallo Boots along the way. Dan and his horses are versatile, secure, and comfortable in their Cavallos, even while starring as celebrities in events such as the 2016 Versace Spring Campaign, the Vogue 125th Anniversary Issue and everyone’s favorite TV show, Heartland.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Here’s what Dan would like to share with you:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:embed {"url":"https://www.youtube.com/watch?v=c6tzG7owZ7E","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://www.youtube.com/watch?v=c6tzG7owZ7E
+</div></figure>
+<!-- /wp:embed --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:media-text {"mediaId":6449,"mediaLink":"http://cavallo.local/?attachment_id=6449","mediaType":"image","mediaWidth":30,"imageFill":true,"backgroundColor":"light-red-1"} -->
+<div class="wp-block-media-text is-stacked-on-mobile is-image-fill-element has-light-red-1-background-color has-background" style="grid-template-columns:30% auto"><figure class="wp-block-media-text__media"><img src="http://cavallo.local/wp-content/uploads/2024/12/Dan-James-Double-Dan-International-Liberty-Horse-Association-1.jpg" alt="" class="wp-image-6449 size-full" style="object-position:50% 50%"/></figure><div class="wp-block-media-text__content"><!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|md","bottom":"var:preset|spacing|md","left":"0","right":"0"},"margin":{"top":"0","bottom":"0"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--md);padding-right:0;padding-bottom:var(--wp--preset--spacing--md);padding-left:0"><!-- wp:heading -->
+<h2 class="wp-block-heading">How the Dans Chose the RIGHT Hoof Boot:</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Many years ago, the Dans were searching for a hoof boot that they could take on the road to trainer’s shows and challenges. They knew they needed a boot that would make their horses feel confident and secure on carpet, indoor floors concrete and other challenging surfaces.&nbsp; Well, they found those boots – and they’ve been using&nbsp;<a href="http://cavallo.local/product-category/hoof-boot/trek-hoof-boots/" target="_blank" rel="noreferrer noopener">Cavallo Trek Boots</a>&nbsp;ever since!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"placeholder":"Content…"} -->
+<p>It’s no secret that&nbsp;The Double Dans (Double Dan Horsemanship)&nbsp;have always loved their&nbsp;<a href="http://cavallo.local/product-category/hoof-boot/" target="_blank" rel="noreferrer noopener">Cavallo Hoof Boots.&nbsp;</a>&nbsp;Like Cavallo, Double Dan Horsemanship was developed for the love of the horse. Partners&nbsp;Dan James&nbsp;and&nbsp;Dan Steers&nbsp;work towards helping to create well-rounded horses in any discipline that become perfect equine partners. Much of their work is through&nbsp;Liberty training&nbsp;and we LOVE what they do!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons {"layout":{"type":"flex","justifyContent":"left"}} -->
+<div class="wp-block-buttons"><!-- wp:button {"backgroundColor":"red","style":{"border":{"width":"0px","style":"none","radius":"50px"}}} -->
+<div class="wp-block-button"><a class="wp-block-button__link has-red-background-color has-background wp-element-button" href="http://cavallo.local/product-category/hoof-boot/trek-hoof-boots/" style="border-style:none;border-width:0px;border-radius:50px" target="_blank" rel="noreferrer noopener">View Dan's Favourite Boot &gt;&gt;</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:group --></div></div>
+<!-- /wp:media-text --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading -->
+<h2 class="wp-block-heading">Throwback: Dan James Describes How Cavallos Benefit his Horse</h2>
+<!-- /wp:heading -->
+
+<!-- wp:embed {"url":"https://www.youtube.com/watch?v=FjFBNzUe7Cw","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://www.youtube.com/watch?v=FjFBNzUe7Cw
+</div></figure>
+<!-- /wp:embed --></div>
+<!-- /wp:group -->

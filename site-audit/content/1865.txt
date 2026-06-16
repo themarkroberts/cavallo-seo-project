@@ -1,0 +1,69 @@
+<!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading">Meet the NEW Trek/BFB Buckle Straps!</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Most riders travel through thick mud, deep snow and dense fields with <a href="http://cavallo.local/product-category/hoof-boot/" target="_blank" rel="noopener noreferrer">Cavallo Hoof Boots</a> staying perfectly in place. However, even the best Velcro® can be compromised in certain extreme situations. Riding through packed ice formations and some types of spear-grass seeds can be tough on Velcro. When it comes to hoof boot closures, we've got options for you! Check out our new <a href="http://cavallo.local/product/trekbuckle/" target="_blank" rel="noopener noreferrer">Trek/BFB Hoof Boot Buckle Straps!</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading">We're Listening to YOU!</h4>
+<!-- /wp:heading -->
+
+<!-- wp:image {"id":59583,"align":"left"} -->
+<figure class="wp-block-image alignleft"><img src="http://cavallo.local/wp-content/uploads/2021/02/Cavallo-Trek-Buckle-Strap-on-Hoof-Boot-Low-Res-for-Web-1-150x150.jpg" alt="Cavallo Horse Hoof Boot Trek BFB Buckle Straps" class="wp-image-59583"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>“We listen to our customers and we’re committed to our boots working beautifully in any riding situation,” says Greg, our Cavallo CEO (and my husband!). “We heard from a barefoot cattle rancher in California who uses Cavallo Boots on his horses. His boots work very well, but that some types of stickers and seeds can be caught in the Velcro. He rides through dense fields daily to move his cattle. We wanted to find a solution for him and the many other riders who take on all kinds of elements. This buckle is a great option for those extreme riding scenarios.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>With a buckle in place, there’s nowhere for grass or debris to cling. Buckle closures are also a great option to be able to gauge that your boots are fastened to the same tightness each day.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading">&nbsp;</h4>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading">Have a few seconds?&nbsp; That's all you'll need!</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Watch this video to see how easy it is to change out your straps for buckles:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:embed {"url":"https://www.youtube.com/watch?v=6t95JeGPghw","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://www.youtube.com/watch?v=6t95JeGPghw
+</div></figure>
+<!-- /wp:embed -->
+
+<!-- wp:paragraph -->
+<p>Buckle Straps are also available for our other Cavallo Boot styles. Find the Simple Boot, ELB, and CLB Buckle Straps <strong><a href="http://cavallo.local/product/simple-elb-boot-buckle-strap/" target="_blank" rel="noopener noreferrer">HERE!</a></strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Sign up <strong><a href="http://cavallo.local/subscribe-to-the-cavallo-horse-and-rider-newsletter/" target="_blank" rel="noopener noreferrer">HERE</a></strong> for Cavallo’s free newsletter and special community discounts!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Wishing you happy trails and tons of fun with your buckled-boots,</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":31657} -->
+<figure class="wp-block-image"><img src="http://cavallo.local/wp-content/uploads/2020/07/OFFICIAL-Carole-Herder-2020-Signature-Hoof-Prints-Book-LR-1.png" alt="Carole Herder 2020 Signature - Hoof Prints Book - LR" class="wp-image-31657"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Visit us at www.cavallo.local to learn about the full line of Cavallo Hoof Boots. Call us at (877) 818-0037 from the USA or Canada, or find us on Facebook at @Cavallo Hoof Boots or Instagram at @cavallohoofboots</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph -->

@@ -1,0 +1,51 @@
+<!-- wp:paragraph -->
+<p>Attention all Ozzy's, adventurists, and horse lovers, Brumby Week is coming to Central Australia! Brumby Week is an international wild horse convention that consists of a week of safaris, indigenous learning and outback adventures coming to the Northern Territory, Australia in August.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":8657,"width":"612px","height":"auto","align":"left"} -->
+<figure class="wp-block-image alignleft is-resized"><img src="//www.cavallo.local/wp-content/uploads/2017/05/Australia-Brumbies-wild-horses.jpg" alt="Image of Australia Brumbys" class="wp-image-8657" style="width:612px;height:auto"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The reason I love this is because it highlights the survival of the wild horse. These horses survive and thrive in the outback, one of the harshest, most barren and rugged terrains ever! It highlights that our domestication practices may not always be necessary or even the right way to keep horses. Of course, we don't have the outback in our back yards, but the closer we come to natural habitat, the better our horses fair. Do these horses have metal shoes nailed on their feet?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>This event brings together international and local adventurers with a love of horses and wide open spaces to the middle of the Red Center in the Northern Territory. For 5 days, August 28 - September 1 at the Kings Creek Station, it's a unique opportunity to observe, learn about, and contribute to the future of the wild horses of Central Australia. Horse lovers, adventurers, road trippers, international guests, and especially photographers will be in absolute heaven!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":8645,"linkDestination":"custom","align":"center"} -->
+<figure class="wp-block-image aligncenter"><a href="https://vimeo.com/214969058" target="_blank" rel="noopener"><img src="//www.cavallo.local/wp-content/uploads/2017/05/Oz-Back-Country.jpg" alt="Image of the George Gill Ranges" class="wp-image-8645"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Take it from me, Australia is a great place to go and Australians are really wonderful people. I know, I married one.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":6} -->
+<h6 class="wp-block-heading"><span style="text-decoration: underline;"><strong>Registration for Brumby Week&nbsp;</strong></span></h6>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The Brumby Week Event is now open for registration online!&nbsp;To make sure that you get a secure spot on this amazing adventure, <a href="http://www.brumbyweek.com/register" target="_blank" rel="noopener">sign up now</a> as space is limited.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Happy Trails,</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":8639,"align":"left"} -->
+<figure class="wp-block-image alignleft"><img src="//www.cavallo.local/wp-content/uploads/2017/05/Caroles-signiture-image.png" alt="Image of Cavallo President, Carole Herder" class="wp-image-8639"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->

@@ -1,0 +1,55 @@
+<!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading">Happy Horses: &nbsp;Our Passion</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="http://cavallo.local/" target="_blank" rel="noopener">Cavallo Horse &amp; Rider</a> is a company with a passion - to see every horse happy, healthy, and free from disease and discomfort. &nbsp;That's why we choose employees who hold animals in the highest regard. We're&nbsp;committed to contributing to the well-being of our hooved friends through our work at Cavallo.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>When we see other organizations who share this passion, we try to give back where we can. &nbsp;We believe that generosity enables.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading"><span style="color: #000000;">Mounted Search And Rescue / Mounted Police</span></h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Cavallo offers special discounts to selected&nbsp;<a href="https://en.wikipedia.org/wiki/Mounted_search_and_rescue" target="_blank" rel="noopener">Mounted Search and Rescue </a>and <a href="https://en.wikipedia.org/wiki/Mounted_police" target="_blank" rel="noopener">Mounted Police members</a>&nbsp;throughout North America. These&nbsp;hard-working horses, booted with <a href="http://cavallo.local/product-category/hoof-boot/" target="_blank" rel="noopener">Cavallos,</a>&nbsp;then receive the best protection through the rough terrain&nbsp;they often encounter. &nbsp;Enabling these horses to navigate as safely and sure-footedly as possible by offering them affordable access to Cavallos is our <strong>"Thank You"</strong>. &nbsp;These people are often volunteers, willingly putting themselves in dangerous situations for the sake of others.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading"><span style="color: #000000;">The Equine Advantage</span></h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>On horseback, Search and Rescue riders have the physical ability to access places that a vehicle can not. Loud vehicle sounds, such as ATV motors, could drown out a call for help. &nbsp;With the unique advantage of the horse's natural ability to sense life around them, valuable signals are relayed from horse to rider. These clues can indicate the location or presence of a missing or injured person.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Many urban Mounted Units must ride on hard, aggressive terrain to be where they need to be. &nbsp;<a href="http://cavallo.local/product-category/hoof-boot/" target="_blank" rel="noopener">Cavallo Hoof Boots</a>&nbsp;are used by &nbsp;mounted units to absorb the impact of hoof strike on hard ground, decreasing fatigue. &nbsp;This allows police&nbsp;horses to stay fresh and focus on their jobs at hand!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>If you see any Mounted Search and Rescue or police working hard out there on the trails or on the streets, remember to give them a great big smile for all they do for us!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":5} -->
+<h5 class="wp-block-heading"><strong>Happy Trails,</strong></h5>
+<!-- /wp:heading -->
+
+<!-- wp:image {"id":10645,"width":"300px"} -->
+<figure class="wp-block-image is-resized"><img src="//www.cavallo.local/wp-content/uploads/2017/12/CaroleSig.jpg" alt="Carole Herder's Signature" class="wp-image-10645" style="width:300px"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":10798,"align":"left"} -->
+<figure class="wp-block-image alignleft"><img src="//www.cavallo.local/wp-content/uploads/2018/01/Caroles-Signature-2017.png" alt="Carole Herder's Signature" class="wp-image-10798"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->

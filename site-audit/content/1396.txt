@@ -1,0 +1,35 @@
+<!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="http://cavallo.local/wp-content/uploads/2024/09/EquineNutrition1.jpg" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>By Carole Herder</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Equine diet – for some it is very basic: grass. For others it is the bane of their existence: grass or hay, oats or barley, beet or alfafa, how much, how often, wet or dry, supplements or minerals? The questions are endless.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Personally I believe much of it depends on your horse. Similar to humans, diet can affect us all differently. I know many people who can stuff their faces with sweets and cakes only to be a size six permanently, while others need only look at a treat and they feel the weight go onto their hips. Horses are the same. Many a hardy pony can live on dry grass and water and nothing else and their feet and muscles will stay just as tough as their personalities. While a fine-boned hot blood will only look at the wrong brand of cereal grain and will go into a tizzy!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>I had one horse who when I bought him, was absolutely fine – great feet, great condition and strong willed. Once I started working him and trying to adapt his diet to what I thought it should be, it all went horribly wrong. His feet cracked terribly, he lost condition and he went very lethargic. It took me months to get him back right and I tried all sorts of solutions from different grains to hay only to more supplements. We eventually got it right and he is doing much better now but I was amazed at all my others horses who had no issues.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>I learnt much during that time, mainly that too much grain is bad, sweet lush grass can cause problems and large infrequent meals are the root of digestive issues. Other than that it was trial and error to find a suitable diet that worked for him.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>I spoke to many people and read many articles but it really is down to what is best for your horse – it will be different for them all so try not to be sucked in by marketing gimmicks and friends’ convincing stories (although it can be worth chatting to people just to get some ideas). I did find one interesting article which went a long way to proving the effectiveness of slow feeding for horses through different hay nets – check it out: <a href="http://www.extension.umn.edu/agriculture/horse/nutrition/using-slow-feed-hay-nets/index.html" target="_blank" rel="noopener">http://www.extension.umn.edu/agriculture/horse/nutrition/using-slow-feed-hay-nets/index.html</a>.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>There is also an excellent free online course on basic equine nutrition which you can find here: <a href="https://www.coursera.org/course/equinenutrition" target="_blank" rel="noopener">https://www.coursera.org/course/equinenutrition</a>. Good luck!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:spacer {"height":"40px"} -->
+<div style="height:40px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->

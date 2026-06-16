@@ -1,0 +1,86 @@
+[
+  {
+    "id": "5319",
+    "content_format": "Landing / marketing page",
+    "summary": "Thank-you/download page offering three free Cavallo books: Hoof Prints on the Journey, No Horseshoes in Heaven, and the Cavallo Barefoot Trim Manual by Lynn Seeley.",
+    "key_components": ["Image gallery", "CTA button"],
+    "primary_cta": "Download free books"
+  },
+  {
+    "id": "5334",
+    "content_format": "Video page",
+    "summary": "Single-video page showing how to measure and fit Cavallo hoof boots, with an embedded YouTube tutorial.",
+    "key_components": ["Video embed"],
+    "primary_cta": "Watch measuring and fitting video"
+  },
+  {
+    "id": "5337",
+    "content_format": "Landing / marketing page",
+    "summary": "Promotional page offering 15% off Cavallo boots, citing Western Kentucky University research that Cavallo Trek boots reduce hoof pressure versus metal shoes.",
+    "key_components": ["Image gallery", "Video embed", "Table of contents/sections", "Bulleted list", "CTA button"],
+    "primary_cta": "Shop boots / claim 15% off"
+  },
+  {
+    "id": "5455",
+    "content_format": "Landing / marketing page",
+    "summary": "Cavallo Gives charity page documenting the donation of 1000 pairs of hoof boots to rescues, therapy organizations, mounted police, and horses in need worldwide.",
+    "key_components": ["Image gallery", "Video embed", "Table of contents/sections"],
+    "primary_cta": "None"
+  },
+  {
+    "id": "5492",
+    "content_format": "FAQ / informational",
+    "summary": "Informational page explaining how Cavallo hoof boots help horses with laminitis, navicular, abscesses, and other hoof conditions during therapy, rehab, and turnout.",
+    "key_components": ["Image gallery", "Video embed", "Table of contents/sections", "Bulleted list", "CTA button"],
+    "primary_cta": "Shop hoof boots"
+  },
+  {
+    "id": "5800",
+    "content_format": "Policy / legal page",
+    "summary": "Cavallo exchange and return policy detailing pre-authorization requirements, sizing exchange steps, return shipping costs, and as-new condition rules.",
+    "key_components": ["Bulleted list"],
+    "primary_cta": "Contact us to arrange a return"
+  },
+  {
+    "id": "5802",
+    "content_format": "Landing / marketing page",
+    "summary": "Download page offering a free Laminitis Guide on using Cavallo boots for laminitis recovery and hoof rehabilitation, with real owner stories.",
+    "key_components": ["Image gallery"],
+    "primary_cta": "Download laminitis guide"
+  },
+  {
+    "id": "5816",
+    "content_format": "Landing / marketing page",
+    "summary": "Placeholder teaser page for the upcoming Cavallo Affiliate/Referral Program, announcing something new coming soon.",
+    "key_components": [],
+    "primary_cta": "None"
+  },
+  {
+    "id": "5824",
+    "content_format": "Video page",
+    "summary": "Celebrities Speak Out page featuring video testimonials from horse experts like Pat Parelli, Monty Roberts, John Lyons, Guy McLean, and Dr. Jennifer Gill endorsing Cavallo boots.",
+    "key_components": ["Video embed", "CTA button"],
+    "primary_cta": "Read more / watch testimonials"
+  },
+  {
+    "id": "5847",
+    "content_format": "Landing / marketing page",
+    "summary": "Testimonial page profiling Australian world champion Dan James of Double Dan Horsemanship and why he uses Cavallo Trek boots for trainer's challenges and shows.",
+    "key_components": ["Video embed", "CTA button"],
+    "primary_cta": "Watch Dan's video"
+  },
+  {
+    "id": "5865",
+    "content_format": "FAQ / informational",
+    "summary": "Informational guide on Cavallo Pastern Wraps: when to use them, sizing and fitting, application, and pastern/heel-bulb protection for full-time boot wear and conditions like laminitis.",
+    "key_components": ["Image gallery", "Video embed", "Table of contents/sections", "Lead form", "Bulleted list", "CTA button"],
+    "primary_cta": "Shop pastern wraps"
+  },
+  {
+    "id": "6419",
+    "content_format": "Standard article (text + images)",
+    "summary": "Article on the Western Kentucky University study by Dr. Jennifer Gill comparing Cavallo Trek hoof boots to metal shoes, using FujiFilm pressure imaging to show reduced hoof pressure.",
+    "key_components": ["Video embed", "Table of contents/sections"],
+    "primary_cta": "None"
+  }
+]

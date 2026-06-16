@@ -1,0 +1,349 @@
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"textAlign":"center","level":1,"style":{"spacing":{"padding":{"bottom":"var:preset|spacing|md"}}}} -->
+<h1 class="wp-block-heading has-text-align-center" style="padding-bottom:var(--wp--preset--spacing--md)">Your Cavallo News – July/August 2023</h1>
+<!-- /wp:heading -->
+
+<!-- wp:image {"id":4011,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="http://cavallo.local/wp-content/uploads/2024/10/news-banner.jpg" alt="" class="wp-image-4011"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":4335,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="http://cavallo.local/wp-content/uploads/2024/10/Trek-Pro-giveaway.jpg" alt="" class="wp-image-4335"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"textAlign":"center","level":4,"style":{"spacing":{"padding":{"top":"var:preset|spacing|md"}}}} -->
+<h4 class="wp-block-heading has-text-align-center" style="padding-top:var(--wp--preset--spacing--md)"><strong>Make Us Laugh to Win!</strong></h4>
+<!-- /wp:heading -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column {"width":"15%"} -->
+<div class="wp-block-column" style="flex-basis:15%"></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":"85%"} -->
+<div class="wp-block-column" style="flex-basis:85%"><!-- wp:paragraph {"align":"center","fontSize":"large"} -->
+<p class="has-text-align-center has-large-font-size">YOU could end up with a pair of NEW Trek Pro Boots! Just go to <a href="https://www.facebook.com/CavalloHoofboots/posts/pfbid02e2VipCota4h6UZW9HeetgoQCELKDG12SwPw8t9k7JcLbme92oXUDuyAS1Rn7Gx1fl?__cft__[0]=AZU3opsDgQdAl7JZu_Wo6gIM4xRI3v4kEBMbUuanz4r7v5fIYuPK4pmI-CYmnIj2baF7Ht4Wg9lbhsnbPobf-N-g43CtJjT_bNm_WkEiSZw8RQwaqai6CFNJLdzO8NPPKTkEpqjoBKpEgRBaIQAPDTDE89vQkweDcqcUM4p-Ij6PTqobKX-XfIwMYmluij8J3JuFgHDD1eCxxpO0hBIT9Et7&amp;__tn__=%2CO%2CP-R" target="_blank" rel="noreferrer noopener"><span style="text-decoration: underline;">our Facebook post HERE</span></a> and tell us the lengths YOUR horse would go to for a pair of Trek Pro. The comment that makes us laugh the most will get the boots!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"center","fontSize":"normal"} -->
+<p class="has-text-align-center has-normal-font-size">(*<strong>PLEASE NOTE</strong> – we will <strong>NEVER</strong> send you a message with a link to click under any circumstances, please be careful of fraudulent messages regarding this and any contest. Please see details at bottom of this newsletter)</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":"15%"} -->
+<div class="wp-block-column" style="flex-basis:15%"></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"var:preset|spacing|xl","bottom":"var:preset|spacing|xl"},"margin":{"top":"0","bottom":"0"}}},"backgroundColor":"light-red-1","layout":{"type":"constrained","contentSize":""}} -->
+<div class="wp-block-group alignfull has-light-red-1-background-color has-background" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--xl);padding-bottom:var(--wp--preset--spacing--xl)"><!-- wp:columns {"style":{"spacing":{"padding":{"top":"0","bottom":"0"}}}} -->
+<div class="wp-block-columns" style="padding-top:0;padding-bottom:0"><!-- wp:column {"verticalAlignment":"center","width":"44.48%"} -->
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis:44.48%"><!-- wp:heading -->
+<h2 class="wp-block-heading">Can a Pony Publish a Book? If He's the MAYOR, he Sure Can!</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"spacing":{"margin":{"bottom":"27px"}}}} -->
+<p style="margin-bottom:27px">The English town of Cockington is very proud of its furry, four-legged mayor!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Last year, Patrick was officially elected mayor of Cockington after their previous mayor passed away. While Patrick doesn’t rule with a gavel and he hates paperwork, he does provide the public with equine therapy and, like many mayors, he’s great company at the pub and likes a pint or two. ????</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Patrick (with the help of his owners, Kirk &amp; Wendy), has been working on a beautiful book called How a Pony Became Mayor, all about his journey to being elected.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"4px","bottom":"27px"}}}} -->
+<p style="margin-top:4px;margin-bottom:27px">Please keep an eye out, we will announce once Patrick’s book is released! What a perfect gift for the horse lover or animal loving child in your life!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"textColor":"red","className":"is-style-fill c-button\u002d\u002dsimple","style":{"elements":{"link":{"color":{"text":"var:preset|color|red"}}},"spacing":{"padding":{"left":"0","right":"0","top":"0","bottom":"0"}},"color":{"background":"#ffffff00"}}} -->
+<div class="wp-block-button is-style-fill c-button--simple"><a class="wp-block-button__link has-red-color has-text-color has-background has-link-color wp-element-button" href="https://www.dw.com/en/british-4-legged-mayor-brings-people-together/video-66505767" style="background-color:#ffffff00;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0" target="_blank" rel="noreferrer noopener">Learn About Patrick<svg xmlns="http://www.w3.org/2000/svg" width="16" height="17">    <path d="m9.356 3.644 4.5 4.5a.512.512 0 0 1 0 .712l-4.5 4.5a.507.507 0 0 1-.712-.712L12.294 9H2.5a.5.5 0 1 1 0-1h9.794l-3.65-3.644a.506.506 0 0 1 .712-.712Z"></path></svg><br></a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"top","width":"","style":{"spacing":{"padding":{"right":"0","left":"0","top":"0","bottom":"0"}}},"layout":{"type":"constrained","contentSize":"585px","justifyContent":"right","wideSize":""}} -->
+<div class="wp-block-column is-vertically-aligned-top" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:image {"id":4338,"scale":"cover","sizeSlug":"full","linkDestination":"none","style":{"color":{"duotone":"unset"},"border":{"width":"0px","style":"none","radius":"10px"}}} -->
+<figure class="wp-block-image size-full has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2024/10/Patrick-Pony-Book.jpg" alt="" class="wp-image-4338" style="border-style:none;border-width:0px;border-radius:10px;object-fit:cover"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|xxl","bottom":"var:preset|spacing|xxl"},"margin":{"top":"0","bottom":"0"}},"elements":{"link":{"color":{"text":"var:preset|color|white"}}}},"textColor":"white","gradient":"radial-black","layout":{"type":"constrained","contentSize":"953px"}} -->
+<div class="wp-block-group has-white-color has-radial-black-gradient-background has-text-color has-background has-link-color" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--xxl);padding-bottom:var(--wp--preset--spacing--xxl)"><!-- wp:heading {"textAlign":"center","style":{"elements":{"link":{"color":{"text":"var:preset|color|white"}}},"spacing":{"margin":{"bottom":"50px"}}},"textColor":"white"} -->
+<h2 class="wp-block-heading has-text-align-center has-white-color has-text-color has-link-color" style="margin-bottom:50px">Patrick The Pony</h2>
+<!-- /wp:heading -->
+
+<!-- wp:embed {"url":"https://www.youtube.com/watch?v=QGmwBD7jw7g","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://www.youtube.com/watch?v=QGmwBD7jw7g
+</div></figure>
+<!-- /wp:embed --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"textAlign":"center","style":{"spacing":{"padding":{"bottom":"var:preset|spacing|md"}}}} -->
+<h2 class="wp-block-heading has-text-align-center" style="padding-bottom:var(--wp--preset--spacing--md)">Farrier's Biggest Challenge Happens to her Own Horse:</h2>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"textAlign":"center","level":4,"style":{"spacing":{"padding":{"bottom":"var:preset|spacing|sm"}}}} -->
+<h4 class="wp-block-heading has-text-align-center" style="padding-bottom:var(--wp--preset--spacing--sm)">"My Mare Stepped on a One-Inch Roofing Nail!"</h4>
+<!-- /wp:heading -->
+
+<!-- wp:image {"id":4343,"sizeSlug":"full","linkDestination":"none","align":"center","style":{"border":{"radius":"10px"}}} -->
+<figure class="wp-block-image aligncenter size-full has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2024/10/miriam.jpg" alt="" class="wp-image-4343" style="border-radius:10px"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>We received this shocking yet inspiring story from Miriam Braun, Quebec Trimmer and farrier:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>“I would like to share that my mare stepped on a 1” roofing nail on her left hind. After my local vet radiographed it and received approval from our University Veterinary Hospital, I removed the nail (being a farrier).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>I immediately flushed it out, bandaged it, and then I put all 4 of her Trek Boots on for protection and support during the 90-minute drive to the Hospital. There, they performed a multitude of radiographs with a metal probe, and they tapped the joint with a contrast to try and see if there was any penetration.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>An MRI was then performed, as the detailed radiographs could not confirm or rule out joint penetration. If that had been the case, major surgery would have been the option.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Very fortunately, no synovial structures were affected. In addition, the nail stopped 5mm from P3, it ever so slightly came in contact with the DDFT. But no penetration! It is THE most fortunate outcome in such a case. I am so very glad to have the boots for her recovery!”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"textAlign":"center","level":4} -->
+<h4 class="wp-block-heading has-text-align-center">UPDATE: A "Phew" Moment:</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Update from Miriam, August 21, 2023:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>“<em>Bïa has officially has moved into our large shelter, including the mud-free zone in front, with occasional grass turn-out. All oral and local antibiotics are now done. The wound has dried up and appears to be keratinizing. Monitoring and bandaging continues. Including the protection of her Cavallo Hoof Boots Treks!!!!</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>– Miriam Braun, Barefoot Trimmer, Quebec</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|xxl","bottom":"var:preset|spacing|xxl"},"margin":{"top":"0","bottom":"0"}}},"backgroundColor":"light-red-1","layout":{"type":"constrained","contentSize":""}} -->
+<div class="wp-block-group has-light-red-1-background-color has-background" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--xxl);padding-bottom:var(--wp--preset--spacing--xxl)"><!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column {"verticalAlignment":"top","width":"","style":{"spacing":{"padding":{"right":"0","left":"0","top":"0","bottom":"0"}}},"layout":{"type":"constrained","contentSize":"585px","justifyContent":"left","wideSize":""}} -->
+<div class="wp-block-column is-vertically-aligned-top" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:image {"id":4349,"scale":"cover","sizeSlug":"full","linkDestination":"none","style":{"color":{"duotone":"unset"},"border":{"width":"0px","style":"none","radius":"10px"}}} -->
+<figure class="wp-block-image size-full has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2024/10/Cavallo-Trek-Pro-Hoof-Boot-rehabilitation-soaking-452x367-1.jpg" alt="" class="wp-image-4349" style="border-style:none;border-width:0px;border-radius:10px;object-fit:cover"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"top","width":"44.48%"} -->
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis:44.48%"><!-- wp:heading -->
+<h2 class="wp-block-heading">Double Duty: Cavallos for Hoof Rehab</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"fontSize":"normal"} -->
+<p class="has-normal-font-size">Cavallo Hoof Boots are an integral part of any hoof rehabilitation process. The SAME boots you hit the trails with double as top-of-the-line rehab boots! They hold your dressings in place, convert to soaking boots and provide comfort, protection and traction.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>So, you can ditch the duct tape and stall confinement! When wearing Cavallos and comfortable in movement, your horse will move, blood will pump, and the circulating nutrients will facilitate healing.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"4px","bottom":"27px"}}}} -->
+<p style="margin-top:4px;margin-bottom:27px">Read about using your Cavallos for Therapy, hoof Rehab and turnout!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button {"textColor":"red","className":"is-style-fill c-button\u002d\u002dsimple","style":{"elements":{"link":{"color":{"text":"var:preset|color|red"}}},"spacing":{"padding":{"left":"0","right":"0","top":"0","bottom":"0"}},"color":{"background":"#ffffff00"}}} -->
+<div class="wp-block-button is-style-fill c-button--simple"><a class="wp-block-button__link has-red-color has-text-color has-background has-link-color wp-element-button" href="http://cavallo.local/why-trek-makes-the-perfect-therapy-rehab-hoof-boot/" style="background-color:#ffffff00;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0">Learn How<svg xmlns="http://www.w3.org/2000/svg" width="16" height="17">    <path d="m9.356 3.644 4.5 4.5a.512.512 0 0 1 0 .712l-4.5 4.5a.507.507 0 0 1-.712-.712L12.294 9H2.5a.5.5 0 1 1 0-1h9.794l-3.65-3.644a.506.506 0 0 1 .712-.712Z"></path></svg><br></a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"var:preset|spacing|xl","bottom":"var:preset|spacing|xl"},"margin":{"top":"0","bottom":"0"}}},"backgroundColor":"white","layout":{"type":"constrained","contentSize":""}} -->
+<div class="wp-block-group alignfull has-white-background-color has-background" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--xl);padding-bottom:var(--wp--preset--spacing--xl)"><!-- wp:columns {"style":{"spacing":{"padding":{"top":"0","bottom":"0"}}}} -->
+<div class="wp-block-columns" style="padding-top:0;padding-bottom:0"><!-- wp:column {"verticalAlignment":"top","width":"44.48%"} -->
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis:44.48%"><!-- wp:heading -->
+<h2 class="wp-block-heading">Your LEB (Long Ear Boot) Update!</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"fontSize":"normal"} -->
+<p class="has-normal-font-size">Development of our <a href="http://cavallo.local/product/leb-long-ear-hoof-boot/"><span style="text-decoration: underline;">LEB (Long Ear Boot)</span></a> is taking longer than expected, as we want to ensure that the boots are as good as they possibly can be for our Long-Eared friends.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The first production trials have now been sent to Megan Hensley of Holistic Hooves (The Donkey Farrier) in California for testing. Upon satisfactory testing, we will then arrange for a production run of boots, and these will be available in USA &amp; Canada later this year. We will then proceed with 3 more sizes, which we expect to be available early 2024.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>YOU MAY NOT HAVE TO WAIT!</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>If you can’t wait, please reach out to our team for help to size your long-eared friend. Many donkeys and mules fit into our current range of existing boots, and we can determine if yours can, too!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"4px","bottom":"27px"}}}} -->
+<p style="margin-top:4px;margin-bottom:27px">Thank you for your patience, we look forward to delivering comfort and protection to your beloved mules and donkeys! ❤</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"top","width":"","style":{"spacing":{"padding":{"right":"0","left":"0","top":"0","bottom":"0"}}},"layout":{"type":"constrained","contentSize":"585px","justifyContent":"right","wideSize":""}} -->
+<div class="wp-block-column is-vertically-aligned-top" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:image {"id":4351,"scale":"cover","sizeSlug":"full","linkDestination":"none","style":{"color":{"duotone":"unset"},"border":{"width":"0px","style":"none","radius":"10px"}}} -->
+<figure class="wp-block-image size-full has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2024/10/Larry-at-Donkey-Welfare-Symposium-2022-sent-by-Megan-Hensley-LEB-Boots.jpg" alt="" class="wp-image-4351" style="border-style:none;border-width:0px;border-radius:10px;object-fit:cover"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"var:preset|spacing|xl","bottom":"var:preset|spacing|xl"},"margin":{"top":"0","bottom":"0"}}},"backgroundColor":"light-red-1","layout":{"type":"constrained","contentSize":""}} -->
+<div class="wp-block-group alignfull has-light-red-1-background-color has-background" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--xl);padding-bottom:var(--wp--preset--spacing--xl)"><!-- wp:columns {"style":{"spacing":{"padding":{"top":"0","bottom":"0"}}}} -->
+<div class="wp-block-columns" style="padding-top:0;padding-bottom:0"><!-- wp:column {"verticalAlignment":"center","width":"44.48%"} -->
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis:44.48%"><!-- wp:heading -->
+<h2 class="wp-block-heading">Pony Express? FREE Shipping Service DELIVERS!</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"spacing":{"margin":{"bottom":"27px"}}}} -->
+<p style="margin-bottom:27px">Did you know Cavallo Offers <a href="http://cavallo.local/your-cavallo-warranty-guarantees-the-quality-and-workmanship-of-cavallo-hoof-boots/"><span style="text-decoration: underline;">FREE Shipping</span></a> for all orders over $49.95 within Canada &amp; US?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>All orders within the USA are shipped via FedEx. For orders over $49.95, Fedex Ground shipping is included in Mainland USA (please note: orders to Alaska and Hawaii will ship via USPS).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>All orders within Canada are shipped via Canada Post. For orders over $49.95, Canada Post Expedited parcel service is included for all provinces and territories.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Are you located in the UK and would like to know where to find Cavallos near you? <a href="http://cavallo.local/contact-us/"><span style="text-decoration: underline;">CLICK HERE!</span></a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"4px","bottom":"27px"}}}} -->
+<p style="margin-top:4px;margin-bottom:27px">Are you an international customer and would like to know more about getting Cavallos in your country? Please <a href="http://cavallo.local/contact-us/"><span style="text-decoration: underline;">CLICK HERE!</span></a></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"top","width":"","style":{"spacing":{"padding":{"right":"0","left":"0","top":"0","bottom":"0"}}},"layout":{"type":"constrained","contentSize":"585px","justifyContent":"right","wideSize":""}} -->
+<div class="wp-block-column is-vertically-aligned-top" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:image {"id":4352,"scale":"cover","sizeSlug":"full","linkDestination":"none","style":{"color":{"duotone":"unset"},"border":{"width":"0px","style":"none","radius":"10px"}}} -->
+<figure class="wp-block-image size-full has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2024/10/pony-express-parce2l.jpg" alt="" class="wp-image-4352" style="border-style:none;border-width:0px;border-radius:10px;object-fit:cover"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"var:preset|spacing|xl","bottom":"var:preset|spacing|xl"},"margin":{"top":"0","bottom":"0"}}},"backgroundColor":"white","layout":{"type":"constrained","contentSize":""}} -->
+<div class="wp-block-group alignfull has-white-background-color has-background" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--xl);padding-bottom:var(--wp--preset--spacing--xl)"><!-- wp:columns {"style":{"spacing":{"padding":{"top":"0","bottom":"0"}}}} -->
+<div class="wp-block-columns" style="padding-top:0;padding-bottom:0"><!-- wp:column {"verticalAlignment":"top","width":"44.48%"} -->
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis:44.48%"><!-- wp:heading -->
+<h2 class="wp-block-heading">Cavallo FAQ Time!</h2>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Will Cavallo Boots Custom-Fit to my Horse?</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"fontSize":"normal"} -->
+<p class="has-normal-font-size">You’ve probably heard that once broken in, Cavallo Boots provide a custom fit to your horse – but this does take a bit of time.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Just think of buying a new, high-quality pair of boots for yourself – you wouldn’t want to wear them to work for eight hours the next day without breaking them in! The boots need time to shape to your feet, and your feet will become used to having the boots on. It’s the very same with Cavallo Boots and your horse.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"4px","bottom":"27px"}}}} -->
+<p style="margin-top:4px;margin-bottom:27px">Allow your equine to ‘break in’ their boots gradually, starting with 15 – 20 minutes the first day, and increasing by another 15 minutes each day after, while monitoring the comfort of the hoofs. If you see any signs of irritation, hold off using the boots for a couple of days, then start again. Signs of irritation include: shiny, red or hot skin, or hair being rubbed off.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"top","width":"","style":{"spacing":{"padding":{"right":"0","left":"0","top":"0","bottom":"0"}}},"layout":{"type":"constrained","contentSize":"585px","justifyContent":"right","wideSize":""}} -->
+<div class="wp-block-column is-vertically-aligned-top" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:image {"id":331241,"scale":"cover","sizeSlug":"full","linkDestination":"none","align":"right","style":{"color":{"duotone":"unset"},"border":{"width":"0px","style":"none","radius":"10px"}}} -->
+<figure class="wp-block-image alignright size-full has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2023/08/Elizabeth-Morrison-human-boots-and-Trek-rotated-2.jpg" alt="" class="wp-image-331241" style="border-style:none;border-width:0px;border-radius:10px;object-fit:cover"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:columns {"style":{"spacing":{"padding":{"top":"0","bottom":"0"}}}} -->
+<div class="wp-block-columns" style="padding-top:0;padding-bottom:0"><!-- wp:column {"verticalAlignment":"top","width":"","style":{"spacing":{"padding":{"right":"0","left":"0","top":"0","bottom":"0"}}},"layout":{"type":"constrained","contentSize":"","justifyContent":"center","wideSize":""}} -->
+<div class="wp-block-column is-vertically-aligned-top" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:embed {"url":"https://www.youtube.com/watch?v=5R881ZhjDwA","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://www.youtube.com/watch?v=5R881ZhjDwA
+</div></figure>
+<!-- /wp:embed --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"top","width":"44.48%"} -->
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis:44.48%"><!-- wp:paragraph {"fontSize":"normal"} -->
+<p class="has-normal-font-size">Soaking or wearing your Cavallos through in water or using a leather conditioner to “work” the leather at the heel bulb will hasten the softening progress. <a href="http://cavallo.local/product-category/hoof-boot-accessories/pastern-wraps/" target="_blank" rel="noreferrer noopener">Cavallo Comfort Sleeves or Pastern Wraps</a> or even vet wrap can be used to help prevent any chaffing during the break-in period. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>One of the outstanding features of our boots (all models) is that the back bulb area is padded with leather on both sides – inside and out, with a foam cushion in between. This leather softens and conforms to the unique shape of YOUR horse’s bulbs. Your boots end up literally custom-moulding to your horse’s feet, keeping an optimal fit and providing protection and support.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"4px","bottom":"27px"}}}} -->
+<p style="margin-top:4px;margin-bottom:27px">I made you a video that shows what happens to the boots during the break-in process:</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"}} -->
+<div class="wp-block-buttons"><!-- wp:button {"backgroundColor":"red"} -->
+<div class="wp-block-button"><a class="wp-block-button__link has-red-background-color has-background wp-element-button" href="http://cavallo.local/faq/">Read More Cavallo FAQ's >></a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column {"width":"66.66%"} -->
+<div class="wp-block-column" style="flex-basis:66.66%"><!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Wishing you many happy trails</h3>
+<!-- /wp:heading -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"id":4076,"sizeSlug":"full","linkDestination":"none","align":"left"} -->
+<figure class="wp-block-image alignleft size-full"><img src="http://cavallo.local/wp-content/uploads/2024/10/5381858031fd2babec50665b30807366.png" alt="" class="wp-image-4076"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"0","bottom":"0"}}},"fontSize":"large"} -->
+<p class="has-large-font-size" style="margin-top:0;margin-bottom:0">Carole Herder</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"spacing":{"padding":{"right":"0","left":"0"}}}} -->
+<p style="padding-right:0;padding-left:0">President and founder of Cavallo Horse &amp; Rider Inc</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Carole Herder, President and founder of Cavallo Horse &amp; Rider Inc., is an internationally acclaimed figure in the equestrian community. Her books, There Are No Horseshoes in Heaven and Hoof Prints on the Journey, have become international bestsellers, further solidifying her status as a thought leader in the industry.&nbsp;Since 1993, Carole has been deeply involved in horse health. Cavallo is a global leader in developing, manufacturing, and distributing horse products. Carole’s passion for horse comfort is evident in her designs, including the innovative Cavallo Hoof Boots and Total Comfort System Saddle Pads.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>A true pioneer in the equestrian community, Carole is widely recognized for her expertise and contributions. She champions the benefits of keeping horses in their natural state, advocates for overall hoof health, and works towards the alleviation of debilitating disorders. Her achievements include being an honoured award recipient of the Royal Bank of Canada Woman Entrepreneur of the Year, British Columbia’s Businesswoman of The Year, and North America Enterprising Woman of The Year.&nbsp;<br>Carole is a certified Dr. Deepak Chopra Yoga, Meditation and Ayurvedic Lifestyle Instructor and a proud member of the Women Presidents Organization, supporting female entrepreneurs in every industry.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":"33.33%"} -->
+<div class="wp-block-column" style="flex-basis:33.33%"><!-- wp:image {"id":4084,"sizeSlug":"full","linkDestination":"none","style":{"border":{"radius":"10px"}}} -->
+<figure class="wp-block-image size-full has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2024/10/carole-herder.jpg" alt="" class="wp-image-4084" style="border-radius:10px"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":4085,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="http://cavallo.local/wp-content/uploads/2024/10/carole-books.jpg" alt="" class="wp-image-4085"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->

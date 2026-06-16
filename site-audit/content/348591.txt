@@ -1,0 +1,293 @@
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:image -->
+<figure class="wp-block-image"><img src="http://cavallo.local/wp-content/uploads/2022/02/Celebrating-Dynamic-Lives-header-2021.png" alt="Cavallo Hoof Boots Newsletter Heading" title="Cavallo Hoof Boots Newsletter Heading"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"textAlign":"center","level":5} -->
+<h5 class="wp-block-heading has-text-align-center">Enjoy Your Latest Cavallo News - Full of Hoof-Saving Hacks &amp; Tips to Keep your Horse Brilliantly Booted!</h5>
+<!-- /wp:heading --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"textAlign":"center"} -->
+<h2 class="wp-block-heading has-text-align-center">RBC Women of Influence Innovation Award Finalist: Carole Herder and Her Commitment to Equine Care</h2>
+<!-- /wp:heading --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image -->
+<figure class="wp-block-image"><img src="http://cavallo.local/wp-content/uploads/2025/09/Carole-Herder-RBC-Award-finalist-2025.jpg" alt="Carole Herder RBC Award finalist 2025" title="Carole Herder RBC Award finalist 2025"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:paragraph -->
+<p>Big news from our Cavallo family!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Our very own Carole Herder, President of Cavallo, has been named an<a href="https://www.womenofinfluence.ca/2025/09/11/meet-carole-herder-rbc-canadian-women-entrepreneur-awards-innovation-finalist/" target="_blank" rel="noreferrer noopener">&nbsp;Official Regional Finalist for the RBC Canadian Innovation Award</a>&nbsp;?—one of only THREE RBC Canadian Women Entrepreneur Awards finalists from across the entire country!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The winner will be revealed at the Gala in Toronto on Friday, November 14th.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Carole’s journey is nothing short of inspiring:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>She has dedicated her life to improving the comfort and well-being of horses worldwide by pioneering the development of Cavallo Hoof Boots, an innovation that has revolutionized the way horses are ridden, rehabilitated, and cared for globally.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>An accomplished author and speaker, Carole has educated thousands of riders on natural horse care. She’s built Cavallo from the ground up into an internationally respected brand that blends compassion with cutting-edge innovation.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Please join us in cheering Carole on! We’re proud, inspired, and grateful to have her leading Cavallo into the future!</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"textAlign":"center","level":3} -->
+<h3 class="wp-block-heading has-text-align-center">A "Howling Good Time" Was Had By All! ?</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Last week, Team Cavallo dove headfirst into a staff workshop extravaganza! ? Sure, there was some serious business—lots of brainstorming and plotting new ways to make life better for you and your horses. But don’t worry, we balanced all that brainpower with plenty of laughs.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Here’s a snap of a few of us at the end of the day—smiling, a little tired, and patiently waiting for the photos to be taken so we could have a well-earned glass of wine! ?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>And the grand finale? Here’s a quick video clip of our fearless leader, CEO Greg Giles, sharing pizza and a heartfelt moment with his kindred spirit, Danny Boy. Because at Cavallo, workdays sometimes end with karaoke-style wolf calls!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="http://cavallo.local/wp-content/uploads/2025/09/Cavallo-Hoof-Boots-Staff-Workshop.jpg" alt="Cavallo Hoof Boots Staff Workshop" title="Cavallo Hoof Boots Staff Workshop"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:embed {"url":"https://youtu.be/Tpn5tRvz9Us?si=hf0AkcXKiJz7xlkF","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://youtu.be/Tpn5tRvz9Us?si=hf0AkcXKiJz7xlkF
+</div></figure>
+<!-- /wp:embed --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"textAlign":"center","level":3} -->
+<h3 class="wp-block-heading has-text-align-center">Are your Donkeys Throwing you Shade Because you're making them wear HORSE boots?</h3>
+<!-- /wp:heading --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image -->
+<figure class="wp-block-image"><img src="http://cavallo.local/wp-content/uploads/2025/09/Blue-Cavallo-CLB-hoof-boots-on-mini-donkeys-photo-by-Humboldt-Ezelweide.jpg" alt="Blue Cavallo CLB hoof boots on mini donkeys photo by Humboldt Ezelweide" title="Blue Cavallo CLB hoof boots on mini donkeys photo by Humboldt Ezelweide"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:paragraph -->
+<p>Donkeys may be cousins to horses, but their hooves are no “mini-me” version of a horse’s foot!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Built tougher, narrower, and with those signature high heels, donkey hooves are uniquely designed for rocky, rugged terrain. That means they deserve a boot that celebrates their special shape—not a hand-me-down horse-style hoof boot.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>After all… Donkeys aren’t just little horses—they’re total originals!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Photo credit: Humboldt Ezelweide plans to try out our new LEB donkey boots on his darling duo, “When these blue CLBs are worn down…”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>His fabulous donkeys Capucine and Louane are living a great life full of walks in Belgium, “They are really comfortable in their blue shoes.”</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"textAlign":"center","level":3} -->
+<h3 class="wp-block-heading has-text-align-center">Your Donkey Called… Boots Are a Must, ASAP!</h3>
+<!-- /wp:heading --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image -->
+<figure class="wp-block-image"><img src="http://cavallo.local/wp-content/uploads/2025/10/Cavallo-LEB-size-chart-7-sizes-Donkey-hoof-boot-2025-LOW-RES.jpg" alt="Cavallo LEB size chart 7 sizes Donkey hoof boot - 2025 LOW RES" title="Cavallo LEB size chart 7 sizes Donkey hoof boot – 2025 LOW RES"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:paragraph -->
+<p>And we know better than to argue with your donkey!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Now’s the time to send us your donkey’s hoof length and width measurement photos! We’ll find your donk’s perfect size so you are ready to order when the LEB arrives this month.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>We expect LEB sizes to sell quickly, and your donkey wants to ensure you don’t miss out on their perfect sizing!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="http://cavallo.local/meet-the-leb-long-ear-donkey-hoof-boot/" target="_blank" rel="noreferrer noopener">Get on the Advance List &gt;&gt;</a></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"textAlign":"center","level":3} -->
+<h3 class="wp-block-heading has-text-align-center">Hoof Hug 101: Testing Your Fit from Heel to Toe:</h3>
+<!-- /wp:heading --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image -->
+<figure class="wp-block-image"><img src="http://cavallo.local/wp-content/uploads/2025/09/Perfect-fit-cross-section-of-hoof-in-Cavallo-Hoof-Boot-web.gif" alt="Example of a perfect Cavallo Hoof Boot fit" title="Example of a perfect Cavallo Hoof Boot fit"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:paragraph -->
+<p>A proper Cavallo Boot fit means the hoof sits fully down into the sole, with the toe snugly in place and the heel bulbs comfortably cradled by the soft, padded back of the boot.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The sole of the hoof should be fully supported, with no major gaps between the hoof and the sole/boot wall. While a wee bit of wiggle is good, if you can rotate the boot from side to side while fastened up, it’s likely too large. Give us a shout and we will take a second look at your equine’s size. ?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Oooops – have to really push to get the boot in? That’s a sign they are too small. Remember, a boot that’s too large or too small simply won’t work. It’s all about the fit!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Any questions about your fit? Reach out – we’re here for you!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="http://cavallo.local/ask-an-expert/" target="_blank" rel="noreferrer noopener">Contact your Cavallo Team &gt;&gt;</a></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"textAlign":"center","level":3} -->
+<h3 class="wp-block-heading has-text-align-center">How Alisha Bender is "Bending" tradition to Find a Better Path Forward for Her Horse’s Hooves</h3>
+<!-- /wp:heading -->
+
+<!-- wp:embed {"url":"https://youtu.be/ILEas8Nv2bk?si=sngIsqjZBSRd85m9","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://youtu.be/ILEas8Nv2bk?si=sngIsqjZBSRd85m9
+</div></figure>
+<!-- /wp:embed -->
+
+<!-- wp:paragraph -->
+<p>Enjoy a moment from this stunning Bryce Canyon ride with adventurous trail rider Alisha Bender:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>“We have fully made the change to barefoot &amp; couldn’t be happier. When exploring trails, we use our Cavallo boots, which have no slip, amazing traction &amp; the peace of mind that no matter where we are, our horses’ feet are protected. I don’t worry about throwing shoes anymore. The boots have been simply impressive! That’s the only word to describe the traction and stability on rocks and cliffs.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>-Alisha</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"textAlign":"center","level":3} -->
+<h3 class="wp-block-heading has-text-align-center">Megan Brays from the Rooftops: LEB Review</h3>
+<!-- /wp:heading -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"id":271456,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="http://cavallo.local/wp-content/uploads/2025/09/black_leb_donkey_hoof_boots_on_walter_-_megan_hensley_720.jpg" alt="Walter the Mammoth Donkey Tries Out the New Cavallo LEB Hoof Boot" class="wp-image-271456"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:paragraph -->
+<p>Megan Hensley, also known as The Donkey Farrier, is widely recognized for her fair, compassionate, and intuitive approach to donkey trimming. As a leading donkey expert, she has been involved from day one in the development of Cavallo’s new LEB (Long Ear Boots), designed specifically for donkeys.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Recently, Megan had the chance to fit a pair of LEB Hoof Boots on a client’s mammoth donkey named Walter. Here’s what she shared about the experience:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>“I’m very excited about the new LEBs – and had a wonderful time sharing them with a new mammoth donkey client. At our first meeting, I learned that he had gone out to the backcountry a month prior and was a bit uncomfortable in some spots. His owner was concerned as they wanted to return to the Trinity Alps this weekend.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>My eyes lit up, and I said I have just the thing! I’ve got a brand-new pair of LEBs that aren’t even on the market yet, and I just so happen to be looking for a mammoth to test drive them! Let’s see if they fit!And sure enough, they did!</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"0"},"margin":{"top":"var:preset|spacing|xs"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group" style="margin-top:var(--wp--preset--spacing--xs);padding-top:0"><!-- wp:paragraph -->
+<p>Walter went the full 16 miles in his new LEB boots. He had no real chance to break them in – only a few hours in his paddock the day before – but he still had no rubbing or discomfort from the boots. His owners kept wool socks on the whole time, and even left his boots on overnight. Not only do the wool socks help with potential rubbing (as there was no time to break the boots in), but you can also spray fly spray on the socks. He has two pairs – a short pair and a long pair that can be brought up over the knees to keep the flies off when out in the wilderness!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The boots never twisted or turned, and they stayed in place perfectly. The back squished down to accommodate his heel bulb height, and I am absolutely thrilled! You can’t even tell that he was ever wearing boots- no sign of rubbing or discomfort.”</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:heading {"textAlign":"center","level":3} -->
+<h3 class="wp-block-heading has-text-align-center">Reel Love: Cavallo Hooves in Action!</h3>
+<!-- /wp:heading --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:embed {"url":"https://youtu.be/9k_y3GWwqjs?si=iAiDTa19agw9315L","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-9-16 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-9-16 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://youtu.be/9k_y3GWwqjs?si=iAiDTa19agw9315L
+</div></figure>
+<!-- /wp:embed --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:embed {"url":"https://youtu.be/cfHFGPWp5vI?si=60w9WKDWxhAsD9rp","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-9-16 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-9-16 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://youtu.be/cfHFGPWp5vI?si=60w9WKDWxhAsD9rp
+</div></figure>
+<!-- /wp:embed --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:embed {"url":"https://youtu.be/07KEZGu-weI?si=nl5fnGNUNlAbdx58","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-9-16 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-9-16 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://youtu.be/07KEZGu-weI?si=nl5fnGNUNlAbdx58
+</div></figure>
+<!-- /wp:embed --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:block {"ref":348454} /-->

@@ -1,0 +1,15 @@
+<!-- wp:image {"width":"380px","height":"auto","sizeSlug":"large","align":"left"} -->
+<figure class="wp-block-image alignleft size-large is-resized"><img src="http://cavallo.local/wp-content/uploads/2024/09/cavallo-photo-of-hooves-soaked-9-25-13-048.jpg" alt="" style="width:380px;height:auto"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>Another use for the versatile Simple Boots!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Cavallo hoof boots just made my day as I converted them into soaking boots. Covering the hoof with plastic, insert into boots add vinegar to all four at once and in 15 minutes you're soaked! Just wanting to thank you for saving me the time and expense of buying a soaking boot.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Jill Fender</p>
+<!-- /wp:paragraph -->

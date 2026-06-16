@@ -1,0 +1,51 @@
+<!-- wp:heading {"level":1} -->
+<h1 class="wp-block-heading">Terms and Conditions<br></h1>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Third Party Links.</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>From time to time, this Web Site may contain links to Web sites that are not owned, operated or controlled by CAVALLO Horse &amp; Rider or their respective affiliates. All such links are provided solely as a convenience to you. If you use these links, you will leave this Web Site. Neither we nor any of our respective affiliates are responsible for any content, materials or other information located on or accessible from any other Web site. Neither we nor any of our respective affiliates endorse, guarantee, or make any representations or warranties regarding any other Web sites, or any content, materials or other information located or accessible from any other Web sites, or the results that you may obtain from using any other Web sites. If you decide to access any other Web sites linked to or from this Web Site, you do so entirely at your own risk.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Linking to this Web Site</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>CAVALLO HORSE &amp; RIDER is happy to share &amp; support approved links to other web sites and vice versa with proper permission however; creating or maintaining any link from another Web site to any page on this Web Site without our prior written permission is prohibited. Running or displaying this Web Site or any information or material displayed on this Web Site in frames or through similar means on another Web site without our prior written permission is prohibited. Any permitted links to this Web Site must comply will all applicable laws, rule and regulations.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Product Orders</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>All orders placed through the site are subject to CAVALLO HORSE &amp; RIDER.’s acceptance, which is in its sole discretion. Without limitation, this means that CAVALLO HORSE &amp; RIDER. may refuse to accept or may cancel any order, whether or not the order has been confirmed, for any reason, in its sole discretion, and without liability to you or any third party. If your credit card has already been charged for an order that is subsequently cancelled, CAVALLO HORSE &amp; RIDER. shall issue a credit by the best means possible. Refunds are not available after 60 days from the date of the first transaction. In this case, a credit on your account may be able to be arranged.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Use of Information Submitted</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>By communicating or corresponding with CAVALLO HORSE &amp; RIDER, via any form of written or verbal contact, you agree that Cavallo is free to use any comments, information or ideas contained in any communication you may submit without notice, compensation or acknowledgement to you for any purpose, including, but not limited to, creating, developing, modifying or improving marketing materials, web site and/or other CAVALLO products and services. When you visit this Website or send an e-mail to us, you are communicating with us electronically. You consent to receive communications from us electronically. We may communicate with you by e-mail or by posting notices on this Website. You agree that all agreements, notices, disclosures, and other communications that we provide to you electronically satisfy any legal requirement that such communications be in writing.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Indemnity</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>You will indemnify and hold us (and our officers, directors, agents, subsidiaries, joint ventures and employees), harmless from any claim or demand, including reasonable attorneys’ fees, made by any third party due to or arising out of your breach of this Agreement, or your violation of any law or the rights of a third party.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Limitation of Liability</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>CAVALLO HORSE &amp; RIDER shall not be liable for any incidental, indirect or consequential damages that result from the use of, the inability to use, or the misuse, of the materials on our website or the performance of the products purchased through the site, including but not limited to, miscommunication, human error in measuring or upkeep of your purchase, and/or inaccurate information obtained by a third party. Should you require assistance or guidance please contact one of our skilled staff prior to your purchase. Thereafter this Limitation of Liability can &amp; will be exercised.</p>
+<!-- /wp:paragraph -->

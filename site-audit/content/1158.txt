@@ -1,0 +1,19 @@
+<!-- wp:paragraph -->
+<p>Meet Rocky, a 17 year old gelding, that I was borrowing while my mare was recuperating from an injury. We love playing 'keyhole'. You can see Rocky wearing his Cavallo Sport boots on the front. Most of the time he wears boots on the hind feet as well. Rocky started wearing the Cavallo Sport boots when the farrier recommended that shoes were no longer a 'healthy' choice for him.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":1319,"width":"557px","height":"auto","align":"center"} -->
+<figure class="wp-block-image aligncenter is-resized"><img src="//cavallo.local/wp-content/uploads/2012/10/Tower-Ranch-Ride-026-1024x768.jpg" alt="" class="wp-image-1319" style="width:557px;height:auto" title="horse hoof boots"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>Here I am on another horse and if you look very closely, you can see the tops of our Cavallo Sport hoof boots in the mud puddle. These are fantastic! I have two other riders in our area using the boots as well.. I LOVE CAVALLO!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">- <em>Lynn Higginbotham, Winfield, BC</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->

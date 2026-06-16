@@ -1,0 +1,23 @@
+<!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="http://cavallo.local/wp-content/uploads/2024/09/hoof.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>By Carole Herder</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Following on from part 1 of this article, we are talking about an article Tom Teskey wrote about breaking traditions. Shoeing reduces the circulation in a horse’s hoof and this affects the entire body. Applying pads and artificial materials to the hooves or providing soft footing underneath only promotes weak and faulty structures within the horse. Every shod hoof has laminitic separation – it is inevitable.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>People become so used to seeing hoof deformities and problems in horses’ feet that they see it as normal and think nothing of it. It is commonplace now to misinterpret what a natural hoof looks like or should look like. Many deformities, such as upright hooves and contracted heels, are considered standard functioning hooves.Ignorance may be bliss in a farrier’s world, but when they are made aware of proper hoof form and function, they then see the problems that they are causing. It is imperative that you learn what a ‘normal’ hoof looks like, only then will you be able to make your own decisions about the care of your horse.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Providing the best for our horse can sometimes place us in a position whereby we have to challenge traditional horse-keeping practices, to include stabling, rugging/blanketing, bitting and of course shoeing, to name but a few. But shoeing is not a necessary evil, it is just simply evil. Check out <a href="http://thehorseshoof.com/TeskeyBreaking.html" target="_blank" rel="noopener">http://thehorseshoof.com/TeskeyBreaking.html</a> for the full article.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>We want the best for our horses so we must respect their nature, physically, mentally, emotionally and spiritually. A hoof will grow and wear according to its environment so that is why it is vital to keep them moving, away from constant mud and provide varied terrain.The best way to protect your horse’s feet? The natural trim, and Cavallo hoof boots if needed – an excellent source of hoof protection without any of the damage. The solution is so simple!</p>
+<!-- /wp:paragraph -->

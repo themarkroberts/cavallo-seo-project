@@ -1,0 +1,86 @@
+[
+  {
+    "id": "3566",
+    "content_format": "Team / bio",
+    "summary": "Bio of Maren, a Customer Experience Expert at Cavallo and equine podiatry/bodywork business owner who advises customers on booted and barefoot hoof care.",
+    "key_components": ["Staff bio"],
+    "primary_cta": "None"
+  },
+  {
+    "id": "3582",
+    "content_format": "Product page",
+    "summary": "Product page for Cavallo ProFlex Splint/Turnout/Brushing Boots in red, flexible TPU leg protection boots sold in pairs with airflow and impact resistance.",
+    "key_components": ["Product gallery", "Add-to-cart", "Product tabs", "Bulleted list"],
+    "primary_cta": "Add to cart"
+  },
+  {
+    "id": "3595",
+    "content_format": "Product page",
+    "summary": "Product page for the Cavallo Canine vegan leather dog collar in Aztec print, part of the brand's premium dog accessory line.",
+    "key_components": ["Product gallery", "Add-to-cart", "Product tabs"],
+    "primary_cta": "Add to cart"
+  },
+  {
+    "id": "3606",
+    "content_format": "Product page",
+    "summary": "Product page for the Cavallo Canine genuine leather dog collar in Amber & Ebony, a premium-quality dog accessory.",
+    "key_components": ["Product gallery", "Add-to-cart", "Product tabs"],
+    "primary_cta": "Add to cart"
+  },
+  {
+    "id": "3611",
+    "content_format": "Product page",
+    "summary": "Product page for the Cavallo Canine genuine leather dog collar in Rose Pink, a premium dog accessory.",
+    "key_components": ["Product gallery", "Add-to-cart", "Product tabs"],
+    "primary_cta": "Add to cart"
+  },
+  {
+    "id": "3616",
+    "content_format": "Product page",
+    "summary": "Product page for the Cavallo Canine genuine leather dog leash in Amber & Ebony, matching the brand's leather collar line.",
+    "key_components": ["Product gallery", "Add-to-cart", "Product tabs"],
+    "primary_cta": "Add to cart"
+  },
+  {
+    "id": "3621",
+    "content_format": "Product page",
+    "summary": "Product page for the Cavallo Canine matching wrist band in Aztec print, an adjustable accessory coordinating with the vegan leather collar and leash.",
+    "key_components": ["Product gallery", "Add-to-cart", "Product tabs"],
+    "primary_cta": "Add to cart"
+  },
+  {
+    "id": "3625",
+    "content_format": "Form / contact page",
+    "summary": "Help/contact page inviting customers to ask Cavallo's experts a question, with links to the measuring guide and FAQ.",
+    "key_components": ["Lead form"],
+    "primary_cta": "Ask an expert"
+  },
+  {
+    "id": "3628",
+    "content_format": "Product page",
+    "summary": "Product page for the Cavallo Canine vegan leather dog leash in Aztec print with gold-tone zinc alloy hardware, coordinating with the matching collar and wrist band.",
+    "key_components": ["Product gallery", "Add-to-cart", "Product tabs"],
+    "primary_cta": "Add to cart"
+  },
+  {
+    "id": "3678",
+    "content_format": "Product page",
+    "summary": "Product page for the Cavallo Manicure Kit, a vegan leather case with nail clippers, tweezers, file and cleaners for barn, truck or travel use.",
+    "key_components": ["Add-to-cart", "Product tabs", "Product gallery"],
+    "primary_cta": "Add to cart"
+  },
+  {
+    "id": "3685",
+    "content_format": "Product page",
+    "summary": "Product page for the Cavallo Visor in Black/Red, a one-size adjustable sun visor for riders.",
+    "key_components": ["Add-to-cart", "Product tabs", "Product gallery"],
+    "primary_cta": "Add to cart"
+  },
+  {
+    "id": "3692",
+    "content_format": "Product page",
+    "summary": "Product page for the horse care book 'Hoof Prints on the Journey' by Cavallo founder Carole Herder, covering soundness, barefoot care and horse-owner challenges.",
+    "key_components": ["Product gallery", "Add-to-cart", "Product tabs", "Bulleted list"],
+    "primary_cta": "Add to cart"
+  }
+]

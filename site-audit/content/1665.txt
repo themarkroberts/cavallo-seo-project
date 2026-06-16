@@ -1,0 +1,47 @@
+<!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading"><a href="http://cavallo.local/product-category/hoof-boot/" target="_blank" rel="noopener"><strong>Cavallo Hoof Boots Stay Put!</strong></a></h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><em>"Last summer I was riding with a friend on an asphalt trail. I had front Cavallo Hoof Boots on so my horse didn't chip his hooves. It was hot out and we decided to take a side path down to the river to get them a drink. At the bank of the river, my gelding, Uno, suddenly sunk up to his belly in quicksand and rotted leaves! &nbsp;I quickly stepped off. &nbsp; After a few minutes of struggling, he was able to pull himself out.&nbsp;I thought &nbsp;for sure his boots would be gone, but no, there they were, still firmly attached! &nbsp;I couldn't believe it! &nbsp;Thank you for making a great product!"</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Thanks,<br>Diane Colvin</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":9367,"align":"center"} -->
+<figure class="wp-block-image aligncenter"><a href="http://cavallo.local/product-category/hoof-boot/"><img src="//www.cavallo.local/wp-content/uploads/2017/07/Cavallo-Boot-Styles-452x146.jpg" alt="Cavallo Hoof Boot Styles" class="wp-image-9367"/></a><figcaption class="wp-element-caption">Cavallo Hoof Boots stay on - No matter what!</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading"><a href="http://cavallo.local/contact-us/" target="_blank" rel="noopener"><strong>The Cavallo Community - Your Support Network</strong></a></h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>At Cavallo we get calls and emails each and every day from customers who are so moved by how <a href="http://cavallo.local/product-category/hoof-boot/" target="_blank" rel="noopener">Cavallo Hoof Boots</a> have helped their horses that they want to sing it from the rooftops! If you ever have a situation where you think Cavallos could make that difference in your horse's life, but need some guidance making it happen, NEVER be too shy to <a href="http://cavallo.local/contact-us/" target="_blank" rel="noopener">contact us </a>- Myself, Krystle, Patricia and Jenny will offer you all the support and education you need through the process of getting your horse barefoot and booted!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="http://cavallo.local/contact-us/" target="_blank" rel="noopener">We're here for you!</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":5} -->
+<h5 class="wp-block-heading"><strong>Happy Trails,</strong></h5>
+<!-- /wp:heading -->
+
+<!-- wp:image {"id":10645,"width":"300px"} -->
+<figure class="wp-block-image is-resized"><img src="//www.cavallo.local/wp-content/uploads/2017/12/CaroleSig.jpg" alt="Carole Herder's Signature" class="wp-image-10645" style="width:300px"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":10798,"align":"left"} -->
+<figure class="wp-block-image alignleft"><img src="//www.cavallo.local/wp-content/uploads/2018/01/Caroles-Signature-2017.png" alt="Carole Herder's Signature" class="wp-image-10798"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->

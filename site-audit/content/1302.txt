@@ -1,0 +1,51 @@
+<!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="http://cavallo.local/wp-content/uploads/2024/09/Pink-SIMPLE-Boots-300x247-1.jpg" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>By Carole Herder</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Christmas is nearly upon us! Have you got your stockings hung? Is the mulled wine brewing? All the presents wrapped and under the tree?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Or, are you running around, fighting the crowds and the traffic doing everything last minute?? If you are still stuck for that perfect gift for your friend or partner, have a look at the great variety of products we have. It’s not all about hoof boots! (Although our Pink and Purple Simple Boots are wonderful as presents!) Our top of the range, specifically engineered saddle pads are excellent gifts to give rider and horse extra comfort. They come in Western, English and Tucker styles. Or why not take a look at our unique Break-Away Halters? They are flashy, durable, adjustable and comfortable and their ingenious design makes them a great gift for the horse-owner who has everything.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":1875,"align":"center","className":"size-full wp-image-1875"} -->
+<figure class="wp-block-image aligncenter size-full wp-image-1875"><img src="//cavallo.local/wp-content/uploads/2013/12/Copy-of-saddlepads_bothm.jpg" alt="" class="wp-image-1875"/><figcaption class="wp-element-caption">Total Comfort System Saddle Pads</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":1880,"align":"center","className":"size-full wp-image-1880"} -->
+<figure class="wp-block-image aligncenter size-full wp-image-1880"><img src="//cavallo.local/wp-content/uploads/2013/12/halter.png" alt="" class="wp-image-1880"/><figcaption class="wp-element-caption">Break-away Halter</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>Looking for something for the person instead of the horse for once? Our new cozy Cavallo Sheeps are comfortable and stylish and perfect for any lady, regardless of age or occupation. Our Flumes are also super footwear, ideal for riding, walking and dancing in!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":1876,"align":"center","className":"size-medium wp-image-1876"} -->
+<figure class="wp-block-image aligncenter size-medium wp-image-1876"><img src="//cavallo.local/wp-content/uploads/2013/12/sheepsnew-246x300.gif" alt="" class="wp-image-1876"/><figcaption class="wp-element-caption">Sheeps</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":1877,"align":"center"} -->
+<figure class="wp-block-image aligncenter"><img src="//cavallo.local/wp-content/uploads/2013/12/4Flumes-300x127.jpg" alt="" class="wp-image-1877" title="riding boots"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center"></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Need something for that non-horsey person in your life? The Cavallo Cooler Chair is an essential outdoor item, perfect for fishing, gaming, parading, camping and more.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":1878,"align":"center","className":"size-full wp-image-1878"} -->
+<figure class="wp-block-image aligncenter size-full wp-image-1878"><img src="//cavallo.local/wp-content/uploads/2013/12/CoolerChair.png" alt="" class="wp-image-1878"/><figcaption class="wp-element-caption">Cooler Chair</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>Please be sure to contact us if you have any questions about our products and we hope we can help you find that perfect under-the-tree present.<br>Happy Christmas to all our readers and customers and thank you for your continuing support.</p>
+<!-- /wp:paragraph -->

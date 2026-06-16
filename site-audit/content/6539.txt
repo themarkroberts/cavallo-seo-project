@@ -1,0 +1,179 @@
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"level":1} -->
+<h1 class="wp-block-heading">Arranging an Exchange or Return</h1>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":4,"style":{"elements":{"link":{"color":{"text":"var:preset|color|red"}}}},"textColor":"red"} -->
+<h4 class="wp-block-heading has-red-color has-text-color has-link-color">IMPORTANT - Please review this page carefully before making a size exchange or a return:</h4>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>All returns/exchanges may be arranged with your original place of purchase only.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>ALL exchanges/returns and warranty issues</strong> with us at Cavallo Horse &amp; Rider ( www.cavallo.local) <strong>must first be PRE-AUTHORIZED</strong>, and a return authorization number must be obtained.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p><strong>NOTE -</strong> When purchased directly from Cavallo in Canada or the USA, your return will be handled within North America. Boots can be returned to either our Canadian or U.S. facility - no international return shipping required. This helps keep the return process faster, easier, and more affordable for our customers.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"align":"full","layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignfull"><!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Your Exchange/Return Checklist:</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><strong>The following must be provided to obtain a Return Authorization Number:</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list {"backgroundColor":"light-red-1"} -->
+<ul class="wp-block-list has-light-red-1-background-color has-background"><!-- wp:list-item -->
+<li><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-red-color"><strong>IMPORTANT: BEFORE THE EXCHANGE IS APPROVED, photos of boots and packaging must be sent through the form below to confirm they will be returned in AS-NEW condition.</strong></mark></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Your original order number.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>The quantity, style, colour, size and sole width of the boots you will be exchanging or returning (or relevant product info, if not boots).</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>The reason for exchange or return (i.e. boots too large, too small, etc.)</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>The new size(s) you require (OR, if you are unsure, request assistance from our sizing team).</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Please ship products back in an outer box or wrapping so the original packaging is protected and ready for resale.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Return Authorization Number must be clearly shown on the OUTSIDE of the returning parcel (near the address).</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>All boots(or other products), packaging and any promotional items originally included must be returned.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Make sure you have read and agree with the Exchange &amp; Return Policy Terms &amp; Conditions (below).</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"margin":{"top":"var:preset|spacing|lg","bottom":"var:preset|spacing|lg"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group" style="margin-top:var(--wp--preset--spacing--lg);margin-bottom:var(--wp--preset--spacing--lg)"><!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"}} -->
+<div class="wp-block-buttons"><!-- wp:button {"backgroundColor":"red","style":{"border":{"radius":"50px"}}} -->
+<div class="wp-block-button"><a class="wp-block-button__link has-red-background-color has-background wp-element-button" href="http://cavallo.local/request-to-make-an-exchange-or-return/" style="border-radius:50px">Arrange Exchange or Return HERE</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"align":"full","layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignfull"><!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Cavallo Exchange &amp; Return Policy Terms &amp; Conditions</h3>
+<!-- /wp:heading -->
+
+<!-- wp:list {"backgroundColor":"light-red-1"} -->
+<ul class="wp-block-list has-light-red-1-background-color has-background"><!-- wp:list-item -->
+<li><strong><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-red-color">PLEASE NOTE:</mark></strong> Orders made without first sending hoof measurement photos and obtaining a sizing recommendation from a Cavallo Customer Experience Expert will not be considered for a return shipping label.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>All products, packaging, and any promotional items originally included <strong>must be in AS NEW condition, ready for resale</strong>. These items will be returned to the shelf for the next customer (and must be just as you would expect when ordering them as new items yourself).</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Boots returned to Cavallo without first arranging an exchange/return, obtaining a return authorization number, and submitting photos (to show the condition) will be returned at the sender’s expense, and no credit or refund will be given.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Boots that cannot be cleaned or returned to stock will not be exchanged or refunded and will be shipped back to the customer at their expense.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>For boots that can be returned to stock but require staff time to clean, the customer will only receive a 50% refund or value for exchange.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Cavallo includes free shipping on any new items for an exchange but does not cover the shipping costs of returned items.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Refunds and exchanges are provided anytime within 60 days after the initial purchase date.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>For returned items (that are not an exchange or warranty claim), a 10% restocking fee will be charged.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>When sending your returned item(s) back to Cavallo, please take care to ensure your parcel is protected against damage and/or loss and obtain a receipt with the tracking number. Cavallo can not accept responsibility for returned packages that are lost or damaged in transit.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Test Your Boot Fit Carefully Before Making an Exchange/Return:</h3>
+<!-- /wp:heading -->
+
+<!-- wp:image {"id":6540,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="http://cavallo.local/wp-content/uploads/2024/12/WIDE-IMPORTANT_-Do-not-move-horse-scaled-1-1024x287.webp" alt="Warning - do not move your horse when fit testing Cavallo Hoof Boots" class="wp-image-6540"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:embed {"url":"https://www.youtube.com/watch?v=mHzIQ6O8Bag","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://www.youtube.com/watch?v=mHzIQ6O8Bag
+</div></figure>
+<!-- /wp:embed -->
+
+<!-- wp:paragraph -->
+<p><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-red-color"><strong>IMPORTANT: Riding or turning your horse out in boots will create some wear on the soles and, for this reason, will void eligibility for return or exchange.</strong></mark></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>You must verify that your sizing is correct BEFORE use. Use our recommended Cavallo Fit Test, and/or contact Cavallo Customer Service right away if you have any questions or concerns about the fit.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Please be careful to follow these simple steps to keep your boots in “as new” condition when trying on:</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>Place a plastic bag or saran wrap over the hoof so the inside of the boots stays perfectly clean.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Make sure you have a non-marking surface under the boot, such as cardboard, a rug, a doormat, or a towel.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list --></div>
+<!-- /wp:group -->
+
+<!-- wp:heading {"textAlign":"center","level":5} -->
+<h5 class="wp-block-heading has-text-align-center"><strong>If you have any questions about the Cavallo Exchange &amp; Return Policy or process, please reach out to us HERE, and we will be happy to help!</strong></h5>
+<!-- /wp:heading -->
+
+<!-- wp:spacer {"height":"56px"} -->
+<div style="height:56px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"}} -->
+<div class="wp-block-buttons"><!-- wp:button {"backgroundColor":"red","style":{"border":{"radius":"50px"}}} -->
+<div class="wp-block-button"><a class="wp-block-button__link has-red-background-color has-background wp-element-button" href="http://cavallo.local/request-to-make-an-exchange-or-return/" style="border-radius:50px">Arrange Exchange or Return HERE</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons -->
+
+<!-- wp:spacer -->
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->

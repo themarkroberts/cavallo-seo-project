@@ -1,0 +1,73 @@
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading"><strong>Cheyenne Wimberley is Heading to the National Finals Rodeo with Trek!</strong></h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Cheyenne Wimberly is an accomplished barrel racer and three-time National Finals Rodeo Qualifier (WOW!)!&nbsp; She's heading out on the road again and will compete at the <a href="https://www.nfrexperience.com/" target="_blank" rel="noopener noreferrer">National Finals Rodeo (NFR)</a> in Las Vegas, this December!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Trailering with Trek</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Cheyenne recently got in touch with us. She's happy to offer her hard-working horse <a href="http://cavallo.local/product-category/hoof-boot/trek-hoof-boots/?fbclid=IwAR1InX3B7xXBtMbpkEiHYjNBfA407o9NYHZ7fCOg4SKllebh0u6Mz4R4SPI" target="_blank" rel="noopener noreferrer">Cavallo Trek Hoof Boots</a> to offer comfort and fight fatigue while trailering.&nbsp; Her horse enjoys Trek with <a href="http://cavallo.local/product/comfort-pad/" target="_blank" rel="noopener noreferrer">Comfort Pads</a> added (cushy pads that increase comfort on the road and reduce fatigue).&nbsp; Cheyenne also pops in <a href="http://cavallo.local/product/high-tenacity-protection-pads/" target="_blank" rel="noopener noreferrer">Protection Pads</a> (thin, Kevlar-type pads that protect the boot soles from the metal shoes).&nbsp; Along with the top performance her horse gives during competition, there are also many hours spent on the road in between events.&nbsp; Cheyenne does whatever she can to make the travel easier on her horse. We're pleased to hear that Cavallos are being used by this dynamic duo - and with great results!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Back in the Saddle - to WIN!</h3>
+<!-- /wp:heading -->
+
+<!-- wp:image {"id":201680,"sizeSlug":"full","linkDestination":"none","align":"left","className":"wp-image-21097"} -->
+<figure class="wp-block-image alignleft size-full wp-image-21097"><img src="http://cavallo.local/wp-content/uploads/2025/03/Cheyenne-Wimberly-trailering-transport-Trek-HR.4-edited.jpg" alt="A horse steps out of a trailer, wearing Cavallo hoof boots, showcasing premium equine gear for optimal hoof care." class="wp-image-201680"/><figcaption class="wp-element-caption">Cheyenne Wimberley trailers with Trek Hoof Boots</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>This year's NFR is very meaningful for Cheyenne as it's been 21 years since she last qualified.&nbsp; Now she's officially "back in the saddle"!&nbsp; She's been occupied with other things over the past 21 years (including training horses for some of the USA's BEST riders!) and has now found herself back in a place where she's ready to get out there and have some more fun!&nbsp; Her fans couldn't be happier to see her back in action and we feel the same way, too!&nbsp; Congratulations, Cheyenne!&nbsp; :)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>To read more about Cheyenne's incredible career, check out this World <a href="https://wcrarodeo.com/2019/02/15/cheyenne-wimberley-enjoying-the-wcra-ride/" target="_blank" rel="noopener noreferrer">Champions Rodeo Alliance article HERE</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>For a history of Cheyenne's wins,<a href="https://www.wpra.com/index.php/winning-weekend-for-wimberley" target="_blank" rel="noopener noreferrer"> click HERE</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>To follow Cheyenne on Facebook, <a href="https://www.facebook.com/CheyenneWimberley1/" target="_blank" rel="noopener noreferrer">click HERE!</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:group {"layout":{"type":"flex","flexWrap":"nowrap"}} -->
+<div class="wp-block-group"><!-- wp:paragraph {"align":"left"} -->
+<p class="has-text-align-left">Wishing you many happy miles on the road,</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:uagb/image {"block_id":"b1abe490","url":"http://cavallo.local/wp-content/uploads/2022/11/carole-signature-transparent-background-1024x524.jpg","urlTablet":"http://cavallo.local/wp-content/uploads/2022/11/carole-signature-transparent-background.jpg","urlMobile":"http://cavallo.local/wp-content/uploads/2022/11/carole-signature-transparent-background.jpg","alt":"Cavallo Hoof Boots president Carole Herder signature","align":"left","id":309574,"linkDestination":"none","title":"Cavallo Hoof Boots president Carole Herder signature","naturalWidth":1024,"naturalHeight":524,"sizeSlug":"large","sizeSlugTablet":"large","sizeSlugMobile":"large"} -->
+<div class="wp-block-uagb-image alignleft uagb-block-b1abe490 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-left"><figure class="wp-block-uagb-image__figure"><img srcset="http://cavallo.local/wp-content/uploads/2022/11/carole-signature-transparent-background-1024x524.jpg ,http://cavallo.local/wp-content/uploads/2022/11/carole-signature-transparent-background.jpg 780w, http://cavallo.local/wp-content/uploads/2022/11/carole-signature-transparent-background.jpg 360w" sizes="(max-width: 480px) 150px" src="http://cavallo.local/wp-content/uploads/2022/11/carole-signature-transparent-background-1024x524.jpg" alt="Cavallo Hoof Boots president Carole Herder signature" class="uag-image-309574" width="1024" height="524" title="Cavallo Hoof Boots president Carole Herder signature" loading="lazy" role="img"/></figure></div>
+<!-- /wp:uagb/image -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph -->

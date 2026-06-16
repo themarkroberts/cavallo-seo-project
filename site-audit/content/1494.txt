@@ -1,0 +1,31 @@
+<!-- wp:paragraph -->
+<p>By Carole Herder</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>One aspect of good horsemanship: ask questions. If we didn't ask questions we would never learn, never invent, never progress.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>For me, the ‘what’ questions are the most important. What can I do to make life better for the horse? What can I do to improve his well-being? What can I do to make the boots or saddle pads or fly masks or any other product at Cavallo more comfortable?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Your horse has lost some condition: how can you get the weight back on him? Your horse’s hooves are looking a little dry and chipped: how can you improve his diet? Your horse is not collecting during riding: how can you improve your riding to help him? You need a pair of hoof boots: how do you find the best ones? (<span style="color: #0000ff;"><a style="color: #24890d;" href="http://cavallo.local"><span style="color: #0000ff;">cavallo.local</span></a></span>, of course!)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":5540,"align":"left"} -->
+<figure class="wp-block-image alignleft"><img src="//cavallo.local/wp-content/uploads/2015/04/horse-read-186x300.jpg" alt="horse hoof boots" class="wp-image-5540"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>Nearly all of what we have learnt as humans has been through trial and error. As horses cannot speak to us, this area of the unknown expands enormously. Trial and error is one way of learning and there will always be an element of this to progressing, but questions can get us to a solution quicker. Do not feel embarrassed or silly – guaranteed there is someone else who also does not know the answer either. By asking the question you will save yourself a lot of bother!<br>Ask multiple friends what works for them. Read numerous books on the topic and, &nbsp;if possible, attend classes/workshops/demos where you can communicate with professionals. Even your local equestrian shop may give an opinion on a subject! Once you have retrieved all of the information, compare and contrast the responses acquired. Then you can choose an option based on the most common answer or on what suits you, your circumstances and your horse - maybe taking a little from a variety of answers. And be aware, a lot of the info out there is opinion. In fact, even scientific trials can be controlled for a specific predetermined outcome. So here’s the thing. We have this 6th sense called intuition. You have it too. WE call it YUM or YUCK. If it resonates with you and feels YUMMY, then it’s the correct route.<br>Either way, if we won’t question, we don’t learn and if we don’t learn we can’t improve...and if we can’t improve, we are going around in circles. The definition of insanity? Doing the same thing over and over again and expecting a different result.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":5458,"align":"left"} -->
+<figure class="wp-block-image alignleft"><img src="//cavallo.local/wp-content/uploads/2015/03/Carolesig1.png" alt="Horse Hoof Boots" class="wp-image-5458"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->

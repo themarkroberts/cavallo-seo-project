@@ -1,0 +1,15 @@
+<!-- wp:image {"id":1146,"width":"240px","height":"auto","sizeSlug":"full","linkDestination":"none","align":"left"} -->
+<figure class="wp-block-image alignleft size-full is-resized"><img src="http://cavallo.local/wp-content/uploads/2024/09/Emo2.jpg" alt="" class="wp-image-1146" style="width:240px;height:auto"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>Your boots are so much better than any other boot I have tried! Thank you so much!! My horse is a Gypsy Vanner horse and he has notoriously big feet and he's hard to fit. Sure enough, I measured his foot like you instruct and the hoof boots fit him wonderfully. Now he can do his wonderful trot on gravel and not stumble or act like he's in pain. They are great for parades also! My horse who's name is 'Emo' is very popular in parades and I am constantly asked by people with sharp eyes 'where did you get those boots!' I call them Emo's sneakers. They are so well made.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Thank you again!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Kristy &amp; Emo</p>
+<!-- /wp:paragraph -->

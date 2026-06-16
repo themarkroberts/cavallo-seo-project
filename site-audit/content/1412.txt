@@ -1,0 +1,27 @@
+<!-- wp:paragraph -->
+<p>By Carole Herder</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The new book <strong><em>Horse Tales for the Funny Bone</em></strong> is now available!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>With 60 funny, true, equine-related stories from horse lovers across North America, it is sure to bring a smile to your face and your purchase will help Therapeutic Riding Centers at the same time!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>I didn’t have to dig deep when asked to contribute a story for Horse Tales. Looking back, I have certainly experienced my share of hilarious, embarrassing, entertaining and even unnerving incidents as a horse person. It was fun to reflect, but difficult to choose only one. My story is called “You Are no Horse Trader” and because we at Cavallo are passionate about moving beyond preconceived notions and tradition, it seemed appropriate to share a funny story about my own personal naiveté &nbsp;and narrow mindedness.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Published by Whitehall Publishing; they offer a free affiliate program for all animal-related non-profits. 35% of every sale through the affiliate program is donated back to the non-profit affiliate. One of their newest affiliates is <strong>Special Equestrians Therapeutic Riding Center</strong> located in Fort Myers, Florida. All book orders made through their affiliate link at: (<a href="http://horsetalesforthesoul-com.3dcartstores.com/?AffId=2" target="_blank" rel="noopener">http://horsetalesforthesoul-com.3dcartstores.com/?AffId=2</a>) will provide a 35% donation back to their organization automatically through the program.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>If you are working with an animal-related non-profit organization and would like to join their free affiliate program, <a href="http://horsetalesforthesoul.com/" target="_blank" rel="noopener">http://horsetalesforthesoul.com</a>&nbsp; and click on the "Become an Affiliate" link at the top of the page. The program is free and it is a great way to help your followers find wonderful family-friendly books while helping to raise money for your organization at the same time.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:spacer {"height":"40px"} -->
+<div style="height:40px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->

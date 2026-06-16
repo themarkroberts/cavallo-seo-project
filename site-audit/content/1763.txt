@@ -1,0 +1,49 @@
+<!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading">A Perfect Fit</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Announcing the <a href="http://cavallo.local/product/cavallo-comfort-sleeve-2/" target="_blank" rel="noopener">New Cavallo Comfort Sleeve</a>&nbsp;, designed to give your horse additional protection while using&nbsp;<a href="http://cavallo.local/product-category/hoof-boot/" target="_blank" rel="noopener">Cavallo Hoof Boots</a>.&nbsp; Easy to use with an adjustable fit, the Comfort Sleeve can be used with any Cavallo Boot style.&nbsp; Simply pull the sleeve over the hoof and onto your horse’s pastern and fasten the adjustable Velcro strap!&nbsp; You can see me using one in this video demo – voila!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:embed {"url":"https://www.youtube.com/watch?v=KWUbD9MqjRc","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://www.youtube.com/watch?v=KWUbD9MqjRc
+</div></figure>
+<!-- /wp:embed -->
+
+<!-- wp:paragraph -->
+<p>As do Cavallo’s well-known&nbsp;<a href="http://cavallo.local/product-category/hoof-boot-accessories/pastern-wraps/" target="_blank" rel="noopener">Pastern Wraps,</a>&nbsp;the Comfort Sleeves offer an extra layer of protection for your horse’s bulb and pastern area at home or when you ride. Maybe you are planning an extra-long ride, your horse is extra-sensitive, or you are breaking in a new pair of Cavallo Hoof Boots.&nbsp; Made with elasticated 100% Cotton for total comfort and ribbed for a contoured fit, these sleeves are the ultimate in flexibility and stability.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading"><figure><a href="http://cavallo.local/product/cavallo-comfort-sleeve-2/"><img class="alignleft wp-image-14998 size-medium" src="http://cavallo.local/wp-content/uploads/2019/04/Comfort-Sleeve-image-HIGH-RES-1-239x300.jpg" alt="The new Cavallo Comfort Sleeve for Cavallo Hoof Boots" width="239" height="300"></a></figure>Make Breaking-In a Breeze with the Comfort Sleeve</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Remember that there may be an initial&nbsp;<a href="http://cavallo.local/how-to-measure/" target="_blank" rel="noopener">break-in period</a>&nbsp;required to soften the leather at the bulbs and around the collar of your horse’s new boots. Like your own riding boots, it is recommended that time is taken to gradually break the hoof boots in, so that they may take the shape of your horse’s individual hoof. The first day you use your new Cavallos, you may wish to use Comfort Sleeves as well and let your horse rumble around for about 20 minutes (during turn-out or riding). If no signs of sensitivity are seen, increase the time of wear by another 20 minutes, until the backs of the boots customize to your horse’s bulb area and the boots are fully broken in.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Horse’s hoofs, hides, thickness, bulb sensitivity and conditioning can vary, so please monitor the wear and increase time in the boots as appropriate. You can speed up the break-in process by using a leather softener of your choice and wetting your boots or riding through water.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The Cavallo Comfort Sleeve is sold in pairs, and one size fits all.&nbsp; To clean and restore them back to their original shape, just pop them in the washing machine and hang or lay flat to dry!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Wishing you many happy and comfortable hours on the &nbsp;trails,</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":11988,"linkDestination":"custom","align":"left"} -->
+<figure class="wp-block-image alignleft"><a href="https://www.amazon.com/There-Are-Horseshoes-Heaven-Tradition-ebook/dp/B01BMYYRZ6"><img src="http://cavallo.local/wp-content/uploads/2018/08/Caroles-signature-with-click-here-452x261.jpg" alt="Carole Herder's book - There are no Horseshoes in Heaven" class="wp-image-11988"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph -->

@@ -1,0 +1,23 @@
+<!-- wp:image {"id":970,"width":"301px","height":"auto","sizeSlug":"full","linkDestination":"none","align":"left"} -->
+<figure class="wp-block-image alignleft size-full is-resized"><img src="http://cavallo.local/wp-content/uploads/2024/09/carol2-236x300-1.jpg" alt="" class="wp-image-970" style="width:301px;height:auto"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>It is with enormous pleasure that we announce that Carole Herder, President of Cavallo Horse &amp; Rider Inc., will travel to Toronto on November 29, 2010 to take her place as one of 3 finalist “Trailblazers” at the Gala Celebration nominating the Canadian Woman Entrepreneur of the Year.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Sponsored by the Royal Bank of Canada, this award goes to a true trendsetter who has&nbsp;recognized a new market, product and opportunity, and led the way. Carole is a mentor, a leader, a visionary and a successful businesswoman with outstanding leadership both within her company and her market. She sets the standards for originality, quality and all the elements as a trailblazer in her field, and is thrilled to be chosen as the winner for Western Canada (British Columbia, Alberta, Saskatchewan, Manitoba and the Territories).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>As company president and inventor of Cavallo hoof boots, Carole is changing over 1000 years of traditional practice and providing comfort, protection and security for riding horses on every terrain.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The Cavallo team is very excited and would like to extend our expression of gratitude to all the fabulous friends and customers of Cavallo. You have supported our efforts and shared in our passion to provide an alternative to the potentially harmful, and in many ways outmoded, practice of nailing metal shoes onto our horses' feet.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Please think of us on November 29 and send a silent cheer for Carole, who works diligently to put the power and authority back in the hands of horse owners to make their own decisions regarding the well being of their horses' hoofs. The adage holds true: “No hoof. No horse.”</p>
+<!-- /wp:paragraph -->

@@ -1,0 +1,63 @@
+<!-- wp:paragraph -->
+<p>By Carole Herder</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>In simplistic terms, the heart pumps blood around the body through arteries. From the arteries, the blood moves away from the heart into capillaries and then into venules and then into veins. Unlike arteries, veins are not elastic and they need muscles to move the blood back toward the heart.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Evolution has dictated that the horse has no muscular structure to its lower leg. So how does the blood get back up the leg from the hoof to the heart?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Horses, like other mammals, have only one heart. However, the frog in each hoof acts like a pump to push blood back up the leg with each step a horse takes. The frog also acts as a shock absorber. Of course, this is when the hooves are in a natural barefoot state. When the hoof is set down on the ground, it expands and fills with blood. When it is picked up, it contracts and the blood is sent back up the hoof to the heart. Roughly a liter of blood is pumped through the body every twenty strides. Hence, each hoof is a ‘heart’ giving a horse five hearts.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":6214,"linkDestination":"custom","align":"right"} -->
+<figure class="wp-block-image alignright"><a href="//cavallo.local/wp-content/uploads/2015/11/Blog-117.gif"><img src="//cavallo.local/wp-content/uploads/2015/11/Blog-117.gif" alt="Horse Hoof Boots" class="wp-image-6214"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Horseshoes imprison the hoof, disallowing expansion and therefore reducing circulation and this in turn strains the horse’s heart. That is one mighty reason for going barefoot! Hoof boots allow for this expansion and are only used when necessary on rough terrain or during barefoot transition so are the perfect replacement for metal shoes.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Here are some fun facts about horsey hearts:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>• The equine heart is not much different from the human heart, only bigger. Both are 4-chambered and pump warm blood.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>• A horse heart is located in the same place as a human heart: between the lungs and ribs and above the diaphragm.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>• A horse's heart weighs on average seven to nine pounds. Secretariat had the largest ever recorded heart at 22 pounds.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>• A horse’s heart rate at rest should be from 40 to 60 bpm.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>• A horse can have a heart attack.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>• What animal actually has five hearts? An earthworm!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":5458,"linkDestination":"custom","align":"left"} -->
+<figure class="wp-block-image alignleft"><a href="//cavallo.local/wp-content/uploads/2015/03/Carolesig1.png"><img src="//cavallo.local/wp-content/uploads/2015/03/Carolesig1.png" alt="Horse Hoof Boots" class="wp-image-5458"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->

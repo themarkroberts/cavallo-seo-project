@@ -1,0 +1,35 @@
+<!-- wp:paragraph -->
+<p>By Carole Herder</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Need some scientific jargon to back up your barefoot theories? I came across a great article by Dr. Robert Bowker recently, entitled ‘Nerves, Nerves, Nerves: Why Are They So Important To The Horse?’</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The article gives an in-depth descriptive narrative on the different types of nerves in the hoof, how horses feel through their feet, the effect one limb can have on another and the preferred surfaces of horses.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>It is sometimes hard to remember that the hoof is full of sensory nerves, to include pain and touch receptors. On immediate observation, the hoof seems like a round hard capsule with a slightly softer squishy bit in the middle (the frog!). And with no muscles or motor nerves in the lower limbs, it can look like there is very little going on just above the hoof too!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":5276,"linkDestination":"custom","align":"left"} -->
+<figure class="wp-block-image alignleft"><a href="//cavallo.local/wp-content/uploads/2015/02/BlogFeb11.jpg"><img src="//cavallo.local/wp-content/uploads/2015/02/BlogFeb11-300x224.jpg" alt="Horse Hoof Boots" class="wp-image-5276"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The hoof is actually a neurosensory organ and central nerves are very important. Unlike humans, the veins in the horse pulsate blood back to the heart/body. For the horse, when one foot is stimulated, the sensory nerves will affect change in the opposite foot. Research has shown that when horses stand with one hoof on a different type of surface or on ice, the blood flow is affected in the leg opposite.<br>We all know that horses should land heel first in all gaits (perhaps flat in a walk) and this is because one type of mechanical receptor, known as the Pacinian corpuscle, is located in the heel (amongst other places) and it is used for proprioception. Thus, horses can feel vibrations in the earth through their heels. And likewise, because of the counter-effect of the inside of Cavallo Hoof Boots and also because wearing Horse Hoof Boots allows the hoof to function properly, the horse feels the vibration and blood circulations continues unimpeded.<br>The article also includes a section on treating laminitis and founder and the benefits of pea gravel as a conformable surface for horses to stand on. You can download the full article here: <a href="https://www.e-junkie.com/ecom/gb.php?c=cart&amp;i=1392537&amp;cl=276648&amp;ejc=2">https://www.e-junkie.com/ecom/gb.php?c=cart&amp;i=1392537&amp;cl=276648&amp;ejc=2</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:spacer {"height":"40px"} -->
+<div style="height:40px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->

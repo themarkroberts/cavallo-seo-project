@@ -1,0 +1,61 @@
+<!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading">Safe Footing Means Visits to Hospitals, Care Homes and Schools</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>No matter where in Florida this mini horse therapy team travels, they wear their <a href="http://cavallo.local/product-category/hoof-boot/mini-hoof-boots/" target="_blank" rel="noopener">Cavallo CLB Boots</a> during therapy visits!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Thirty-two-inch tall,<a href="https://minitherapy.org/#ourHorses" target="_blank" rel="noopener"> “Honey”</a> is the miniature horse who started it all. Mary Rose Gullet of <a href="https://minitherapy.org" target="_blank" rel="noopener">Honey's Mini Therapy Adventures</a> says people are always excited to see their mini horses and are mesmerized by their sparkly, 'cute little boots'. All of us here at Cavallo feel very proud to sponsor Honey's, and we always look forward to seeing their latest adventures in the media and online.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading"><figure><img class="size-medium wp-image-70645 alignleft" src="http://cavallo.local/wp-content/uploads/2022/05/Honeys-Mini-Horse-Therapy-Cavallo-CLB-Hoof-Boots-2-295x300.jpg" alt="Honey's Mini Horse Therapy Cavallo CLB Hoof Boots" width="295" height="300"></figure>Sparkly Boots Help People Connect with Horses</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><em> “Our favourite part about their Cavallo Boots has to be the responses we get from those we visit,” Mary Rose says. “You can hear our horses coming down the hallway, and as soon as we turn the corner into a room, you hear people gasp. They say, ‘oh, I thought I heard a horse, and look at her cute, tiny little shoes!’ Everyone can't get over how cute Honey’s little hoof boots are. They really add a whole extra touch to each visit that we go on. From your senior care communities to the students we meet in schools to the doctors we see in hospitals. People —of all ages— really connect to the fact that there’s a tiny horse wearing shoes in their facility.”</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>CLBs are available for miniature horses, donkeys and ponies and are available in Black, Bling, Metallic Blue, and Unicorn Pink colour options. CLB Boots provide excellent traction on slick, indoor floors, making these little therapy horses' jobs much safer and more comfortable. To see these Cute Little Boots in action, <strong><a href="https://www.youtube.com/watch?v=qXOUzjx9XDM and http://cavallo.local/product-category/hoof-boot/mini-hoof-boots/" target="_blank" rel="noopener">WATCH HERE!</a></strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading">How Does Honey's Operate as an Organization?</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Honey’s Mini Therapy Adventures is a 501c3 organization based in central Florida. Their organization was designed around a therapeutic model wherein individuals of all ages, gender, and race with physical, cognitive, emotional, developmental, and behavioural disabilities find comfort, empowerment, self-esteem, and unconditional love through positive interventions with miniature horses. They have connected with multiple facilities across central Florida and have expanded the program rapidly, reaching people in need from all aspects of life.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Honey's Mini Therapy Adventures is well-known in Florida.</strong> Watch <a href="https://www.abcactionnews.com/morning-blend/honeys-mini-therapy-adventures" target="_blank" rel="noopener">this fun Tampa ABC Broadcasting clip</a> about HMTA!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Want to follow along on their journey?</strong> <a href="https://www.facebook.com/honeysminitherapyadventures" target="_blank" rel="noopener">Find them on Facebook</a> or follow them on Instagram at <a href="https://www.instagram.com/honeysminitherapyadventures/" target="_blank" rel="noopener">@HoneysMiniTherapyAdventures.</a> You'll be so glad you did!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading">Watch this adorable video here to get a feel for the level of magic this group creates:</h4>
+<!-- /wp:heading -->
+
+<!-- wp:embed {"url":"https://www.youtube.com/watch?v=lP4vvzT23y0","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://www.youtube.com/watch?v=lP4vvzT23y0
+</div></figure>
+<!-- /wp:embed -->
+
+<!-- wp:paragraph -->
+<p><em>Wishing you many happy visits with your favourite equine friends,</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":67960,"align":"left"} -->
+<figure class="wp-block-image alignleft"><img src="http://cavallo.local/wp-content/uploads/2022/01/Carole-Transparent.png2_.png" alt="Carole Herder Cavallo Hoof Boots Signature" class="wp-image-67960"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->

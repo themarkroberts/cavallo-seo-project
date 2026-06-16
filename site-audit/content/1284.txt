@@ -1,0 +1,23 @@
+<!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="http://cavallo.local/wp-content/uploads/2024/09/grazing.jpg" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>By Carole Herder</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Sometimes we can let the probabilities hold us back from the possibilities. I’m so glad I didn’t fall into that trap. When I first announced I was moving to the country and buying a horse my family responded with their assessment of probability for taking such action. “Horses are worse than boats. You sink money in and get nothing back. They eat while you sleep. You can’t afford it,” they told me.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>I would have bought into it and accepted my status quo life, but my heart was pulling in an undeniable way. Horses were my destiny since I was a child and saw that horse in the pasture on our family drive through the country. I just knew it in my soul. While the probability was that horses could cause me financial hardship and difficulty, all I could see were the possibilities of joy and love. So I went for it!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>What I did not know was that I would encounter a mission. That the practice of nailing metal shoes to horses’ hooves would become so repulsive to me that I would devote my life to creating a better way and ultimately create a solution that would provide comfort and protection for the horse and in turn a livelihood for my family. Patterns may be able to predict probabilities, but they can’t necessarily identify and direct possibilities, at least not where the heart, imagination and innovation are involved.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>"Come live in my heart and pay no rent." - Samuel Lover</p>
+<!-- /wp:paragraph -->

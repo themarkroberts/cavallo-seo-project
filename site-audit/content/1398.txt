@@ -1,0 +1,23 @@
+<!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="http://cavallo.local/wp-content/uploads/2024/09/HorseAnatomyAnyone1.jpg" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>By Carole Herder</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>I think it is a great idea to have a basic understanding of your horse’s body. And I don’t just mean knowing which is the front and which is the back (although this helps of course!). Parts of the horse like coronary band, hock, croup, stifle, pastern and gaskin are some of the useful points to know. And why should you know these? Well, if you need to ring the vet and explain where an injury is, “A puncture wound above the coronary band” sounds better than “a big hole at the bottom of his leg, above his foot”. It can also help in discussion with your trainer so instead of saying, “I think he is lame”, you might be able to say, “He seems stiff in the right stifle”.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>You don’t have to be a master of anatomy and physiology or know every single piece of the body (hands up who knows what the pinna is or where the jejunum is! (but it is certainly to your advantage to learn the main body parts, and maybe even a little more if you have a good memory!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Here is a handy little tool to use on your PC to get your head around the basics and quickly find the name of a body part: <a href="http://www.thedigitalhorse.com/2014/07/05/help-with-learning-the-parts-of-a-horse/" target="_blank" rel="noopener">http://www.thedigitalhorse.com/2014/07/05/help-with-learning-the-parts-of-a-horse/</a>. There is also a great app for your phone which gives you a 3D view of each layer of the horse from skin to bone - Horse Anatomy: Equine 3D. If you feel like sitting down and doing abit of old-fashioned learning from a book, Maggie Raynor’s ‘Horse Anatomy Workbook’ is an excellent learning tool. And of course there are plenty of equine anatomy and physiology courses held in classrooms and online if you want some more detail. If you can find one of those demonstrations that paint the muscles and bones onto live horses, they are amazing as not only do you learn some anatomy but you also get to see how each muscle and bone moves when the horse is moving (see image of Gillian Higgins painting her demo horse). Another excellent and fun way to learn.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:spacer {"height":"40px"} -->
+<div style="height:40px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->

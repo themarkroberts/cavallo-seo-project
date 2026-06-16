@@ -1,0 +1,29 @@
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column {"width":"40%"} -->
+<div class="wp-block-column" style="flex-basis:40%"><!-- wp:image {"id":1033,"width":"431px","height":"auto","sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full is-resized"><img src="http://cavallo.local/wp-content/uploads/2024/09/300-1024x768-e1405706421798.jpg" alt="" class="wp-image-1033" style="width:431px;height:auto"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>When: Saturday April 16th from 9:00 am to 5:00 pm<br>Where: Buckerfields in Abbotsford, BC, 34633 Vye Road</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:paragraph -->
+<p><a href="http://www.dougmillshorsemanship.com/" target="_blank" rel="noopener">Doug Mills</a> will be doing a demonstration of his training techniques with some young horses on Saturday April 16th.&nbsp; Learn the method that has won him the Mane Event Trainer's Challenge five times consecutively!&nbsp; If you are serious about getting the most out of your horse this is a must attend event.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>There will be a door prize of a Cavallo <a href="http://cavallo.local/?products=shop-saddle-pads" target="_blank" rel="noopener">saddle pad</a> and a draw for one of our cool new <a href="http://cavallo.local/product-category/other-products/other-cool-stuff/" target="_blank" rel="noopener">Cavallo cooler chairs</a>. Krystle our wonderful customer service rep will be there to chat and answer any questions about our hoof boots and saddle pads. &nbsp; It will be a day full of learning and fun for the whole family with free lunch and face painting for the kids. Buckerfields is also offering one day specials for products in the store.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->

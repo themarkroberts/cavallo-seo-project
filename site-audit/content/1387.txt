@@ -1,0 +1,23 @@
+<!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="http://cavallo.local/wp-content/uploads/2024/09/horsewithball2.jpg" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>By Carole Herder</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>All work and no play makes you a dull boy or at least that is how the saying goes. Just as play contributes to a well-rounded personality, so it helps create a well-rounded relationship for you and your horse. If you’re always asking your horse to work for you, always making demands of him, then you have that relationship alone. By integrating play and at liberty interactions, you expand the integrity of the relationship beyond the master v. servant role. You always need to be safe and in charge, but you can do that while at play. If you can play and give your horse more control, allowing him to be around you at liberty, you open your relationship to being more fully present. Dr. Bruce Nock wrote a great book called “Liberated Horsemanship: Breaking Bonds of Tradition.” In it he shares how you can engage your horse in playful ways. I have also seen big balls, designed like big soccer balls. I haven’t tried them but have seen videos and these huge balls look like a lot of fun for your horse to kick around the paddock with or without your participation. There is a lot of joy in playing with your horse in subtle, at liberty ways versus by command and demand. If you can control your horse when he is at liberty then you will be safer when you are working, riding, or in the rink with him.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":2204,"align":"left"} -->
+<figure class="wp-block-image alignleft"><img src="//cavallo.local/wp-content/uploads/2014/06/horseandball1.jpg" alt="" class="wp-image-2204" title="Horse Hoof Boots"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>I’ve had mixed reactions from people when I’ve suggested free autonomy interactions with horses. Some people are afraid to give up control, while others take it too far and release all control and responsibility. Think of it as being a parent of teenagers, when your kids are old enough to be out of your sight and go do things on their own. Allowing them to do things on their own creates and enhances the trust you have between you. If you do it in balance you don’t lose parental authority and respect, you let go of some control and in the long run gain respect. In the same way loosening the tight grip of a domineering working relationship with your horse may lessen control, but not authority, while enhancing the trust and integrity of the relationship you have with your horse. People may be hesitant to allow their horse too much freedom because they have a fear of him or for him. Parents feel fear that kids will make bad decisions when on their own, but that is the way they will learn. In both cases you always want to ensure safety measures are in place, but the benefits of creating freedom outweigh the fear. Kids don’t need you to be their friend. They need you to be the parent. Horses don’t need you to be another horse for play, but a benevolent caregiver.</p>
+<!-- /wp:paragraph -->

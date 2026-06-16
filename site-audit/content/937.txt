@@ -1,0 +1,15 @@
+<!-- wp:image {"width":"498px","height":"auto","sizeSlug":"large","align":"left"} -->
+<figure class="wp-block-image alignleft size-large is-resized"><img src="http://cavallo.local/wp-content/uploads/2024/09/TEST_Pamela.jpg" alt="" style="width:498px;height:auto"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>I am enjoying <strong>SIMPLE Hoof Boots</strong> on both of my horses. Last week I was able to ride my Pamela Warmack and Jeffreygelding on a rocky trail that I have been avoiding for years because it was just too painful on his bare feet. We also rode through streams and I was pleased with how quickly the water drained out of the boots. It will be a pleasure to be able to explore all kinds of terrain without worrying about their feet. The boots slip on easily, attach quickly, stay in place on their feet, and clean up nicely.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>I took my gelding, Jeffrey, to Squaw Valley at Lake Tahoe and rode all last week. We could NOT have ridden on the rocky trails and seen the beautiful scenery if not for the Simple Boots on his unshod back feet. The SIMPLE Boots performed great and we were able to go out on the trails each day without a care!</p>
+<!-- /wp:paragraph -->

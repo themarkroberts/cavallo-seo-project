@@ -1,0 +1,55 @@
+<!-- wp:paragraph -->
+<p>It's summer&nbsp;time and some of us are struggling with the conditions on our properties. If your area is very wet it can negatively affect your horse’s feet. Does mud on your farm seem to be a never-ending struggle? Mud can pull shoes off, negatively impact your horses’ hoof health, and can even make walking in your pastures a challenge. Try out these mud management tips around your farm to reduce and minimize mud.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Install Drainage Options</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Mud around the barn is primarily due to drainage issues. Water pools in the lower portions of your land, saturating the land and creating mud. When you add in the traffic of horses, people, and even equipment, it’s hard to avoid mud at all.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>You can install various drainage options to help reduce mud around your farm. Underground drainage options like pipes can direct water away from your pastures.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Bringing in pea gravel can also help to minimize the mud in heavily-trodden areas, like the entrance to a barn or a pasture. Pea gravel or even stone dust allow water to permeate the surface without pooling on the top and creating mud.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Remove Manure</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Removing manure from your pastures is an effective way to reduce the amount of mud that occurs. This is particularly important if your horse is turned out in a small paddock. There’s an additional benefit to removing manure from paddocks and pastures – it’s good for your horse’s health.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Rotate Pastures</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Pastures can only withstand so much use before they become overgrazed and prone to mud. If at all possible, try to rotate your pastures. Move your horses to a new pasture so that a tired pasture has some time to recover.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Use Cavallo Hoof Boots</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Did you know that you can use <a href="http://cavallo.local/?products=hoof-boot" target="_blank" rel="noopener">Cavallo hoof boots</a> even in mud? In fact, these boots fare better than traditional horse shoes do when the mud is thick and gooey. If you’re tired of searching for lost shoes and seeing your farrier every week, then hoof boots may be a better option for you and your horses.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>What other methods have you come to better manage the mud on your farm? </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":5795,"width":"409px","height":"auto","align":"left"} -->
+<figure class="wp-block-image alignleft is-resized"><img src="//cavallo.local/wp-content/uploads/2015/06/Caroles-300x120.png" alt="horse hoof boots" class="wp-image-5795" style="width:409px;height:auto"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->

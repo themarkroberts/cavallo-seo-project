@@ -1,0 +1,63 @@
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Dear Carole,</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>I imagine that my comments may come off like some kind of shameless endorsement but I have to thank you for your Cavallo Simple Boot design.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>We're located in the high desert "Great Basin" region of Nevada. A typical ride in these parts may involve riding over prehistoric lake bed sand to footing that resembles cobblestone streets to picking our way through lava rock. All of our horses are barefoot. Barefoot horses seem to have healthier feet and they get better traction on tricky terrain. However a few of the horses need additional protection when traveling the rougher routes.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":4905,"align":"center"} -->
+<figure class="wp-block-image aligncenter"><a href="//cavallo.local/wp-content/uploads/2014/08/tucker-sarah-boots-cropped.jpg"><img src="//cavallo.local/wp-content/uploads/2014/08/tucker-sarah-boots-cropped-452x452.jpg" alt="Volunteer Sarah T. on Tucker, near Misfits Flat, NV." class="wp-image-4905"/></a><figcaption class="wp-element-caption">Volunteer Sarah T. on Tucker, near Misfits Flat, NV.</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>We've accumulated various makes and models of equine boots over the years but the Simple Boot is what we now reach for. We can put them on quickly and reliably without having to have a toolbox handy. The Velcro design is strong but also allows easy adjustment so that the boots will fit properly.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>They provide hoof wall protection without producing sores along the coronet or heel bulbs. Plus these boots are really good at resisting sand intrusion when going through the really fluffy stuff and surprisingly the Velcro does not collect foxtails, burrs and the like.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>If we do trek across our own version of the Sahara Desert, it only takes a few seconds to remove a Simple Boot to check for sand (usually not a problem) and clean out the boot if a little sand did sneak in.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>To be honest, the Simple Boot actually changed my attitude about equestrian boots. Not that I didn't recognize their value, but I dreaded struggling with getting boots fitted properly before the ride, getting my fingers pinched in the mechanisms, cutting a finger on a frayed wire, or having to pull out a set of pliers to get the latches set to a proper tension... not to mention dealing with sand-caused sores on the horses after riding through really deep stuff.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>I obviously recommend equine boots for horses that need hoof protection, but I would advise anyone like me who has struggled with the older boot designs to look into the newer designs and technologies before giving up on the concept. Designs such as I found with Simple Boots can be game changers.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>If you decide to use my comments as a testimonial, I'd like to clarify that while I've always advocated for proper hoof care, this note about Simple Boots was completely unsolicited. I simply like equestrians to be aware of their options in order to make their experiences safer and more enjoyable for them and their mounts. Plus we equestrians tend to be traditional and we sometimes aren't aware of useful improvements in available horse equipment.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>So props to Cavallo for coming up with the Simple Boot. We've now used them long enough to be confident in their functionality and durability. And please continue to develop newer and better ways to protect our equine partners. Equestrian "engineering" is a never-ending evolutionary process.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":4908,"align":"center"} -->
+<figure class="wp-block-image aligncenter"><a href="//cavallo.local/wp-content/uploads/2014/08/004.jpg"><img src="//cavallo.local/wp-content/uploads/2014/08/004-300x240.jpg" alt="Willis Lamm on Corey during a search on McLellan Peak, NV" class="wp-image-4908"/></a><figcaption class="wp-element-caption">Willis Lamm on Corey during a search on McLellan Peak, NV</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>Warmest regards,</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Willis Lamm<br>LRTC Wild Horse Mentors<br>LRTC Large Animal Rescue Team</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:spacer {"height":"40px"} -->
+<div style="height:40px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->

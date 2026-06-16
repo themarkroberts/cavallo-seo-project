@@ -1,0 +1,31 @@
+<!-- wp:image {"id":6168,"linkDestination":"custom","align":"left"} -->
+<figure class="wp-block-image alignleft"><a href="//cavallo.local/wp-content/uploads/2015/11/Prince.jpg"><img src="//cavallo.local/wp-content/uploads/2015/11/Prince-290x452.jpg" alt="Horse Hoof Boots" class="wp-image-6168"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>By Carole Herder</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>This title says it all! Last week, jockey Michelle Payne won the Melbourne Cup. She is the first woman to do it since the inception of the iconic race 155 years ago. The Melbourne Cup, Australia’s most prestigious Thoroughbred race rivals the Kentucky Derby in magnificence.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>When Michelle Payne got off her Melbourne Cup-winning horse Prince of Penzance and accused racing of being a “chauvinistic sport”, she did not exempt the owners of her mount from criticism. In true Australian fashion, she told it with gusto, just as she sees it. “Everyone else can get stuffed [who] think women aren’t good enough.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>As of 2015, no woman has won the Kentucky Derby. Today the importance of women in racing has progressed significantly.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Kudos to Michelle Payne!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph -->

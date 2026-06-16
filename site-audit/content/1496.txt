@@ -1,0 +1,43 @@
+<!-- wp:image {"id":5578,"align":"center"} -->
+<figure class="wp-block-image aligncenter"><img src="//cavallo.local/wp-content/uploads/2015/04/sunset-kap72-4.jpg" alt="Horse Hoof Boots" class="wp-image-5578"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>By Carole Herder</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>While looking at my horses in the mix of the lavish summer landscape and late afternoon sun, it is challenging to determine the difference between them and the trees around them. They stand so still, like inanimate objects. The only movement is the air traveling through their nostrils, filling their lungs and leaving again, standing as an extended part of the environment that surrounds them. Wind currents change and in a blink of an eye, they are thundering off, snorting and bucking. And again that flush envelopes me, a crazy delight whenever I watch them run, and this time tinged with a touch of sadness as I am increasingly aware that conditions may not be moving in their favor; their world is becoming more vulnerable as the years go by.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":"CSP-ChapterBodyText"} -->
+<p class="CSP-ChapterBodyText"><span style="font-size: 12.0pt;">Horses are nature personified, gently moving through the environment like that light breeze that cools you off on a hot day. Then in a second they’re whipping into a strong, forceful beast that can take off into flight at forty miles per hour, exuding tremendous power. </span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":"CSP-ChapterBodyText"} -->
+<p class="CSP-ChapterBodyText"><span style="font-size: 12.0pt;">We are drawn to watch these splendid animals’ movements, with the ebbs and flows as they play their various melodies, always in harmony with nature. Sometimes as they move, if I close my eyes a little and just drift, I can see the current like waves of the ocean flowing across their body as their muscles ripple in motion. They charge across the field in a fury with the force of a tsunami, yet rest and gaze as still as a serene, glassed pond. This dichotomy of nature’s gentle influence is to be revered in the majesty that is Equus.</span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"center","className":"CSP-ChapterBodyText"} -->
+<p class="has-text-align-center CSP-ChapterBodyText"><span style="font-size: 12.0pt;">“Horses make a landscape look beautiful.”</span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"center","className":"CSP-ChapterBodyText"} -->
+<p class="has-text-align-center CSP-ChapterBodyText"><span style="font-size: 12.0pt;">-- Alice Walker</span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":5458,"align":"center"} -->
+<figure class="wp-block-image aligncenter"><img src="//cavallo.local/wp-content/uploads/2015/03/Carolesig1.png" alt="Horse Hoof Boots" class="wp-image-5458"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph {"align":"center","className":"CSP-ChapterBodyText"} -->
+<p class="has-text-align-center CSP-ChapterBodyText"></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:spacer {"height":"40px"} -->
+<div style="height:40px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->

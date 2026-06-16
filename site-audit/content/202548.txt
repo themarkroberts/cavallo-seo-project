@@ -1,0 +1,312 @@
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:paragraph {"align":"center","fontSize":"large"} -->
+<p class="has-text-align-center has-large-font-size">A brand new year with a NEW way of thinking about hoof care and what's best for our horses! As you can see… Even the celebrities are catching on:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"textAlign":"center"} -->
+<h2 class="wp-block-heading has-text-align-center">MEET THE BOOTS OF BEYONCÉ BOWL!</h2>
+<!-- /wp:heading -->
+
+<!-- wp:image {"id":202550,"sizeSlug":"full","linkDestination":"none","align":"center","style":{"border":{"radius":"10px"}}} -->
+<figure class="wp-block-image aligncenter size-full has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2025/04/Black-Trek-Cavallo-Hoof-Boot-s-Beyonce-riding-into-stadium.gif" alt="Black Trek Cavallo Hoof Boot s- Beyonce riding into stadium" class="wp-image-202550" style="border-radius:10px"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"textAlign":"center","level":3} -->
+<h3 class="wp-block-heading has-text-align-center">Beyoncé Bowl: A Dazzling Debut for Cavallo Hoof Boots!</h3>
+<!-- /wp:heading -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:embed {"url":"https://youtu.be/jdHLMOJWHyY","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://youtu.be/jdHLMOJWHyY
+</div></figure>
+<!-- /wp:embed --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"center"} -->
+<div class="wp-block-column is-vertically-aligned-center"><!-- wp:paragraph -->
+<p>Did you watch the <a href="https://www.netflix.com/ca/title/81983946"><span style="text-decoration: underline;">Christmas Day NFL Football Game halftime show on Netflix</span></a>?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Beyoncé lit up the field at Texas’s NRG Stadium in an awe-inspiring spectacle, riding the magnificent horse Marshmallow, who confidently sported the unparalleled <a href="http://cavallo.local/product-category/hoof-boot/trek-hoof-boots/"><span style="text-decoration: underline;">Cavallo Trek Hoof Boots</span></a>! Joined by special guests Shaboozey, Post Malone, and Beyoncé’s talented 12-year-old daughter Blue Ivy, this dazzling performance captured the attention of a record-breaking 27 million live Netflix viewers on Christmas Day in just the USA &amp; Canada alone!</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:paragraph -->
+<p>We’re thrilled to see <a href="http://cavallo.local/product-category/hoof-boot/"><span style="text-decoration: underline;">Cavallo Hoof Boots</span></a> stepping into the global spotlight, providing the ultimate blend of safety, style, and comfort for both Beyoncé and her equine partner, Marshmallow.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:columns {"style":{"spacing":{"margin":{"bottom":"var:preset|spacing|lg"}}}} -->
+<div class="wp-block-columns" style="margin-bottom:var(--wp--preset--spacing--lg)"><!-- wp:column {"verticalAlignment":"center","width":"20%"} -->
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis:20%"><!-- wp:image {"id":202564,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="http://cavallo.local/wp-content/uploads/2025/04/bootylicious.gif" alt="Cavallo Trek Horse Hoof Boots on Beyonce's horse at beyonce bowl" class="wp-image-202564"/><figcaption class="wp-element-caption">Bootylicious' Trek Hoof Boots</figcaption></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"center","width":"80%"} -->
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis:80%"><!-- wp:paragraph -->
+<p>From Cavallo’s humble beginnings on <a href="https://www.youtube.com/watch?v=2tlsmV7JfF8"><span style="text-decoration: underline;">Australia’s Got Talent with The Double Dans</span></a> to countless iconic stage appearances, Cavallo has always delivered nothing but the best. It’s no wonder we’re celebrated as the most trusted hoof boot brand in the world—and the top choice for Beyoncé Bowl!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>But the excitement doesn’t stop there! <a href="https://www.netflix.com/ca/title/81983946"><span style="text-decoration: underline;">Watch the opening moments of the Netflix special</span></a>, and you’ll see Cavallo Hoof Boots shining front and center on Beyoncé’s trusted steed. And stay tuned for even more horses donning their Cavallos alongside the main aisle in this stunning production.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>When it comes to hoof care, there’s no competition. Cavallo Hoof Boots: Simply the Best.&nbsp;</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"textAlign":"center","level":3} -->
+<h3 class="wp-block-heading has-text-align-center">How Did Beyoncé End Up Using Cavallos for the NFL Halftime Show?</h3>
+<!-- /wp:heading -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"id":202574,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="http://cavallo.local/wp-content/uploads/2025/04/Beyonce-with-Cavallo-Trek-Hoof-Boots-NFL-Show.gif" alt="Beyonce with Cavallo Trek Horse Hoof Boots during Beyonce Bowl NFL half time Show" class="wp-image-202574"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:paragraph -->
+<p><a href="https://www.coastreporter.net/writers/crp%20sandra"><span style="text-decoration: underline;">By Sandra Thomas, Coast Reporter</span></a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>It’s a story even the creatives over at Netflix couldn’t have imagined.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>It was just days before Christmas, and the biggest pop star of the 21st century was set to hit the stage of the NFL 2024 Christmas Day Halftime Show, riding in on a horse to perform in what was to become one of the most viewed TV moments in history.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Problem was, the flooring was too slippery for the horses and the massive production was at risk.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>That was until a small, family-owned business from Roberts Creek on the Sunshine Coast of B.C. stepped in to save the day.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Four or five days before the show, Cavallo received a panicked email from <a href="https://www.horsesforproductions.com/videos"><span style="text-decoration: underline;">Scarlet Walker of Hollywood-based Horses for Productions</span></a>, who said they needed help — and fast.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:paragraph -->
+<p>Scarlet asked, “Can you send me boots? We just did a rehearsal, and I signed a non-disclosure agreement, so I’m not allowed to say who the boots are for, but it’s for a MEGA pop star!”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Jennifer at Cavallo said, “Okay, we’ll do what we can!”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Turned out the production was the NFL 2024 Christmas Day Halftime Show on Netflix, also dubbed the ‘Beyoncé Bowl’, which took place at the NRG Stadium in Houston, The football game was between the Baltimore Ravens and Houston Texans. Not including worldwide viewing, the U.S. viewership alone for Beyoncé’s performance was more than 27 million.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Walker told Cavallo that during the rehearsal, they had tried to walk through the stadium with the horses. But everyone was worried because the floor and felt rug was very slippery.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The team at Cavallo knew it was going to be a rush to get the boots to Houston, so they stepped into high gear! Cavallo’s amazing Yvonne Welz was brought in to do the sizing, using only the hoof photos Walker sent in, while employee Rachel Long helped fill the order. Meanwhile, this was all unfolding while Relations Coordinator Jennifer Mundell was out of the office in Squamish for her dog’s rehabilitation appointment.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":202575,"width":"790px","height":"auto","sizeSlug":"large","linkDestination":"none","align":"center","style":{"border":{"radius":"10px"}}} -->
+<figure class="wp-block-image aligncenter size-large is-resized has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2025/04/Beyonce-group-Cavallo-Trek-Hoof-Boots-1024x628.jpg" alt="Beyonce group Cavallo Trek Hoof Boots" class="wp-image-202575" style="border-radius:10px;width:790px;height:auto"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>Jennifer was multi-tasking: “So there I was, in the vet office, in an appointment with my dog, texting, trying to get all these boots arranged. And it was just so chaotic,” said Mundell. “But we somehow all worked together and got the order in!”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Then, she says, all everyone could do was wait anxiously to see if the boots would make it in time.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Scarlet said that at the eleventh hour they were stressing…and then the FedEx van came rolling in! They opened up the parcels and the best thing was that there were seven horses needing boots, and sizing can be a challenge because all horses are so different. But Yvonne is so skilled at sizing that all seven horses fit their boots. This was a big win!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The rest, as they say, is history, and the boots were used in a performance some are calling bigger than any Super Bowl Halftime Show.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>In a comment on a Cavallo Facebook post, Scarlet wrote, “We ended up using front boots for the main horses as we had to stand around for 10 hours. The ground was extremely slippery and dangerous, and I am happy to report not one single horse slipped! Again, I appreciate you all for getting them to us so fast; they truly are the best, and so many people complimented how great they looked while on set!”</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">How Did a Donkey at the Oscars Make this All Possible?</h3>
+<!-- /wp:heading -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:embed {"url":"https://youtu.be/zdBnonGaXPI","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://youtu.be/zdBnonGaXPI
+</div></figure>
+<!-- /wp:embed --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"center"} -->
+<div class="wp-block-column is-vertically-aligned-center"><!-- wp:paragraph -->
+<p>This is not the first time our Cavallo Hoof Boots have been used in a major TV production. During the 2023 Academy Awards show in Hollywood, host Jimmy Kimmel walked on stage leading a miniature donkey while speaking about The Banshees of Inisherin film, which was nominated for multiple awards and starred a similar-looking donkey named “Jenny.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>As soon as we all saw a photo of the donkey, we knew it was wearing Cavallo CLB Mini Hoof Boots, so Jennifer at Cavallo made a Facebook post that went a bit viral, in an attempt to find out who booted that donkey! Turned out, Scarlet Walker had been a long-time fan of the boots and had chosen to use them at the Oscars.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:paragraph -->
+<p>Scarlet got in touch with Jennifer, and it turned out she’d been using Cavallo Hoof Boots for over 10 years and said using them on the Oscar stage was just a no-brainer. The stage was really slick, and they had to have some boots on the little donkey for traction. Since then, Scarlet and Jennifer stayed in touch, so when Scarlet needed Cavallo Hoof Boots in a hurry, she knew who to call!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"id":202578,"sizeSlug":"large","linkDestination":"none","style":{"border":{"radius":"10px"}}} -->
+<figure class="wp-block-image size-large has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2025/04/Scarlet-Horses-for-Productions-Beyonce-day-1-1024x684.jpg" alt="Scarlet Walker of Horses for Productions geting ready to film Beyonce Bowl" class="wp-image-202578" style="border-radius:10px"/><figcaption class="wp-element-caption">Scarlet Walker and Horses for Productions team member</figcaption></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"center"} -->
+<div class="wp-block-column is-vertically-aligned-center"><!-- wp:paragraph -->
+<p>“We were not guaranteed that the boots would even show up in the production, we were just hoping that they would,” said Jennifer. “And then when we watched the halftime show, we were all like, ‘Oh my God!’ If you look at when Beyoncé comes around the corner on the horse, and all the people are standing on the horses and observing her coming through, even a few of those horses have Cavallo Boots on as well. It was pretty exciting.”</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"textAlign":"center","level":3} -->
+<h3 class="wp-block-heading has-text-align-center">From Queen "E" to Queen "B"!</h3>
+<!-- /wp:heading -->
+
+<!-- wp:media-text {"mediaId":202481,"mediaLink":"http://cavallo.local/newsletter/2024-year-in-review/queen-elizabeth-ii-and-her-pony-emma-using-cavallo-simple-hoof-boots/","mediaType":"image","mediaWidth":34} -->
+<div class="wp-block-media-text is-stacked-on-mobile" style="grid-template-columns:34% auto"><figure class="wp-block-media-text__media"><img src="http://cavallo.local/wp-content/uploads/2025/04/Queen-Elizabeth-II-and-her-pony-Emma-using-Cavallo-Simple-Hoof-Boots.jpg" alt="Fell Pony Adventures Podcast – Queen Elizabeth and Emma using Cavallo Simple Hoof Boots" class="wp-image-202481 size-full"/></figure><div class="wp-block-media-text__content"><!-- wp:paragraph {"placeholder":"Content…"} -->
+<p>Queen Elizabeth was known for her deep affection for&nbsp;<a href="https://fellpony.co.uk/podcast/2023/6/22/episode-18-terry-pendry">her Fell Pony, Emma</a>, and her dedication to ensuring Emma’s comfort and well-being.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Among the many ways she cared for her beloved pony, one of her key choices was outfitting Emma with Cavallo Hoof Boots. Known for their durability and support,&nbsp;<a href="http://cavallo.local/product-category/hoof-boot/simple-hoof-boots/">Cavallo Simple Boots</a>&nbsp;were the perfect choice for a royal steed like Emma, providing both protection and freedom for her daily rides through any terrain of the royal estates.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"placeholder":"Content…"} -->
+<p>Similarly, pop icon Beyoncé, a queen in her own right, was spotted on a Cavallo Trek-booted horse in the Beyoncé Bowl production. For both queens—whether in the realm of royalty or pop culture— Cavallo Hoof Boots offered performance and elegance, fit for a true royal equine companion.</p>
+<!-- /wp:paragraph --></div></div>
+<!-- /wp:media-text -->
+
+<!-- wp:columns {"style":{"border":{"top":{"color":"var:preset|color|gray-2","width":"1px"}},"spacing":{"padding":{"top":"var:preset|spacing|sm","bottom":"0"}}}} -->
+<div class="wp-block-columns" style="border-top-color:var(--wp--preset--color--gray-2);border-top-width:1px;padding-top:var(--wp--preset--spacing--sm);padding-bottom:0"><!-- wp:column {"width":"66.66%"} -->
+<div class="wp-block-column" style="flex-basis:66.66%"><!-- wp:paragraph -->
+<p>Cavallo Hoof Boots were created in the early 1990s by <a href="http://cavallo.local/about/#team"><span style="text-decoration: underline;">myself and CEO Greg Giles</span></a>. I was thrilled to see our Cavallo Trek Hoof Boots stepping into the global spotlight, providing the ultimate blend of safety, style, and comfort for both Beyoncé and her equine partner!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":202592,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="http://cavallo.local/wp-content/uploads/2025/04/2024-lineup-transparent-background-LR-1.png" alt="Cavallo Hoof Boots - all styles" class="wp-image-202592"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":"33.33%"} -->
+<div class="wp-block-column" style="flex-basis:33.33%"><!-- wp:image {"id":202591,"sizeSlug":"full","linkDestination":"none","style":{"border":{"radius":"10px"}}} -->
+<figure class="wp-block-image size-full has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2025/04/Carole-hr-286x300-1.jpg" alt="Carole Herder, creator of Cavallo Horse Hoof Boots" class="wp-image-202591" style="border-radius:10px"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"align":"full","style":{"spacing":{"blockGap":"var:preset|spacing|md","padding":{"top":"var:preset|spacing|gap","bottom":"var:preset|spacing|gap"},"margin":{"top":"0","bottom":"0"}},"color":{"background":"#f9f9f9"}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignfull has-background" style="background-color:#f9f9f9;margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--gap);padding-bottom:var(--wp--preset--spacing--gap)"><!-- wp:heading {"textAlign":"center","level":3} -->
+<h3 class="wp-block-heading has-text-align-center">Greg Tells the Podcasting World About Booting Beyoncé:</h3>
+<!-- /wp:heading -->
+
+<!-- wp:columns {"verticalAlignment":"center"} -->
+<div class="wp-block-columns are-vertically-aligned-center"><!-- wp:column {"verticalAlignment":"center"} -->
+<div class="wp-block-column is-vertically-aligned-center"><!-- wp:image {"id":202601,"scale":"cover","sizeSlug":"full","linkDestination":"none","style":{"border":{"radius":"10px"}}} -->
+<figure class="wp-block-image size-full has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2025/04/Greg-Beyonce-radio-show.jpg" alt="Cavallo Hoof Boots SEO Greg Giles on CKNW Morning radio show about Beyonce using Cavallo Trek Boots at Beyonce Bowl - Netflix" class="wp-image-202601" style="border-radius:10px;object-fit:cover"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"center"} -->
+<div class="wp-block-column is-vertically-aligned-center"><!-- wp:paragraph -->
+<p>This story just wouldn’t be complete without Greg chiming in to tell this story with his perfect Aussie flair!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Listen in – his excitement is truly contagious!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons {"layout":{"type":"flex","justifyContent":"left"}} -->
+<div class="wp-block-buttons"><!-- wp:button {"backgroundColor":"white","textColor":"red","style":{"border":{"width":"2px","color":"#C8102E","radius":"100px"},"elements":{"link":{"color":{"text":"var:preset|color|red"}}},"spacing":{"padding":{"left":"66px","right":"66px","top":"12px","bottom":"12px"}}}} -->
+<div class="wp-block-button"><a class="wp-block-button__link has-red-color has-white-background-color has-text-color has-background has-link-color has-border-color wp-element-button" href="https://www.iheart.com/podcast/256-mornings-with-simi-43069112/episode/how-a-bc-company-saved-beyonces-253459927/" style="border-color:#C8102E;border-width:2px;border-radius:100px;padding-top:12px;padding-right:66px;padding-bottom:12px;padding-left:66px" target="_blank" rel="noreferrer noopener">Hear Greg Tell it!</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"var:preset|spacing|gap","bottom":"var:preset|spacing|gap"},"blockGap":"var:preset|spacing|md","margin":{"top":"0"}}},"backgroundColor":"light-red-1","layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignfull has-light-red-1-background-color has-background" style="margin-top:0;padding-top:var(--wp--preset--spacing--gap);padding-bottom:var(--wp--preset--spacing--gap)"><!-- wp:heading {"textAlign":"center","level":3} -->
+<h3 class="wp-block-heading has-text-align-center">Love Cavallo News &amp; can't wait to read more?</h3>
+<!-- /wp:heading -->
+
+<!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"}} -->
+<div class="wp-block-buttons"><!-- wp:button {"backgroundColor":"white","textColor":"red","style":{"border":{"width":"2px","color":"#C8102E","radius":"100px"},"elements":{"link":{"color":{"text":"var:preset|color|red"}}},"spacing":{"padding":{"left":"66px","right":"66px","top":"12px","bottom":"12px"}}}} -->
+<div class="wp-block-button"><a class="wp-block-button__link has-red-color has-white-background-color has-text-color has-background has-link-color has-border-color wp-element-button" href="http://cavallo.local/category/horsecare-educational-resources/" style="border-color:#C8102E;border-width:2px;border-radius:100px;padding-top:12px;padding-right:66px;padding-bottom:12px;padding-left:66px" target="_blank" rel="noreferrer noopener">Get More Cavallo News</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column {"width":"66.66%"} -->
+<div class="wp-block-column" style="flex-basis:66.66%"><!-- wp:heading {"level":4} -->
+<h4 class="wp-block-heading">Wishing you many happy trails</h4>
+<!-- /wp:heading -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"id":4076,"width":"190px","height":"auto","sizeSlug":"full","linkDestination":"none","align":"left"} -->
+<figure class="wp-block-image alignleft size-full is-resized"><img src="http://cavallo.local/wp-content/uploads/2024/10/5381858031fd2babec50665b30807366.png" alt="Carole Herder signature - Cavallo Hoof Boots" class="wp-image-4076" style="width:190px;height:auto"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"0","bottom":"0"}}},"fontSize":"large"} -->
+<p class="has-large-font-size" style="margin-top:0;margin-bottom:0">Carole Herder</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"spacing":{"padding":{"right":"0","left":"0"}}}} -->
+<p style="padding-right:0;padding-left:0">President and founder of Cavallo Horse &amp; Rider Inc</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":4085,"width":"240px","height":"auto","sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full is-resized"><img src="http://cavallo.local/wp-content/uploads/2024/10/carole-books.jpg" alt="" class="wp-image-4085" style="width:240px;height:auto"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":"33.33%"} -->
+<div class="wp-block-column" style="flex-basis:33.33%"><!-- wp:image {"id":4084,"sizeSlug":"full","linkDestination":"none","style":{"border":{"radius":"10px"}}} -->
+<figure class="wp-block-image size-full has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2024/10/carole-herder.jpg" alt="Carole Herder signature - Cavallo Hoof Boots" class="wp-image-4084" style="border-radius:10px"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:acf/subscribe {"name":"acf/subscribe","data":{"title":"\u003ch2\u003eReceive Special Offers\u003c/h2\u003e\r\
+Sign up for our newsletter to get 15% off your first order, alongside exclusive promotions, industry news, tutorials, and more!","_title":"field_667bf8d5dd581","background_image":163,"_background_image":"field_667bfbf6dd582","form":"1","_form":"field_667bfc04dd583","html_anchor":"","_html_anchor":"field_672f5663be83a"},"mode":"preview"} /-->

@@ -1,0 +1,27 @@
+<!-- wp:image {"id":4924,"linkDestination":"custom","align":"left"} -->
+<figure class="wp-block-image alignleft"><a href="//cavallo.local/wp-content/uploads/2014/08/JackC.jpg"><img src="//cavallo.local/wp-content/uploads/2014/08/JackC.jpg" alt="Horse Hoof Boots" class="wp-image-4924"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>My short back Tennessee Walker/Spotted Saddle horse had been experiencing rub marks on his hind quarters even though I have used several different saddles and pads trying to alleviate the problem. The latest is a Tucker Gen II with Tucker pad. Nothing worked so I dug out my old Cavallo pad and started using it again with the Tucker saddle. It has been over 8 months now with absolutely no problems. I just wish it hadn't taken me so long to think of trying the Cavallo pad, but with horses don't we all end up with too many pads??? Cavallo has served us well for years both in boots and saddle pads. By the way, the new TREK boots for our Rocky Mountain horse are excellent.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Thank you for great products.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Jack Chaneyworth -<br>Woodway, Texas</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:spacer {"height":"40px"} -->
+<div style="height:40px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->

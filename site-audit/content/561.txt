@@ -1,0 +1,29 @@
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:image {"id":351155,"sizeSlug":"full","linkDestination":"none","align":"wide","UAGHideDesktop":true,"UAGResponsiveConditions":true} -->
+<figure class="wp-block-image alignwide size-full uag-hide-desktop"><img src="http://cavallo.local/wp-content/uploads/2026/06/Cavallo-Associate-Program-header-mobile-new.jpg" alt="Cavallo Rewards Program header mobile" class="wp-image-351155"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":351153,"sizeSlug":"full","linkDestination":"none","align":"wide","UAGHideMob":true,"UAGHideTab":true,"UAGResponsiveConditions":true} -->
+<figure class="wp-block-image alignwide size-full uag-hide-tab uag-hide-mob"><img src="http://cavallo.local/wp-content/uploads/2026/06/Cavallo-Affiliate-Program-email-header-new-scaled.jpg" alt="Cavallo Hoof Boots Rewards Program email header" class="wp-image-351153"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"right":"var:preset|spacing|md","left":"var:preset|spacing|md","top":"var:preset|spacing|0","bottom":"var:preset|spacing|0"},"margin":{"top":"var:preset|spacing|0","bottom":"var:preset|spacing|0"}}},"layout":{"type":"constrained","contentSize":"800px"}} -->
+<div class="wp-block-group" style="margin-top:var(--wp--preset--spacing--0);margin-bottom:var(--wp--preset--spacing--0);padding-top:var(--wp--preset--spacing--0);padding-right:var(--wp--preset--spacing--md);padding-bottom:var(--wp--preset--spacing--0);padding-left:var(--wp--preset--spacing--md)"><!-- wp:shortcode -->
+[woocommerce_my_account]
+<!-- /wp:shortcode --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:group {"align":"full","style":{"spacing":{"blockGap":"var:preset|spacing|md","padding":{"top":"var:preset|spacing|gap","bottom":"var:preset|spacing|gap"}}},"backgroundColor":"light-red-1","layout":{"type":"constrained","justifyContent":"center"}} -->
+<div class="wp-block-group alignfull has-light-red-1-background-color has-background" style="padding-top:var(--wp--preset--spacing--gap);padding-bottom:var(--wp--preset--spacing--gap)"><!-- wp:heading {"level":3,"style":{"typography":{"textAlign":"center"}}} -->
+<h3 class="wp-block-heading has-text-align-center"><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-dark-red-color">Need assistance? Reach out to your Cavallo Team here:</mark></h3>
+<!-- /wp:heading -->
+
+<!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"}} -->
+<div class="wp-block-buttons"><!-- wp:button {"backgroundColor":"red","style":{"border":{"radius":"50px"}}} -->
+<div class="wp-block-button"><a class="wp-block-button__link has-red-background-color has-background wp-element-button" href="http://cavallo.local/contact-us/" style="border-radius:50px" target="_blank" rel="noreferrer noopener">Contact us!</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->

@@ -1,0 +1,525 @@
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"textAlign":"center","level":1,"style":{"spacing":{"padding":{"bottom":"var:preset|spacing|md"}}}} -->
+<h1 class="wp-block-heading has-text-align-center" style="padding-bottom:var(--wp--preset--spacing--md)">Enjoy Your Latest Cavallo News!</h1>
+<!-- /wp:heading -->
+
+<!-- wp:image {"id":4011,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="http://cavallo.local/wp-content/uploads/2024/10/news-banner.jpg" alt="" class="wp-image-4011"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"var:preset|spacing|xl","bottom":"var:preset|spacing|xl"},"margin":{"top":"0","bottom":"0"}}},"backgroundColor":"light-red-1","layout":{"type":"constrained","contentSize":""}} -->
+<div class="wp-block-group alignfull has-light-red-1-background-color has-background" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--xl);padding-bottom:var(--wp--preset--spacing--xl)"><!-- wp:heading {"textAlign":"center"} -->
+<h2 class="wp-block-heading has-text-align-center">Together Fur-Ever: Heartfelt Marriage Proposal Includes Blessing of Beloved Animals</h2>
+<!-- /wp:heading -->
+
+<!-- wp:image {"id":203251,"sizeSlug":"large","linkDestination":"none","style":{"border":{"radius":"10px"}}} -->
+<figure class="wp-block-image size-large has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2024/11/Rachel-1.gif" alt="" class="wp-image-203251" style="border-radius:10px"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>Rachel Long is a long-time Cavallo Boot lover, and we have been honoured to have her and her beautiful barefoot horses represent Cavallo on Instagram for many years. The other day, Rachel and her horse, Tucker, had the most beautiful surprise of their lives…</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"lightbox":{"enabled":false},"id":203252,"sizeSlug":"full","linkDestination":"custom","align":"center"} -->
+<figure class="wp-block-image aligncenter size-full"><a href="https://www.instagram.com/p/DC0iNKBxGxH/" target="_blank" rel=" noreferrer noopener"><img src="http://cavallo.local/wp-content/uploads/2024/11/Watch-IG.jpg" alt="Rachel Long's proposal video on Instagram" class="wp-image-203252"/></a><figcaption class="wp-element-caption">Rachel Long's proposal video on Instagram</figcaption></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading -->
+<h2 class="wp-block-heading">A Love Story that Only Rachel Can Tell…</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><strong>From Rachel:</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>“Here’s the full story of my dreamy, horsey, engagement. The one thing Brian wanted to achieve with this proposal was the element of surprise. If you know us, you know how challenging that is! Not only do we live together, but we live in the tiniest of tiny homes, so hiding anything is difficult.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The biggest roadblock I expected was the cost of an engagement ring (though I have told Brian in the past that I really don’t care about the ring). I had NO idea my grandmother’s ring had been sitting in my sister’s house for the past several weeks, waiting for this exact moment!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"placeholder":"Content…"} -->
+<p>Brian wanted to ensure the most magical experience possible while also surprising me. So, not only did he carefully guide me towards this beach adventure without me growing suspicious, but he also created a backup surprise! A very special video… Read on!</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading -->
+<h2 class="wp-block-heading">Proposal Co-Conspirators Unveiled!</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>After we arrived, Tucker and I rode the length of the beach and back, and Brian asked me to come over for a photo. Once I got there, he started talking about how long we’d been together, and I was SO confused. Then he kneeled, and I laughingly said, “NOOO, stop that!” and truly thought he was joking. But then he pulled an engagement ring from his pocket, and I realized he was not joking at all!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Later, Brian showed me the most adorable video of himself asking all our animals about proposing to me. I was surprised all over again! And then he finally answered my question about where the real ring came from. I was surprised yet again, and knowing my whole family had been in on this plan for well over a month was fun, too!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"placeholder":"Content…"} -->
+<p>Brian and I met during the pandemic. He walked into my chaotic life like it was no big deal and embraced an entirely new lifestyle because of me and my animals. The way he incorporated all of them in this proposal made it so much better and highlighted how easily he opened his heart to all of them from the start. Especially Tucker, my first true love, the one who has stood with me through everything over the last 17 years. As Brian said, Tucker and I have been together for so long, and it will be a long while before Brian can catch up!</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"lightbox":{"enabled":false},"id":203254,"sizeSlug":"full","linkDestination":"custom","align":"center"} -->
+<figure class="wp-block-image aligncenter size-full"><a href="https://www.instagram.com/p/DCxMSzRTTgz/" target="_blank" rel=" noreferrer noopener"><img src="http://cavallo.local/wp-content/uploads/2024/11/Brians-proposal.jpg" alt="Brian asking the animals for their blessings!" class="wp-image-203254"/></a><figcaption class="wp-element-caption">Brian asking the animals for their blessings!</figcaption></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:heading {"textAlign":"center"} -->
+<h2 class="wp-block-heading has-text-align-center">Want to follow along on Rachel and Brian's journey?</h2>
+<!-- /wp:heading -->
+
+<!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"}} -->
+<div class="wp-block-buttons"><!-- wp:button {"textColor":"red","className":"is-style-fill c-button\u002d\u002dsimple","style":{"elements":{"link":{"color":{"text":"var:preset|color|red"}}},"spacing":{"padding":{"left":"0","right":"0","top":"0","bottom":"0"}},"color":{"background":"#ffffff00"}}} -->
+<div class="wp-block-button is-style-fill c-button--simple"><a class="wp-block-button__link has-red-color has-text-color has-background has-link-color wp-element-button" href="https://www.instagram.com/nantucket_blue/reels" style="background-color:#ffffff00;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0" target="_blank" rel="noreferrer noopener">Follow Rachel Here!<svg xmlns="http://www.w3.org/2000/svg" width="16" height="17">    <path d="m9.356 3.644 4.5 4.5a.512.512 0 0 1 0 .712l-4.5 4.5a.507.507 0 0 1-.712-.712L12.294 9H2.5a.5.5 0 1 1 0-1h9.794l-3.65-3.644a.506.506 0 0 1 .712-.712Z"></path></svg><br></a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|xxl","bottom":"var:preset|spacing|xxl"},"margin":{"top":"0","bottom":"0"}}},"backgroundColor":"white","layout":{"type":"constrained","contentSize":""}} -->
+<div class="wp-block-group has-white-background-color has-background" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--xxl);padding-bottom:var(--wp--preset--spacing--xxl)"><!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column {"verticalAlignment":"top","width":"","style":{"spacing":{"padding":{"right":"0","left":"0","top":"0","bottom":"0"}}},"layout":{"type":"constrained","contentSize":"585px","justifyContent":"left","wideSize":""}} -->
+<div class="wp-block-column is-vertically-aligned-top" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:image {"id":203256,"scale":"cover","sizeSlug":"full","linkDestination":"none","style":{"color":{"duotone":"unset"},"border":{"width":"0px","style":"none","radius":"10px"}}} -->
+<figure class="wp-block-image size-full has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2024/11/Carltonlima-Emma-Breyer-Horse-768x618-1.jpg" alt="Carltonlima Emma - Breyer Horse, the Queen's pony who wears Cavallo Hoof Boots" class="wp-image-203256" style="border-style:none;border-width:0px;border-radius:10px;object-fit:cover"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"top","width":"44.48%"} -->
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis:44.48%"><!-- wp:paragraph -->
+<p>You know, those moments when events seem completely unrelated, yet they somehow connect in surprising ways? Like running into an old friend at a train station, both of you heading in opposite directions. You exchange a few words, and then—out of nowhere—you realize you share a significant friend in common. It’s the six degrees of separation in action.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>It all started with Greg, who seems to have a special kind of luck. He wins things, good things happen to him effortlessly—it’s almost like a superpower. This time, he returned from the UK with a beautiful Breyer horse statue he won at a gala dinner for all the ‘Big Wigs’ in the equestrian industry. Greg’s always getting invited to these fancy events.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>This Breyer statue was created in honour of the late HRH Queen Elizabeth II. It’s a reissue of the Carltonlima Emma Fell Pony model, featuring a purple and silver ribbon sash with the Queen’s name. Queen Elizabeth was a lifelong equestrian and a patron of the <a href="https://www.fellponysociety.org.uk/about_breed.htm"><strong><span style="text-decoration: underline;">Fell Pony Society</span></strong></a>. She often enjoyed riding Emma around the grounds of Windsor Castle, and the beloved pony even attended the Queen’s funeral procession, draped in one of Her Majesty’s headscarves. We were all thrilled to receive this special tribute to The Queen.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"4px","bottom":"27px"}}}} -->
+<p style="margin-top:4px;margin-bottom:27px">But the story doesn’t end there.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column {"verticalAlignment":"top","width":"44.48%"} -->
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis:44.48%"><!-- wp:paragraph -->
+<p>A few days later, Brigitta, one of our stellar customer support members, came across a picture of The Queen riding Emma, accompanying a <a href="https://fellpony.co.uk/podcast/2023/6/22/episode-18-terry-pendry"><strong><span style="text-decoration: underline;">charming interview with the Queen’s Groom</span></strong></a> on the Fell Pony Podcast website. It’s a stunning shot of the Queen with her beloved pony—but wait, take a closer look! What’s Emma wearing on her hooves?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>CAVALLO HOOF BOOTS.</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>It was such an unexpected yet perfectly fitting connection.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"4px","bottom":"27px"}}}} -->
+<p style="margin-top:4px;margin-bottom:27px">When moments like this happen, it’s like the universe reinforcing the message that we’re on the right path. Cavallo has always been at the forefront of the hoof boot industry, leading the way with a deep purpose to help horses. Since 2001, we’ve been changing the world for horses. We are the most trusted hoof boot in the world.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"top","width":"","style":{"spacing":{"padding":{"right":"0","left":"0","top":"0","bottom":"0"}}},"layout":{"type":"constrained","contentSize":"480px","justifyContent":"left","wideSize":""}} -->
+<div class="wp-block-column is-vertically-aligned-top" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:image {"id":202481,"width":"458px","height":"auto","scale":"cover","sizeSlug":"full","linkDestination":"none","align":"right","style":{"color":{"duotone":"unset"},"border":{"width":"0px","style":"none","radius":"10px"}}} -->
+<figure class="wp-block-image alignright size-full is-resized has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2025/04/Queen-Elizabeth-II-and-her-pony-Emma-using-Cavallo-Simple-Hoof-Boots.jpg" alt="" class="wp-image-202481" style="border-style:none;border-width:0px;border-radius:10px;object-fit:cover;width:458px;height:auto"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"var:preset|spacing|xl","bottom":"var:preset|spacing|xl"},"margin":{"top":"0","bottom":"0"}}},"backgroundColor":"light-red-1","layout":{"type":"constrained","contentSize":""}} -->
+<div class="wp-block-group alignfull has-light-red-1-background-color has-background" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--xl);padding-bottom:var(--wp--preset--spacing--xl)"><!-- wp:columns {"style":{"spacing":{"padding":{"top":"0","bottom":"0"}}}} -->
+<div class="wp-block-columns" style="padding-top:0;padding-bottom:0"><!-- wp:column {"verticalAlignment":"top","width":"","style":{"spacing":{"padding":{"right":"0","left":"0","top":"0","bottom":"0"}}},"layout":{"type":"constrained","contentSize":"480px","justifyContent":"right","wideSize":""}} -->
+<div class="wp-block-column is-vertically-aligned-top" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:image {"id":202618,"width":"390px","height":"auto","scale":"cover","sizeSlug":"full","linkDestination":"none","style":{"color":{"duotone":"unset"},"border":{"width":"0px","style":"none","radius":"10px"}}} -->
+<figure class="wp-block-image size-full is-resized has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2025/04/WIN-PURPLE.gif" alt="" class="wp-image-202618" style="border-style:none;border-width:0px;border-radius:10px;object-fit:cover;width:390px;height:auto"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"center","width":"60%"} -->
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis:60%"><!-- wp:heading -->
+<h2 class="wp-block-heading">WIN A PAIR of Purple Trek and an Ice Stud Kit for Under the Tree!</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"spacing":{"margin":{"bottom":"27px"}}}} -->
+<p style="margin-bottom:27px">Does your horse LOVE Winter? Share your best photo of your horse (booted or not) loving the wild Winter weather in the <a href="https://www.facebook.com/CavalloHoofboots/videos/2337888329900416/?__cft__[0]=AZUx68UsMsT-qTEuaU_KGHboRTUyj-QumavggA2H-zF-vu9b-Zjx6WbZKp8vdcUBn9P0JODzv9lg68ZTmTVCbSOp_WSh0wngeFqJ9Li5FPRvVjAamIpwovlyvauHu0OtSQN77uh4156uayOd3bERmHeayde2Nmxl_TRzz16GHBi4exLQ9Bfw9d2Ow7opZ44QORabk18p_09DAZ8UmE0G1iE-&amp;__tn__=%2CO%2CP-R"><strong><span style="text-decoration: underline;">comments of this Facebook post</span></strong></a>. We’re looking for pure joy here!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Our trusty Cavallo Team will make a silent vote for their favourite photo, and we’ll send the lucky winning horse a FREE pair of Cavallo Trek Hoof Boots, PLUS a FREE Cavallo Stud kit!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":202617,"sizeSlug":"full","linkDestination":"none","align":"center"} -->
+<figure class="wp-block-image aligncenter size-full"><img src="http://cavallo.local/wp-content/uploads/2025/04/Cavallo-Winter-Stud-Kit-vertical-transparent-background.png" alt="" class="wp-image-202617"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"var:preset|spacing|xl","bottom":"var:preset|spacing|xl"},"margin":{"top":"0","bottom":"0"}}},"backgroundColor":"white","layout":{"type":"constrained","contentSize":""}} -->
+<div class="wp-block-group alignfull has-white-background-color has-background" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--xl);padding-bottom:var(--wp--preset--spacing--xl)"><!-- wp:columns {"style":{"spacing":{"padding":{"top":"0","bottom":"0"}}}} -->
+<div class="wp-block-columns" style="padding-top:0;padding-bottom:0"><!-- wp:column {"verticalAlignment":"top","width":"44.48%"} -->
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis:44.48%"><!-- wp:heading -->
+<h2 class="wp-block-heading">Operation Air Drop: Hurricane Milton Horse Relief</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Cavallo recently announced the donation of 1,000 pairs of boots, equivalent to over $150,000, to horse rescues, therapy initiatives, disasters, and abandoned victims.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>This act of generosity is a testament to our commitment to helping horses and their people. We seek new ways to assist those in need, ensuring our commitment to well-being is unwavering.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"left"} -->
+<p class="has-text-align-left">And this is me at the warehouse helping to pack up the order to help relieve the equines affected by Hurricane Milton!</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"top","width":"","style":{"spacing":{"padding":{"right":"0","left":"0","top":"0","bottom":"0"}}},"layout":{"type":"constrained","contentSize":"585px","justifyContent":"right","wideSize":""}} -->
+<div class="wp-block-column is-vertically-aligned-top" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:image {"id":202619,"scale":"cover","sizeSlug":"full","linkDestination":"none","style":{"color":{"duotone":"unset"},"border":{"width":"0px","style":"none","radius":"10px"}}} -->
+<figure class="wp-block-image size-full has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2025/04/Carole-at-Rugosa-warehouse-packing-hurricane-Milton-donation.jpg" alt="Carole Herder at Rugosa warehouse packing hurricane Milton donation" class="wp-image-202619" style="border-style:none;border-width:0px;border-radius:10px;object-fit:cover"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|xxl","bottom":"var:preset|spacing|xxl"},"margin":{"top":"0","bottom":"0"}}},"backgroundColor":"light-red-1","layout":{"type":"constrained","contentSize":""}} -->
+<div class="wp-block-group has-light-red-1-background-color has-background" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--xxl);padding-bottom:var(--wp--preset--spacing--xxl)"><!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column {"verticalAlignment":"top","width":"","style":{"spacing":{"padding":{"right":"0","left":"0","top":"0","bottom":"0"}}},"layout":{"type":"constrained","contentSize":"585px","justifyContent":"left","wideSize":""}} -->
+<div class="wp-block-column is-vertically-aligned-top" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:image {"id":203259,"width":"453px","sizeSlug":"full","linkDestination":"none","style":{"color":{"duotone":"unset"},"border":{"width":"0px","style":"none","radius":"10px"}}} -->
+<figure class="wp-block-image size-full is-resized has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2024/11/Heidi-Power-of-the-Pony.jpg" alt="Power of the Pony - new book by Heidi and Savannah Melocco" class="wp-image-203259" style="border-style:none;border-width:0px;border-radius:10px;width:453px"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"top","width":"55%"} -->
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis:55%"><!-- wp:heading -->
+<h2 class="wp-block-heading">Mother and Daughter Write a Book Together</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Long-time friend of Cavallo, Heidi Nyland Melocco, and her lovely daughter Savannah just wrote and released a book together!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Make every horse-loving kiddo on your Christmas shopping list happy with their new children’s book, Power of the Pony (for ages 3 to 9).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Heidi and Savannah are pleased to present this photographic tour of ‘all things pony’: the barn, arena, and show grounds. Young readers will discover what it’s like to have a pony at home! The book covers feed and care, grooming, riding practice, and gaining confidence for a horse show. Plus, the story points out how ponies and horses teach important character-building skills like persistence, connection and sharing.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>This book makes a beautiful keepsake that can be shared with any young horse lover. Order now to get your copies wrapped under the tree in time!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>For a limited time, get 25% OFF with coupon code: PonyPowersLaunch</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>(Note that the code is case-sensitive)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"}} -->
+<div class="wp-block-buttons"><!-- wp:button {"textColor":"red","className":"is-style-fill c-button\u002d\u002dsimple","style":{"elements":{"link":{"color":{"text":"var:preset|color|red"}}},"spacing":{"padding":{"left":"0","right":"0","top":"0","bottom":"0"}},"color":{"background":"#ffffff00"}}} -->
+<div class="wp-block-button is-style-fill c-button--simple"><a class="wp-block-button__link has-red-color has-text-color has-background has-link-color wp-element-button" href="https://www.whole-picture.com/ponypowers" style="background-color:#ffffff00;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0" target="_blank" rel="noreferrer noopener">Get Power of the Pony &gt;&gt;<svg xmlns="http://www.w3.org/2000/svg" width="16" height="17">    <path d="m9.356 3.644 4.5 4.5a.512.512 0 0 1 0 .712l-4.5 4.5a.507.507 0 0 1-.712-.712L12.294 9H2.5a.5.5 0 1 1 0-1h9.794l-3.65-3.644a.506.506 0 0 1 .712-.712Z"></path></svg><br></a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"var:preset|spacing|xl","bottom":"var:preset|spacing|xl"},"margin":{"top":"0","bottom":"0"}}},"backgroundColor":"white","layout":{"type":"constrained","contentSize":""}} -->
+<div class="wp-block-group alignfull has-white-background-color has-background" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--xl);padding-bottom:var(--wp--preset--spacing--xl)"><!-- wp:columns {"style":{"spacing":{"padding":{"top":"0","bottom":"0"}}}} -->
+<div class="wp-block-columns" style="padding-top:0;padding-bottom:0"><!-- wp:column {"verticalAlignment":"top","width":"44.48%"} -->
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis:44.48%"><!-- wp:heading -->
+<h2 class="wp-block-heading">Calling All Horse Owners!</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"fontSize":"large"} -->
+<p class="has-large-font-size">Anna and Zoltan of GoBarefootHorse are passionate barefoot advocates in the Republic of Cyprus. To better serve the barefoot horse community, they are hoping for YOUR input:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>“<em>Dear Friends</em>,</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><em>We kindly request that you take a moment to complete our online survey, which consists of just 9 questions. Your feedback will help us better understand your interests, enabling us to create more engaging and relevant content for you</em>.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><em>Thank you for your participation!”</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"left"} -->
+<p class="has-text-align-left">Best regards,<br>Anna &amp; Zoltan Deli</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"left"} -->
+<p class="has-text-align-left"></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"}} -->
+<div class="wp-block-buttons"><!-- wp:button {"textColor":"red","className":"is-style-fill c-button\u002d\u002dsimple","style":{"elements":{"link":{"color":{"text":"var:preset|color|red"}}},"spacing":{"padding":{"left":"0","right":"0","top":"0","bottom":"0"}},"color":{"background":"#ffffff00"}}} -->
+<div class="wp-block-button is-style-fill c-button--simple"><a class="wp-block-button__link has-red-color has-text-color has-background has-link-color wp-element-button" href="https://gobarefoothorse.com/poll-survay/" style="background-color:#ffffff00;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0" target="_blank" rel="noreferrer noopener">Take Survey Now &gt;&gt;<svg xmlns="http://www.w3.org/2000/svg" width="16" height="17">    <path d="m9.356 3.644 4.5 4.5a.512.512 0 0 1 0 .712l-4.5 4.5a.507.507 0 0 1-.712-.712L12.294 9H2.5a.5.5 0 1 1 0-1h9.794l-3.65-3.644a.506.506 0 0 1 .712-.712Z"></path></svg><br></a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"top","width":"","style":{"spacing":{"padding":{"right":"0","left":"0","top":"0","bottom":"0"}}},"layout":{"type":"constrained","contentSize":"585px","justifyContent":"right","wideSize":""}} -->
+<div class="wp-block-column is-vertically-aligned-top" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:image {"id":202621,"scale":"cover","sizeSlug":"full","linkDestination":"none","style":{"color":{"duotone":"unset"},"border":{"width":"0px","style":"none","radius":"10px"}}} -->
+<figure class="wp-block-image size-full has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2025/04/survey.jpg" alt="" class="wp-image-202621" style="border-style:none;border-width:0px;border-radius:10px;object-fit:cover"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|xxl","bottom":"var:preset|spacing|xxl"},"margin":{"top":"0","bottom":"0"}}},"backgroundColor":"light-red-1","layout":{"type":"constrained","contentSize":""}} -->
+<div class="wp-block-group has-light-red-1-background-color has-background" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--xxl);padding-bottom:var(--wp--preset--spacing--xxl)"><!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column {"verticalAlignment":"top","width":"","style":{"spacing":{"padding":{"right":"0","left":"0","top":"0","bottom":"0"}}},"layout":{"type":"constrained","contentSize":"585px","justifyContent":"left","wideSize":""}} -->
+<div class="wp-block-column is-vertically-aligned-top" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:embed {"url":"https://youtu.be/4emVHwI7H_k","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://youtu.be/4emVHwI7H_k
+</div></figure>
+<!-- /wp:embed --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"top","width":"44.48%"} -->
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis:44.48%"><!-- wp:heading -->
+<h2 class="wp-block-heading">Cavallo Hoof Boots Help 'Big-Booty Judy"!</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"fontSize":"large"} -->
+<p class="has-large-font-size">⚠️ Equine Arthritis: BEFORE… And AFTER!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Cavallo Hoof Boots can give dramatic relief to horses with arthritis. Just ask “Big-Booty-Judy” from Believe Ranch and Rescue in Santa Ynez, California.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><em>“Judy is one of Believe Ranch &amp; Rescue’s 317 rescue horses saved from abuse, neglect, and slaughter! She worked her whole life as a lesson horse and was discarded when she could no longer work. She will live the rest of her life retired and free at Believe.</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><em>Unfortunately, she has terrible arthritis and very small feet for her little body. These factors have caused Judy extreme pain while walking! Bek and Siri knew they needed a solution, so they purchased some Cavallos and popped them on Judy. What a difference!</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><em>The transformation in just a few short moments was incredible. Watch for yourself and rejoice for Judy’s new-found comfort!”</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>-Bek &amp; Siri, Believe Rach &amp; Rescue</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"var:preset|spacing|xl","bottom":"var:preset|spacing|xl"},"margin":{"top":"0","bottom":"0"}}},"backgroundColor":"white","layout":{"type":"constrained","contentSize":""}} -->
+<div class="wp-block-group alignfull has-white-background-color has-background" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--xl);padding-bottom:var(--wp--preset--spacing--xl)"><!-- wp:columns {"style":{"spacing":{"padding":{"top":"0","bottom":"0"}}}} -->
+<div class="wp-block-columns" style="padding-top:0;padding-bottom:0"><!-- wp:column {"verticalAlignment":"top","width":"44.48%"} -->
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis:44.48%"><!-- wp:heading -->
+<h2 class="wp-block-heading">Football Mascot Shows Off Fashionable Footwear!</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"fontSize":"large"} -->
+<p class="has-large-font-size"><em>“We have recently (after a winning raffle) become sponsors of a youth football team. The team came for a photo with their new mascot, our little Welsh pony, Cracker. Cracker just happened to be wearing his Cavallo boots at the time, so I thought I would share the pics. He’s had these boots for a couple of years now, and they’re still superb!”</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"left"} -->
+<p class="has-text-align-left">-Jo Bailey of Cheshire Equine Track Livery</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"top","width":"","style":{"spacing":{"padding":{"right":"0","left":"0","top":"0","bottom":"0"}}},"layout":{"type":"constrained","contentSize":"585px","justifyContent":"right","wideSize":""}} -->
+<div class="wp-block-column is-vertically-aligned-top" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:image {"id":202622,"scale":"cover","sizeSlug":"full","linkDestination":"none","style":{"color":{"duotone":"unset"},"border":{"width":"0px","style":"none","radius":"10px"}}} -->
+<figure class="wp-block-image size-full has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2025/04/Fell-Pony-in-Sport-Boots-Cheshire-Equine-Track-Livery.jpg" alt="" class="wp-image-202622" style="border-style:none;border-width:0px;border-radius:10px;object-fit:cover"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|xxl","bottom":"var:preset|spacing|xxl"},"margin":{"top":"0","bottom":"0"}}},"backgroundColor":"light-red-1","layout":{"type":"constrained","contentSize":""}} -->
+<div class="wp-block-group has-light-red-1-background-color has-background" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--xxl);padding-bottom:var(--wp--preset--spacing--xxl)"><!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column {"verticalAlignment":"top","width":"","style":{"spacing":{"padding":{"right":"0","left":"0","top":"0","bottom":"0"}}},"layout":{"type":"constrained","contentSize":"585px","justifyContent":"left","wideSize":""}} -->
+<div class="wp-block-column is-vertically-aligned-top" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:image {"id":202623,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="http://cavallo.local/wp-content/uploads/2025/04/CHr-904x1024.jpg" alt="" class="wp-image-202623"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"top","width":"44.48%"} -->
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis:44.48%"><!-- wp:heading -->
+<h2 class="wp-block-heading">Time for a Poem: 'A Cavallo Christmas'</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>‘Twas the night before Christmas, and under the sky,</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>In stables all peaceful, the horses did lie.<br>They snuggled in straw, with dreams full of cheer,<br>Of Cavallo Hoof Boots they’d soon hold dear.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The mare, with her coat of a silvery grey,<br>Imagined the boots in the most charming way.<br>How snug they would fit, she thought with a grin,<br>To dance through the snow, with no ice ‘neath my skin!”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The stallion, all regal, with mane flowing free,<br>Dreamed of those boots, sturdy as can be.<br>Through fields I shall gallop, with comfort and grace,<br>No rocks to cause bruises, no mud to disgrace.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The colts, full of wonder, with eyes big and bright,<br>Pictured the boots in the soft moonlight.<br>They’ll keep us so comfy, said one with delight,<br>Bling will make our hooves twinkle in the cold winter night!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>As the clock struck the hour, the snowflakes did fall,<br>And magic was stirring in the barn’s wooden hall.<br>By the manger, a whisper — a jingle, a cheer —<br>It was Christmas, and now their Cavallos were here!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Each horse stood in awe as they opened their eyes,<br>To find Cavallo Boots, their delightful surprise!<br>They gleamed and they glittered and fit hooves just right,<br>Their dreams had come true on this cold winter night.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Out of every stable, from dawn’s early light,<br>The horses trotted proudly, their hearts full of might.<br>With Cavallos and studs, they’d race through the snow,<br>A Christmas to remember, with comfort aglow.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>So here’s to the horses, both gentle and strong,<br>May their Christmas be merry, and their journeys be long.<br>With Hoof Boots to carry them through winter’s embrace,<br>They’ll gallop and prance with a smile on their face!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>-Your Cavallo Team</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"textAlign":"center"} -->
+<h2 class="wp-block-heading has-text-align-center">Did you love this Cavallo Newsletter and wish to read more?</h2>
+<!-- /wp:heading -->
+
+<!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"}} -->
+<div class="wp-block-buttons"><!-- wp:button {"textColor":"red","className":"is-style-fill c-button\u002d\u002dsimple","style":{"elements":{"link":{"color":{"text":"var:preset|color|red"}}},"spacing":{"padding":{"left":"0","right":"0","top":"0","bottom":"0"}},"color":{"background":"#ffffff00"}}} -->
+<div class="wp-block-button is-style-fill c-button--simple"><a class="wp-block-button__link has-red-color has-text-color has-background has-link-color wp-element-button" href="http://cavallo.local/category/your-cavallo-news-celebrating-the-dynamic-lives-of-your-cavallo-community/" style="background-color:#ffffff00;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0" target="_blank" rel="noreferrer noopener">Get More Cavallo News<svg xmlns="http://www.w3.org/2000/svg" width="16" height="17">    <path d="m9.356 3.644 4.5 4.5a.512.512 0 0 1 0 .712l-4.5 4.5a.507.507 0 0 1-.712-.712L12.294 9H2.5a.5.5 0 1 1 0-1h9.794l-3.65-3.644a.506.506 0 0 1 .712-.712Z"></path></svg><br></a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"textAlign":"center"} -->
+<h2 class="wp-block-heading has-text-align-center">Cavallo Video Highlights:</h2>
+<!-- /wp:heading -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:embed {"url":"https://www.youtube.com/watch?v=nrQnSlTRBpY","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://www.youtube.com/watch?v=nrQnSlTRBpY
+</div></figure>
+<!-- /wp:embed -->
+
+<!-- wp:paragraph -->
+<p>Epic Gravel Ride!</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:embed {"url":"https://www.youtube.com/watch?v=jvHnQ3lxMe4","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://www.youtube.com/watch?v=jvHnQ3lxMe4
+</div></figure>
+<!-- /wp:embed -->
+
+<!-- wp:paragraph -->
+<p>Emma &amp; Pink CLB!</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:embed {"url":"https://www.youtube.com/watch?v=gZ4OaG8lRlQ","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://www.youtube.com/watch?v=gZ4OaG8lRlQ
+</div></figure>
+<!-- /wp:embed -->
+
+<!-- wp:paragraph -->
+<p>Carole &amp; Chris Cox</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:embed {"url":"https://www.youtube.com/watch?v=5R881ZhjDwA","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://www.youtube.com/watch?v=5R881ZhjDwA
+</div></figure>
+<!-- /wp:embed -->
+
+<!-- wp:paragraph -->
+<p>Break in Your Boots!</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column {"width":"66.66%"} -->
+<div class="wp-block-column" style="flex-basis:66.66%"><!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Wishing you many happy trails</h3>
+<!-- /wp:heading -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"id":4076,"sizeSlug":"full","linkDestination":"none","align":"left"} -->
+<figure class="wp-block-image alignleft size-full"><img src="http://cavallo.local/wp-content/uploads/2024/10/5381858031fd2babec50665b30807366.png" alt="Carole Herder signature - Cavallo Hoof Boots" class="wp-image-4076"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"0","bottom":"0"}}},"fontSize":"large"} -->
+<p class="has-large-font-size" style="margin-top:0;margin-bottom:0">Carole Herder</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"spacing":{"padding":{"right":"0","left":"0"}}}} -->
+<p style="padding-right:0;padding-left:0">President and founder of Cavallo Horse &amp; Rider Inc</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Carole Herder, President and founder of Cavallo Horse &amp; Rider Inc., is an internationally acclaimed figure in the equestrian community. Her books, There Are No Horseshoes in Heaven and Hoof Prints on the Journey, have become international bestsellers, further solidifying her status as a thought leader in the industry.&nbsp;Since 1993, Carole has been deeply involved in horse health. Cavallo is a global leader in developing, manufacturing, and distributing horse products. Carole’s passion for horse comfort is evident in her designs, including the innovative Cavallo Hoof Boots and Total Comfort System Saddle Pads.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>A true pioneer in the equestrian community, Carole is widely recognized for her expertise and contributions. She champions the benefits of keeping horses in their natural state, advocates for overall hoof health, and works towards the alleviation of debilitating disorders. Her achievements include being an honoured award recipient of the Royal Bank of Canada Woman Entrepreneur of the Year, British Columbia’s Businesswoman of The Year, and North America Enterprising Woman of The Year.&nbsp;<br>Carole is a certified Dr. Deepak Chopra Yoga, Meditation and Ayurvedic Lifestyle Instructor and a proud member of the Women Presidents Organization, supporting female entrepreneurs in every industry.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":"33.33%"} -->
+<div class="wp-block-column" style="flex-basis:33.33%"><!-- wp:image {"id":4084,"sizeSlug":"full","linkDestination":"none","style":{"border":{"radius":"10px"}}} -->
+<figure class="wp-block-image size-full has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2024/10/carole-herder.jpg" alt="Carole Herder signature - Cavallo Hoof Boots" class="wp-image-4084" style="border-radius:10px"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":4085,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="http://cavallo.local/wp-content/uploads/2024/10/carole-books.jpg" alt="" class="wp-image-4085"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->

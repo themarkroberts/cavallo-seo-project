@@ -1,0 +1,23 @@
+<!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="http://cavallo.local/wp-content/uploads/2024/09/Ting.jpg" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>By Carole Herder</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>I spoke recently about how to get x-ray vision for your horse’s hooves, or rather how you can judge the quality of the hoof by looking at the outside and underside of it.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Another great way to help the feet, and possibly other areas of the body, are Ting points. These are acupressure points along the coronary band of the hooves and relate to the start or end of an organ meridian. The meridian system is a traditional Chinese Medicine belief relating to pathways throughout the body in which energy, or qi, flow. Sound airy-fairy? Trust me, it’s not. Equine acupressure and equine acupuncture are becoming more and more popular and anyway, a 2,000 year old medical system, which is still being used right across the globe, can’t be that wrong!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The Ting points can be used for diagnosis or healing. So, depending on whether the point is pitted or swollen, the issue may be chronic or acute. You can stimulate these points through acupressure, acupuncture, the burning of herbs, laser or even essential oils, thus having a safe, non-invasive and natural way to help your horse. By balancing the meridians and restoring the energy flow, you can have an immense effect on certain conditions. And they are not only useful for presenting conditions, but also for general health maintenance.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Take a look here for more info: <a href="http://www.acetherapy.ca/Articles/EST0906.pdf" target="_blank" rel="noopener">http://www.acetherapy.ca/Articles/EST0906.pdf</a> and don’t forget, always get a professional opinion if you are unsure about anything.</p>
+<!-- /wp:paragraph -->

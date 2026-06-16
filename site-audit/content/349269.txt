@@ -1,0 +1,173 @@
+<!-- wp:image {"id":348738,"sizeSlug":"full","linkDestination":"none","align":"wide","style":{"spacing":{"margin":{"right":"0","left":"0"}}},"UAGHideMob":true,"UAGResponsiveConditions":true} -->
+<figure class="wp-block-image alignwide size-full uag-hide-mob" style="margin-right:0;margin-left:0"><img src="http://cavallo.local/wp-content/uploads/2026/04/DRAFT-Desktop-Your-Cavallo-Journal-April-2026-Newsletter-header-image-3.jpg" alt="Desktop - Founder's Insights Your Cavallo Journal April 2026 Newsletter header image." class="wp-image-348738"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":348736,"sizeSlug":"full","linkDestination":"none","align":"center","UAGHideDesktop":true,"UAGHideTab":true,"UAGResponsiveConditions":true} -->
+<figure class="wp-block-image aligncenter size-full uag-hide-desktop uag-hide-tab"><img src="http://cavallo.local/wp-content/uploads/2026/04/DRAFT-Your-Cavallo-Journal-April-2026-Newsletter-header-image.jpg" alt="Mobile version - Your Cavallo Journal Newsletter header image - Founder's Insights" class="wp-image-348736"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:spacer {"height":"23px"} -->
+<div style="height:23px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:heading {"style":{"elements":{"link":{"color":{"text":"var:preset|color|primary"}}},"typography":{"textAlign":"center"}},"textColor":"primary"} -->
+<h2 class="wp-block-heading has-text-align-center has-primary-color has-text-color has-link-color">The Cavallo "Keeping it Reel" Challenge! ?</h2>
+<!-- /wp:heading --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|lg","bottom":"var:preset|spacing|xl","right":"var:preset|spacing|xs","left":"var:preset|spacing|xs"}}},"backgroundColor":"light-red-1","layout":{"type":"constrained"}} -->
+<div class="wp-block-group has-light-red-1-background-color has-background" style="padding-top:var(--wp--preset--spacing--lg);padding-right:var(--wp--preset--spacing--xs);padding-bottom:var(--wp--preset--spacing--xl);padding-left:var(--wp--preset--spacing--xs)"><!-- wp:paragraph -->
+<p>Carole recently handed a few members of the Cavallo team a folder full of fantastic Cavallo video clips and one creative mission: to each turn the clips into a reel that’s fun, fresh, and impossible not to watch! The catch? Everyone received the exact same footage — but each person had to bring their own personality, humour, and style to the edit. The result is three wildly different videos that perfectly capture the heart of Cavallo! Because at the end of the day, Cavallo isn’t just about hoof boots. It’s about the people, the horses, and the joy we all share along the ride. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Now it’s your turn to join in! ? Watch all three “Keeping It Reel” challenge videos and cast your vote for your favourite creation by clicking the button below! We’ll reveal the winning reel — and the crowned Cavallo video champion — in our next newsletter! Enjoy!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:spacer {"height":"20px"} -->
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading {"level":4,"style":{"elements":{"link":{"color":{"text":"var:preset|color|primary"}}},"typography":{"textAlign":"center"}},"textColor":"primary"} -->
+<h4 class="wp-block-heading has-text-align-center has-primary-color has-text-color has-link-color"><strong>Rachel's Video:</strong> What do these horses have in common?</h4>
+<!-- /wp:heading -->
+
+<!-- wp:spacer {"height":"10px"} -->
+<div style="height:10px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:embed {"url":"https://www.youtube.com/shorts/0AVm41wgi-c?feature=share","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-9-16 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-9-16 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://www.youtube.com/shorts/0AVm41wgi-c?feature=share
+</div></figure>
+<!-- /wp:embed --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading {"level":4,"style":{"elements":{"link":{"color":{"text":"var:preset|color|primary"}}},"typography":{"textAlign":"center"}},"textColor":"primary"} -->
+<h4 class="wp-block-heading has-text-align-center has-primary-color has-text-color has-link-color"><strong>Jenny's Video: </strong><br>What's black and white and wears Cavallos?</h4>
+<!-- /wp:heading -->
+
+<!-- wp:spacer {"height":"10px"} -->
+<div style="height:10px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:embed {"url":"https://youtube.com/shorts/wsy0Sf9q86M?feature=share","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-9-16 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-9-16 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://youtube.com/shorts/wsy0Sf9q86M?feature=share
+</div></figure>
+<!-- /wp:embed --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading {"level":4,"style":{"elements":{"link":{"color":{"text":"var:preset|color|primary"}}},"typography":{"textAlign":"center"}},"textColor":"primary"} -->
+<h4 class="wp-block-heading has-text-align-center has-primary-color has-text-color has-link-color"><strong>Maren's Video:</strong> Come along for an action-packed ride with us!</h4>
+<!-- /wp:heading -->
+
+<!-- wp:spacer {"height":"10px"} -->
+<div style="height:10px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:embed {"url":"https://youtube.com/shorts/JmaRXKu4Yg0?feature=share","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-9-16 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-9-16 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://youtube.com/shorts/JmaRXKu4Yg0?feature=share
+</div></figure>
+<!-- /wp:embed --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|md","padding":{"top":"0","bottom":"0"}}},"backgroundColor":"light-red-1","layout":{"type":"constrained","justifyContent":"center"}} -->
+<div class="wp-block-group has-light-red-1-background-color has-background" style="padding-top:0;padding-bottom:0"><!-- wp:heading {"level":3,"style":{"elements":{"link":{"color":{"text":"var:preset|color|primary"}}},"typography":{"fontSize":"28px","textAlign":"center"}},"textColor":"primary"} -->
+<h3 class="wp-block-heading has-text-align-center has-primary-color has-text-color has-link-color" style="font-size:28px"><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-dark-red-color">After watching all three, click here to vote for your favourite:</mark></h3>
+<!-- /wp:heading -->
+
+<!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"}} -->
+<div class="wp-block-buttons"><!-- wp:button {"backgroundColor":"red","style":{"border":{"radius":"50px"}}} -->
+<div class="wp-block-button"><a class="wp-block-button__link has-red-background-color has-background wp-element-button" href="https://docs.google.com/forms/d/e/1FAIpQLSdG-_gVLbFUDrZWzhG4_Vfdr40_RiohmBkxrtIfa7DfXGV5Kw/viewform" style="border-radius:50px" target="_blank" rel="noreferrer noopener">Which one is your pick?</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"right":"var:preset|spacing|xs","left":"var:preset|spacing|xs"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group" style="padding-right:var(--wp--preset--spacing--xs);padding-left:var(--wp--preset--spacing--xs)"><!-- wp:heading {"style":{"elements":{"link":{"color":{"text":"var:preset|color|primary"}}},"typography":{"textAlign":"center"}},"textColor":"primary"} -->
+<h2 class="wp-block-heading has-text-align-center has-primary-color has-text-color has-link-color">Cavallo Case Study: </h2>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"style":{"typography":{"textAlign":"center"}}} -->
+<h2 class="wp-block-heading has-text-align-center">Returning a Senior Pony to Comfort and Work After Laminitis</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>If you’ve ever watched a beloved horse or pony struggle to walk comfortably and felt the heartbreak of seeing them stiff, sore, or reluctant to move… Or if you’ve worried about what the future holds for an aging horse dealing with Laminitis - this story will speak directly to you.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Laminitis can feel overwhelming. The pain, the setbacks, the constant management, and the fear that your horse may never fully return to comfort or activity again can leave you feeling helpless. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>In this inspiring case study, you’ll meet Knight — a 22-year-old pony with a long history of Laminitis who faced one of his toughest episodes yet. Discover how a thoughtful recovery plan, dedicated owners, and the right hoof support helped him regain comfort, mobility, and even return to doing the work he loves!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4,"style":{"typography":{"textAlign":"center"}}} -->
+<h4 class="wp-block-heading has-text-align-center">Use blue side arrows or dots to advance Knight's story slides below:</h4>
+<!-- /wp:heading -->
+
+<!-- wp:bicb/carousel {"layout":"default","carousels":[{"image":{"id":349802,"url":"http://cavallo.local/wp-content/uploads/2026/05/Cavallo-Case-Study-Senior-Pony-After-Laminitis-1.jpg","alt":"Cavallo Hoof Boots Case Study Senior Pony After Laminitis 1","title":"Cavallo Hoof Boots Case Study Senior Pony After Laminitis 1","caption":""},"action":"none","link":"","caption":"LightCrimson"},{"image":{"id":349803,"url":"http://cavallo.local/wp-content/uploads/2026/05/Cavallo-Case-Study-Senior-Pony-After-Laminitis-2.jpg","alt":"Cavallo Hoof Boots Case Study Senior Pony After Laminitis 2","title":"Cavallo Hoof Boots Case Study Senior Pony After Laminitis 2","caption":""},"action":"none","link":"","caption":"Green (Crayola)"},{"image":{"id":349804,"url":"http://cavallo.local/wp-content/uploads/2026/05/Cavallo-Case-Study-Senior-Pony-After-Laminitis-3.jpg","alt":"Cavallo Hoof Boots Case Study Senior Pony After Laminitis 3","title":"Cavallo Hoof Boots Case Study Senior Pony After Laminitis 3","caption":""},"action":"none","link":"","caption":"Azure"},{"image":{"id":349806,"url":"http://cavallo.local/wp-content/uploads/2026/05/Cavallo-Case-Study-Senior-Pony-After-Laminitis-4.jpg","alt":"Cavallo Hoof Boots Case Study Senior Pony After Laminitis 4","title":"Cavallo Hoof Boots Case Study Senior Pony After Laminitis 4","caption":""},"action":"none","link":"","caption":"Deep Saffron"},{"image":{"id":349807,"url":"http://cavallo.local/wp-content/uploads/2026/05/Cavallo-Case-Study-Senior-Pony-After-Laminitis-5.jpg","alt":"Cavallo Hoof Boots Case Study Senior Pony After Laminitis 5","title":"Cavallo Hoof Boots Case Study Senior Pony After Laminitis 5","caption":""},"action":"none","link":"","caption":"Maximum Blue Purple"},{"image":{"id":349808,"url":"http://cavallo.local/wp-content/uploads/2026/05/Cavallo-Case-Study-Senior-Pony-After-Laminitis-6.jpg","alt":"Cavallo Hoof Boots Case Study Senior Pony After Laminitis 6","title":"Cavallo Hoof Boots Case Study Senior Pony After Laminitis 6","caption":""},"action":"none","link":"","caption":"Maximum Blue Purple"}],"carouselOptions":{"columns":{"desktop":3,"tablet":2,"mobile":1},"columnGap":30,"rows":{"desktop":3},"rowGap":5,"rowHeights":["200px","240px","180px"],"isLoop":false,"allowTouchMove":false,"speed":2.4,"scrollSpeed":40,"autoplayOptions":{"enabled":false,"delay":1.5,"disableOnInteraction":false,"reverseDirection":false,"pauseOnMouseEnter":false,"stopOnLastSlide":false},"freeMode":{"enabled":false,"sticky":false},"effect":"slide","mousewheel":{"enabled":false},"pagination":{"inTablet":true,"inMobile":true,"clickable":true,"dynamicBullets":false,"border":[]},"navigation":{"inTablet":true,"inMobile":true}},"padding":{"vertical":"20px","horizontal":"8px"},"pageSize":"30px","pageColor":"rgba(19, 97, 242, 1)","prevNextSize":"50px","prevNextColor":"rgba(19, 97, 242, 1)"} /-->
+
+<!-- wp:paragraph -->
+<p>Knight’s journey proves that Laminitis doesn’t have to mean the end of comfort or activity - even for an older equine. With the right care and support, recovery is possible — and his Cavallo Hoof Boots played a vital role in helping him stay comfortable, mobile, and protected every step of the way. Because when horses can move comfortably, healing can truly begin!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:spacer {"height":"36px"} -->
+<div style="height:36px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:separator {"className":"is-style-wide","backgroundColor":"light-red-3"} -->
+<hr class="wp-block-separator has-text-color has-light-red-3-color has-alpha-channel-opacity has-light-red-3-background-color has-background is-style-wide"/>
+<!-- /wp:separator --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|md","bottom":"var:preset|spacing|md","left":"var:preset|spacing|xs","right":"var:preset|spacing|xs"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group" style="padding-top:var(--wp--preset--spacing--md);padding-right:var(--wp--preset--spacing--xs);padding-bottom:var(--wp--preset--spacing--md);padding-left:var(--wp--preset--spacing--xs)"><!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column {"width":"600px","style":{"spacing":{"padding":{"right":"var:preset|spacing|sm","left":"var:preset|spacing|sm"}}}} -->
+<div class="wp-block-column" style="padding-right:var(--wp--preset--spacing--sm);padding-left:var(--wp--preset--spacing--sm);flex-basis:600px"><!-- wp:heading {"level":4,"style":{"typography":{"fontStyle":"normal","fontWeight":"200"}}} -->
+<h4 class="wp-block-heading" style="font-style:normal;font-weight:200">Wishing you many happy trails,</h4>
+<!-- /wp:heading -->
+
+<!-- wp:image {"id":201670,"width":"250px","aspectRatio":"2.9719663199603765","scale":"cover","sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full is-resized"><img src="http://cavallo.local/wp-content/uploads/2025/03/Carole-Herder-signature-no-background.png" alt="" class="wp-image-201670" style="aspect-ratio:2.9719663199603765;object-fit:cover;width:250px"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"level":4,"style":{"typography":{"fontSize":"22px"}}} -->
+<h4 class="wp-block-heading" style="font-size:22px"><strong>Carole Herder</strong></h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><strong>President and Founder of Cavallo Horse &amp; Rider Inc</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><em>I’ve spent the past 20 years dedicated to one simple idea: horses deserve comfort, freedom, and a voice in how we care for them.</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><em>What began as a search for better hoof protection became Cavallo — and a global community of riders who believe in working with their horses, not against them.</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><em>I’m still learning, still listening, and still inspired every day by what horses teach us.</em></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":"600px","style":{"spacing":{"padding":{"right":"var:preset|spacing|sm","left":"var:preset|spacing|sm"}}}} -->
+<div class="wp-block-column" style="padding-right:var(--wp--preset--spacing--sm);padding-left:var(--wp--preset--spacing--sm);flex-basis:600px"><!-- wp:image {"id":348433,"width":"450px","sizeSlug":"full","linkDestination":"none","align":"center","style":{"color":{"duotone":"unset"},"border":{"width":"0px","style":"none","radius":"10px"}}} -->
+<figure class="wp-block-image aligncenter size-full is-resized has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2026/04/Carole-Herder-with-Dot-horse-President-and-founder-Cavallo-Hoof-Boots.jpg" alt="Carole Herder with Dot horse - President and founder Cavallo Hoof Boots" class="wp-image-348433" style="border-style:none;border-width:0px;border-radius:10px;width:450px"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->

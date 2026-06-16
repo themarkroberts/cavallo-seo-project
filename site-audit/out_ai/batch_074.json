@@ -1,0 +1,86 @@
+[
+  {
+    "id": "202614",
+    "content_format": "Newsletter",
+    "summary": "December 2024 Cavallo newsletter featuring customer Rachel Long's horseback marriage proposal story plus other brand news and updates.",
+    "key_components": ["Image gallery", "Video embed", "CTA button", "Table of contents/sections"],
+    "primary_cta": "Read more"
+  },
+  {
+    "id": "202644",
+    "content_format": "Team / bio",
+    "summary": "Bio of Joeal Wolfe, a Customer Experience Expert at Cavallo, covering her lifelong passion for horses and holistic care values.",
+    "key_components": [],
+    "primary_cta": "None"
+  },
+  {
+    "id": "202823",
+    "content_format": "FAQ / informational",
+    "summary": "Explains how Cavallo Hoof Boots perform in mud and water, covering their side drainage holes, cone-shaped design, and use in wet conditions.",
+    "key_components": ["Image gallery", "Video embed", "CTA button", "Table of contents/sections", "Bulleted list", "Testimonials"],
+    "primary_cta": "Shop hoof boots"
+  },
+  {
+    "id": "202864",
+    "content_format": "FAQ / informational",
+    "summary": "Explains that most Cavallo Hoof Boots are symmetrical and interchangeable between left and right hooves, with tips for marking boots to track wear.",
+    "key_components": ["Image gallery", "CTA button", "Table of contents/sections", "Bulleted list", "Testimonials"],
+    "primary_cta": "Shop hoof boots"
+  },
+  {
+    "id": "202877",
+    "content_format": "Newsletter",
+    "summary": "May 2025 Mother's Day newsletter celebrating horse moms, featuring testimonials of using Cavallo boots for rehab and recovery of injured horses.",
+    "key_components": ["Image gallery", "Video embed", "Table of contents/sections", "Testimonials"],
+    "primary_cta": "None"
+  },
+  {
+    "id": "202895",
+    "content_format": "FAQ / informational",
+    "summary": "Explains how to use Cavallo Hoof Boots on feathered horses like Gypsy Vanners, Friesians, and Shires, with tips for managing feathers during booting.",
+    "key_components": ["Image gallery", "CTA button", "Table of contents/sections", "Bulleted list", "Testimonials"],
+    "primary_cta": "Shop hoof boots"
+  },
+  {
+    "id": "202928",
+    "content_format": "Team / bio",
+    "summary": "Bio of Deanna Stoppler, a Customer Experience Expert and former farrier who transitioned to barefoot hoof care, joining Cavallo in 2025.",
+    "key_components": [],
+    "primary_cta": "None"
+  },
+  {
+    "id": "202951",
+    "content_format": "FAQ / informational",
+    "summary": "Guide to cleaning Cavallo Hoof Boots, covering everyday rinsing, deep cleaning, disinfecting, and machine-washable styles (Trek, ELB, CLB, BFB).",
+    "key_components": ["Image gallery", "Video embed", "CTA button", "Table of contents/sections", "Bulleted list", "Testimonials"],
+    "primary_cta": "Shop hoof boots"
+  },
+  {
+    "id": "203136",
+    "content_format": "Standard article (text + images)",
+    "summary": "Article arguing that horse boots are a better alternative to nailed metal horseshoes, explaining the hoof's natural shock-absorbing function.",
+    "key_components": [],
+    "primary_cta": "None"
+  },
+  {
+    "id": "203238",
+    "content_format": "Newsletter",
+    "summary": "June 2025 Cavallo newsletter featuring a Cavallo-clad mini horse in a CashApp WWE ad and Endo the Blind horse's 25th birthday at a horse expo.",
+    "key_components": ["Image gallery", "Video embed", "Table of contents/sections", "Bulleted list"],
+    "primary_cta": "None"
+  },
+  {
+    "id": "203710",
+    "content_format": "FAQ / informational",
+    "summary": "Explains what thrush is in horses and how to treat and prevent it using Cavallo Hoof Boots for protection, soaking, and keeping treatments in place.",
+    "key_components": ["Image gallery", "CTA button", "Table of contents/sections", "Bulleted list", "Testimonials"],
+    "primary_cta": "Shop hoof boots"
+  },
+  {
+    "id": "204098",
+    "content_format": "Landing / marketing page",
+    "summary": "Showcases Cavallo Hoof Boots' celebrity and media appearances, including Beyonce's NFL halftime show, Ella Langley's American Eagle ad, and the Oscars.",
+    "key_components": ["Image gallery", "Video embed", "CTA button", "Table of contents/sections"],
+    "primary_cta": "Read more"
+  }
+]

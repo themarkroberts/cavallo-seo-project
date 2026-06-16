@@ -1,0 +1,15 @@
+<!-- wp:image {"width":"418px","height":"auto","sizeSlug":"large","align":"left"} -->
+<figure class="wp-block-image alignleft size-large is-resized"><img src="http://cavallo.local/wp-content/uploads/2024/09/flinn-1024x709-e1405955653221.jpg" alt="" style="width:418px;height:auto"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>A wonderful testimonial submitted to Cavallo from Australia. Run free Flynn!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>I have had my horses barefoot for the last 10 -12 years. I have tried Old Mac boots, Cavallo and Easy Boots. Gotta say the Cavallo hoof boots are by far the easiest, most reliable and endurable boot. When I first got them I did a 240 km trail ride (over a week) with 200 riders (raising money for MS) the boots were great. Later I moved to QLD (Australia) and my Q/H suffered badly with laminitis. The ground was very rocky and he lived in those boots 24/7 ( with added high density rubber under his sole). They were a god send! Ten months later he wore them transported back to NSW. The ground here is softer so only wore them on his bad days. For 5 yrs we battled but eventually lost the fight and now my Flynn races in the wind without pain. All this was under the supervision of a barefoot farrier.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Judy, Australia</p>
+<!-- /wp:paragraph -->

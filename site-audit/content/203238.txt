@@ -1,0 +1,423 @@
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:image -->
+<figure class="wp-block-image"><img src="http://cavallo.local/wp-content/uploads/2022/02/Celebrating-Dynamic-Lives-header-2021.png" alt="Cavallo Hoof Boots Newsletter Heading" title="Cavallo Hoof Boots Newsletter Heading"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph {"align":"center","style":{"typography":{"fontSize":"21px"}}} -->
+<p class="has-text-align-center" style="font-size:21px"><strong>Enjoy Your Latest Cavallo News - Your Cavallo Monthly: Hoof-Saving Hacks, Hero Horses &amp; Behind-the-Scenes Buzz</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:spacer {"height":"48px"} -->
+<div style="height:48px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading {"textAlign":"center","style":{"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"textColor":"primary"} -->
+<h2 class="wp-block-heading has-text-align-center has-primary-color has-text-color has-link-color">How Did this Cavallo-Clad Mini End Up Hanging out with Pro Wrestlers?</h2>
+<!-- /wp:heading -->
+
+<!-- wp:spacer {"height":"19px"} -->
+<div style="height:19px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:embed {"url":"https://www.youtube.com/shorts/FCgG87gfaFI?feature=share","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-9-16 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-9-16 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://www.youtube.com/shorts/FCgG87gfaFI?feature=share
+</div></figure>
+<!-- /wp:embed --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:paragraph -->
+<p>If you were wondering how Cavallo CLB mini hoof boots ended up starring in a CashApp ad with pro WWE wrestlers Ucey Jucey and Big-E, you weren’t alone… SO WERE WE! ?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>We found out the full story from Mary Rose at Honey’s Mini Therapy Adventures:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><em>“They contacted us a few months ago and asked if we’d be interested in filming a commercial. I, of course, said yes! I explained what we do and that, at a minimum, Sprinkles the mini would need to wear his CLB boots for the set. I would forego all gear except that!</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><em>So they totally created the script, and once I read it, I said Cavallo’s is gonna be THRILLED! As you’re one of our long-term supporters, I couldn’t have imagined this script any better.</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><em>I’m so happy you loved the commercial. So great for Cavallo and tiny horses! Thanks again for all your continued support to our program. We couldn’t do what we do without Cavallo!”</em></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:spacer {"height":"42px"} -->
+<div style="height:42px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading {"textAlign":"center","style":{"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"textColor":"primary"} -->
+<h2 class="wp-block-heading has-text-align-center has-primary-color has-text-color has-link-color">No Sight, Endless Spirit: Meeting Endo the Blind Horse</h2>
+<!-- /wp:heading -->
+
+<!-- wp:spacer {"height":"10px"} -->
+<div style="height:10px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"id":208475} -->
+<figure class="wp-block-image"><img src="http://cavallo.local/wp-content/uploads/2025/06/Carole-Herder-meets-Endo-the-Blind-at-Western-States-Horse-Expo-419x452.jpg" alt="Carole Herder meets Endo the Blind at Western States Horse Expo" class="wp-image-208475"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Happy 25th birthday Endo!</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>At Western States Horse Expo, we had the incredible honor of celebrating a true equine legend—Endo the Blind.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Endo’s journey is one of fierce spirit and unbreakable trust. After losing both eyes to Equine Recurrent Uveitis (ERU), this striking Appaloosa didn’t just survive—he thrived. Thanks to the extraordinary love and dedication of his owner, Morgan Wagner, Endo learned to navigate the world in total darkness using voice commands, liberty work, and a heart full of courage.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Today, he performs complex liberty routines, trail rides, stunt work, and even competes in working equitation—without sight or lead line.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>In 2022, Endo earned his place in the Guinness World Records with three incredible feats:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>The highest free jump by a blind horse</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Most flying changes in one minute</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Fastest weaving through five poles (in just under 7 seconds!)</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>Endo reminds us all: greatness doesn’t need eyes—it needs heart.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:spacer -->
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading {"textAlign":"center","style":{"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"textColor":"primary"} -->
+<h2 class="wp-block-heading has-text-align-center has-primary-color has-text-color has-link-color">Tips from the Cavallo Hoof Care Cavalry!</h2>
+<!-- /wp:heading -->
+
+<!-- wp:spacer {"height":"18px"} -->
+<div style="height:18px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading {"textAlign":"center","level":4,"style":{"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"textColor":"primary"} -->
+<h4 class="wp-block-heading has-text-align-center has-primary-color has-text-color has-link-color">Dry, hard summer ground making your horse tender? Dealing with abscesses, white line disease, or prepping for a trim?</h4>
+<!-- /wp:heading -->
+
+<!-- wp:spacer {"height":"13px"} -->
+<div style="height:13px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:embed {"url":"https://youtu.be/CgFA5KAmy-o","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://youtu.be/CgFA5KAmy-o
+</div></figure>
+<!-- /wp:embed --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:paragraph -->
+<p><strong><em>By Cavallo Customer Experience Expert Maren</em></strong>:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Ah, summer: long days, sunshine, birds chirping… and hooves hard as rocks! While hard, dry hooves are great, sometimes you do need to soak your horse’s hooves, such as sensitivity on hard, dry ground, or when dealing with an abscess, white line disease and medicated soaks, or just softening things up before a trim (your trimmer will thank you – trust me!).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>But let’s be honest here. Soaking hooves can be a soggy disaster!!! Buckets get kicked, water goes everywhere, and somehow you end up wetter than the horse. Sound familiar? Luckily for you, your Cavallo boots can double as soaking boots with just a few, easy adjustments.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Cover the side drainage holes with duct tape (don’t forget the little slits at the back!). To hold moisture even better, you can add a small towel inside the boot soles, just where you would put your hoof boot pad. If you need to soak above the cornet band, simply slip a bread bag over the foot, pop the boot on, and fill it up. Easy, effective, and bucket-free. Your horse stays happy, and you stay dry… mostly!&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>–<em>Maren</em></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:spacer {"height":"49px"} -->
+<div style="height:49px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading {"textAlign":"center","style":{"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"textColor":"primary"} -->
+<h2 class="wp-block-heading has-text-align-center has-primary-color has-text-color has-link-color">NEW VIDEO: Measure Your Horse’s Hooves Like a Pro!</h2>
+<!-- /wp:heading -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:paragraph -->
+<p>Sizing Cavallo Hoof Boots just got easier! Our new step-by-step video shows:</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>How to measure freshly trimmed hooves</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>How to measure shod hooves</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>How to size for donkeys&nbsp;<a href="http://cavallo.local/product/leb-long-ear-hoof-boot/" target="_blank" rel="noreferrer noopener">(upcoming LEB Fall launch alert!)</a></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p><strong>Let US do the work:&nbsp;</strong>&nbsp;Use this simple process to take photos to send to your Cavallo Team.&nbsp;<a href="http://cavallo.local/ask-an-expert/" target="_blank" rel="noreferrer noopener">We offer a FREE sizing service</a>&nbsp;and will determine your perfect fit, so you don’t have to!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:embed {"url":"https://youtu.be/LjM7cHamv2U","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://youtu.be/LjM7cHamv2U
+</div></figure>
+<!-- /wp:embed -->
+
+<!-- wp:spacer {"height":"47px"} -->
+<div style="height:47px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading {"textAlign":"center","style":{"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"textColor":"primary"} -->
+<h2 class="wp-block-heading has-text-align-center has-primary-color has-text-color has-link-color">Ivy Starnes Shares: Cavallo Boots On and Off in 90 Seconds Flat!</h2>
+<!-- /wp:heading -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:embed {"url":"https://www.youtube.com/shorts/SWmMImy3F3E?feature=share","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-9-16 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-9-16 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://www.youtube.com/shorts/SWmMImy3F3E?feature=share
+</div></figure>
+<!-- /wp:embed --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:paragraph -->
+<p>Watch how easy it is! In just 90 seconds,&nbsp;<a href="https://ivyshorses.com/home/about/" target="_blank" rel="noreferrer noopener">gaited horse trainer Ivy Starnes</a>&nbsp;shows you how quick and simple it is to put on and take off her Cavallo Hoof Boots.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Ivy uses her Cavallo Trek Boots for training her gaited horses, as she’s often in gravel areas or riding in terrain that has large rocks.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>She’s even upgraded to the Purple Treks Boots—for a pop of color and to add a touch of fun to her day!</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:spacer {"height":"59px"} -->
+<div style="height:59px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading {"textAlign":"center","style":{"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"textColor":"primary"} -->
+<h2 class="wp-block-heading has-text-align-center has-primary-color has-text-color has-link-color">What YOU'RE Saying:</h2>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"textAlign":"center","level":3,"style":{"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"textColor":"primary"} -->
+<h3 class="wp-block-heading has-text-align-center has-primary-color has-text-color has-link-color">Spirit: Once Neglected, Now Loved</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><strong>From Terry Holmes-Stecyk at Tender Little Hearts Mini Tales Equine Assisted Services:&nbsp;</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><em>“Spirit lived in the backyard of a residential neighbourhood for 4 years with a donkey as his companion. The donkey passed away and Spirit lived alone for 3 years with very little care.&nbsp;</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><em>Sadly, his 83-year-old owner was having difficulty caring for him, plus an inexperienced farrier did serious damage to this sweet pony’s hooves.&nbsp;&nbsp;</em><em>One of our volunteers rescued him about 6 months ago.&nbsp; She immediately had a full vet exam and started treatment for the neglect of his dental care, his long hooves and untreated Laminitis. &nbsp;</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><em><a href="http://cavallo.local/product-category/hoof-boot/mini-hoof-boots/" target="_blank" rel="noreferrer noopener">His Cavallo CLB boots</a>&nbsp;have truly helped ease his sole tenderness. Sadly, he still has thin soles due to an inexperienced farrier who trimmed too much away from the sole, until he hit blood, about 1 year ago. The vet said Spirit was dangerously close to having his coffin bone exposed.&nbsp;</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><em>With experienced care and months of TLC, he has progressed in his healing journey. Now, with his new Cavallo Boots, Spirit can be lightly ridden to the happiness of his 12-year-old BFF, Taytum!”</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image -->
+<figure class="wp-block-image"><img src="http://cavallo.local/wp-content/uploads/2025/06/Spririt-Tender-Little-hearts-Donkey-X-ray-2.jpeg" alt="Spirit - Tender Little hearts Donkey X-ray before Cavallo CLB Hoof Boots" title="Spirit – Tender Little hearts Donkey X-ray before Cavallo CLB Hoof Boots"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"layout":{"type":"default"}} -->
+<div class="wp-block-column"><!-- wp:image {"id":208552} -->
+<figure class="wp-block-image"><img src="http://cavallo.local/wp-content/uploads/2025/06/Spirit-Tatum-Tender-Little-Hearts-mini-therapy--352x452.jpg" alt="Spirit &amp; Tatum - Tender Little Hearts mini therapy with Cavallo CLB Hoof Boots" class="wp-image-208552"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image -->
+<figure class="wp-block-image"><img src="http://cavallo.local/wp-content/uploads/2025/06/Spririt-Tender-Little-hearts-Donkey-Bling-CLB-349x452.jpg" alt="Spirit, a mini donkey in Cavallo CLB Mini Horse Hoof Boots Tender Little hearts mini therapy" title="Spirit, a mini donkey in Cavallo CLB Mini Horse Hoof Boots Tender Little hearts mini therapy"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:spacer {"height":"46px"} -->
+<div style="height:46px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading {"textAlign":"center","style":{"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"textColor":"primary"} -->
+<h2 class="wp-block-heading has-text-align-center has-primary-color has-text-color has-link-color">Can Cavallos Keep Up With Gaited Horses?</h2>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"textAlign":"center","level":3,"style":{"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"textColor":"primary"} -->
+<h3 class="wp-block-heading has-text-align-center has-primary-color has-text-color has-link-color">Absolutely. And we’ve got the proof.</h3>
+<!-- /wp:heading -->
+
+<!-- wp:spacer {"height":"30px"} -->
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:embed {"url":"https://youtu.be/RaNSwwZRRlw","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://youtu.be/RaNSwwZRRlw
+</div></figure>
+<!-- /wp:embed --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:paragraph -->
+<p>We’re often asked if Cavallo Boots can keep up with the extra motion of gaited horses. This video says it all!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Gaited Horse Trainer Ivy Starnes trusts Cavallo Trek Boots during training sessions, and her horses move fluidly, showing how well the boots stay secure and in sync with each step.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Love gaited horses and curious about gait differences? Ivy explains what makes a single foot gait as well as what gaits it’s commonly confused with.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>“The sound will still be the same: pucka, pucka, pucka, pucka.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>“Both are evenly timed gaits with no head nod, but it’s about how many feet are on the ground that determines which movement it is.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>She adds, “In my opinion, after a lot of research, the singlefoot gait is the same as the speed rack and fast ‘tölt’. It is an evenly timed movement, with no head nod. It has a moment when one foot is on the ground, and three are in the air. Which follows by two feet on the ground and two in the air, and it repeats.”</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Watch to learn more!</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:spacer {"height":"40px"} -->
+<div style="height:40px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading {"textAlign":"center","style":{"elements":{"link":{"color":{"text":"var:preset|color|primary"}}}},"textColor":"primary"} -->
+<h2 class="wp-block-heading has-text-align-center has-primary-color has-text-color has-link-color">Stolen Donkeys, Stolen Futures</h2>
+<!-- /wp:heading -->
+
+<!-- wp:spacer {"height":"57px"} -->
+<div style="height:57px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:embed {"url":"https://youtu.be/Zwjh7OzoZVQ","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://youtu.be/Zwjh7OzoZVQ
+</div></figure>
+<!-- /wp:embed --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:paragraph -->
+<p>The Donkey Sanctuary is shedding light on a heartbreaking crisis: the illegal donkey skin trade is devastating communities across Africa—especially women and children.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>At the recent Pan-African Donkey Conference in Côte d’Ivoire, leaders and advocates reinforced their commitment to banning the slaughter of donkeys. The newly released Abidjan Declaration calls for stronger enforcement and aligned legislation across the continent.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Their powerful new report, Stolen Donkeys,<em>&nbsp;Stolen Futures,</em>&nbsp;shares firsthand stories from the communities most affected. We at Cavallo applaud this important work and stand with those protecting donkeys and the people who depend on them.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Read more here at:<a href="https://www.thedonkeysanctuary.org.uk/" target="_blank" rel="noreferrer noopener"><strong>&nbsp;The Donkey Sanctuary</strong></a></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:group {"className":"reverse-orderu002du002dmobile","style":{"spacing":{"padding":{"top":"var:preset|spacing|xxl","bottom":"var:preset|spacing|xxl"},"margin":{"top":"0","bottom":"0"}}},"layout":{"type":"constrained","contentSize":"1440px"}} -->
+<div id="Pastern-Wraps-Carole-Happy-Trails" class="wp-block-group reverse-order--mobile" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--xxl);padding-bottom:var(--wp--preset--spacing--xxl)"><!-- wp:columns {"verticalAlignment":"center"} -->
+<div class="wp-block-columns are-vertically-aligned-center"><!-- wp:column {"verticalAlignment":"center","width":"57.7%"} -->
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis:57.7%"><!-- wp:heading {"level":3,"style":{"typography":{"fontStyle":"normal","fontWeight":"200"}}} -->
+<h3 class="wp-block-heading" style="font-style:normal;font-weight:200">Wishing you many happy trails</h3>
+<!-- /wp:heading -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"0","bottom":"0","left":"0","right":"0"},"margin":{"top":"47px","bottom":"0"}}},"layout":{"type":"constrained","contentSize":"227px","justifyContent":"left"}} -->
+<div class="wp-block-group" style="margin-top:47px;margin-bottom:0;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:image {"id":201670,"width":"195px","height":"auto","aspectRatio":"2.9725803151217516","sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full is-resized"><img src="http://cavallo.local/wp-content/uploads/2025/03/Carole-Herder-signature-no-background.png" alt="" class="wp-image-201670" style="aspect-ratio:2.9725803151217516;width:195px;height:auto"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:group -->
+
+<!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"0","bottom":"0","left":"0","right":"0"}}},"fontSize":"large"} -->
+<p class="has-large-font-size" style="margin-top:0;margin-right:0;margin-bottom:0;margin-left:0">Carole Herder</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"0","bottom":"0","left":"0","right":"0"}}}} -->
+<p style="margin-top:0;margin-right:0;margin-bottom:0;margin-left:0"> President and founder of Cavallo Horse &amp; Rider Inc</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"32px","bottom":"24px"}}}} -->
+<p style="margin-top:32px;margin-bottom:24px">Carole Herder, President and founder of Cavallo Horse &amp; Rider Inc., is an internationally acclaimed figure in the equestrian community. Her books, There Are No Horseshoes in Heaven and Hoof Prints on the Journey, have become international bestsellers, further solidifying her status as a thought leader in the industry.&nbsp;Since 1993, Carole has been deeply involved in horse health. Cavallo is a global leader in developing, manufacturing, and distributing horse products. Carole’s passion for horse comfort is evident in her designs, including the innovative Cavallo Hoof Boots and Total Comfort System Saddle Pads.<br><br>A true pioneer in the equestrian community, Carole is widely recognized for her expertise and contributions. She champions the benefits of keeping horses in their natural state, advocates for overall hoof health, and works towards the alleviation of debilitating disorders. Her achievements include being an honoured award recipient of the Royal Bank of Canada Woman Entrepreneur of the Year, British Columbia’s Businesswoman of The Year, and North America Enterprising Woman of The Year.&nbsp;<br>Carole is a certified Dr. Deepak Chopra Yoga, Meditation and Ayurvedic Lifestyle Instructor and a proud member of the Women Presidents Organization, supporting female entrepreneurs in every industry.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"center","width":"","style":{"spacing":{"padding":{"right":"0","left":"0","top":"0","bottom":"0"}}},"layout":{"type":"constrained","contentSize":"437px","justifyContent":"right","wideSize":""}} -->
+<div class="wp-block-column is-vertically-aligned-center" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:image {"id":201671,"scale":"cover","sizeSlug":"full","linkDestination":"none","style":{"color":{"duotone":"unset"},"border":{"width":"0px","style":"none","radius":"10px"}}} -->
+<figure class="wp-block-image size-full has-custom-border"><img src="http://cavallo.local/wp-content/uploads/2025/03/Cavallo-Hoof-Boots-President-Carole-Herder-Web-signature-image-new-site-2025-LR.jpg" alt="" class="wp-image-201671" style="border-style:none;border-width:0px;border-radius:10px;object-fit:cover"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->

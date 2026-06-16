@@ -1,0 +1,23 @@
+<!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="http://cavallo.local/wp-content/uploads/2024/09/barefoottravel.png" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>By Carole Herder</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>I came across two great places recently that actively promote barefoot in horses and where you can go riding on one of their wonderful healthy creatures.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Cypress Trails Equestrian Center, near Houston, Texas, maintains around 50 horses, all of them barefoot. The owners’ passion is endurance riding but to make a living, their horses have to work. Lucky for us! You can ride some of their beautiful Arabian, Paint, Spanish Mustang and Appaloosa horses along natural wooded trails. All levels are catered for and you can do one to three hour rides, or even a picnic ride or a day ride.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Smokey Mountain Stables in Georgia takes you on trails in the Blue Ridge Mountains on their Percherons, Belgians, Appaloosas, Paso Finos, Tennessee Walking Horses, Quarter Horses, Thoroughbreds, Arabs and Paints. (What a selection, and you thought your horse couldn’t go barefoot because of its breed!). All horses are barefoot and they traverse steep, rocky mountain trails every day. They live where they work, thus ensuring their feet are as tough as nails (no pun intended!).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Do you know anywhere else that allows public riding on their barefoot horses? Let us know so we can share the information and let everyone benefit, and learn, from these great places.</p>
+<!-- /wp:paragraph -->
