@@ -65,11 +65,19 @@
 
 ---
 
-## 4 open decisions (Mark to confirm — recommendations)
-1. **Founder** → *fold into the Laminitis spoke* (chronic laminitis; same intent; one "Laminitis & Founder" guide).
-2. **DSLD** → *leave out* (ligament disorder, off-topic for hoof authority; don't dilute the pillar).
-3. **Navicular two URLs** → *MERGE+301 `/cavallo-boots-for-navicular/` into the educational navicular spoke* (commercial one is ~1 visit).
-4. **Diet/nutrition** → *in scope as spokes only* (consolidate duplicates, link under pillar; pillar page itself targets anatomy/care).
+## 4 architecture decisions — STATUS (updated 2026-06-16)
+**3 of 4 locked.** Detail below is audit-verified and becomes the first rows of the Content Disposition Map (Step 2).
+
+1. ✅ **Founder → MERGE+301 into the Laminitis spoke** (`/your-cavallo-laminitis-healing-plan/`). Audit reality: there is NO single "Founder" page to absorb — it's a scatter of thin posts (all ~0 traffic / ~0 links):
+   - `/laminitis-navicular-and-founder/` (278w) · `/hoof-boots-save-foundered-mare/` (761w) · `/update-hoof-boots-save-foundered-mare/` (246w) · `/update-hoof-boots-save-foundered-mare-2/` (525w) · `/update-hoof-boots-save-foundered-mare-3/` (258w) · `/two-year-anniversary-in-founder-valley/` (2,014w narrative)
+   - Repurpose the "foundered mare" customer stories as social-proof blocks inside the combined "Laminitis & Founder" guide.
+   - LEAVE OUT: the 2 founder videos (already noindex) + `/newsletter/may-2-journal-founders-insights/` (FALSE POSITIVE — "founder" = company founder, not the disease).
+2. ✅ **DSLD → leave out.** Degenerative Suspensory Ligament Desmitis is a connective-tissue / ligament disease, NOT hoof-seated → off-topic; including it dilutes the pillar's topical authority. No page.
+3. ✅ **Navicular → consolidate to ONE educational spoke** (max consolidation, Mark's call). Canonical = `/is-navicular-disease-always-the-beginning-of-the-end/` (1,936w, 129 visits, already ranks "when to euthanize a horse with navicular"); add a "best boots for navicular" section + product CTA to carry commercial intent. **MERGE+301 into it:**
+   - Both commercial pages: `/cavallo-boots-for-navicular/` (983w, 1 visit) + `/faq/cavallo-hoof-boots-for-navicular/` (1,549w, 3 links)
+   - Thin posts: `/give-navicular-the-boot/` (307w) · `/kicking-naviculars-butt/` (593w) · `/navicular-seek-truth/` (671w) · `/from-navicular-to-prancing/` (128w) · `/wrestling-navicular-trust-your-gut/` (127w) · `/laminitis-navicular-and-founder/` (278w, shared with #1)
+   - KEEP SEPARATE: `/faq/cavallo-hoof-boots-for-therapy-and-rehabilitation/` (1,808w, 7 links) — only *mentions* navicular; it's a therapy/rehab page → its own Pillar 1 spoke.
+4. ⬜ **Diet / nutrition → OPEN** (recommendation, not yet confirmed): in scope as **spokes only** — consolidate duplicate nutrition posts into one canonical spoke (or two), link under Pillar 2; the pillar page itself stays on anatomy/care. NEXT: pull all diet/nutrition pages from the audit, then confirm.
 
 ---
 
@@ -79,5 +87,9 @@
 - **Local site:** front-end was broken (b-carousel-block fatal); DB is reachable via the LocalWP MySQL socket. Audit pulls from the DB directly.
 - **Vercel plugin disabled** globally (`~/.claude/settings.json`) — the irrelevant "best practices" injections are off.
 
-## ▶️ Immediate next action
-Confirm the 4 decisions above, then build the **Content Disposition Map** (Step 2) and write it into Notion.
+## ▶️ RESUME HERE — new session required (updated 2026-06-16)
+**Why a new session:** the next workstream (video transcripts) needs outbound network to `cavallo-inc.com` + YouTube/Vimeo. This environment's egress is blocked — every request 403s via the proxy (confirmed even on `youtube.com/robots.txt`, which is open to the whole internet, so it's the policy, not the sites) — and a remote environment's network policy is fixed **at creation**, so a running session can't pick up a change. **Start a fresh Claude Code web session under an open/expanded network policy.**
+
+**Two threads open — full video runbook in `site-audit/VIDEO-TRANSCRIPTS.md`:**
+1. **Video transcripts** — Mark wants to link/embed the (mostly noindex) videos from spokes. New session → (a) verify egress (`https://www.youtube.com/robots.txt` → expect 200), (b) run `python3 site-audit/fetch_video_transcripts.py` → `video_transcripts.json`, (c) build the video→spoke map + decide the **10 indexable** videos (keep-index vs noindex). If the container's datacenter IP still 403s (Cavallo WAF / YouTube), run the script locally on Mark's Mac.
+2. **Decision #4 (diet/nutrition)** — last architecture decision; pull the diet pages from the audit, confirm, then build the **Content Disposition Map** (Step 2) in Notion. Decisions #1–#3 above are locked and ready to become its first rows.
