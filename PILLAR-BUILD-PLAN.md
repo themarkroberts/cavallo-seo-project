@@ -91,9 +91,21 @@
 - **Local site:** front-end was broken (b-carousel-block fatal); DB is reachable via the LocalWP MySQL socket. Audit pulls from the DB directly.
 - **Vercel plugin disabled** globally (`~/.claude/settings.json`) — the irrelevant "best practices" injections are off.
 
-## ▶️ RESUME HERE (updated 2026-06-16)
-**All 4 architecture decisions are now locked** (see STATUS above). They are the seed rows for the Content Disposition Map.
+## ▶️ RESUME HERE (updated 2026-06-16 — handing off to LOCAL)
+**All 4 architecture decisions are locked** (see STATUS above) — they're the seed rows for the Content Disposition Map. Work continues **locally** on branch `claude/laughing-edison-14369z` (draft PR #13). **`git pull origin claude/laughing-edison-14369z` first.**
 
-**Two threads open:**
-1. **Content Disposition Map (Step 2) — actionable in-session now.** The Notion MCP is connected, so this no longer needs a special environment. Build the map in Notion (one row per URL → `pillar` · `role` · `destination URL`), seeded with the audit-verified rows from decisions #1–#4, then auto-classify the long tail from `site-audit/cavallo_page_audit.csv`. This is the keystone (Step 2) and needs no external network.
-2. **Video transcripts — still blocked here; needs a different environment.** Re-tested egress on 2026-06-16: `https://www.youtube.com/robots.txt` and `https://cavallo-inc.com/` both still return **403 via the proxy** (policy, not the sites). A remote env's network policy is fixed **at creation**, so this workstream must run in an environment created under an **open/expanded network policy** — or locally on Mark's Mac. Full runbook: `site-audit/VIDEO-TRANSCRIPTS.md`. Docs: https://code.claude.com/docs/en/claude-code-on-the-web
+### ▶️ Next action: build the Content Disposition Map (Step 2 — the keystone) in Notion
+Needs the **Notion MCP** connected; no other network required.
+
+**WHERE IT LIVES (decided 2026-06-16):** make it **ONE central database**, *not* split across the three pillar playbooks. One row per URL with exactly one role is the entire integrity mechanism — splitting by pillar breaks cross-pillar dedupe and the "every URL has exactly one destination" guarantee, and most URLs (prune/noindex tag-archives, orphans, off-topic) don't belong to any single pillar anyway.
+- **Home:** new database **"Content Disposition Map"** under the **SEO Project Portal**, alongside the existing Pillar Keyword Map (Resources & Documents).
+- **Keep the playbooks as per-pillar narrative.** Surface each pillar's slice by embedding a **filtered linked view** of the one database inside its playbook page (filter `Pillar = X`). One source of truth + per-pillar views.
+
+**Schema (one row per URL):** `URL` · `Pillar` (Boot Guide / Hoof Health / Barefoot / —) · `Role` (KEEP-CANONICAL / OPTIMIZE / KEEP-SPOKE / MERGE+301 / REWRITE / NOINDEX / PRUNE) · `Destination URL` · `Evidence / notes`.
+
+**Build order:**
+1. **Seed the ~25 audit-verified rows from decisions #1–#4** (founder/laminitis merges, navicular consolidation, DSLD = leave out, diet spoke + its merges/re-homes/prunes). These are spelled out verbatim in the STATUS section above — copy them in.
+2. **Auto-classify the long tail** from `site-audit/cavallo_page_audit.csv` (traffic, links_in, word_count, topic) and import; then Mark-review the ~30–50 judgment calls (Step 3).
+
+### Parked
+- **Video transcripts — deprioritized** (Mark: "forget the videos"). Untouched; full runbook preserved in `site-audit/VIDEO-TRANSCRIPTS.md`. Blocker unchanged: needs an environment created under a **Full/open network policy** (egress re-tested 2026-06-16 — youtube + cavallo both 403 via the default *Trusted*-policy proxy). How to set that up: Network access → **Full** when adding/editing the environment, then start a fresh session. Revisit only if linking/embedding the videos becomes a priority.
