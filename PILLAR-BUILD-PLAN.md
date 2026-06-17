@@ -91,9 +91,21 @@
 - **Local site:** front-end was broken (b-carousel-block fatal); DB is reachable via the LocalWP MySQL socket. Audit pulls from the DB directly.
 - **Vercel plugin disabled** globally (`~/.claude/settings.json`) — the irrelevant "best practices" injections are off.
 
-## ▶️ RESUME HERE (updated 2026-06-16)
-**All 4 architecture decisions are now locked** (see STATUS above). They are the seed rows for the Content Disposition Map.
+## ✅ Step 2 DONE — Content Disposition Map built (2026-06-16)
+The keystone is live in Notion. One row per URL → exactly one role = no cannibalization.
+- **Database:** [Content Disposition Map](https://app.notion.com/p/0c6d0227282049adad764f480c674679) — central, under the SEO Project Portal (next to the Keyword Map). Data source ID `e5279df5-8d9c-40b5-8159-cfb34dbf3dd0`.
+- **Schema:** `Page URL` (title) · `Pillar` · `Role` · `Destination URL` · `Evidence` · `Source` (Seed/Auto) · `Needs Review` (checkbox).
+  - ⚠️ Notion gotcha: a title property literally named **"URL"** breaks `notion-create-pages` (server can't resolve it). That's why the title column is **"Page URL"**.
+- **Rows: 1,154** (every audited URL). **30 Seed** (locked from decisions #1–#4, never auto-touched) + **1,124 Auto**.
+- **Role mix:** PRUNE 552 · NOINDEX 235 · KEEP-SPOKE 230 · MERGE+301 99 · OPTIMIZE 18 · REWRITE 15 · KEEP-CANONICAL 5.
+- **Pillar mix:** None 480 · P1 350 · P2 169 · P3 155.
+- **Views:** a filtered linked view embedded in each of the 3 pillar playbooks (Pillar = that pillar), plus a **"Step 3 — Needs Review"** tab on the DB (47 flagged rows).
+- **Rebuild (deterministic, re-runnable):** `python3 site-audit/build_disposition_map.py` → `site-audit/content_disposition_map.csv`. Seed table + topic/metric heuristics live in that script. Notion load batches were generated into `site-audit/notion_batches/` and pushed via the Notion MCP.
 
-**Two threads open:**
-1. **Content Disposition Map (Step 2) — actionable in-session now.** The Notion MCP is connected, so this no longer needs a special environment. Build the map in Notion (one row per URL → `pillar` · `role` · `destination URL`), seeded with the audit-verified rows from decisions #1–#4, then auto-classify the long tail from `site-audit/cavallo_page_audit.csv`. This is the keystone (Step 2) and needs no external network.
-2. **Video transcripts — still blocked here; needs a different environment.** Re-tested egress on 2026-06-16: `https://www.youtube.com/robots.txt` and `https://cavallo-inc.com/` both still return **403 via the proxy** (policy, not the sites). A remote env's network policy is fixed **at creation**, so this workstream must run in an environment created under an **open/expanded network policy** — or locally on Mark's Mac. Full runbook: `site-audit/VIDEO-TRANSCRIPTS.md`. Docs: https://code.claude.com/docs/en/claude-code-on-the-web
+## ▶️ RESUME HERE (updated 2026-06-16)
+**Step 3 — Mark reviews the 47 judgment calls.** Open the **"Step 3 — Needs Review"** view in the [Content Disposition Map](https://app.notion.com/p/0c6d0227282049adad764f480c674679) and confirm/correct Pillar + Role for each. These are the equity-bearing posts/pages (don't mis-redirect a page that gets traffic) and the REWRITE candidates (substantial off-topic — repurpose vs prune). The other ~1,107 rows are mechanical. After review, **uncheck Needs Review** as you clear each.
+- **Auto-classifier caveats to sanity-check during review:** "boots" appears on most posts (it's a boot company), so some Pillar 1 tags are loose; MERGE+301 destinations that read `(NEW) …` point to spoke pages that don't exist yet — those merges can't run until the destination is built (301 safety rule).
+- Then **Step 4** (global quick wins): noindex the tag/auto archives (Yoast taxonomy setting — covers the 235 NOINDEX rows) and prune obvious dead weight.
+- Then **Step 5**: build pillars in waves (Pillar 1 → 2 → 3); publish each pillar/spoke **before** running its 301s.
+
+**Still-open thread — Video transcripts (blocked here; needs a different environment).** Re-tested egress on 2026-06-16: `https://www.youtube.com/robots.txt` and `https://cavallo-inc.com/` both still return **403 via the proxy** (policy, not the sites). A remote env's network policy is fixed **at creation**, so this workstream must run in an environment created under an **open/expanded network policy** — or locally on Mark's Mac. Full runbook: `site-audit/VIDEO-TRANSCRIPTS.md`. Docs: https://code.claude.com/docs/en/claude-code-on-the-web

@@ -1,0 +1,1102 @@
+[
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/whats-your-cavallo-community-up-to-april-2020-old/",
+   "Pillar": "None",
+   "Role": "PRUNE",
+   "Destination URL": "301 -> nearest relevant page (review)",
+   "Evidence": "AUTO. post, wc=254, tr=0, li=0. No traffic, no links, off-topic, thin -> prune.",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/whats-your-cavallo-community-up-to-january-2020/",
+   "Pillar": "None",
+   "Role": "PRUNE",
+   "Destination URL": "301 -> nearest relevant page (review)",
+   "Evidence": "AUTO. post, wc=381, tr=0, li=0. No traffic, no links, off-topic, thin -> prune.",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/whats-your-cavallo-community-up-to-may-2020/",
+   "Pillar": "None",
+   "Role": "PRUNE",
+   "Destination URL": "301 -> nearest relevant page (review)",
+   "Evidence": "AUTO. post, wc=260, tr=0, li=0. No traffic, no links, off-topic, thin -> prune.",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/whats-in-it-for-the-horse/",
+   "Pillar": "None",
+   "Role": "PRUNE",
+   "Destination URL": "301 -> nearest relevant page (review)",
+   "Evidence": "AUTO. post, wc=753, tr=0, li=0. No traffic, no links, off-topic, thin -> prune.",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/white-line-line/",
+   "Pillar": "Pillar 2 — Hoof Health",
+   "Role": "PRUNE",
+   "Destination URL": "(NEW) Pillar 2 — White Line Disease spoke",
+   "Evidence": "AUTO. post, wc=519, tr=0, li=0. On-topic (white line disease) but thin & zero-equity -> prune (301 to white line disease pillar).",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/why-daddy/",
+   "Pillar": "Pillar 2 — Hoof Health",
+   "Role": "PRUNE",
+   "Destination URL": "https://cavallo-inc.com/your-cavallo-laminitis-healing-plan/",
+   "Evidence": "AUTO. post, wc=660, tr=0, li=0. On-topic (laminitis/founder) but thin & zero-equity -> prune (301 to laminitis/founder pillar).",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/where-does-the-problem-originate/",
+   "Pillar": "Pillar 2 — Hoof Health",
+   "Role": "PRUNE",
+   "Destination URL": "(NEW) Pillar 2 — Hoof Health & Conditions page",
+   "Evidence": "AUTO. post, wc=308, tr=0, li=0. On-topic (hoof health/anatomy) but thin & zero-equity -> prune (301 to hoof health/anatomy pillar).",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/where-the-rubber-meets-the-road-alternatives-to-metal-horseshoes/",
+   "Pillar": "Pillar 3 — Barefoot",
+   "Role": "MERGE+301",
+   "Destination URL": "https://cavallo-inc.com/category/the-barefoot-horse/",
+   "Evidence": "AUTO. post, wc=764, tr=1, li=0. On-topic (barefoot care), some equity to consolidate -> merge into https://cavallo-inc.com/category/the-barefoot-horse/.",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/where-the-rubber-meets-the-road-alternatives-to-metal-horseshoes-2/",
+   "Pillar": "Pillar 1 — Hoof Boots",
+   "Role": "MERGE+301",
+   "Destination URL": "https://cavallo-inc.com/product-category/hoof-boot/",
+   "Evidence": "AUTO. post, wc=764, tr=0, li=0. On-topic (boots (commercial)), substantive on-topic copy (764w) -> merge into https://cavallo-inc.com/product-category/hoof-boot/.",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/where-will-carole-be-next/",
+   "Pillar": "Pillar 2 — Hoof Health",
+   "Role": "MERGE+301",
+   "Destination URL": "https://cavallo-inc.com/your-cavallo-laminitis-healing-plan/",
+   "Evidence": "AUTO. post, wc=764, tr=0, li=0. On-topic (laminitis/founder), substantive on-topic copy (764w) -> merge into https://cavallo-inc.com/your-cavallo-laminitis-healing-plan/.",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/white-line-disease/",
+   "Pillar": "Pillar 2 — Hoof Health",
+   "Role": "PRUNE",
+   "Destination URL": "(NEW) Pillar 2 — White Line Disease spoke",
+   "Evidence": "AUTO. post, wc=457, tr=0, li=0. On-topic (white line disease) but thin & zero-equity -> prune (301 to white line disease pillar).",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/who-is-americas-favourite-trail-horse/",
+   "Pillar": "None",
+   "Role": "PRUNE",
+   "Destination URL": "301 -> nearest relevant page (review)",
+   "Evidence": "AUTO. post, wc=472, tr=0, li=0. No traffic, no links, off-topic, thin -> prune.",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/who-is-cavallo/",
+   "Pillar": "Pillar 2 — Hoof Health",
+   "Role": "PRUNE",
+   "Destination URL": "https://cavallo-inc.com/your-cavallo-laminitis-healing-plan/",
+   "Evidence": "AUTO. post, wc=357, tr=0, li=0. On-topic (laminitis/founder) but thin & zero-equity -> prune (301 to laminitis/founder pillar).",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/why-trek-makes-the-perfect-therapy-rehab-hoof-boot/",
+   "Pillar": "Pillar 2 — Hoof Health",
+   "Role": "OPTIMIZE",
+   "Destination URL": "",
+   "Evidence": "AUTO. post, wc=1633, tr=0, li=15. Organic equity + on-topic (laminitis/founder) -> optimize & link to pillar.",
+   "Source": "Auto",
+   "Needs Review": "__YES__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/why-i-love-my-horse/",
+   "Pillar": "Pillar 3 — Barefoot",
+   "Role": "PRUNE",
+   "Destination URL": "https://cavallo-inc.com/category/the-barefoot-horse/",
+   "Evidence": "AUTO. post, wc=344, tr=0, li=0. On-topic (barefoot care) but thin & zero-equity -> prune (301 to barefoot care pillar).",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/wild-horses/",
+   "Pillar": "Pillar 3 — Barefoot",
+   "Role": "PRUNE",
+   "Destination URL": "(NEW) Pillar 3 — Wild Horse Hooves spoke",
+   "Evidence": "AUTO. post, wc=379, tr=0, li=0. On-topic (wild horse hooves) but thin & zero-equity -> prune (301 to wild horse hooves pillar).",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/win-a-free-trip-to-australia/",
+   "Pillar": "None",
+   "Role": "PRUNE",
+   "Destination URL": "301 -> nearest relevant page (review)",
+   "Evidence": "AUTO. post, wc=292, tr=0, li=0. No traffic, no links, off-topic, thin -> prune.",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/winter-for-you-your-pets/",
+   "Pillar": "None",
+   "Role": "REWRITE",
+   "Destination URL": "",
+   "Evidence": "AUTO. post, wc=1143, tr=0, li=0. Substantial (1143w) but off-topic -> review (repurpose or prune).",
+   "Source": "Auto",
+   "Needs Review": "__YES__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/winter-protection-with-hoof-boots/",
+   "Pillar": "Pillar 1 — Hoof Boots",
+   "Role": "PRUNE",
+   "Destination URL": "https://cavallo-inc.com/product-category/hoof-boot/",
+   "Evidence": "AUTO. post, wc=129, tr=0, li=0. On-topic (boots (commercial)) but thin & zero-equity -> prune (301 to boots (commercial) pillar).",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/winter-riding-in-hoof-boots/",
+   "Pillar": "Pillar 3 — Barefoot",
+   "Role": "PRUNE",
+   "Destination URL": "https://cavallo-inc.com/category/the-barefoot-horse/",
+   "Evidence": "AUTO. post, wc=77, tr=0, li=0. On-topic (barefoot care) but thin & zero-equity -> prune (301 to barefoot care pillar).",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/winter-time-barefoot-time/",
+   "Pillar": "Pillar 2 — Hoof Health",
+   "Role": "PRUNE",
+   "Destination URL": "https://cavallo-inc.com/your-cavallo-laminitis-healing-plan/",
+   "Evidence": "AUTO. post, wc=405, tr=0, li=0. On-topic (laminitis/founder) but thin & zero-equity -> prune (301 to laminitis/founder pillar).",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/working-with-your-horses-unique-personality/",
+   "Pillar": "None",
+   "Role": "KEEP-SPOKE",
+   "Destination URL": "",
+   "Evidence": "AUTO. post, wc=291, tr=24, li=0. Has equity but off-topic — KEEP (don't prune); review.",
+   "Source": "Auto",
+   "Needs Review": "__YES__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/worming-in-the-new-millennium/",
+   "Pillar": "None",
+   "Role": "PRUNE",
+   "Destination URL": "301 -> nearest relevant page (review)",
+   "Evidence": "AUTO. post, wc=428, tr=0, li=0. No traffic, no links, off-topic, thin -> prune.",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/wrestling-navicular-trust-your-gut/",
+   "Pillar": "Pillar 2 — Hoof Health",
+   "Role": "MERGE+301",
+   "Destination URL": "https://cavallo-inc.com/is-navicular-disease-always-the-beginning-of-the-end/",
+   "Evidence": "127w thin. (Decision #3)",
+   "Source": "Seed",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/you-can-be-a-farrier-and-barefoot-advocate/",
+   "Pillar": "Pillar 2 — Hoof Health",
+   "Role": "PRUNE",
+   "Destination URL": "(NEW) Pillar 2 — Hoof Abscess spoke",
+   "Evidence": "AUTO. post, wc=123, tr=0, li=0. On-topic (hoof abscess) but thin & zero-equity -> prune (301 to hoof abscess pillar).",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/you-and-your-horse-a-sensory-relationship/",
+   "Pillar": "None",
+   "Role": "PRUNE",
+   "Destination URL": "301 -> nearest relevant page (review)",
+   "Evidence": "AUTO. post, wc=662, tr=0, li=0. No traffic, no links, off-topic, thin -> prune.",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/you-and-your-horse-a-sensory-relationship-hearing/",
+   "Pillar": "None",
+   "Role": "PRUNE",
+   "Destination URL": "301 -> nearest relevant page (review)",
+   "Evidence": "AUTO. post, wc=427, tr=0, li=0. No traffic, no links, off-topic, thin -> prune.",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/you-and-your-horse-a-sensory-relationship-sight/",
+   "Pillar": "None",
+   "Role": "PRUNE",
+   "Destination URL": "301 -> nearest relevant page (review)",
+   "Evidence": "AUTO. post, wc=631, tr=0, li=0. No traffic, no links, off-topic, thin -> prune.",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/you-and-your-horse-a-sensory-relationship-smell/",
+   "Pillar": "None",
+   "Role": "PRUNE",
+   "Destination URL": "301 -> nearest relevant page (review)",
+   "Evidence": "AUTO. post, wc=483, tr=0, li=0. No traffic, no links, off-topic, thin -> prune.",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/you-and-your-horse-a-sensory-relationship-touch/",
+   "Pillar": "None",
+   "Role": "PRUNE",
+   "Destination URL": "301 -> nearest relevant page (review)",
+   "Evidence": "AUTO. post, wc=598, tr=0, li=0. No traffic, no links, off-topic, thin -> prune.",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/youre-not-going-to-believe-this/",
+   "Pillar": "Pillar 1 — Hoof Boots",
+   "Role": "PRUNE",
+   "Destination URL": "https://cavallo-inc.com/product-category/hoof-boot/",
+   "Evidence": "AUTO. post, wc=215, tr=0, li=0. On-topic (boots (commercial)) but thin & zero-equity -> prune (301 to boots (commercial) pillar).",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/your-cavallo-news-august-2022/",
+   "Pillar": "Pillar 2 — Hoof Health",
+   "Role": "MERGE+301",
+   "Destination URL": "https://cavallo-inc.com/your-cavallo-laminitis-healing-plan/",
+   "Evidence": "AUTO. post, wc=1314, tr=0, li=0. On-topic (laminitis/founder), substantive on-topic copy (1314w) -> merge into https://cavallo-inc.com/your-cavallo-laminitis-healing-plan/.",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/your-cavallo-news-july-2022/",
+   "Pillar": "Pillar 2 — Hoof Health",
+   "Role": "MERGE+301",
+   "Destination URL": "https://cavallo-inc.com/your-cavallo-laminitis-healing-plan/",
+   "Evidence": "AUTO. post, wc=1727, tr=0, li=0. On-topic (laminitis/founder), substantive on-topic copy (1727w) -> merge into https://cavallo-inc.com/your-cavallo-laminitis-healing-plan/.",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/your-cavallo-news-september-2022/",
+   "Pillar": "Pillar 2 — Hoof Health",
+   "Role": "MERGE+301",
+   "Destination URL": "https://cavallo-inc.com/your-cavallo-laminitis-healing-plan/",
+   "Evidence": "AUTO. post, wc=1552, tr=0, li=0. On-topic (laminitis/founder), substantive on-topic copy (1552w) -> merge into https://cavallo-inc.com/your-cavallo-laminitis-healing-plan/.",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/your-grounded-horse/",
+   "Pillar": "Pillar 3 — Barefoot",
+   "Role": "PRUNE",
+   "Destination URL": "https://cavallo-inc.com/category/the-barefoot-horse/",
+   "Evidence": "AUTO. post, wc=256, tr=0, li=0. On-topic (barefoot care) but thin & zero-equity -> prune (301 to barefoot care pillar).",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/your-healthy-horse/",
+   "Pillar": "Pillar 3 — Barefoot",
+   "Role": "PRUNE",
+   "Destination URL": "https://cavallo-inc.com/category/the-barefoot-horse/",
+   "Evidence": "AUTO. post, wc=692, tr=0, li=0. On-topic (barefoot care) but thin & zero-equity -> prune (301 to barefoot care pillar).",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/your-hoof-boot-questions-answered/",
+   "Pillar": "Pillar 3 — Barefoot",
+   "Role": "PRUNE",
+   "Destination URL": "(NEW) Pillar 3 — Barefoot Trimming spoke",
+   "Evidence": "AUTO. post, wc=135, tr=0, li=0. On-topic (barefoot trimming) but thin & zero-equity -> prune (301 to barefoot trimming pillar).",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/your-horse-and-parasites/",
+   "Pillar": "Pillar 2 — Hoof Health",
+   "Role": "PRUNE",
+   "Destination URL": "https://cavallo-inc.com/equine-nutrition/",
+   "Evidence": "AUTO. post, wc=570, tr=0, li=0. On-topic (diet/nutrition) but thin & zero-equity -> prune (301 to diet/nutrition pillar).",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/your-horse-is-listening/",
+   "Pillar": "None",
+   "Role": "PRUNE",
+   "Destination URL": "301 -> nearest relevant page (review)",
+   "Evidence": "AUTO. post, wc=351, tr=0, li=0. No traffic, no links, off-topic, thin -> prune.",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/your-horses-back-may-not-be-the-same-next-month/",
+   "Pillar": "None",
+   "Role": "PRUNE",
+   "Destination URL": "301 -> nearest relevant page (review)",
+   "Evidence": "AUTO. post, wc=292, tr=0, li=0. No traffic, no links, off-topic, thin -> prune.",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/international-liberty-horse-association-membership-discount/",
+   "Pillar": "None",
+   "Role": "PRUNE",
+   "Destination URL": "301 -> nearest relevant page (review)",
+   "Evidence": "AUTO. post, wc=694, tr=0, li=0. No traffic, no links, off-topic, thin -> prune.",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/product/raised-wither-saddle-pad/",
+   "Pillar": "Pillar 1 — Hoof Boots",
+   "Role": "KEEP-SPOKE",
+   "Destination URL": "",
+   "Evidence": "AUTO. product, wc=997, tr=0, li=0. Product page (ACF) — commercial asset; cross-link from Pillar 1.",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/product/wedge-saddle-pad/",
+   "Pillar": "Pillar 1 — Hoof Boots",
+   "Role": "KEEP-SPOKE",
+   "Destination URL": "",
+   "Evidence": "AUTO. product, wc=1084, tr=1, li=0. Product page (ACF) — commercial asset; cross-link from Pillar 1.",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/product/all-purpose-english-saddle-pad-performance-enhanced/",
+   "Pillar": "Pillar 1 — Hoof Boots",
+   "Role": "KEEP-SPOKE",
+   "Destination URL": "",
+   "Evidence": "AUTO. product, wc=1084, tr=0, li=0. Product page (ACF) — commercial asset; cross-link from Pillar 1.",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/product/big-foot-draft-size-hoof-boots/",
+   "Pillar": "Pillar 1 — Hoof Boots",
+   "Role": "KEEP-SPOKE",
+   "Destination URL": "",
+   "Evidence": "AUTO. product, wc=3580, tr=30, li=7. Product page (ACF) — commercial asset; cross-link from Pillar 1.",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/product/bfb-pastern-wraps/",
+   "Pillar": "Pillar 1 — Hoof Boots",
+   "Role": "KEEP-SPOKE",
+   "Destination URL": "",
+   "Evidence": "AUTO. product, wc=1300, tr=0, li=2. Product page (ACF) — commercial asset; cross-link from Pillar 1.",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/product/bfb-hoof-pad/",
+   "Pillar": "Pillar 1 — Hoof Boots",
+   "Role": "KEEP-SPOKE",
+   "Destination URL": "",
+   "Evidence": "AUTO. product, wc=1106, tr=0, li=1. Product page (ACF) — commercial asset; cross-link from Pillar 1.",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/product/bfb-protection-pads/",
+   "Pillar": "Pillar 1 — Hoof Boots",
+   "Role": "KEEP-SPOKE",
+   "Destination URL": "",
+   "Evidence": "AUTO. product, wc=1120, tr=0, li=1. Product page (ACF) — commercial asset; cross-link from Pillar 1.",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/product/bling-clb-cute-little-boots/",
+   "Pillar": "Pillar 1 — Hoof Boots",
+   "Role": "KEEP-SPOKE",
+   "Destination URL": "",
+   "Evidence": "AUTO. product, wc=3492, tr=0, li=12. Product page (ACF) — commercial asset; cross-link from Pillar 1.",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/product/break-away-halter/",
+   "Pillar": "Pillar 1 — Hoof Boots",
+   "Role": "KEEP-SPOKE",
+   "Destination URL": "",
+   "Evidence": "AUTO. product, wc=628, tr=0, li=0. Product page (ACF) — commercial asset; cross-link from Pillar 1.",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/product/cavallo-clb-cute-little-boot-pad/",
+   "Pillar": "Pillar 1 — Hoof Boots",
+   "Role": "KEEP-SPOKE",
+   "Destination URL": "",
+   "Evidence": "AUTO. product, wc=1020, tr=0, li=5. Product page (ACF) — commercial asset; cross-link from Pillar 1.",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/product/cavallo-cap/",
+   "Pillar": "Pillar 1 — Hoof Boots",
+   "Role": "KEEP-SPOKE",
+   "Destination URL": "",
+   "Evidence": "AUTO. product, wc=487, tr=0, li=0. Product page (ACF) — commercial asset; cross-link from Pillar 1.",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/product/cavallo-hoof-boot-bfb-cushion-pads/",
+   "Pillar": "Pillar 1 — Hoof Boots",
+   "Role": "KEEP-SPOKE",
+   "Destination URL": "",
+   "Evidence": "AUTO. product, wc=991, tr=0, li=1. Product page (ACF) — commercial asset; cross-link from Pillar 1.",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/product/cavallo-canine-leather-collar-amber-ebony/",
+   "Pillar": "Pillar 1 — Hoof Boots",
+   "Role": "KEEP-SPOKE",
+   "Destination URL": "",
+   "Evidence": "AUTO. product, wc=753, tr=0, li=0. Product page (ACF) — commercial asset; cross-link from Pillar 1.",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/product/cavallo-canine-leather-collar-cocoa-cinnamon/",
+   "Pillar": "Pillar 1 — Hoof Boots",
+   "Role": "KEEP-SPOKE",
+   "Destination URL": "",
+   "Evidence": "AUTO. product, wc=753, tr=0, li=0. Product page (ACF) — commercial asset; cross-link from Pillar 1.",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/product/cavallo-canine-leather-collar-kelly-green/",
+   "Pillar": "Pillar 1 — Hoof Boots",
+   "Role": "KEEP-SPOKE",
+   "Destination URL": "",
+   "Evidence": "AUTO. product, wc=753, tr=0, li=0. Product page (ACF) — commercial asset; cross-link from Pillar 1.",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/product/cavallo-canine-leather-dog-collar-rose-pink/",
+   "Pillar": "Pillar 1 — Hoof Boots",
+   "Role": "KEEP-SPOKE",
+   "Destination URL": "",
+   "Evidence": "AUTO. product, wc=755, tr=0, li=0. Product page (ACF) — commercial asset; cross-link from Pillar 1.",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/product/cavallo-canine-leather-leash-amber-ebony/",
+   "Pillar": "Pillar 1 — Hoof Boots",
+   "Role": "KEEP-SPOKE",
+   "Destination URL": "",
+   "Evidence": "AUTO. product, wc=742, tr=0, li=0. Product page (ACF) — commercial asset; cross-link from Pillar 1.",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/product/cavallo-canine-leather-leash-cocoa-cinnamon/",
+   "Pillar": "Pillar 1 — Hoof Boots",
+   "Role": "KEEP-SPOKE",
+   "Destination URL": "",
+   "Evidence": "AUTO. product, wc=742, tr=0, li=0. Product page (ACF) — commercial asset; cross-link from Pillar 1.",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/product/cavallo-canine-leather-leash-kelly-green/",
+   "Pillar": "Pillar 1 — Hoof Boots",
+   "Role": "KEEP-SPOKE",
+   "Destination URL": "",
+   "Evidence": "AUTO. product, wc=742, tr=0, li=0. Product page (ACF) — commercial asset; cross-link from Pillar 1.",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/product/cavallo-canine-leather-leash-rose-pink/",
+   "Pillar": "Pillar 1 — Hoof Boots",
+   "Role": "KEEP-SPOKE",
+   "Destination URL": "",
+   "Evidence": "AUTO. product, wc=742, tr=0, li=0. Product page (ACF) — commercial asset; cross-link from Pillar 1.",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/product/cavallo-canine-matching-wrist-band-aztec-print/",
+   "Pillar": "Pillar 1 — Hoof Boots",
+   "Role": "KEEP-SPOKE",
+   "Destination URL": "",
+   "Evidence": "AUTO. product, wc=734, tr=0, li=0. Product page (ACF) — commercial asset; cross-link from Pillar 1.",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/product/cavallo-canine-vegan-leather-collar-aztec-print/",
+   "Pillar": "Pillar 1 — Hoof Boots",
+   "Role": "KEEP-SPOKE",
+   "Destination URL": "",
+   "Evidence": "AUTO. product, wc=747, tr=0, li=0. Product page (ACF) — commercial asset; cross-link from Pillar 1.",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/product/cavallo-canine-vegan-leather-leash-aztec-print/",
+   "Pillar": "Pillar 1 — Hoof Boots",
+   "Role": "KEEP-SPOKE",
+   "Destination URL": "",
+   "Evidence": "AUTO. product, wc=737, tr=0, li=0. Product page (ACF) — commercial asset; cross-link from Pillar 1.",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/product/cavallo-comfort-sleeve-2/",
+   "Pillar": "Pillar 1 — Hoof Boots",
+   "Role": "KEEP-SPOKE",
+   "Destination URL": "",
+   "Evidence": "AUTO. product, wc=623, tr=0, li=8. Product page (ACF) — commercial asset; cross-link from Pillar 1.",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/product/cavallo-cooler-bag/",
+   "Pillar": "Pillar 1 — Hoof Boots",
+   "Role": "KEEP-SPOKE",
+   "Destination URL": "",
+   "Evidence": "AUTO. product, wc=543, tr=0, li=2. Product page (ACF) — commercial asset; cross-link from Pillar 1.",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/product/cavallo-hoof-boots-gift-cards/",
+   "Pillar": "Pillar 1 — Hoof Boots",
+   "Role": "KEEP-SPOKE",
+   "Destination URL": "",
+   "Evidence": "AUTO. product, wc=699, tr=0, li=1. Product page (ACF) — commercial asset; cross-link from Pillar 1.",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/product/cushionpads/",
+   "Pillar": "Pillar 1 — Hoof Boots",
+   "Role": "KEEP-SPOKE",
+   "Destination URL": "",
+   "Evidence": "AUTO. product, wc=1032, tr=0, li=1. Product page (ACF) — commercial asset; cross-link from Pillar 1.",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/product/hoof-stud-application-tool/",
+   "Pillar": "Pillar 1 — Hoof Boots",
+   "Role": "KEEP-SPOKE",
+   "Destination URL": "",
+   "Evidence": "AUTO. product, wc=993, tr=0, li=0. Product page (ACF) — commercial asset; cross-link from Pillar 1.",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/product/cavallo-manicure-kit/",
+   "Pillar": "Pillar 1 — Hoof Boots",
+   "Role": "KEEP-SPOKE",
+   "Destination URL": "",
+   "Evidence": "AUTO. product, wc=531, tr=0, li=0. Product page (ACF) — commercial asset; cross-link from Pillar 1.",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/product/pastern-wraps/",
+   "Pillar": "Pillar 1 — Hoof Boots",
+   "Role": "KEEP-SPOKE",
+   "Destination URL": "",
+   "Evidence": "AUTO. product, wc=1291, tr=0, li=6. Product page (ACF) — commercial asset; cross-link from Pillar 1.",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/product/proflex/",
+   "Pillar": "Pillar 1 — Hoof Boots",
+   "Role": "KEEP-SPOKE",
+   "Destination URL": "",
+   "Evidence": "AUTO. product, wc=946, tr=1, li=0. Product page (ACF) — commercial asset; cross-link from Pillar 1.",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/product/cavallo-proflex-splint-boots-redblack/",
+   "Pillar": "Pillar 1 — Hoof Boots",
+   "Role": "KEEP-SPOKE",
+   "Destination URL": "",
+   "Evidence": "AUTO. product, wc=945, tr=0, li=0. Product page (ACF) — commercial asset; cross-link from Pillar 1.",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/product/cavallolifeissimpletshirt/",
+   "Pillar": "Pillar 1 — Hoof Boots",
+   "Role": "KEEP-SPOKE",
+   "Destination URL": "",
+   "Evidence": "AUTO. product, wc=561, tr=0, li=0. Product page (ACF) — commercial asset; cross-link from Pillar 1.",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/product/cavallo-visor/",
+   "Pillar": "Pillar 1 — Hoof Boots",
+   "Role": "KEEP-SPOKE",
+   "Destination URL": "",
+   "Evidence": "AUTO. product, wc=519, tr=0, li=0. Product page (ACF) — commercial asset; cross-link from Pillar 1.",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/product/cavallo-ice-scraper/",
+   "Pillar": "Pillar 1 — Hoof Boots",
+   "Role": "KEEP-SPOKE",
+   "Destination URL": "",
+   "Evidence": "AUTO. product, wc=514, tr=0, li=1. Product page (ACF) — commercial asset; cross-link from Pillar 1.",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/product/clb-cute-little-boots/",
+   "Pillar": "Pillar 1 — Hoof Boots",
+   "Role": "KEEP-SPOKE",
+   "Destination URL": "",
+   "Evidence": "AUTO. product, wc=3465, tr=1, li=0. Product page (ACF) — commercial asset; cross-link from Pillar 1.",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/product/clb-mini-boot-replacement-straps/",
+   "Pillar": "Pillar 1 — Hoof Boots",
+   "Role": "KEEP-SPOKE",
+   "Destination URL": "",
+   "Evidence": "AUTO. product, wc=505, tr=0, li=0. Product page (ACF) — commercial asset; cross-link from Pillar 1.",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/product/comfort-pad/",
+   "Pillar": "Pillar 1 — Hoof Boots",
+   "Role": "KEEP-SPOKE",
+   "Destination URL": "",
+   "Evidence": "AUTO. product, wc=1092, tr=7, li=18. Product page (ACF) — commercial asset; cross-link from Pillar 1.",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/product/entry-level-bling-hoof-boot/",
+   "Pillar": "Pillar 1 — Hoof Boots",
+   "Role": "KEEP-SPOKE",
+   "Destination URL": "",
+   "Evidence": "AUTO. product, wc=3542, tr=0, li=7. Product page (ACF) — commercial asset; cross-link from Pillar 1.",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/product/entry-level-hoof-boot/",
+   "Pillar": "Pillar 1 — Hoof Boots",
+   "Role": "KEEP-SPOKE",
+   "Destination URL": "",
+   "Evidence": "AUTO. product, wc=3516, tr=0, li=0. Product page (ACF) — commercial asset; cross-link from Pillar 1.",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/product/elb-strap/",
+   "Pillar": "Pillar 1 — Hoof Boots",
+   "Role": "KEEP-SPOKE",
+   "Destination URL": "",
+   "Evidence": "AUTO. product, wc=501, tr=0, li=0. Product page (ACF) — commercial asset; cross-link from Pillar 1.",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/product/full-monty-western-saddle-pad/",
+   "Pillar": "Pillar 1 — Hoof Boots",
+   "Role": "KEEP-SPOKE",
+   "Destination URL": "",
+   "Evidence": "AUTO. product, wc=1051, tr=0, li=1. Product page (ACF) — commercial asset; cross-link from Pillar 1.",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/product/gel-pads/",
+   "Pillar": "Pillar 1 — Hoof Boots",
+   "Role": "KEEP-SPOKE",
+   "Destination URL": "",
+   "Evidence": "AUTO. product, wc=1053, tr=0, li=5. Product page (ACF) — commercial asset; cross-link from Pillar 1.",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/product/heller-14-black-master-rasp/",
+   "Pillar": "Pillar 1 — Hoof Boots",
+   "Role": "KEEP-SPOKE",
+   "Destination URL": "",
+   "Evidence": "AUTO. product, wc=601, tr=0, li=0. Product page (ACF) — commercial asset; cross-link from Pillar 1.",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/product/heller-gr8at-red-tang-14-rasp/",
+   "Pillar": "Pillar 1 — Hoof Boots",
+   "Role": "KEEP-SPOKE",
+   "Destination URL": "",
+   "Evidence": "AUTO. product, wc=571, tr=0, li=0. Product page (ACF) — commercial asset; cross-link from Pillar 1.",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/product/high-tenacity-protection-pads/",
+   "Pillar": "Pillar 1 — Hoof Boots",
+   "Role": "KEEP-SPOKE",
+   "Destination URL": "",
+   "Evidence": "AUTO. product, wc=1098, tr=0, li=7. Product page (ACF) — commercial asset; cross-link from Pillar 1.",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/product/hoof-boot-studs/",
+   "Pillar": "Pillar 1 — Hoof Boots",
+   "Role": "KEEP-SPOKE",
+   "Destination URL": "",
+   "Evidence": "AUTO. product, wc=1021, tr=0, li=1. Product page (ACF) — commercial asset; cross-link from Pillar 1.",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/product/hoof-pick/",
+   "Pillar": "Pillar 1 — Hoof Boots",
+   "Role": "KEEP-SPOKE",
+   "Destination URL": "",
+   "Evidence": "AUTO. product, wc=501, tr=0, li=0. Product page (ACF) — commercial asset; cross-link from Pillar 1.",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/product/hoof-prints-on-the-journey-new-horse-care-book-by-carole-herder/",
+   "Pillar": "Pillar 1 — Hoof Boots",
+   "Role": "KEEP-SPOKE",
+   "Destination URL": "",
+   "Evidence": "AUTO. product, wc=1049, tr=0, li=2. Product page (ACF) — commercial asset; cross-link from Pillar 1.",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/product/leb-long-ear-hoof-boot/",
+   "Pillar": "Pillar 1 — Hoof Boots",
+   "Role": "KEEP-SPOKE",
+   "Destination URL": "",
+   "Evidence": "AUTO. product, wc=2286, tr=13, li=14. Product page (ACF) — commercial asset; cross-link from Pillar 1.",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/product/leb-long-ear-boot-hoof-boot-for-donkeys-turquoise/",
+   "Pillar": "Pillar 1 — Hoof Boots",
+   "Role": "KEEP-SPOKE",
+   "Destination URL": "",
+   "Evidence": "AUTO. product, wc=1302, tr=0, li=8. Product page (ACF) — commercial asset; cross-link from Pillar 1.",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/product/leb-cushion-pads/",
+   "Pillar": "Pillar 1 — Hoof Boots",
+   "Role": "KEEP-SPOKE",
+   "Destination URL": "",
+   "Evidence": "AUTO. product, wc=1309, tr=0, li=2. Product page (ACF) — commercial asset; cross-link from Pillar 1.",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/product/torch/",
+   "Pillar": "Pillar 1 — Hoof Boots",
+   "Role": "KEEP-SPOKE",
+   "Destination URL": "",
+   "Evidence": "AUTO. product, wc=499, tr=0, li=0. Product page (ACF) — commercial asset; cross-link from Pillar 1.",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/product/metallic-blue-clb-cute-little-boots/",
+   "Pillar": "Pillar 1 — Hoof Boots",
+   "Role": "KEEP-SPOKE",
+   "Destination URL": "",
+   "Evidence": "AUTO. product, wc=3510, tr=0, li=6. Product page (ACF) — commercial asset; cross-link from Pillar 1.",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/product/knife/",
+   "Pillar": "Pillar 1 — Hoof Boots",
+   "Role": "KEEP-SPOKE",
+   "Destination URL": "",
+   "Evidence": "AUTO. product, wc=529, tr=0, li=0. Product page (ACF) — commercial asset; cross-link from Pillar 1.",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/product/mustad-double-s-loop-hoof-knife/",
+   "Pillar": "Pillar 1 — Hoof Boots",
+   "Role": "KEEP-SPOKE",
+   "Destination URL": "",
+   "Evidence": "AUTO. product, wc=671, tr=2, li=0. Product page (ACF) — commercial asset; cross-link from Pillar 1.",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/product/mustad-comfortmix/",
+   "Pillar": "Pillar 1 — Hoof Boots",
+   "Role": "KEEP-SPOKE",
+   "Destination URL": "",
+   "Evidence": "AUTO. product, wc=586, tr=0, li=0. Product page (ACF) — commercial asset; cross-link from Pillar 1.",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/product/mustad-hoof-knive-left/",
+   "Pillar": "Pillar 1 — Hoof Boots",
+   "Role": "KEEP-SPOKE",
+   "Destination URL": "",
+   "Evidence": "AUTO. product, wc=593, tr=0, li=0. Product page (ACF) — commercial asset; cross-link from Pillar 1.",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/product/mustad-hoof-knives-right/",
+   "Pillar": "Pillar 1 — Hoof Boots",
+   "Role": "KEEP-SPOKE",
+   "Destination URL": "",
+   "Evidence": "AUTO. product, wc=576, tr=0, li=0. Product page (ACF) — commercial asset; cross-link from Pillar 1.",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ }
+]

@@ -1,0 +1,1102 @@
+[
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/friends-of-cavallo-january-2019/",
+   "Pillar": "None",
+   "Role": "PRUNE",
+   "Destination URL": "301 -> nearest relevant page (review)",
+   "Evidence": "AUTO. post, wc=342, tr=0, li=0. No traffic, no links, off-topic, thin -> prune.",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/friends-of-cavallo-february-2019/",
+   "Pillar": "Pillar 1 — Hoof Boots",
+   "Role": "PRUNE",
+   "Destination URL": "https://cavallo-inc.com/product-category/hoof-boot/",
+   "Evidence": "AUTO. post, wc=485, tr=0, li=0. On-topic (boots (commercial)) but thin & zero-equity -> prune (301 to boots (commercial) pillar).",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/frodo-a-laminitic-horse-with-some-healing-to-do/",
+   "Pillar": "Pillar 2 — Hoof Health",
+   "Role": "PRUNE",
+   "Destination URL": "https://cavallo-inc.com/your-cavallo-laminitis-healing-plan/",
+   "Evidence": "AUTO. post, wc=417, tr=0, li=0. On-topic (laminitis/founder) but thin & zero-equity -> prune (301 to laminitis/founder pillar).",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/from-navicular-to-prancing/",
+   "Pillar": "Pillar 2 — Hoof Health",
+   "Role": "MERGE+301",
+   "Destination URL": "https://cavallo-inc.com/is-navicular-disease-always-the-beginning-of-the-end/",
+   "Evidence": "128w thin. (Decision #3)",
+   "Source": "Seed",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/pacific-hoof-care-practitioners-conference-cavallo/",
+   "Pillar": "Pillar 2 — Hoof Health",
+   "Role": "PRUNE",
+   "Destination URL": "(NEW) Pillar 2 — Hoof Health & Conditions page",
+   "Evidence": "AUTO. post, wc=114, tr=0, li=0. On-topic (hoof health/anatomy) but thin & zero-equity -> prune (301 to hoof health/anatomy pillar).",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/fun-halloween-horsey-facts/",
+   "Pillar": "None",
+   "Role": "PRUNE",
+   "Destination URL": "301 -> nearest relevant page (review)",
+   "Evidence": "AUTO. post, wc=209, tr=5, li=0. No traffic, no links, off-topic, thin -> prune.",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/gaiting-and-hoof-boots/",
+   "Pillar": "Pillar 3 — Barefoot",
+   "Role": "PRUNE",
+   "Destination URL": "https://cavallo-inc.com/category/the-barefoot-horse/",
+   "Evidence": "AUTO. post, wc=162, tr=0, li=0. On-topic (barefoot care) but thin & zero-equity -> prune (301 to barefoot care pillar).",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/getting-a-handle-on-things-respectfully/",
+   "Pillar": "None",
+   "Role": "PRUNE",
+   "Destination URL": "301 -> nearest relevant page (review)",
+   "Evidence": "AUTO. post, wc=301, tr=0, li=0. No traffic, no links, off-topic, thin -> prune.",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/getting-ready-for-your-trimmer-with-monty-roberts/",
+   "Pillar": "None",
+   "Role": "PRUNE",
+   "Destination URL": "301 -> nearest relevant page (review)",
+   "Evidence": "AUTO. post, wc=577, tr=0, li=0. No traffic, no links, off-topic, thin -> prune.",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/give-navicular-the-boot/",
+   "Pillar": "Pillar 2 — Hoof Health",
+   "Role": "MERGE+301",
+   "Destination URL": "https://cavallo-inc.com/is-navicular-disease-always-the-beginning-of-the-end/",
+   "Evidence": "307w thin. (Decision #3)",
+   "Source": "Seed",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/give-you-and-your-horse-time/",
+   "Pillar": "Pillar 3 — Barefoot",
+   "Role": "PRUNE",
+   "Destination URL": "https://cavallo-inc.com/category/the-barefoot-horse/",
+   "Evidence": "AUTO. post, wc=480, tr=0, li=0. On-topic (barefoot care) but thin & zero-equity -> prune (301 to barefoot care pillar).",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/glenn-van-oort-west-sand-lake-ny/",
+   "Pillar": "Pillar 1 — Hoof Boots",
+   "Role": "PRUNE",
+   "Destination URL": "https://cavallo-inc.com/product-category/hoof-boot/",
+   "Evidence": "AUTO. post, wc=115, tr=0, li=0. On-topic (boots (commercial)) but thin & zero-equity -> prune (301 to boots (commercial) pillar).",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/good-horsemanship-asking-questions-and-trusting-your-intuition/",
+   "Pillar": "None",
+   "Role": "PRUNE",
+   "Destination URL": "301 -> nearest relevant page (review)",
+   "Evidence": "AUTO. post, wc=412, tr=0, li=0. No traffic, no links, off-topic, thin -> prune.",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/gravel-crunchers-in-hoof-boots/",
+   "Pillar": "Pillar 3 — Barefoot",
+   "Role": "PRUNE",
+   "Destination URL": "https://cavallo-inc.com/category/the-barefoot-horse/",
+   "Evidence": "AUTO. post, wc=251, tr=0, li=0. On-topic (barefoot care) but thin & zero-equity -> prune (301 to barefoot care pillar).",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/gunnar-the-friesian-and-his-hoof-boots/",
+   "Pillar": "Pillar 1 — Hoof Boots",
+   "Role": "PRUNE",
+   "Destination URL": "https://cavallo-inc.com/product-category/hoof-boot/",
+   "Evidence": "AUTO. post, wc=115, tr=0, li=0. On-topic (boots (commercial)) but thin & zero-equity -> prune (301 to boots (commercial) pillar).",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/cavallo-hoof-boots-turns-20/",
+   "Pillar": "Pillar 2 — Hoof Health",
+   "Role": "MERGE+301",
+   "Destination URL": "https://cavallo-inc.com/your-cavallo-laminitis-healing-plan/",
+   "Evidence": "AUTO. post, wc=1878, tr=0, li=1. On-topic (laminitis/founder), some equity to consolidate -> merge into https://cavallo-inc.com/your-cavallo-laminitis-healing-plan/.",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/happy-birthday-to-the-fabulous-trek-hoof-boot/",
+   "Pillar": "Pillar 3 — Barefoot",
+   "Role": "PRUNE",
+   "Destination URL": "https://cavallo-inc.com/category/the-barefoot-horse/",
+   "Evidence": "AUTO. post, wc=644, tr=0, li=0. On-topic (barefoot care) but thin & zero-equity -> prune (301 to barefoot care pillar).",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/happy-holidays-from-cavallo/",
+   "Pillar": "None",
+   "Role": "PRUNE",
+   "Destination URL": "301 -> nearest relevant page (review)",
+   "Evidence": "AUTO. post, wc=46, tr=0, li=0. No traffic, no links, off-topic, thin -> prune.",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/happy-holidays/",
+   "Pillar": "None",
+   "Role": "PRUNE",
+   "Destination URL": "301 -> nearest relevant page (review)",
+   "Evidence": "AUTO. post, wc=0, tr=0, li=0. No traffic, no links, off-topic, thin -> prune.",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/happy-hoofs-apaches-laminitis-story/",
+   "Pillar": "Pillar 2 — Hoof Health",
+   "Role": "PRUNE",
+   "Destination URL": "https://cavallo-inc.com/your-cavallo-laminitis-healing-plan/",
+   "Evidence": "AUTO. post, wc=109, tr=0, li=0. On-topic (laminitis/founder) but thin & zero-equity -> prune (301 to laminitis/founder pillar).",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/happy-in-hoof-boots/",
+   "Pillar": "Pillar 1 — Hoof Boots",
+   "Role": "PRUNE",
+   "Destination URL": "https://cavallo-inc.com/product-category/hoof-boot/",
+   "Evidence": "AUTO. post, wc=26, tr=0, li=0. On-topic (boots (commercial)) but thin & zero-equity -> prune (301 to boots (commercial) pillar).",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/happy-riding-in-cavallos/",
+   "Pillar": "Pillar 1 — Hoof Boots",
+   "Role": "PRUNE",
+   "Destination URL": "https://cavallo-inc.com/product-category/hoof-boot/",
+   "Evidence": "AUTO. post, wc=97, tr=0, li=0. On-topic (boots (commercial)) but thin & zero-equity -> prune (301 to boots (commercial) pillar).",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/happy-healthy-booted-horse/",
+   "Pillar": "Pillar 1 — Hoof Boots",
+   "Role": "PRUNE",
+   "Destination URL": "https://cavallo-inc.com/product-category/hoof-boot/",
+   "Evidence": "AUTO. post, wc=115, tr=0, li=0. On-topic (boots (commercial)) but thin & zero-equity -> prune (301 to boots (commercial) pillar).",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/have-you-got-your-horses-back/",
+   "Pillar": "None",
+   "Role": "REWRITE",
+   "Destination URL": "",
+   "Evidence": "AUTO. post, wc=1026, tr=0, li=0. Substantial (1026w) but off-topic -> review (repurpose or prune).",
+   "Source": "Auto",
+   "Needs Review": "__YES__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/hay-facts/",
+   "Pillar": "Pillar 2 — Hoof Health",
+   "Role": "MERGE+301",
+   "Destination URL": "https://cavallo-inc.com/equine-nutrition/",
+   "Evidence": "Thin diet post, ~0 equity, founder-voice. 631w. (Decision #4)",
+   "Source": "Seed",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/healing-a-fractured-pastern-bone-laminitis/",
+   "Pillar": "Pillar 2 — Hoof Health",
+   "Role": "PRUNE",
+   "Destination URL": "https://cavallo-inc.com/your-cavallo-laminitis-healing-plan/",
+   "Evidence": "AUTO. post, wc=293, tr=0, li=0. On-topic (laminitis/founder) but thin & zero-equity -> prune (301 to laminitis/founder pillar).",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/healing-with-cavallo-hoof-boots/",
+   "Pillar": "Pillar 2 — Hoof Health",
+   "Role": "PRUNE",
+   "Destination URL": "(NEW) Pillar 2 — Hoof Abscess spoke",
+   "Evidence": "AUTO. post, wc=356, tr=0, li=0. On-topic (hoof abscess) but thin & zero-equity -> prune (301 to hoof abscess pillar).",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/help-for-helping-horses/",
+   "Pillar": "Pillar 1 — Hoof Boots",
+   "Role": "PRUNE",
+   "Destination URL": "https://cavallo-inc.com/product-category/hoof-boot/",
+   "Evidence": "AUTO. post, wc=475, tr=0, li=0. On-topic (boots (commercial)) but thin & zero-equity -> prune (301 to boots (commercial) pillar).",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/help-with-hoof-boots/",
+   "Pillar": "Pillar 1 — Hoof Boots",
+   "Role": "PRUNE",
+   "Destination URL": "https://cavallo-inc.com/product-category/hoof-boot/",
+   "Evidence": "AUTO. post, wc=140, tr=0, li=0. On-topic (boots (commercial)) but thin & zero-equity -> prune (301 to boots (commercial) pillar).",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/herbs-for-horses/",
+   "Pillar": "Pillar 3 — Barefoot",
+   "Role": "KEEP-SPOKE",
+   "Destination URL": "",
+   "Evidence": "289w. Re-homed from diet -> Pillar 3 holistic supporting content. (Decision #4)",
+   "Source": "Seed",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/here-comes-your-inspiration/",
+   "Pillar": "Pillar 2 — Hoof Health",
+   "Role": "PRUNE",
+   "Destination URL": "https://cavallo-inc.com/your-cavallo-laminitis-healing-plan/",
+   "Evidence": "AUTO. post, wc=165, tr=0, li=0. On-topic (laminitis/founder) but thin & zero-equity -> prune (301 to laminitis/founder pillar).",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/hermans-helpful-hints/",
+   "Pillar": "Pillar 3 — Barefoot",
+   "Role": "PRUNE",
+   "Destination URL": "https://cavallo-inc.com/category/the-barefoot-horse/",
+   "Evidence": "AUTO. post, wc=279, tr=0, li=0. On-topic (barefoot care) but thin & zero-equity -> prune (301 to barefoot care pillar).",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/hey-chicken-go-feed-your-horse/",
+   "Pillar": "None",
+   "Role": "PRUNE",
+   "Destination URL": "301 -> nearest relevant page (review)",
+   "Evidence": "AUTO. post, wc=775, tr=0, li=0. No traffic, no links, off-topic, thin -> prune.",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/holiday-riding/",
+   "Pillar": "None",
+   "Role": "PRUNE",
+   "Destination URL": "301 -> nearest relevant page (review)",
+   "Evidence": "AUTO. post, wc=176, tr=0, li=0. No traffic, no links, off-topic, thin -> prune.",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/hoof-abscesses-bravely-facing-the-battle/",
+   "Pillar": "Pillar 2 — Hoof Health",
+   "Role": "MERGE+301",
+   "Destination URL": "(NEW) Pillar 2 — Hoof Abscess spoke",
+   "Evidence": "AUTO. post, wc=855, tr=1, li=1. On-topic (hoof abscess), some equity to consolidate -> merge into (NEW) Pillar 2 — Hoof Abscess spoke.",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/hoof-boot-stories/",
+   "Pillar": "Pillar 3 — Barefoot",
+   "Role": "PRUNE",
+   "Destination URL": "https://cavallo-inc.com/category/the-barefoot-horse/",
+   "Evidence": "AUTO. post, wc=185, tr=0, li=0. On-topic (barefoot care) but thin & zero-equity -> prune (301 to barefoot care pillar).",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/hoof-boots-the-heathly-alternative-to-metal-shoes/",
+   "Pillar": "Pillar 3 — Barefoot",
+   "Role": "PRUNE",
+   "Destination URL": "https://cavallo-inc.com/category/the-barefoot-horse/",
+   "Evidence": "AUTO. post, wc=120, tr=0, li=0. On-topic (barefoot care) but thin & zero-equity -> prune (301 to barefoot care pillar).",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/hoof-boots-and-bison/",
+   "Pillar": "Pillar 1 — Hoof Boots",
+   "Role": "PRUNE",
+   "Destination URL": "https://cavallo-inc.com/product-category/hoof-boot/",
+   "Evidence": "AUTO. post, wc=517, tr=0, li=0. On-topic (boots (commercial)) but thin & zero-equity -> prune (301 to boots (commercial) pillar).",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/hoof-boots-and-football/",
+   "Pillar": "Pillar 1 — Hoof Boots",
+   "Role": "PRUNE",
+   "Destination URL": "https://cavallo-inc.com/product-category/hoof-boot/",
+   "Evidence": "AUTO. post, wc=41, tr=0, li=0. On-topic (boots (commercial)) but thin & zero-equity -> prune (301 to boots (commercial) pillar).",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/hoof-boots-and-gypsies/",
+   "Pillar": "Pillar 1 — Hoof Boots",
+   "Role": "PRUNE",
+   "Destination URL": "https://cavallo-inc.com/product-category/hoof-boot/",
+   "Evidence": "AUTO. post, wc=118, tr=0, li=0. On-topic (boots (commercial)) but thin & zero-equity -> prune (301 to boots (commercial) pillar).",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/hoof-boots-and-heart-health/",
+   "Pillar": "Pillar 1 — Hoof Boots",
+   "Role": "PRUNE",
+   "Destination URL": "https://cavallo-inc.com/product-category/hoof-boot/",
+   "Evidence": "AUTO. post, wc=27, tr=0, li=0. On-topic (boots (commercial)) but thin & zero-equity -> prune (301 to boots (commercial) pillar).",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/hoof-boots-and-saddle-pads-in-australia/",
+   "Pillar": "Pillar 1 — Hoof Boots",
+   "Role": "PRUNE",
+   "Destination URL": "https://cavallo-inc.com/product-category/hoof-boot/",
+   "Evidence": "AUTO. post, wc=129, tr=0, li=0. On-topic (boots (commercial)) but thin & zero-equity -> prune (301 to boots (commercial) pillar).",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/hoof-boots-at-work/",
+   "Pillar": "Pillar 2 — Hoof Health",
+   "Role": "PRUNE",
+   "Destination URL": "(NEW) Pillar 2 — Hoof Health & Conditions page",
+   "Evidence": "AUTO. post, wc=92, tr=0, li=0. On-topic (hoof health/anatomy) but thin & zero-equity -> prune (301 to hoof health/anatomy pillar).",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/hoof-boots-down-under/",
+   "Pillar": "Pillar 3 — Barefoot",
+   "Role": "PRUNE",
+   "Destination URL": "(NEW) Pillar 3 — Barefoot Trimming spoke",
+   "Evidence": "AUTO. post, wc=86, tr=0, li=0. On-topic (barefoot trimming) but thin & zero-equity -> prune (301 to barefoot trimming pillar).",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/hoof-boots-for-247-protection-and-no-more-nails/",
+   "Pillar": "Pillar 2 — Hoof Health",
+   "Role": "PRUNE",
+   "Destination URL": "(NEW) Pillar 2 — Hoof Health & Conditions page",
+   "Evidence": "AUTO. post, wc=108, tr=0, li=0. On-topic (hoof health/anatomy) but thin & zero-equity -> prune (301 to hoof health/anatomy pillar).",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/hoof-boots-for-all-disciplines/",
+   "Pillar": "Pillar 1 — Hoof Boots",
+   "Role": "PRUNE",
+   "Destination URL": "https://cavallo-inc.com/product-category/hoof-boot/",
+   "Evidence": "AUTO. post, wc=88, tr=0, li=0. On-topic (boots (commercial)) but thin & zero-equity -> prune (301 to boots (commercial) pillar).",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/hoof-boots-for-gaited-horses/",
+   "Pillar": "Pillar 3 — Barefoot",
+   "Role": "PRUNE",
+   "Destination URL": "https://cavallo-inc.com/category/the-barefoot-horse/",
+   "Evidence": "AUTO. post, wc=158, tr=0, li=0. On-topic (barefoot care) but thin & zero-equity -> prune (301 to barefoot care pillar).",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/hoof-boots-for-mules/",
+   "Pillar": "Pillar 1 — Hoof Boots",
+   "Role": "PRUNE",
+   "Destination URL": "https://cavallo-inc.com/product-category/hoof-boot/",
+   "Evidence": "AUTO. post, wc=111, tr=0, li=0. On-topic (boots (commercial)) but thin & zero-equity -> prune (301 to boots (commercial) pillar).",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/hoof-boots-for-show-horses/",
+   "Pillar": "Pillar 1 — Hoof Boots",
+   "Role": "PRUNE",
+   "Destination URL": "https://cavallo-inc.com/product-category/hoof-boot/",
+   "Evidence": "AUTO. post, wc=128, tr=0, li=0. On-topic (boots (commercial)) but thin & zero-equity -> prune (301 to boots (commercial) pillar).",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/hoof-boots-help-horse-heal-from-abcesses/",
+   "Pillar": "Pillar 2 — Hoof Health",
+   "Role": "PRUNE",
+   "Destination URL": "(NEW) Pillar 2 — Hoof Abscess spoke",
+   "Evidence": "AUTO. post, wc=213, tr=0, li=0. On-topic (hoof abscess) but thin & zero-equity -> prune (301 to hoof abscess pillar).",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/hoof-boots-help-horses-help-people/",
+   "Pillar": "Pillar 2 — Hoof Health",
+   "Role": "PRUNE",
+   "Destination URL": "https://cavallo-inc.com/your-cavallo-laminitis-healing-plan/",
+   "Evidence": "AUTO. post, wc=156, tr=0, li=0. On-topic (laminitis/founder) but thin & zero-equity -> prune (301 to laminitis/founder pillar).",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/hoof-boots-help-through-winter/",
+   "Pillar": "Pillar 1 — Hoof Boots",
+   "Role": "PRUNE",
+   "Destination URL": "https://cavallo-inc.com/product-category/hoof-boot/",
+   "Evidence": "AUTO. post, wc=298, tr=0, li=0. On-topic (boots (commercial)) but thin & zero-equity -> prune (301 to boots (commercial) pillar).",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/hoof-boots-help-with-abscesses/",
+   "Pillar": "Pillar 2 — Hoof Health",
+   "Role": "PRUNE",
+   "Destination URL": "(NEW) Pillar 2 — Hoof Abscess spoke",
+   "Evidence": "AUTO. post, wc=92, tr=0, li=0. On-topic (hoof abscess) but thin & zero-equity -> prune (301 to hoof abscess pillar).",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/hoof-boots-in-great-britain/",
+   "Pillar": "Pillar 1 — Hoof Boots",
+   "Role": "PRUNE",
+   "Destination URL": "https://cavallo-inc.com/product-category/hoof-boot/",
+   "Evidence": "AUTO. post, wc=95, tr=0, li=0. On-topic (boots (commercial)) but thin & zero-equity -> prune (301 to boots (commercial) pillar).",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/hoof-boots-in-texas/",
+   "Pillar": "Pillar 3 — Barefoot",
+   "Role": "PRUNE",
+   "Destination URL": "https://cavallo-inc.com/category/the-barefoot-horse/",
+   "Evidence": "AUTO. post, wc=146, tr=0, li=0. On-topic (barefoot care) but thin & zero-equity -> prune (301 to barefoot care pillar).",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/hoof-boots-on-the-beach/",
+   "Pillar": "Pillar 3 — Barefoot",
+   "Role": "PRUNE",
+   "Destination URL": "https://cavallo-inc.com/category/the-barefoot-horse/",
+   "Evidence": "AUTO. post, wc=126, tr=0, li=0. On-topic (barefoot care) but thin & zero-equity -> prune (301 to barefoot care pillar).",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/hoof-boots-put-pep-in-her-step/",
+   "Pillar": "Pillar 1 — Hoof Boots",
+   "Role": "PRUNE",
+   "Destination URL": "https://cavallo-inc.com/product-category/hoof-boot/",
+   "Evidence": "AUTO. post, wc=150, tr=0, li=0. On-topic (boots (commercial)) but thin & zero-equity -> prune (301 to boots (commercial) pillar).",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/hoof-boots-save-foundered-mare/",
+   "Pillar": "Pillar 2 — Hoof Health",
+   "Role": "MERGE+301",
+   "Destination URL": "https://cavallo-inc.com/your-cavallo-laminitis-healing-plan/",
+   "Evidence": "Founder scatter, ~0 traffic/links. 761w foundered-mare story -> social-proof block. (Decision #1)",
+   "Source": "Seed",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/hoof-boots-stay-on-through-sucking-mud-and-deep-creeks/",
+   "Pillar": "Pillar 2 — Hoof Health",
+   "Role": "PRUNE",
+   "Destination URL": "https://cavallo-inc.com/your-cavallo-laminitis-healing-plan/",
+   "Evidence": "AUTO. post, wc=86, tr=0, li=0. On-topic (laminitis/founder) but thin & zero-equity -> prune (301 to laminitis/founder pillar).",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/hoof-boots-that-stay-on-2/",
+   "Pillar": "Pillar 1 — Hoof Boots",
+   "Role": "PRUNE",
+   "Destination URL": "https://cavallo-inc.com/product-category/hoof-boot/",
+   "Evidence": "AUTO. post, wc=77, tr=0, li=0. On-topic (boots (commercial)) but thin & zero-equity -> prune (301 to boots (commercial) pillar).",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/boots-that-stay-on-in-thick-snow-and-freezing-mud/",
+   "Pillar": "Pillar 1 — Hoof Boots",
+   "Role": "MERGE+301",
+   "Destination URL": "https://cavallo-inc.com/product-category/hoof-boot/",
+   "Evidence": "AUTO. post, wc=637, tr=2, li=0. On-topic (boots (commercial)), some equity to consolidate -> merge into https://cavallo-inc.com/product-category/hoof-boot/.",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/hoof-boots-that-stay-on/",
+   "Pillar": "Pillar 1 — Hoof Boots",
+   "Role": "PRUNE",
+   "Destination URL": "https://cavallo-inc.com/product-category/hoof-boot/",
+   "Evidence": "AUTO. post, wc=431, tr=0, li=0. On-topic (boots (commercial)) but thin & zero-equity -> prune (301 to boots (commercial) pillar).",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/hoof-care-during-winter-months/",
+   "Pillar": "Pillar 2 — Hoof Health",
+   "Role": "PRUNE",
+   "Destination URL": "https://cavallo-inc.com/your-cavallo-laminitis-healing-plan/",
+   "Evidence": "AUTO. post, wc=684, tr=0, li=0. On-topic (laminitis/founder) but thin & zero-equity -> prune (301 to laminitis/founder pillar).",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/hoof-care-for-the-winter-months/",
+   "Pillar": "Pillar 2 — Hoof Health",
+   "Role": "MERGE+301",
+   "Destination URL": "https://cavallo-inc.com/your-cavallo-laminitis-healing-plan/",
+   "Evidence": "AUTO. post, wc=424, tr=1, li=0. On-topic (laminitis/founder), some equity to consolidate -> merge into https://cavallo-inc.com/your-cavallo-laminitis-healing-plan/.",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/hoof-care-for-the-winter-months-continued/",
+   "Pillar": "Pillar 2 — Hoof Health",
+   "Role": "PRUNE",
+   "Destination URL": "(NEW) Pillar 2 — Hoof Health & Conditions page",
+   "Evidence": "AUTO. post, wc=479, tr=0, li=0. On-topic (hoof health/anatomy) but thin & zero-equity -> prune (301 to hoof health/anatomy pillar).",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/hoof-function-and-horse-shoes/",
+   "Pillar": "Pillar 3 — Barefoot",
+   "Role": "PRUNE",
+   "Destination URL": "https://cavallo-inc.com/category/the-barefoot-horse/",
+   "Evidence": "AUTO. post, wc=248, tr=0, li=0. On-topic (barefoot care) but thin & zero-equity -> prune (301 to barefoot care pillar).",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/hoof-history-time-for-a-new-story/",
+   "Pillar": "Pillar 2 — Hoof Health",
+   "Role": "PRUNE",
+   "Destination URL": "(NEW) Pillar 2 — Hoof Health & Conditions page",
+   "Evidence": "AUTO. post, wc=312, tr=0, li=0. On-topic (hoof health/anatomy) but thin & zero-equity -> prune (301 to hoof health/anatomy pillar).",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/hoof-moisture-balance-a-natural-approach/",
+   "Pillar": "Pillar 2 — Hoof Health",
+   "Role": "PRUNE",
+   "Destination URL": "(NEW) Pillar 2 — Hoof Health & Conditions page",
+   "Evidence": "AUTO. post, wc=367, tr=0, li=0. On-topic (hoof health/anatomy) but thin & zero-equity -> prune (301 to hoof health/anatomy pillar).",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/horse-hoof-puncture-wound/",
+   "Pillar": "Pillar 1 — Hoof Boots",
+   "Role": "MERGE+301",
+   "Destination URL": "https://cavallo-inc.com/product-category/hoof-boot/",
+   "Evidence": "AUTO. post, wc=1030, tr=0, li=1. On-topic (boots (commercial)), some equity to consolidate -> merge into https://cavallo-inc.com/product-category/hoof-boot/.",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/hooves-husbands-tractors/",
+   "Pillar": "Pillar 2 — Hoof Health",
+   "Role": "PRUNE",
+   "Destination URL": "(NEW) Pillar 2 — Hoof Health & Conditions page",
+   "Evidence": "AUTO. post, wc=316, tr=0, li=0. On-topic (hoof health/anatomy) but thin & zero-equity -> prune (301 to hoof health/anatomy pillar).",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/carole-gives-hope-for-life-after-laminitis-on-horsemanship-radio/",
+   "Pillar": "Pillar 2 — Hoof Health",
+   "Role": "PRUNE",
+   "Destination URL": "https://cavallo-inc.com/your-cavallo-laminitis-healing-plan/",
+   "Evidence": "AUTO. post, wc=256, tr=0, li=0. On-topic (laminitis/founder) but thin & zero-equity -> prune (301 to laminitis/founder pillar).",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/hope-for-pippa/",
+   "Pillar": "Pillar 2 — Hoof Health",
+   "Role": "PRUNE",
+   "Destination URL": "https://cavallo-inc.com/your-cavallo-laminitis-healing-plan/",
+   "Evidence": "AUTO. post, wc=262, tr=0, li=0. On-topic (laminitis/founder) but thin & zero-equity -> prune (301 to laminitis/founder pillar).",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/horse-hoof-boots-5926/",
+   "Pillar": "Pillar 1 — Hoof Boots",
+   "Role": "PRUNE",
+   "Destination URL": "https://cavallo-inc.com/product-category/hoof-boot/",
+   "Evidence": "AUTO. post, wc=328, tr=0, li=0. On-topic (boots (commercial)) but thin & zero-equity -> prune (301 to boots (commercial) pillar).",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/horse-human-health-care/",
+   "Pillar": "None",
+   "Role": "PRUNE",
+   "Destination URL": "301 -> nearest relevant page (review)",
+   "Evidence": "AUTO. post, wc=377, tr=0, li=0. No traffic, no links, off-topic, thin -> prune.",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/horse-anatomy-anyone/",
+   "Pillar": "None",
+   "Role": "PRUNE",
+   "Destination URL": "301 -> nearest relevant page (review)",
+   "Evidence": "AUTO. post, wc=358, tr=0, li=0. No traffic, no links, off-topic, thin -> prune.",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/horse-crazy/",
+   "Pillar": "Pillar 2 — Hoof Health",
+   "Role": "PRUNE",
+   "Destination URL": "https://cavallo-inc.com/equine-nutrition/",
+   "Evidence": "AUTO. post, wc=224, tr=0, li=0. On-topic (diet/nutrition) but thin & zero-equity -> prune (301 to diet/nutrition pillar).",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/horse-health-care-au-naturel/",
+   "Pillar": "None",
+   "Role": "PRUNE",
+   "Destination URL": "301 -> nearest relevant page (review)",
+   "Evidence": "AUTO. post, wc=573, tr=0, li=0. No traffic, no links, off-topic, thin -> prune.",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/horse-play/",
+   "Pillar": "None",
+   "Role": "PRUNE",
+   "Destination URL": "301 -> nearest relevant page (review)",
+   "Evidence": "AUTO. post, wc=34, tr=0, li=0. No traffic, no links, off-topic, thin -> prune.",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/horse-psychology/",
+   "Pillar": "None",
+   "Role": "PRUNE",
+   "Destination URL": "301 -> nearest relevant page (review)",
+   "Evidence": "AUTO. post, wc=612, tr=0, li=0. No traffic, no links, off-topic, thin -> prune.",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/horse-radio-network-holiday-radiothon/",
+   "Pillar": "None",
+   "Role": "PRUNE",
+   "Destination URL": "301 -> nearest relevant page (review)",
+   "Evidence": "AUTO. post, wc=378, tr=0, li=0. No traffic, no links, off-topic, thin -> prune.",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/come-hear-speak/",
+   "Pillar": "Pillar 2 — Hoof Health",
+   "Role": "PRUNE",
+   "Destination URL": "https://cavallo-inc.com/your-cavallo-laminitis-healing-plan/",
+   "Evidence": "AUTO. post, wc=142, tr=0, li=0. On-topic (laminitis/founder) but thin & zero-equity -> prune (301 to laminitis/founder pillar).",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/horse-tales-for-the-funny-bone/",
+   "Pillar": "None",
+   "Role": "PRUNE",
+   "Destination URL": "301 -> nearest relevant page (review)",
+   "Evidence": "AUTO. post, wc=267, tr=0, li=0. No traffic, no links, off-topic, thin -> prune.",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/debbie-roberts-loucks/",
+   "Pillar": "None",
+   "Role": "PRUNE",
+   "Destination URL": "301 -> nearest relevant page (review)",
+   "Evidence": "AUTO. post, wc=374, tr=0, li=0. No traffic, no links, off-topic, thin -> prune.",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/horses-at-liberty/",
+   "Pillar": "None",
+   "Role": "PRUNE",
+   "Destination URL": "301 -> nearest relevant page (review)",
+   "Evidence": "AUTO. post, wc=367, tr=0, li=0. No traffic, no links, off-topic, thin -> prune.",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/horses-in-winter-conditions/",
+   "Pillar": "None",
+   "Role": "PRUNE",
+   "Destination URL": "301 -> nearest relevant page (review)",
+   "Evidence": "AUTO. post, wc=399, tr=0, li=0. No traffic, no links, off-topic, thin -> prune.",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/horses-wearing-hoof-boots-saddle-pads/",
+   "Pillar": "Pillar 1 — Hoof Boots",
+   "Role": "PRUNE",
+   "Destination URL": "https://cavallo-inc.com/product-category/hoof-boot/",
+   "Evidence": "AUTO. post, wc=124, tr=0, li=0. On-topic (boots (commercial)) but thin & zero-equity -> prune (301 to boots (commercial) pillar).",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/horses-prizes-saddle-pads-and-hoof-boots/",
+   "Pillar": "Pillar 1 — Hoof Boots",
+   "Role": "PRUNE",
+   "Destination URL": "https://cavallo-inc.com/product-category/hoof-boot/",
+   "Evidence": "AUTO. post, wc=151, tr=0, li=0. On-topic (boots (commercial)) but thin & zero-equity -> prune (301 to boots (commercial) pillar).",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/how-can-red-light-therapy-benefit-your-horse/",
+   "Pillar": "None",
+   "Role": "PRUNE",
+   "Destination URL": "301 -> nearest relevant page (review)",
+   "Evidence": "AUTO. post, wc=298, tr=0, li=0. No traffic, no links, off-topic, thin -> prune.",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/how-do-you-make-the-world-a-brighter-place/",
+   "Pillar": "Pillar 2 — Hoof Health",
+   "Role": "PRUNE",
+   "Destination URL": "(NEW) Pillar 2 — Hoof Health & Conditions page",
+   "Evidence": "AUTO. post, wc=242, tr=0, li=0. On-topic (hoof health/anatomy) but thin & zero-equity -> prune (301 to hoof health/anatomy pillar).",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/humanizing-your-horse/",
+   "Pillar": "None",
+   "Role": "PRUNE",
+   "Destination URL": "301 -> nearest relevant page (review)",
+   "Evidence": "AUTO. post, wc=528, tr=0, li=0. No traffic, no links, off-topic, thin -> prune.",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/hydrating-hooves-in-dry-hot-weather/",
+   "Pillar": "Pillar 2 — Hoof Health",
+   "Role": "MERGE+301",
+   "Destination URL": "(NEW) Pillar 2 — Hoof Abscess spoke",
+   "Evidence": "AUTO. post, wc=550, tr=0, li=1. On-topic (hoof abscess), some equity to consolidate -> merge into (NEW) Pillar 2 — Hoof Abscess spoke.",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/i-had-so-much-fun-being-interviewed-on-carly-kades-podcast/",
+   "Pillar": "Pillar 2 — Hoof Health",
+   "Role": "PRUNE",
+   "Destination URL": "https://cavallo-inc.com/your-cavallo-laminitis-healing-plan/",
+   "Evidence": "AUTO. post, wc=192, tr=0, li=0. On-topic (laminitis/founder) but thin & zero-equity -> prune (301 to laminitis/founder pillar).",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/i-solemnly-swear/",
+   "Pillar": "None",
+   "Role": "REWRITE",
+   "Destination URL": "",
+   "Evidence": "AUTO. post, wc=987, tr=0, li=0. Substantial (987w) but off-topic -> review (repurpose or prune).",
+   "Source": "Auto",
+   "Needs Review": "__YES__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/imagining-wild-horses-the-hormonal-gas-pedal-in-action/",
+   "Pillar": "Pillar 3 — Barefoot",
+   "Role": "PRUNE",
+   "Destination URL": "(NEW) Pillar 3 — Wild Horse Hooves spoke",
+   "Evidence": "AUTO. post, wc=350, tr=0, li=0. On-topic (wild horse hooves) but thin & zero-equity -> prune (301 to wild horse hooves pillar).",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/in-honor-of-earth-day/",
+   "Pillar": "None",
+   "Role": "PRUNE",
+   "Destination URL": "301 -> nearest relevant page (review)",
+   "Evidence": "AUTO. post, wc=288, tr=0, li=0. No traffic, no links, off-topic, thin -> prune.",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/cavallo-price-adjustment/",
+   "Pillar": "Pillar 2 — Hoof Health",
+   "Role": "PRUNE",
+   "Destination URL": "https://cavallo-inc.com/your-cavallo-laminitis-healing-plan/",
+   "Evidence": "AUTO. post, wc=404, tr=0, li=0. On-topic (laminitis/founder) but thin & zero-equity -> prune (301 to laminitis/founder pillar).",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/is-she-abusing-her-horse/",
+   "Pillar": "Pillar 1 — Hoof Boots",
+   "Role": "MERGE+301",
+   "Destination URL": "https://cavallo-inc.com/product-category/hoof-boot/",
+   "Evidence": "AUTO. post, wc=804, tr=0, li=0. On-topic (boots (commercial)), substantive on-topic copy (804w) -> merge into https://cavallo-inc.com/product-category/hoof-boot/.",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/are-you-sure-your-horse-is-ready-for-retirement/",
+   "Pillar": "Pillar 1 — Hoof Boots",
+   "Role": "MERGE+301",
+   "Destination URL": "https://cavallo-inc.com/product-category/hoof-boot/",
+   "Evidence": "AUTO. post, wc=960, tr=0, li=0. On-topic (boots (commercial)), substantive on-topic copy (960w) -> merge into https://cavallo-inc.com/product-category/hoof-boot/.",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/is-your-horse-a-polar-bear/",
+   "Pillar": "None",
+   "Role": "PRUNE",
+   "Destination URL": "301 -> nearest relevant page (review)",
+   "Evidence": "AUTO. post, wc=323, tr=0, li=0. No traffic, no links, off-topic, thin -> prune.",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/is-your-horse-drinking-dangerous-cocktails/",
+   "Pillar": "None",
+   "Role": "PRUNE",
+   "Destination URL": "301 -> nearest relevant page (review)",
+   "Evidence": "AUTO. post, wc=482, tr=0, li=0. No traffic, no links, off-topic, thin -> prune.",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ }
+]

@@ -1,0 +1,596 @@
+[
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/category/saddle-pads-blog/",
+   "Pillar": "None",
+   "Role": "NOINDEX",
+   "Destination URL": "",
+   "Evidence": "AUTO. Blog category archive -> noindex (thin auto-archive). Topic: off-topic.",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/category/cavallo-just-for-fun/",
+   "Pillar": "None",
+   "Role": "NOINDEX",
+   "Destination URL": "",
+   "Evidence": "AUTO. Blog category archive -> noindex (thin auto-archive). Topic: off-topic.",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/category/trail-riding/",
+   "Pillar": "None",
+   "Role": "NOINDEX",
+   "Destination URL": "",
+   "Evidence": "AUTO. Blog category archive -> noindex (thin auto-archive). Topic: off-topic.",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/category/blog/horse-health/",
+   "Pillar": "None",
+   "Role": "NOINDEX",
+   "Destination URL": "",
+   "Evidence": "AUTO. Blog category archive -> noindex (thin auto-archive). Topic: off-topic.",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/category/stories/saddle-pad-testimonials/",
+   "Pillar": "None",
+   "Role": "NOINDEX",
+   "Destination URL": "",
+   "Evidence": "AUTO. Blog category archive -> noindex (thin auto-archive). Topic: off-topic.",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/category/blog/the-barefoot-horse-blog/",
+   "Pillar": "Pillar 3 — Barefoot",
+   "Role": "NOINDEX",
+   "Destination URL": "",
+   "Evidence": "AUTO. Blog category archive -> noindex (thin auto-archive). Topic: barefoot care.",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/category/blog/inspiring-rides-and-events/",
+   "Pillar": "None",
+   "Role": "NOINDEX",
+   "Destination URL": "",
+   "Evidence": "AUTO. Blog category archive -> noindex (thin auto-archive). Topic: off-topic.",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/category/blog/the-shod-horse/",
+   "Pillar": "None",
+   "Role": "NOINDEX",
+   "Destination URL": "",
+   "Evidence": "AUTO. Blog category archive -> noindex (thin auto-archive). Topic: off-topic.",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/category/blog/just-ask-carole-blog/",
+   "Pillar": "None",
+   "Role": "NOINDEX",
+   "Destination URL": "",
+   "Evidence": "AUTO. Blog category archive -> noindex (thin auto-archive). Topic: off-topic.",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/category/miniature-horses-vse/",
+   "Pillar": "Pillar 1 — Hoof Boots",
+   "Role": "NOINDEX",
+   "Destination URL": "",
+   "Evidence": "AUTO. Blog category archive -> noindex (thin auto-archive). Topic: boots (commercial).",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/category/uncategorized/",
+   "Pillar": "None",
+   "Role": "NOINDEX",
+   "Destination URL": "",
+   "Evidence": "AUTO. Blog category archive -> noindex (thin auto-archive). Topic: off-topic.",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/category/your-cavallo-news-celebrating-the-dynamic-lives-of-your-cavallo-community/",
+   "Pillar": "None",
+   "Role": "NOINDEX",
+   "Destination URL": "",
+   "Evidence": "AUTO. Blog category archive -> noindex (thin auto-archive). Topic: off-topic.",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/product-category/hoof-boot-accessories/",
+   "Pillar": "Pillar 1 — Hoof Boots",
+   "Role": "KEEP-SPOKE",
+   "Destination URL": "",
+   "Evidence": "AUTO. product_cat, wc=0, tr=9, li=0. Product subcategory — Pillar 1 'types & use cases' target.",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/product-category/other-products/",
+   "Pillar": "Pillar 1 — Hoof Boots",
+   "Role": "KEEP-SPOKE",
+   "Destination URL": "",
+   "Evidence": "AUTO. product_cat, wc=0, tr=0, li=0. Product subcategory — Pillar 1 'types & use cases' target.",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/product-category/other-products/other-cool-stuff/",
+   "Pillar": "Pillar 1 — Hoof Boots",
+   "Role": "KEEP-SPOKE",
+   "Destination URL": "",
+   "Evidence": "AUTO. product_cat, wc=0, tr=0, li=0. Product subcategory — Pillar 1 'types & use cases' target.",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/product-category/canine-products/",
+   "Pillar": "Pillar 1 — Hoof Boots",
+   "Role": "KEEP-SPOKE",
+   "Destination URL": "",
+   "Evidence": "AUTO. product_cat, wc=0, tr=0, li=0. Product subcategory — Pillar 1 'types & use cases' target.",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/product-category/hoof-boot-accessories/hoof-boot-pads/",
+   "Pillar": "Pillar 1 — Hoof Boots",
+   "Role": "KEEP-SPOKE",
+   "Destination URL": "",
+   "Evidence": "AUTO. product_cat, wc=0, tr=13, li=0. Product subcategory — Pillar 1 'types & use cases' target.",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/product-category/other-products/hoof-care-products/",
+   "Pillar": "Pillar 1 — Hoof Boots",
+   "Role": "KEEP-SPOKE",
+   "Destination URL": "",
+   "Evidence": "AUTO. product_cat, wc=0, tr=0, li=0. Product subcategory — Pillar 1 'types & use cases' target.",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/product-category/hoof-boot-accessories/cavallo-hoof-boots-velcro-replacement-straps/",
+   "Pillar": "Pillar 1 — Hoof Boots",
+   "Role": "KEEP-SPOKE",
+   "Destination URL": "",
+   "Evidence": "AUTO. product_cat, wc=0, tr=3, li=0. Product subcategory — Pillar 1 'types & use cases' target.",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/product-category/saddle-pads/",
+   "Pillar": "Pillar 1 — Hoof Boots",
+   "Role": "KEEP-SPOKE",
+   "Destination URL": "",
+   "Evidence": "AUTO. product_cat, wc=0, tr=35, li=0. Product subcategory — Pillar 1 'types & use cases' target.",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/product-category/hoof-boot/trek-hoof-boots/",
+   "Pillar": "Pillar 1 — Hoof Boots",
+   "Role": "KEEP-SPOKE",
+   "Destination URL": "",
+   "Evidence": "AUTO. product_cat, wc=0, tr=85, li=0. Product subcategory — Pillar 1 'types & use cases' target.",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/product-category/hoof-boot-accessories/hoof-boot-pads/cavallo-hoof-boot-cushion-pads/",
+   "Pillar": "Pillar 1 — Hoof Boots",
+   "Role": "KEEP-SPOKE",
+   "Destination URL": "",
+   "Evidence": "AUTO. product_cat, wc=0, tr=0, li=0. Product subcategory — Pillar 1 'types & use cases' target.",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/product-category/hoof-boot/mini-hoof-boots/",
+   "Pillar": "Pillar 1 — Hoof Boots",
+   "Role": "KEEP-SPOKE",
+   "Destination URL": "",
+   "Evidence": "AUTO. product_cat, wc=0, tr=26, li=0. Product subcategory — Pillar 1 'types & use cases' target.",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/product-category/clothing/",
+   "Pillar": "Pillar 1 — Hoof Boots",
+   "Role": "KEEP-SPOKE",
+   "Destination URL": "",
+   "Evidence": "AUTO. product_cat, wc=0, tr=0, li=0. Product subcategory — Pillar 1 'types & use cases' target.",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/product-category/other-products/fly-masks-and-halters/",
+   "Pillar": "Pillar 1 — Hoof Boots",
+   "Role": "KEEP-SPOKE",
+   "Destination URL": "",
+   "Evidence": "AUTO. product_cat, wc=0, tr=0, li=0. Product subcategory — Pillar 1 'types & use cases' target.",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/product-category/other-products/books/",
+   "Pillar": "Pillar 1 — Hoof Boots",
+   "Role": "KEEP-SPOKE",
+   "Destination URL": "",
+   "Evidence": "AUTO. product_cat, wc=0, tr=0, li=0. Product subcategory — Pillar 1 'types & use cases' target.",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/product-category/saddle-pads/english-saddle-pads/",
+   "Pillar": "Pillar 1 — Hoof Boots",
+   "Role": "KEEP-SPOKE",
+   "Destination URL": "",
+   "Evidence": "AUTO. product_cat, wc=0, tr=1, li=0. Product subcategory — Pillar 1 'types & use cases' target.",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/product-category/hoof-boot-accessories/pastern-wraps/",
+   "Pillar": "Pillar 1 — Hoof Boots",
+   "Role": "KEEP-SPOKE",
+   "Destination URL": "",
+   "Evidence": "AUTO. product_cat, wc=0, tr=75, li=0. Product subcategory — Pillar 1 'types & use cases' target.",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/product-category/hoof-boot-accessories/hoof-boot-studs/",
+   "Pillar": "Pillar 1 — Hoof Boots",
+   "Role": "KEEP-SPOKE",
+   "Destination URL": "",
+   "Evidence": "AUTO. product_cat, wc=0, tr=2, li=0. Product subcategory — Pillar 1 'types & use cases' target.",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/product-category/other-products/splintbrushing-boots/",
+   "Pillar": "Pillar 1 — Hoof Boots",
+   "Role": "KEEP-SPOKE",
+   "Destination URL": "",
+   "Evidence": "AUTO. product_cat, wc=0, tr=0, li=0. Product subcategory — Pillar 1 'types & use cases' target.",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/product-category/saddle-pads/western-saddle-pads/",
+   "Pillar": "Pillar 1 — Hoof Boots",
+   "Role": "KEEP-SPOKE",
+   "Destination URL": "",
+   "Evidence": "AUTO. product_cat, wc=0, tr=0, li=0. Product subcategory — Pillar 1 'types & use cases' target.",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/product-category/pro-flex-splint-boots/",
+   "Pillar": "Pillar 1 — Hoof Boots",
+   "Role": "KEEP-SPOKE",
+   "Destination URL": "",
+   "Evidence": "AUTO. product_cat, wc=0, tr=0, li=0. Product subcategory — Pillar 1 'types & use cases' target.",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/product-category/clothing/shop-caps/",
+   "Pillar": "Pillar 1 — Hoof Boots",
+   "Role": "KEEP-SPOKE",
+   "Destination URL": "",
+   "Evidence": "AUTO. product_cat, wc=0, tr=0, li=0. Product subcategory — Pillar 1 'types & use cases' target.",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/product-category/hoof-boot/leb-long-ear-hoof-boots-for-donkeys/",
+   "Pillar": "Pillar 1 — Hoof Boots",
+   "Role": "KEEP-SPOKE",
+   "Destination URL": "",
+   "Evidence": "AUTO. product_cat, wc=0, tr=0, li=0. Product subcategory — Pillar 1 'types & use cases' target.",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/product-category/hoof-boot-accessories/hoof-boot-pads/protection-pads/",
+   "Pillar": "Pillar 1 — Hoof Boots",
+   "Role": "KEEP-SPOKE",
+   "Destination URL": "",
+   "Evidence": "AUTO. product_cat, wc=0, tr=1, li=0. Product subcategory — Pillar 1 'types & use cases' target.",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/product-category/hoof-boot/elb-hoof-boots/",
+   "Pillar": "Pillar 1 — Hoof Boots",
+   "Role": "KEEP-SPOKE",
+   "Destination URL": "",
+   "Evidence": "AUTO. product_cat, wc=0, tr=0, li=0. Product subcategory — Pillar 1 'types & use cases' target.",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/product-category/clothing/womens-t-shirts/",
+   "Pillar": "Pillar 1 — Hoof Boots",
+   "Role": "KEEP-SPOKE",
+   "Destination URL": "",
+   "Evidence": "AUTO. product_cat, wc=0, tr=0, li=0. Product subcategory — Pillar 1 'types & use cases' target.",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/product-category/hoof-boot/bfb-hoof-boots/",
+   "Pillar": "Pillar 1 — Hoof Boots",
+   "Role": "KEEP-SPOKE",
+   "Destination URL": "",
+   "Evidence": "AUTO. product_cat, wc=0, tr=4, li=0. Product subcategory — Pillar 1 'types & use cases' target.",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/product-category/hoof-boot-accessories/hoof-boot-pads/support-pads-hoof-boot-pads/",
+   "Pillar": "Pillar 1 — Hoof Boots",
+   "Role": "KEEP-SPOKE",
+   "Destination URL": "",
+   "Evidence": "AUTO. product_cat, wc=0, tr=0, li=0. Product subcategory — Pillar 1 'types & use cases' target.",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/product-category/hoof-boot-accessories/hoof-boot-pads/comfort-pads/",
+   "Pillar": "Pillar 1 — Hoof Boots",
+   "Role": "KEEP-SPOKE",
+   "Destination URL": "",
+   "Evidence": "AUTO. product_cat, wc=0, tr=0, li=0. Product subcategory — Pillar 1 'types & use cases' target.",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/product-category/hoof-boot-accessories/hoof-boot-pads/gel-pads/",
+   "Pillar": "Pillar 1 — Hoof Boots",
+   "Role": "KEEP-SPOKE",
+   "Destination URL": "",
+   "Evidence": "AUTO. product_cat, wc=0, tr=0, li=0. Product subcategory — Pillar 1 'types & use cases' target.",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/product-category/hoof-boot-accessories/hoof-boot-pads/bfb-poly-pads/",
+   "Pillar": "Pillar 1 — Hoof Boots",
+   "Role": "KEEP-SPOKE",
+   "Destination URL": "",
+   "Evidence": "AUTO. product_cat, wc=0, tr=0, li=0. Product subcategory — Pillar 1 'types & use cases' target.",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/product-category/hoof-boot/sport-hoof-boots/",
+   "Pillar": "Pillar 1 — Hoof Boots",
+   "Role": "KEEP-SPOKE",
+   "Destination URL": "",
+   "Evidence": "AUTO. product_cat, wc=0, tr=16, li=0. Product subcategory — Pillar 1 'types & use cases' target.",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/product-category/hoof-boot/simple-hoof-boots/",
+   "Pillar": "Pillar 1 — Hoof Boots",
+   "Role": "KEEP-SPOKE",
+   "Destination URL": "",
+   "Evidence": "AUTO. product_cat, wc=0, tr=42, li=0. Product subcategory — Pillar 1 'types & use cases' target.",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/product-category/hoof-boot-accessories/hoof-boot-pads/clb-cute-little-boot-pads/",
+   "Pillar": "Pillar 1 — Hoof Boots",
+   "Role": "KEEP-SPOKE",
+   "Destination URL": "",
+   "Evidence": "AUTO. product_cat, wc=0, tr=0, li=0. Product subcategory — Pillar 1 'types & use cases' target.",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/product-category/horse-care/",
+   "Pillar": "Pillar 1 — Hoof Boots",
+   "Role": "KEEP-SPOKE",
+   "Destination URL": "",
+   "Evidence": "AUTO. product_cat, wc=0, tr=0, li=0. Product subcategory — Pillar 1 'types & use cases' target.",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/product-category/other-products/cavallo-gift-cards/",
+   "Pillar": "Pillar 1 — Hoof Boots",
+   "Role": "KEEP-SPOKE",
+   "Destination URL": "",
+   "Evidence": "AUTO. product_cat, wc=0, tr=0, li=0. Product subcategory — Pillar 1 'types & use cases' target.",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/product-category/uncategorized/",
+   "Pillar": "Pillar 1 — Hoof Boots",
+   "Role": "KEEP-SPOKE",
+   "Destination URL": "",
+   "Evidence": "AUTO. product_cat, wc=0, tr=0, li=0. Product subcategory — Pillar 1 'types & use cases' target.",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/product-category/hoof-boot/bling-boots/",
+   "Pillar": "Pillar 1 — Hoof Boots",
+   "Role": "KEEP-SPOKE",
+   "Destination URL": "",
+   "Evidence": "AUTO. product_cat, wc=0, tr=0, li=0. Product subcategory — Pillar 1 'types & use cases' target.",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/product-category/hoof-boot/",
+   "Pillar": "Pillar 1 — Hoof Boots",
+   "Role": "KEEP-CANONICAL",
+   "Destination URL": "",
+   "Evidence": "Pillar 1 canonical (commercial hub). #1 asset ~1,286 visits/mo. Add buyer's-guide copy; stays transactional.",
+   "Source": "Seed",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/product-category/hoof-boot/trek/",
+   "Pillar": "Pillar 1 — Hoof Boots",
+   "Role": "KEEP-SPOKE",
+   "Destination URL": "",
+   "Evidence": "AUTO. product_cat, wc=0, tr=0, li=0. Product subcategory — Pillar 1 'types & use cases' target.",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/tag/<slug>/",
+   "Pillar": "None",
+   "Role": "NOINDEX",
+   "Destination URL": "",
+   "Evidence": "AUTO. Thin tag/taxonomy archive -> noindex (Yoast taxonomy setting, Step 4).",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/testimonial-tag/<slug>/",
+   "Pillar": "None",
+   "Role": "NOINDEX",
+   "Destination URL": "",
+   "Evidence": "AUTO. Thin tag/taxonomy archive -> noindex (Yoast taxonomy setting, Step 4).",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ },
+ {
+  "properties": {
+   "Page URL": "https://cavallo-inc.com/product-tag/<slug>/",
+   "Pillar": "None",
+   "Role": "NOINDEX",
+   "Destination URL": "",
+   "Evidence": "AUTO. Thin tag/taxonomy archive -> noindex (Yoast taxonomy setting, Step 4).",
+   "Source": "Auto",
+   "Needs Review": "__NO__"
+  }
+ }
+]
