@@ -66,7 +66,7 @@
 ---
 
 ## 4 architecture decisions — STATUS (updated 2026-06-16)
-**3 of 4 locked.** Detail below is audit-verified and becomes the first rows of the Content Disposition Map (Step 2).
+**4 of 4 locked.** Detail below is audit-verified and becomes the first rows of the Content Disposition Map (Step 2).
 
 1. ✅ **Founder → MERGE+301 into the Laminitis spoke** (`/your-cavallo-laminitis-healing-plan/`). Audit reality: there is NO single "Founder" page to absorb — it's a scatter of thin posts (all ~0 traffic / ~0 links):
    - `/laminitis-navicular-and-founder/` (278w) · `/hoof-boots-save-foundered-mare/` (761w) · `/update-hoof-boots-save-foundered-mare/` (246w) · `/update-hoof-boots-save-foundered-mare-2/` (525w) · `/update-hoof-boots-save-foundered-mare-3/` (258w) · `/two-year-anniversary-in-founder-valley/` (2,014w narrative)
@@ -77,7 +77,11 @@
    - Both commercial pages: `/cavallo-boots-for-navicular/` (983w, 1 visit) + `/faq/cavallo-hoof-boots-for-navicular/` (1,549w, 3 links)
    - Thin posts: `/give-navicular-the-boot/` (307w) · `/kicking-naviculars-butt/` (593w) · `/navicular-seek-truth/` (671w) · `/from-navicular-to-prancing/` (128w) · `/wrestling-navicular-trust-your-gut/` (127w) · `/laminitis-navicular-and-founder/` (278w, shared with #1)
    - KEEP SEPARATE: `/faq/cavallo-hoof-boots-for-therapy-and-rehabilitation/` (1,808w, 7 links) — only *mentions* navicular; it's a therapy/rehab page → its own Pillar 1 spoke.
-4. ⬜ **Diet / nutrition → OPEN** (recommendation, not yet confirmed): in scope as **spokes only** — consolidate duplicate nutrition posts into one canonical spoke (or two), link under Pillar 2; the pillar page itself stays on anatomy/care. NEXT: pull all diet/nutrition pages from the audit, then confirm.
+4. ✅ **Diet / nutrition → ONE educational spoke under Pillar 2** (Mark's call, 2026-06-16). Demand reality (Ahrefs, US): the literal *hoof-nutrition* angle is ~0 volume (`hoof nutrition` 30, `minerals for horse hooves` 0), so the spoke targets the broader informational terms — `horse diet` (800, KD21) + `equine nutrition` (400, KD21) — and stays **educational** ("diet → healthy hoof"), not commercial. Deliberately **skip** the easy commercial supplement terms (`horse hoof supplement` KD0/TP600, `biotin for horses` KD1): Cavallo sells boots, not supplements, and they'd dilute the pillar's topical focus. The Pillar 2 page itself stays on anatomy/care; this is a supporting spoke.
+   - **Canonical = `/equine-nutrition/`** (411w; best slug). Expand into the diet→hoof spoke; soft-link to boot products, no hard commercial CTA.
+   - **MERGE+301 into it** (all thin, ~0 traffic, ~0 links, founder-voice): `/balancing-minerals-to-build-the-best-hoof/` (979w) · `/hay-facts/` (631w) · `/a-balanced-diet-creates-a-healthy-hoof/` (380w) · `/are-you-feeding-your-horse-like-a-cow/` (408w, 9 visits)
+   - **Re-home (diet-adjacent → belongs elsewhere):** `/all-things-barefoot-4/` → Pillar 3 (Barefoot); `/spring-is-here/` + `/two-year-anniversary-in-founder-valley/` → Decision #1 Laminitis spoke (diet-as-trigger / social proof); `/dr-robert-bowker-talks-holistic-care/` + `/herbs-for-horses/` → Pillar 3 / holistic supporting content.
+   - **PRUNE (off-topic → 301 to nearest relevant page):** `/fall-pasture-maintenance-chores-add-list/` (land/field maintenance, not equine diet) · `/cavallo-now-offers-natural-solutions-natural-stride-joint-supplements/` (old joint-supplement promo).
 
 ---
 
@@ -87,9 +91,21 @@
 - **Local site:** front-end was broken (b-carousel-block fatal); DB is reachable via the LocalWP MySQL socket. Audit pulls from the DB directly.
 - **Vercel plugin disabled** globally (`~/.claude/settings.json`) — the irrelevant "best practices" injections are off.
 
-## ▶️ RESUME HERE — new session required (updated 2026-06-16)
-**Why a new session:** the next workstream (video transcripts) needs outbound network to `cavallo-inc.com` + YouTube/Vimeo. This environment's egress is blocked — every request 403s via the proxy (confirmed even on `youtube.com/robots.txt`, which is open to the whole internet, so it's the policy, not the sites) — and a remote environment's network policy is fixed **at creation**, so a running session can't pick up a change. **Start a fresh Claude Code web session under an open/expanded network policy.**
+## ▶️ RESUME HERE (updated 2026-06-16 — handing off to LOCAL)
+**All 4 architecture decisions are locked** (see STATUS above) — they're the seed rows for the Content Disposition Map. Work continues **locally** on branch `claude/laughing-edison-14369z` (draft PR #13). **`git pull origin claude/laughing-edison-14369z` first.**
 
-**Two threads open — full video runbook in `site-audit/VIDEO-TRANSCRIPTS.md`:**
-1. **Video transcripts** — Mark wants to link/embed the (mostly noindex) videos from spokes. New session → (a) verify egress (`https://www.youtube.com/robots.txt` → expect 200), (b) run `python3 site-audit/fetch_video_transcripts.py` → `video_transcripts.json`, (c) build the video→spoke map + decide the **10 indexable** videos (keep-index vs noindex). If the container's datacenter IP still 403s (Cavallo WAF / YouTube), run the script locally on Mark's Mac.
-2. **Decision #4 (diet/nutrition)** — last architecture decision; pull the diet pages from the audit, confirm, then build the **Content Disposition Map** (Step 2) in Notion. Decisions #1–#3 above are locked and ready to become its first rows.
+### ▶️ Next action: build the Content Disposition Map (Step 2 — the keystone) in Notion
+Needs the **Notion MCP** connected; no other network required.
+
+**WHERE IT LIVES (decided 2026-06-16):** make it **ONE central database**, *not* split across the three pillar playbooks. One row per URL with exactly one role is the entire integrity mechanism — splitting by pillar breaks cross-pillar dedupe and the "every URL has exactly one destination" guarantee, and most URLs (prune/noindex tag-archives, orphans, off-topic) don't belong to any single pillar anyway.
+- **Home:** new database **"Content Disposition Map"** under the **SEO Project Portal**, alongside the existing Pillar Keyword Map (Resources & Documents).
+- **Keep the playbooks as per-pillar narrative.** Surface each pillar's slice by embedding a **filtered linked view** of the one database inside its playbook page (filter `Pillar = X`). One source of truth + per-pillar views.
+
+**Schema (one row per URL):** `URL` · `Pillar` (Boot Guide / Hoof Health / Barefoot / —) · `Role` (KEEP-CANONICAL / OPTIMIZE / KEEP-SPOKE / MERGE+301 / REWRITE / NOINDEX / PRUNE) · `Destination URL` · `Evidence / notes`.
+
+**Build order:**
+1. **Seed the ~25 audit-verified rows from decisions #1–#4** (founder/laminitis merges, navicular consolidation, DSLD = leave out, diet spoke + its merges/re-homes/prunes). These are spelled out verbatim in the STATUS section above — copy them in.
+2. **Auto-classify the long tail** from `site-audit/cavallo_page_audit.csv` (traffic, links_in, word_count, topic) and import; then Mark-review the ~30–50 judgment calls (Step 3).
+
+### Parked
+- **Video transcripts — deprioritized** (Mark: "forget the videos"). Untouched; full runbook preserved in `site-audit/VIDEO-TRANSCRIPTS.md`. Blocker unchanged: needs an environment created under a **Full/open network policy** (egress re-tested 2026-06-16 — youtube + cavallo both 403 via the default *Trusted*-policy proxy). How to set that up: Network access → **Full** when adding/editing the environment, then start a fresh session. Revisit only if linking/embedding the videos becomes a priority.
