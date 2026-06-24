@@ -51,7 +51,7 @@ export async function fetchAhrefsVisibility(
 export async function fetchAhrefsKeywords(
   config: ClientConfig,
   keywords: string[]
-): Promise<{ keyword: string; position: number | null; prev: number | null }[] | null> {
+): Promise<{ keyword: string; position: number | null; prev: number | null; rankingUrl: string | null }[] | null> {
   if (!process.env.AHREFS_API_TOKEN) return null;
 
   const whereFilter = JSON.stringify({
