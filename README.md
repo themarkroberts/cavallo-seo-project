@@ -5,11 +5,15 @@ dashboard generated from them.
 
 ## Using it
 
+**Easiest:** double-click `Cavallo Dashboard.command` in Finder (or keep it in your Dock).
+It fetches fresh numbers, rebuilds, and opens the dashboard. Takes about 30 seconds.
+
+Or from a terminal:
+
 ```bash
-npm run refresh   # pull fresh numbers from Ahrefs, GA4, and Notion tasks
-npm run build     # regenerate dashboard.html
-open dashboard.html
-npm run check    # typecheck + tests
+npm start         # refresh + rebuild + open, all in one
+npm run build     # rebuild only, no fetching (instant)
+npm run check     # typecheck + tests
 ```
 
 ### Credentials
