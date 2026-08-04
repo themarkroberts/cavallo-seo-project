@@ -17,4 +17,6 @@ Read `docs/superpowers/specs/2026-08-04-project-dashboard-design.md` before chan
 - **Run `npm run check` before committing.** Node strips types without validating them, so a
   type error will run happily and fail only at runtime. A real Notion-SDK type bug shipped this
   way once already and was caught only by an explicit `tsc --noEmit`.
+- **Credentials are shared, not duplicated.** Google comes from `../mrc-marketing/.env` via
+  aliases in `lib/env.ts`. Do not copy secrets into this repo.
 - Zero new dependencies without asking.

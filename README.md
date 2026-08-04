@@ -12,8 +12,17 @@ open dashboard.html
 npm run check    # typecheck + tests
 ```
 
-`npm run refresh` needs `.env.local` — copy `.env.local.example` and fill it in.
-`npm run build` works without credentials; it just reports that metrics were never fetched.
+### Credentials
+
+Google credentials come from the sibling `../mrc-marketing/.env`, which both scripts load
+before `.env.local`. Nothing Google-related needs duplicating here — `lib/env.ts` maps the
+name differences. Note that MRC's `GOOGLE_ADS_REFRESH_TOKEN` is the working one; its
+`GOOGLE_REFRESH_TOKEN` is blank.
+
+Put anything MRC does not provide in `.env.local` (see `.env.local.example`). Values there
+override the shared file.
+
+`npm run build` works without any credentials; it just reports that metrics were never fetched.
 
 ## Where things live
 
