@@ -197,9 +197,17 @@ Everything removed remains recoverable from git history.
 - **Phase 2 gets shortchanged.** It is writing, not programming, and it is the thing Mark
   actually asked for. Mitigation: three documents scoped to the highest-money decisions, written
   before Phase 3 cleanup, expanded on demand rather than guessed at upfront.
-- **Traffic figures are Ahrefs estimates, not real clicks.** GSC is permission-blocked for
+- **Traffic figures are Ahrefs estimates, not real clicks.** ~~GSC is permission-blocked for
   cavallo-inc.com (`PILLAR-BUILD-PLAN.md:89`), and only ~72 of 1,154 pages register any organic
-  traffic. The dashboard must label these as estimates so they are not over-trusted.
+  traffic.~~ The dashboard must label these as estimates so they are not over-trusted.
+
+  > **CORRECTION, 2026-08-04.** The struck sentence is false and is preserved only to show what this
+  > design was reasoning from. Search Console is **not** blocked for cavallo-inc.com and never was —
+  > the Google account in `../mrc-marketing/.env` holds siteOwner on `sc-domain:cavallo-inc.com`, and
+  > `state/gsc.json` holds **52,078 measured clicks across 4,629 pages**. The "~72 pages" figure was
+  > an Ahrefs estimate that undercounted reality by roughly 14x, and every role in the disposition
+  > map was scored on it. See `docs/superpowers/specs/2026-08-04-gsc-rescoring-design.md`. The
+  > requirement to label estimates as estimates still stands.
 - **Credentials are not currently present.** No `.env.local` exists. Phase 1 cannot complete
   until Ahrefs and Google credentials are supplied.
 - **99 MERGE+301 destinations point at pages that do not exist yet.** The queue must never
