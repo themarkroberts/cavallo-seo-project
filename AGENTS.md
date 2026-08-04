@@ -3,6 +3,9 @@
 No framework. Node 22 runs TypeScript directly — no bundler, no transpiler, no build step.
 Relative imports must include the `.ts` extension.
 
+**Read `docs/HANDOFF-2026-08-04.md` first.** It records verified credentials, open questions, and
+specific mistakes not to repeat. Then `state/where-we-are.md` and `state/next-actions.md`.
+
 Read `docs/superpowers/specs/2026-08-04-project-dashboard-design.md` before changing structure.
 
 ## Rules
@@ -21,4 +24,6 @@ Read `docs/superpowers/specs/2026-08-04-project-dashboard-design.md` before chan
   way once already and was caught only by an explicit `tsc --noEmit`.
 - **Credentials are shared, not duplicated.** Google comes from `../mrc-marketing/.env` via
   aliases in `lib/env.ts`. Do not copy secrets into this repo.
+- **Never re-run `scripts/flag-gsc-review.ts --apply`** without `--force`. It aborts deliberately;
+  re-flagging cleared rows destroys real decisions.
 - Zero new dependencies without asking.

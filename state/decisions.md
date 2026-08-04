@@ -69,3 +69,42 @@ Largest disagreements:
 
 The wider picture: the classifier was directionally right. All 787 PRUNE+NOINDEX rows together
 hold about 4% of site clicks. This is a thin tail of wrong calls, not a systemic failure.
+
+## 2026-08-04 — Search Console is the source of truth for our own traffic
+
+GSC was believed permission-blocked for cavallo-inc.com. It is not, and never was — the Google
+account in `../mrc-marketing/.env` holds siteOwner. Measured: 52,078 clicks across 4,629 pages
+over 12 months, against an Ahrefs estimate of ~72 pages with traffic. A ~14x undercount, and the
+entire disposition map was scored on it.
+
+Measured Search Console data and estimated Ahrefs data are now kept in separate files and
+separately labelled everywhere they appear. They are never merged into one figure — conflating
+them is how the error stayed invisible.
+
+## 2026-08-04 — 48 pages flagged, no roles changed
+
+48 pages marked PRUNE or NOINDEX earn 10+ measured clicks a year. They are flagged for review with
+their click counts as evidence. **No role was changed by a script.** A heuristic silently
+overriding human judgement is what retiring the classifier was meant to prevent.
+
+Threshold is 10 clicks/12mo. 284 rows have 1+ clicks, but 1-9 clicks a year is noise and 284 is
+more review than gets done. Every row carries its real click count in the dashboard, so going
+lower needs no re-run.
+
+## 2026-08-04 — Step 4 is not blocked (correcting an earlier claim)
+
+An earlier analysis in this session said Step 4 would destroy real traffic. That was overstated.
+All 787 PRUNE+NOINDEX rows hold about 4% of site clicks; mass-noindexing the 235 archives risks
+~222 clicks a year across 4 pages above 10 clicks. The classifier was directionally right.
+
+## 2026-08-04 — Ahrefs is being cancelled for cost
+
+Own traffic moves to Search Console (free, already working). Keyword volumes and ideas can move to
+Google Keyword Planner via the Ads API (free, credentials verified working, not yet built).
+Competitor organic traffic has no free replacement and will be lost — it is also the least
+load-bearing figure in the dashboard.
+
+Semrush was considered as a replacement but its API needs a Business plan plus purchased credits,
+which would cost more than what is being cancelled. Entitlement is unresolved; see
+`docs/HANDOFF-2026-08-04.md`.
+
