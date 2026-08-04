@@ -141,6 +141,7 @@ export function renderDashboard(state: ProjectState): string {
   <button role="tab" aria-controls="where-we-are" aria-selected="true">Where we are</button>
   <button role="tab" aria-controls="whats-next" aria-selected="false">What's next</button>
   <button role="tab" aria-controls="why" aria-selected="false">Why</button>
+  <button role="tab" aria-controls="strategy" aria-selected="false">Strategy</button>
 </nav>
 
 <section id="where-we-are">
@@ -176,6 +177,22 @@ export function renderDashboard(state: ProjectState): string {
   ${md(state.decisions)}
   <h2>Every page and why</h2>
   ${pagesTable(pages, measured)}
+</section>
+
+<section id="strategy" hidden>
+  ${
+    state.reference.length === 0
+      ? `<p class="warn">No strategy reference imported yet. It belongs in <code>reference/</code>.</p>`
+      : `<p class="muted">${state.reference.length} document${
+          state.reference.length === 1 ? "" : "s"
+        } imported from Notion and the work repo. Notion is an archive; these files are authoritative.</p>
+        <ul>${state.reference
+          .map((d) => `<li><a href="#ref-${esc(d.slug)}">${esc(d.title)}</a></li>`)
+          .join("")}</ul>
+        ${state.reference
+          .map((d) => `<article id="ref-${esc(d.slug)}">${md(d.body)}</article>`)
+          .join("\n<hr>\n")}`
+  }
 </section>
 
 <script>

@@ -38,5 +38,6 @@ export function readState(root: string = "."): ProjectState {
     tasks: readOptionalJson<TaskSnapshot>(s("tasks.json")),
     gsc: readOptionalJson<GscSnapshot>(s("gsc.json")),
     learn: readLearnDocs(join(root, "learn")),
+    reference: readLearnDocs(join(root, "reference")),
   };
 }

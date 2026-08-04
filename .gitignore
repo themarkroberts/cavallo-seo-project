@@ -43,3 +43,8 @@ next-env.d.ts
 
 # Generated dashboard — regenerate with `npm run build`
 dashboard.html
+
+# Symlink to the WordPress work repo (themarkroberts/cavallo, seo branch).
+# Machine-local: a committed symlink would store an absolute path that breaks in any clone.
+# Canonical path lives in config.ts.
+wp-seo

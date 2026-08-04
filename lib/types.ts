@@ -40,6 +40,8 @@ export type ProjectState = {
   decisions: string;
   nextActions: string;
   learn: LearnDoc[];
+  /** Strategy reference imported from Notion and the work repo. Empty if `reference/` is absent. */
+  reference: LearnDoc[];
   pages: PageRow[];
   metrics: Metrics | null;
   tasks: TaskSnapshot | null;

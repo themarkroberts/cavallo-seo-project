@@ -14,6 +14,19 @@ export const config = {
   ],
   /** Project Tasks. The ONLY Notion object this repo touches, and read-only. */
   notionTasksDataSourceId: "ff3ec7b0-97d8-42a0-b323-5eb8badc3a1e",
+  /**
+   * The WordPress repo where the pillar build actually happens. Execution truth: if a doc here
+   * and this branch disagree about what is built, the branch wins. `wp-seo` in the repo root is a
+   * gitignored symlink to `worktree` for convenience; code should use these paths, not the symlink.
+   */
+  workRepo: {
+    repo: "themarkroberts/cavallo",
+    branch: "seo",
+    /** The code repo root. The LocalWP site root above it is 39 GB and is NOT a git repo. */
+    codeRoot: "/Users/markreaction/Local Sites/cavallo/app/public/wp-content",
+    /** Persistent worktree pinned to `seo`, so reading it never disturbs the working checkout. */
+    worktree: "/Users/markreaction/Local Sites/cavallo/.worktrees/seo",
+  },
 };
 
 export type Config = typeof config;

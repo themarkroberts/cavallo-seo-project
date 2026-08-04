@@ -15,6 +15,7 @@ function state(over: Partial<ProjectState> = {}): ProjectState {
         body: "# Why 301 beats noindex\n\nEquity transfers.",
       },
     ],
+    reference: [],
     pages: [
       {
         url: "https://x.com/a/",
