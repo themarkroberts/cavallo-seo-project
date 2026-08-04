@@ -1,19 +1,15 @@
 import { google } from "googleapis";
-import type { ClientConfig } from "./clients";
-import type { MonthPoint } from "./types";
-import { getOAuth2Client } from "./google-auth";
+import { config } from "../config.ts";
+import type { MonthPoint } from "./types.ts";
+import { getOAuth2Client } from "./google-auth.ts";
 
 type GA4Result = {
   sessions: MonthPoint[];
   revenue: MonthPoint[];
 };
 
-export async function fetchGA4Data(config: ClientConfig): Promise<GA4Result | null> {
+export async function fetchGA4Data(): Promise<GA4Result> {
   const auth = getOAuth2Client();
-  if (!auth) {
-    console.warn("Google OAuth credentials not set — skipping GA4 fetch");
-    return null;
-  }
 
   const analyticsData = google.analyticsdata({ version: "v1beta", auth });
 
@@ -22,10 +18,7 @@ export async function fetchGA4Data(config: ClientConfig): Promise<GA4Result | nu
     requestBody: {
       dateRanges: [{ startDate: "2024-01-01", endDate: "today" }],
       dimensions: [{ name: "yearMonth" }],
-      metrics: [
-        { name: "sessions" },
-        { name: "totalRevenue" },
-      ],
+      metrics: [{ name: "sessions" }, { name: "totalRevenue" }],
       dimensionFilter: {
         filter: {
           fieldName: "sessionDefaultChannelGroup",
@@ -40,6 +33,12 @@ export async function fetchGA4Data(config: ClientConfig): Promise<GA4Result | nu
   });
 
   const rows = response.data.rows ?? [];
+
+  if (rows.length === 0) {
+    throw new Error(
+      `GA4 property ${config.ga4PropertyId} returned no rows for organic search since 2024-01-01`
+    );
+  }
 
   const sessions: MonthPoint[] = [];
   const revenue: MonthPoint[] = [];
