@@ -14,8 +14,20 @@ Two layers:
 Role taxonomy (one role per URL = no cannibalization):
   KEEP-CANONICAL | OPTIMIZE | KEEP-SPOKE | MERGE+301 | REWRITE | NOINDEX | PRUNE
 
-Re-runnable. Pure function of the audit CSV + the seed table below.
+Was re-runnable as a pure function of the audit CSV + the seed table below.
+NO LONGER RE-RUN — see the retirement notice below the docstring.
 """
+
+# ---------------------------------------------------------------------------
+# RETIRED AS A GENERATOR (2026-08-04).
+#
+# state/pages.csv is now the canonical record and carries Mark's human review
+# decisions. Re-running this script would overwrite that judgment with
+# heuristics. It is kept for reference only — to understand HOW rows were
+# originally classified, not to rebuild them.
+#
+# To change a page's role, edit state/pages.csv (see lib/pages.ts).
+# ---------------------------------------------------------------------------
 import csv, sys, re
 from collections import Counter
 
