@@ -55,8 +55,8 @@ Proposed three, covering the highest-money decisions:
 ## 4. Keyword-gap research
 
 **Blocked on a decision, not on work.** See `docs/HANDOFF-2026-08-04.md` — the Ahrefs
-subscription is being cancelled, Semrush entitlement is unresolved, and Google Keyword Planner is
-a verified free alternative.
+subscription is being cancelled, Semrush is verified working and available (units are metered, so
+what to spend them on is still undecided), and Google Keyword Planner is a verified free alternative.
 
 ## 5. Build Pillar 1 — Hoof Boot Guide
 

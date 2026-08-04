@@ -104,7 +104,30 @@ Google Keyword Planner via the Ads API (free, credentials verified working, not 
 Competitor organic traffic has no free replacement and will be lost — it is also the least
 load-bearing figure in the dashboard.
 
-Semrush was considered as a replacement but its API needs a Business plan plus purchased credits,
-which would cost more than what is being cancelled. Entitlement is unresolved; see
-`docs/HANDOFF-2026-08-04.md`.
+Semrush was initially ruled out on the belief that its API needs a Business plan plus purchased
+credits. That belief was wrong — see the 2026-08-04 entry below.
 
+## 2026-08-04 — Semrush API works and is already paid for; available but not yet in use
+
+The earlier reading was wrong twice over. The `semrtkn-pat-…` v4 PAT in `.env.local` is valid, the
+current plan already carries 50,000 API units/month with MCP access included, and Business is only
+needed to buy *more* units. Verified with a live `domain_rank` call for `cavallo-inc.com` through
+`https://mcp.semrush.com/v2/mcp`. There is also no separate v3 key: Semrush consolidated key
+management, so the hypothesis about *Subscription info → API units* holding a different key is dead.
+
+**Status: available, not in use.** Mark's words: "let's just stop using it right now, we don't need
+to use it right now." That is a *not yet*, not a rejection — no code path calls it and no use case has
+been chosen. Choosing one is an open item.
+
+Worth weighing when that decision comes: units are capped at 50,000/month and cannot be topped up on
+this plan, billing is per line of data, and the thing Semrush uniquely offers over the free stack
+(competitor organic traffic) is also the least load-bearing figure in the dashboard.
+
+The MCP server is registered in `~/.claude.json` at project scope **with an `Authorization: Apikey`
+header**, so it is authenticated and ready on demand. Two caveats: any session in this project can
+spend units, and this puts a second plaintext copy of the key outside `.env.local`, which cuts against
+the "credentials are shared, not duplicated" rule in `AGENTS.md`. The key was also echoed into a
+session transcript on 2026-08-04, so rotating it is advisable.
+
+Also noted: Semrush's estimate for our own traffic runs 2.4x above MEASURED Search Console clicks
+(10,764 vs 4,459, July 2026). Better than Ahrefs' ~14x, but it stays in its own labelled lane.
