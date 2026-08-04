@@ -1,3 +1,18 @@
+// RETAINED DELIBERATELY — has no importers, and that is expected (2026-08-04).
+//
+// This is the only in-repo copy of 36 target keywords with volume, KD, and
+// position history, plus the original pillarPages / projectContext content.
+// state/keywords.csv does not exist yet: the full 86-keyword map lives in
+// Notion and arrives via the Phase 0 extraction.
+//
+// NOTE: the two imports below reference `@/lib/types`, which was deleted when
+// the Next.js app was retired. This file therefore does NOT compile as-is. It
+// is excluded from tsconfig.json's `include` and nothing imports it, so it is
+// inert — the DATA is the reason it is here, not the code.
+//
+// DO NOT DELETE as dead code. Once state/keywords.csv exists and has been
+// checked to cover these 36 keywords, this file can go.
+
 import { MonthPoint } from "@/lib/types";
 import type { ClientSnapshot } from "@/lib/types";
 

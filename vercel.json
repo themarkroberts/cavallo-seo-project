@@ -1,8 +1,0 @@
-{
-  "crons": [
-    {
-      "path": "/api/cron/refresh?client=cavallo",
-      "schedule": "0 2 * * *"
-    }
-  ]
-}
