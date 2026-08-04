@@ -131,3 +131,55 @@ session transcript on 2026-08-04, so rotating it is advisable.
 
 Also noted: Semrush's estimate for our own traffic runs 2.4x above MEASURED Search Console clicks
 (10,764 vs 4,459, July 2026). Better than Ahrefs' ~14x, but it stays in its own labelled lane.
+
+## 2026-08-04 — DSLD is back IN scope, reversing the 2026-06-16 exclusion
+
+The entry above dated 2026-06-16 says DSLD is excluded as "a connective-tissue disease, not
+hoof-seated." The 2026-06-27 audit reversed that: **DSLD is IN scope** as a net-new spoke targeting
+`dsld in horses` (3,900/mo, KD 1), framed in the comfort/protection lane with the
+cosmetic-vs-clinical guardrail made explicit. Source: `reference/04-build-standard.md`, decisions
+log. The Notion roadmap's Phase 5 also lists DSLD among the condition spokes, which corroborates it.
+
+This repo carried the superseded version for five weeks. `state/pages.csv` contains no DSLD rows, so
+nothing was misclassified — but the spoke was absent from all planning here.
+
+## 2026-08-04 — Ahrefs revises its own history, which is why estimates stay quarantined
+
+Comparing the Ahrefs organic-visibility series in `state/metrics.json` against the copy exported from
+Notion: **all 30 overlapping months disagree.** 2024-01 reads 4,056 in one pull and 4,627 in the
+other. Same month, same tool, two pulls — different numbers.
+
+The rule that measured and estimated figures never merge already existed. This is the concrete
+evidence for it: an Ahrefs figure is not even stable for a month that has already closed, so it
+cannot be compared against a Search Console count, and two Ahrefs pulls cannot be compared against
+each other either. GA4 by contrast matched on 29 of 30 months; the single mismatch was a mid-month
+partial in the export.
+
+## 2026-08-04 — Source-of-truth hierarchy, because three sources contradicted each other
+
+The Notion export landed alongside two other written records, and they disagreed on the pillar build
+status, on whether DSLD was in scope, and on whether Search Console works. Rather than pick one
+system, each domain now has a declared owner:
+
+| Domain | Authority |
+|---|---|
+| **Execution** — what is actually built | the `seo` branch of `themarkroberts/cavallo`. Git history, not memory. If a doc disagrees with the branch, the branch wins |
+| **Analysis** — pages, traffic, classifications | `state/` in this repo. `pages.csv` and `gsc.json` are canonical |
+| **Strategy** — pillars, keywords, competitors | `reference/` in this repo. Notion is now an archive, not a source |
+| **Tasks** — operational next steps | the Notion Project Tasks database, read-only from here |
+
+## 2026-08-04 — Notion export imported; five of seven databases deliberately rejected
+
+12 of 21 exported files were imported into `reference/`, plus `state/keywords.csv` (100 keywords) and
+`state/competitor-history.csv` (13 months x 5 competitors — the repo previously held only a single
+competitor snapshot).
+
+Rejected, with reasons: the **Content Disposition Map** export is a stale mirror of
+`state/pages.csv` — both hold 1,154 rows, the export has 190 of them, and diffing showed zero
+mismatches on role/pillar/destination but 7 rows where this repo has appended Search Console
+evidence the export lacks. Importing it would have reverted review flags. The **GA4 sessions**,
+**GA4 revenue**, **Ahrefs visibility** and **competitor overview** exports are all superseded by
+`state/metrics.json`, which holds 32 months against the export's 30.
+
+Two known gaps: 9 of 109 keyword rows were never exported because Notion's query quota was hit, and
+the Project Tasks database was excluded on purpose — tasks stay in Notion.

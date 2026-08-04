@@ -26,4 +26,10 @@ Read `docs/superpowers/specs/2026-08-04-project-dashboard-design.md` before chan
   aliases in `lib/env.ts`. Do not copy secrets into this repo.
 - **Never re-run `scripts/flag-gsc-review.ts --apply`** without `--force`. It aborts deliberately;
   re-flagging cleared rows destroys real decisions.
+- **Know which source owns which truth.** Three records of this project exist and have contradicted
+  each other. **Execution** (what is built) = the `seo` branch of `themarkroberts/cavallo`, read via
+  the gitignored `wp-seo` symlink or `config.ts` `workRepo`; if a document disagrees with the branch,
+  the branch wins. **Analysis** = `state/`. **Strategy** = `reference/`; Notion is an archive now, not
+  a source. **Tasks** = the Notion Project Tasks database, read-only. Full reasoning in
+  `state/decisions.md`, 2026-08-04.
 - Zero new dependencies without asking.

@@ -1,15 +1,46 @@
 # Where we are
 
 **Step 3 of 5** — Mark reviews the judgment calls in the Content Disposition Map.
-**95 rows** now need review: the original 47 the classifier was unsure about, plus 48 where real
-Google Search Console data contradicts the assigned role.
+**96 rows** now need review: the original 47 the classifier was unsure about, 48 where real
+Google Search Console data contradicts the assigned role, and `/things-to-know/how-to-measure/`,
+which the June audit missed entirely despite it carrying more impressions than any other URL on the
+site.
+
+## Two progress models, and they disagree
+
+This project is measured two different ways. Both are legitimate; they count different things, and
+conflating them is why the position has been unclear.
+
+**1. The engagement** — what Cavallo is owed, on a calendar. Six phases, June–November 2026, from
+`reference/01-roadmap.md`.
+
+| Phase | Month | Committed deliverable | Actual state |
+|---|---|---|---|
+| 1 | June | All three pillar pages live | ⚠️ **Partial.** Pillar 1 has 9 hub sections built in code (`intro, types, choose, uses, sizing, accessories, laminitis, credibility, faq`). Pillars 2 and 3 have **no commits at all** |
+| 2 | July | Laminitis guide optimised; shop categories locked | ⬜ Not evidenced |
+| 3 | **August — now** | Shop nav funnel, 5 category landing pages | ⬜ Not started |
+| 4 | September | Product page overhaul | ⬜ Not started |
+| 5 | October | Hoof-health condition spokes | ⬜ Not started |
+| 6 | November | Remaining spokes + measurement vs June baseline | ⬜ Not started |
+
+**On "built":** Pillar 1's *rendering code* exists on the `seo` branch. The actual copy lives in ACF
+fields in the WordPress database, which this repo cannot see, and per the build notes DB content is
+re-entered on live by hand. So "9 sections built" means the scaffolding is ready — **not** that the
+page is live and populated. That needs checking on the live site.
+
+**2. The content pipeline** — the five steps below. This is what work has actually been happening,
+and it is a prerequisite for Phases 5 and 6, not a substitute for Phases 3 and 4.
+
+**Where they diverge:** the calendar says Phase 3. The pipeline says Step 3. Those are unrelated
+threes. On the calendar the engagement is roughly two phases behind; the shop-restructure half of
+the project (Phases 3 and 4) has not been started or tracked anywhere until now.
 
 ## The five steps
 
 1. ✅ **Lock 4 architecture decisions** — done 2026-06-16. See `decisions.md`.
 2. ✅ **Build the Content Disposition Map** — done 2026-06-16. 1,154 rows, one role per URL,
    which is what guarantees no cannibalization. Now `state/pages.csv`.
-3. ▶️ **Review the 95 flagged rows** — not started. The other 1,059 are mechanical.
+3. ▶️ **Review the 96 flagged rows** — not started. The other 1,059 are mechanical.
 4. ⬜ **Global quick wins** — noindex the tag/auto archives via one Yoast taxonomy setting
    (covers 235 rows); prune obvious dead weight. **NOT blocked** — see below.
 5. ⬜ **Build pillars in waves** — Pillar 1 → 2 → 3. Publish each pillar before running its 301s.
