@@ -16,8 +16,11 @@ Google Search Console data contradicts the assigned role.
 
 ## The numbers are now real
 
-Google Search Console **works** for this site and always did. Three places in this project
-claimed it was permission-blocked; all were wrong and have been corrected.
+Google Search Console **works** for this site and always did. Several places in this project
+claimed it was permission-blocked. The three live ones — `README.md`, `lib/render.ts` and
+`lib/types.ts` — were corrected 2026-08-04. Superseded plans under `docs/superpowers/` still carry
+the old wording and are deliberately left alone as dated historical records;
+`docs/superpowers/specs/2026-08-04-gsc-rescoring-design.md` documents the correction.
 
 Measured, last 12 months: **52,078 clicks** across **4,629 pages**. The Ahrefs estimate the
 strategy was built on claimed only ~72 pages had any organic traffic — an undercount of roughly

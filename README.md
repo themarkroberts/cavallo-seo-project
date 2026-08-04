@@ -54,8 +54,16 @@ Nothing in this repo writes to Notion.
 
 ## Caveats that matter
 
-Google Search Console is permission-blocked for cavallo-inc.com, so all traffic figures are
-**Ahrefs estimates**, not measured clicks. Only ~72 of 1,154 pages register organic traffic.
+Traffic figures come in two flavours and must never be merged:
+
+- **Measured** — Search Console clicks and impressions, in `state/gsc.json`. Real counts:
+  52,078 clicks across 4,629 pages in the last 12 months.
+- **Estimated** — Ahrefs figures, in `state/metrics.json`. Educated guesses. The estimate the
+  strategy was originally built on claimed only ~72 pages had organic traffic, undercounting
+  reality by roughly 14x.
+
+Search Console is **not** blocked for this domain and never was. Anything claiming otherwise is
+stale.
 
 `site-audit/build_disposition_map.py` is retired as a generator. `state/pages.csv` now holds
 human review decisions and re-running the classifier would overwrite them.

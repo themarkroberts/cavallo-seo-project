@@ -56,8 +56,8 @@ function metricsBlock(state: ProjectState): string {
   const latest = state.metrics.visibility.at(-1);
   return `
     <p class="metric">Organic traffic: <strong>${latest ? latest.value.toLocaleString() : "—"}</strong>
-      <span class="qualifier">(${latest ? esc(latest.month) : "no data"} — Ahrefs estimate,
-      not measured clicks; Search Console is blocked for this domain)</span></p>
+      <span class="qualifier">(${latest ? esc(latest.month) : "no data"} — Ahrefs ESTIMATE,
+      not measured clicks)</span></p>
     <p class="muted">Last refreshed ${esc(state.metrics.fetchedAt)}</p>`;
 }
 

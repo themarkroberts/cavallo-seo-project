@@ -22,7 +22,7 @@ export type MonthPoint = { month: string; value: number };
 
 export type Metrics = {
   fetchedAt: string;
-  /** Ahrefs organic traffic ESTIMATE. Not measured clicks — GSC is blocked. */
+  /** Ahrefs organic traffic ESTIMATE. Measured clicks live in `state/gsc.json`. */
   visibility: MonthPoint[];
   sessions: MonthPoint[];
   revenue: MonthPoint[];
