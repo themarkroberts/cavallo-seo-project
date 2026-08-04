@@ -41,7 +41,11 @@ export async function fetchTasks(): Promise<TaskSnapshot> {
 
     const statusProp = props.Status;
     const status =
-      statusProp && "type" in statusProp && statusProp.type === "select" && statusProp.select
+      statusProp &&
+      "type" in statusProp &&
+      statusProp.type === "select" &&
+      statusProp.select &&
+      "name" in statusProp.select
         ? statusProp.select.name
         : "Unknown";
 

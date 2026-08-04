@@ -5,6 +5,8 @@
   "type": "module",
   "scripts": {
     "test": "node --test \"test/**/*.test.ts\"",
+    "typecheck": "tsc --noEmit",
+    "check": "npm run typecheck && npm test",
     "build": "node --env-file=.env.local scripts/build.ts",
     "refresh": "node --env-file=.env.local scripts/refresh.ts"
   },
@@ -13,6 +15,7 @@
     "googleapis": "^173.0.0"
   },
   "devDependencies": {
-    "@types/node": "^20"
+    "@types/node": "^20",
+    "typescript": "^5"
   }
 }

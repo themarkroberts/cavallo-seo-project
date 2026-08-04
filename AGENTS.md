@@ -14,4 +14,7 @@ Read `docs/superpowers/specs/2026-08-04-project-dashboard-design.md` before chan
 - **Label traffic figures as Ahrefs estimates.** Search Console is blocked for this domain.
 - **Never regenerate `state/pages.csv`** with `site-audit/build_disposition_map.py`. It holds
   human review decisions the classifier does not know about.
+- **Run `npm run check` before committing.** Node strips types without validating them, so a
+  type error will run happily and fail only at runtime. A real Notion-SDK type bug shipped this
+  way once already and was caught only by an explicit `tsc --noEmit`.
 - Zero new dependencies without asking.

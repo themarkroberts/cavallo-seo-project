@@ -9,7 +9,7 @@ dashboard generated from them.
 npm run refresh   # pull fresh numbers from Ahrefs, GA4, and Notion tasks
 npm run build     # regenerate dashboard.html
 open dashboard.html
-npm test
+npm run check    # typecheck + tests
 ```
 
 `npm run refresh` needs `.env.local` — copy `.env.local.example` and fill it in.
