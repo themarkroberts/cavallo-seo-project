@@ -1,36 +1,48 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Cavallo SEO project
 
-## Getting Started
+Project state for the Cavallo Inc. SEO engagement, as version-controlled files plus a
+dashboard generated from them.
 
-First, run the development server:
+## Using it
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+npm run refresh   # pull fresh numbers from Ahrefs, GA4, and Notion tasks
+npm run build     # regenerate dashboard.html
+open dashboard.html
+npm test
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+`npm run refresh` needs `.env.local` — copy `.env.local.example` and fill it in.
+`npm run build` works without credentials; it just reports that metrics were never fetched.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Where things live
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+| Path | What |
+|---|---|
+| `state/where-we-are.md` | Current step, what's blocked |
+| `state/decisions.md` | Every decision, why, and when |
+| `state/next-actions.md` | The ordered queue |
+| `state/pages.csv` | All 1,154 pages and the single role each one has |
+| `state/metrics.json` | Ahrefs and GA4 figures, snapshotted per refresh |
+| `state/tasks.json` | Snapshot of the Notion task database |
+| `learn/` | Why the strategy is what it is |
+| `site-audit/` | The original one-off audit pipeline (Python) |
+| `data/cavallo-history.ts` | Retained, unimported: the only offline copy of 36 keywords, pending the Notion extraction |
 
-## Learn More
+`dashboard.html` is generated and gitignored. `state/*.json` and `state/*.csv` are committed
+deliberately — their diffs are the record of progress over time.
 
-To learn more about Next.js, take a look at the following resources:
+## How state changes
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Tasks are managed in Notion and read from there. Everything else changes by editing the files in
+`state/`, normally by asking Claude, so each change lands in git with its reasoning attached.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+Nothing in this repo writes to Notion.
 
-## Deploy on Vercel
+## Caveats that matter
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Google Search Console is permission-blocked for cavallo-inc.com, so all traffic figures are
+**Ahrefs estimates**, not measured clicks. Only ~72 of 1,154 pages register organic traffic.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+`site-audit/build_disposition_map.py` is retired as a generator. `state/pages.csv` now holds
+human review decisions and re-running the classifier would overwrite them.

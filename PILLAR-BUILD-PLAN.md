@@ -1,7 +1,9 @@
 # Cavallo SEO — Pillar Build Plan (resume here)
 
 **Goal:** build 3 pillar pages and consolidate the existing ~600 blog posts into them without cannibalization.
-**Deliverables go to Notion**, not code. The only files in this repo are the audit data + these plan docs. (The Next.js dashboard in `CLAUDE.md` is a separate, deprioritized track.)
+**Deliverables live in this repo** as version-controlled state, surfaced through
+`dashboard.html`. Notion keeps one job: the Project Tasks database, which is read-only from
+here. Superseded by `docs/superpowers/specs/2026-08-04-project-dashboard-design.md`.
 
 ---
 
@@ -92,15 +94,16 @@
 - **Vercel plugin disabled** globally (`~/.claude/settings.json`) — the irrelevant "best practices" injections are off.
 
 ## ✅ Step 2 DONE — Content Disposition Map built (2026-06-16)
-The keystone is live in Notion. One row per URL → exactly one role = no cannibalization.
-- **Database:** [Content Disposition Map](https://app.notion.com/p/0c6d0227282049adad764f480c674679) — central, under the SEO Project Portal (next to the Keyword Map). Data source ID `e5279df5-8d9c-40b5-8159-cfb34dbf3dd0`.
+The keystone now lives at **`state/pages.csv`**. One row per URL → exactly one role = no cannibalization.
+- **Canonical file:** `state/pages.csv`, read via `lib/pages.ts`. Rendered in the dashboard's "Why" tab, searchable and filterable.
+- **Historical note:** it was originally loaded into a Notion database (`0c6d0227282049adad764f480c674679`, data source `e5279df5-8d9c-40b5-8159-cfb34dbf3dd0`). That copy is abandoned as of 2026-08-04 — the Cavallo team never used it.
 - **Schema:** `Page URL` (title) · `Pillar` · `Role` · `Destination URL` · `Evidence` · `Source` (Seed/Auto) · `Needs Review` (checkbox).
   - ⚠️ Notion gotcha: a title property literally named **"URL"** breaks `notion-create-pages` (server can't resolve it). That's why the title column is **"Page URL"**.
 - **Rows: 1,154** (every audited URL). **30 Seed** (locked from decisions #1–#4, never auto-touched) + **1,124 Auto**.
 - **Role mix:** PRUNE 552 · NOINDEX 235 · KEEP-SPOKE 230 · MERGE+301 99 · OPTIMIZE 18 · REWRITE 15 · KEEP-CANONICAL 5.
 - **Pillar mix:** None 480 · P1 350 · P2 169 · P3 155.
-- **Views:** a filtered linked view embedded in each of the 3 pillar playbooks (Pillar = that pillar), plus a **"Step 3 — Needs Review"** tab on the DB (47 flagged rows).
-- **Rebuild (deterministic, re-runnable):** `python3 site-audit/build_disposition_map.py` → `site-audit/content_disposition_map.csv`. Seed table + topic/metric heuristics live in that script. Notion load batches were generated into `site-audit/notion_batches/` and pushed via the Notion MCP.
+- **Views:** the dashboard's "Why" tab filters all 1,154 rows, with an "Only rows needing review" toggle for the 47 flagged ones. `lib/queries.ts` also separates the 99 merges into 72 actionable and 27 blocked behind unbuilt destinations.
+- **Rebuild: DON'T.** `site-audit/build_disposition_map.py` is retired as a generator — `state/pages.csv` now carries human review decisions and re-running the classifier would overwrite them with heuristics. The script is kept to explain HOW rows were first classified. `site-audit/notion_batches/` holds the one-time Notion load payloads, now historical.
 
 ## ▶️ RESUME HERE (updated 2026-06-16)
 **Step 3 — Mark reviews the 47 judgment calls.** Open the **"Step 3 — Needs Review"** view in the [Content Disposition Map](https://app.notion.com/p/0c6d0227282049adad764f480c674679) and confirm/correct Pillar + Role for each. These are the equity-bearing posts/pages (don't mis-redirect a page that gets traffic) and the REWRITE candidates (substantial off-topic — repurpose vs prune). The other ~1,107 rows are mechanical. After review, **uncheck Needs Review** as you clear each.
