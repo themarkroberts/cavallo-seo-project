@@ -60,11 +60,12 @@ Git preserves everything deleted.
 - Modify: `package.json`, `.gitignore`
 - Delete: `src/app/`, `src/components/`, `src/middleware.ts`, `src/lib/kv.ts`, `src/lib/notion-sync.ts`, `src/lib/gsc.ts`, `src/lib/snapshot.ts`, `src/lib/clients.ts`, `src/lib/trend.ts`, `src/lib/types.ts`, `vercel.json`, `next.config.ts`, `postcss.config.mjs`, `eslint.config.mjs`
 - Rewrite: `tsconfig.json` (editor type-checking only; Node does not typecheck)
+- Keep, though it becomes orphaned: `data/cavallo-history.ts` (see Step 8 — do NOT delete it)
 - Move: `src/lib/ahrefs.ts` → `lib/ahrefs.ts`, `src/lib/ga4.ts` → `lib/ga4.ts`, `src/lib/google-auth.ts` → `lib/google-auth.ts`, `src/lib/notion.ts` → `lib/notion-tasks.ts`
 
 **Interfaces:**
 - Consumes: nothing.
-- Produces: `lib/` containing four fetcher files that do not yet compile (they import deleted modules — Task 2 and Task 7 fix them). `package.json` with `"type": "module"` and a `test` script.
+- Produces: `data/cavallo-history.ts` retained with an explanatory header (it loses its only two importers in this task and would otherwise read as dead code). `lib/` containing four fetcher files that do not yet compile (they import deleted modules — Task 2 and Task 7 fix them). `package.json` with `"type": "module"` and a `test` script.
 
 - [ ] **Step 1: Move the four files worth keeping**
 
@@ -156,7 +157,29 @@ npm test
 
 Expected: exits 0 with `# pass 0` / `# fail 0`. No test files exist yet; this confirms the runner and the glob.
 
-- [ ] **Step 8: Commit**
+- [ ] **Step 8: Mark `data/cavallo-history.ts` as deliberately retained**
+
+Its only two importers (`src/lib/snapshot.ts` and `src/app/api/cron/refresh/route.ts`) were
+deleted in Step 2, so it now has none. It is still the ONLY in-repo copy of 36 target keywords
+with their volume, difficulty, and position history — `state/keywords.csv` does not exist until
+the Notion extraction happens. Without this header, a later session correctly identifies it as
+dead code and deletes real data.
+
+Insert at the very top of the file:
+
+```typescript
+// RETAINED DELIBERATELY — has no importers, and that is expected (2026-08-04).
+//
+// This is the only in-repo copy of 36 target keywords with volume, KD, and
+// position history, plus the original pillarPages / projectContext content.
+// state/keywords.csv does not exist yet: the full 86-keyword map lives in
+// Notion and arrives via the Phase 0 extraction.
+//
+// DO NOT DELETE as dead code. Once state/keywords.csv exists and has been
+// checked to cover these 36 keywords, this file can go.
+```
+
+- [ ] **Step 9: Commit**
 
 ```bash
 git add -A
@@ -1839,6 +1862,7 @@ npm test
 | `state/tasks.json` | Snapshot of the Notion task database |
 | `learn/` | Why the strategy is what it is |
 | `site-audit/` | The original one-off audit pipeline (Python) |
+| `data/cavallo-history.ts` | Retained, unimported: the only offline copy of 36 keywords, pending the Notion extraction |
 
 `dashboard.html` is generated and gitignored. `state/*.json` and `state/*.csv` are committed
 deliberately — their diffs are the record of progress over time.
@@ -1920,7 +1944,9 @@ Three pieces of the spec are deliberately not tasks here, because they are not c
 1. **Phase 0 — extracting content from Notion.** Blocked on Mark authenticating `notion-cavallo`
    in an interactive terminal. Once done, the pillar playbooks and the 86-keyword map get pulled
    into `learn/` and `state/keywords.csv`. Note that `state/keywords.csv` therefore does not
-   exist until then, and nothing in this plan reads it.
+   exist until then, and nothing in this plan reads it. Until it does exist,
+   `data/cavallo-history.ts` is the only offline copy of any keyword data (36 of the 86), which is
+   why Task 1 Step 8 retains it explicitly rather than letting it be swept up as dead code.
 2. **Phase 2 — writing the three `learn/` documents.** Writing, not programming. The dashboard
    renders whatever is in `learn/` and says plainly when it is empty, so this can happen any time
    after Task 6.
