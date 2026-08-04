@@ -37,7 +37,7 @@ Keep it dependency-light (vanilla JS or a single CDN-free lib). Group/sort/filte
 ## Gotchas to preserve
 - **Videos (153 rows, type=video)** have no AI summary by design — show them in the tree but don't treat blank summary as an error.
 - `image_count` = in-content images only; featured/ACF/product-gallery images aren't counted (components still list "Product gallery").
-- Organic data is **Ahrefs current-snapshot estimate**, not GSC (GSC is 403 for this property — see memory `cavallo-gsc-blocked`).
+- Organic data in this CSV is an **Ahrefs current-snapshot estimate**. NOTE (2026-08-04): the claim that GSC returns 403 for this property is **wrong** — it is readable with the credentials in `../mrc-marketing/.env`, and measured data lives in `state/gsc.json`. Prefer that over these estimates.
 - Product body content comes from ACF, not post_content (memory `cavallo-acf-products`) — already handled in the CSV.
 
 ## To rebuild the CSV from scratch (if data changes)
@@ -45,6 +45,6 @@ LocalWP mysql socket: `/Users/markreaction/Library/Application Support/Local/run
 Order: (1) re-export spine TSVs + content_dump (see git history / build_csv comments), (2) `tr -d '\r' < content_dump.tsv` then split into `content/`, (3) `python3 extract.py`, (4) re-run the summary workflow over `batches/` writing `out_ai/`, (5) `python3 build_csv.py`.
 
 ## Optional follow-ons
-- Grant the marketing-MCP service account access to GSC `cavallo-inc.com`, then swap `org_traffic_est` for real GSC clicks/impressions (12-mo).
+- ~~Grant the marketing-MCP service account access to GSC~~ **DONE differently (2026-08-04)**: no grant was needed. The OAuth credentials already had access; `state/gsc.json` now carries real clicks/impressions (12-mo).
 - Local front-end is broken (500 + redirect-to-home, `b-carousel-block` fatal) — a background task chip was spawned to fix it. Once up, it's an unlimited local crawl target for rendered-HTML cross-checks.
 - Enrich the 153 video pages and 64 taxonomy archives with AI summaries if you want full coverage.

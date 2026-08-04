@@ -43,6 +43,7 @@ function state(over: Partial<ProjectState> = {}): ProjectState {
       competitors: [],
     },
     tasks: null,
+    gsc: null,
     ...over,
   };
 }
@@ -107,4 +108,44 @@ test("states plainly when metrics have never been fetched", () => {
 test("shows the review count", () => {
   const html = renderDashboard(state());
   assert.match(html, /1 row needs review|needs review/i);
+});
+
+const GSC = {
+  fetchedAt: "2026-08-04T00:00:00Z",
+  startDate: "2025-08-04",
+  endDate: "2026-08-03",
+  monthly: [{ month: "2026-07", value: 4000 }],
+  pages: [
+    { url: "https://x.com/a/", clicks: 245, impressions: 9000 },
+    { url: "https://x.com/b/", clicks: 0, impressions: 12 },
+  ],
+};
+
+test("says measured traffic is missing until refresh has run", () => {
+  const html = renderDashboard(state({ gsc: null }));
+  assert.match(html, /Measured traffic not fetched yet/i);
+});
+
+test("shows measured clicks separately from the Ahrefs estimate", () => {
+  const html = renderDashboard(state({ gsc: GSC }));
+  assert.match(html, /Measured clicks/);
+  assert.match(html, /real clicks, not an estimate/i);
+  assert.match(html, /Ahrefs estimate/i);
+});
+
+test("joins measured clicks onto the matching page row", () => {
+  const html = renderDashboard(state({ gsc: GSC }));
+  assert.match(html, /<td class="num">245<\/td>/);
+});
+
+test("measured column headers are sortable only when data exists", () => {
+  // The word "sortable" is always in the stylesheet; assert on the header class.
+  assert.match(renderDashboard(state({ gsc: GSC })), /<th class="num sortable"/);
+  assert.doesNotMatch(renderDashboard(state({ gsc: null })), /<th class="num sortable"/);
+});
+
+test("states the measurement window so the range is never ambiguous", () => {
+  const html = renderDashboard(state({ gsc: GSC }));
+  assert.match(html, /2025-08-04/);
+  assert.match(html, /2026-08-03/);
 });

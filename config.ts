@@ -3,6 +3,8 @@ export const config = {
   name: "Cavallo Inc.",
   projectStart: "2026-06-01",
   ga4PropertyId: "319655127",
+  /** Search Console property. Domain-level, verified as siteOwner 2026-08-04. */
+  gscSiteUrl: "sc-domain:cavallo-inc.com",
   ahrefs: { target: "cavallo-inc.com", mode: "subdomains" },
   competitors: [
     { target: "scootboots.com", mode: "subdomains", label: "Scoot Boots" },

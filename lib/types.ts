@@ -43,4 +43,22 @@ export type ProjectState = {
   pages: PageRow[];
   metrics: Metrics | null;
   tasks: TaskSnapshot | null;
+  /** Measured Search Console traffic. Null until `npm run refresh` has run. */
+  gsc: GscSnapshot | null;
+};
+
+/** One page's measured Search Console performance. */
+export type GscStats = { clicks: number; impressions: number };
+
+/** A raw Search Console page row, before URL normalisation. */
+export type GscPage = { url: string } & GscStats;
+
+/** state/gsc.json — measured traffic, refreshed. Separate from pages.csv, which holds decisions. */
+export type GscSnapshot = {
+  fetchedAt: string;
+  startDate: string;
+  endDate: string;
+  /** Measured clicks per month, site-wide. */
+  monthly: MonthPoint[];
+  pages: GscPage[];
 };

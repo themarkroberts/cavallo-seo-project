@@ -1,5 +1,7 @@
 import { blockedMerges, needsReview, roleCounts } from "./queries.ts";
-import type { PageRow, ProjectState } from "./types.ts";
+import { buildGscIndex, joinGsc } from "./gsc-join.ts";
+import type { ProjectState } from "./types.ts";
+import type { PageWithGsc } from "./gsc-join.ts";
 
 function esc(s: string): string {
   return s
@@ -73,13 +75,15 @@ function blockedBlock(state: ProjectState): string {
       .join("")}</ul>`;
 }
 
-function pagesTable(pages: PageRow[]): string {
+function pagesTable(pages: PageWithGsc[], measured: boolean): string {
   const rows = pages
     .map(
       (p) => `<tr data-review="${p.needsReview}">
         <td><a href="${esc(p.url)}">${esc(p.url)}</a></td>
         <td>${esc(p.pillar)}</td>
         <td><span class="role">${esc(p.role)}</span></td>
+        <td class="num">${p.clicks || ""}</td>
+        <td class="num">${p.impressions || ""}</td>
         <td>${esc(p.destinationUrl)}</td>
         <td>${esc(p.evidence)}</td>
         <td>${p.needsReview ? "REVIEW" : ""}</td>
@@ -87,11 +91,17 @@ function pagesTable(pages: PageRow[]): string {
     )
     .join("");
 
+  const clicksHeader = measured
+    ? `<th class="num sortable" data-col="3" title="Measured clicks from Google Search Console, last 12 months">Clicks<br><span class="qualifier">measured</span></th>
+       <th class="num sortable" data-col="4" title="Measured impressions from Google Search Console">Impr.<br><span class="qualifier">measured</span></th>`
+    : `<th class="num">Clicks</th><th class="num">Impr.</th>`;
+
   return `
-    <input id="filter" placeholder="Filter ${pages.length} pages by URL, pillar, role, or evidence…">
+    ${measured ? "" : `<p class="warn">Measured traffic not fetched yet \u2014 run <code>npm run refresh</code>.</p>`}
+    <input id="filter" placeholder="Filter ${pages.length} pages by URL, pillar, role, or evidence\u2026">
     <label><input type="checkbox" id="only-review"> Only rows needing review</label>
     <table id="pages">
-      <thead><tr><th>URL</th><th>Pillar</th><th>Role</th><th>Destination</th><th>Evidence</th><th></th></tr></thead>
+      <thead><tr><th>URL</th><th>Pillar</th><th>Role</th>${clicksHeader}<th>Destination</th><th>Evidence</th><th></th></tr></thead>
       <tbody>${rows}</tbody>
     </table>`;
 }
@@ -99,6 +109,10 @@ function pagesTable(pages: PageRow[]): string {
 export function renderDashboard(state: ProjectState): string {
   const counts = roleCounts(state.pages);
   const review = needsReview(state.pages);
+  const gscIndex = buildGscIndex(state.gsc?.pages ?? []);
+  const pages = joinGsc(state.pages, gscIndex);
+  const measured = state.gsc !== null;
+  const measuredClicks = pages.reduce((n, p) => n + p.clicks, 0);
 
   return `<!DOCTYPE html>
 <html lang="en"><head><meta charset="utf-8">
@@ -118,6 +132,8 @@ export function renderDashboard(state: ProjectState): string {
   .metric { font-size: 1.1rem; }
   .counts { display: flex; flex-wrap: wrap; gap: .5rem 1.25rem; padding: 0; list-style: none; }
   #filter { width: 100%; font: inherit; padding: .5rem; margin: 1rem 0 .5rem; }
+  td.num, th.num { text-align: right; font-variant-numeric: tabular-nums; }
+  th.sortable { cursor: pointer; text-decoration: underline dotted; }
 </style></head>
 <body>
 <h1>Cavallo SEO — project state</h1>
@@ -130,6 +146,13 @@ export function renderDashboard(state: ProjectState): string {
 <section id="where-we-are">
   ${md(state.whereWeAre)}
   ${metricsBlock(state)}
+  ${
+    measured
+      ? `<p class="metric">Measured clicks: <strong>${measuredClicks.toLocaleString()}</strong>
+          <span class="qualifier">(Google Search Console, ${esc(state.gsc!.startDate)} to
+          ${esc(state.gsc!.endDate)} \u2014 real clicks, not an estimate)</span></p>`
+      : ""
+  }
   <h3>All ${state.pages.length} pages by role</h3>
   <ul class="counts">${Object.entries(counts)
     .sort((a, b) => b[1] - a[1])
@@ -152,7 +175,7 @@ export function renderDashboard(state: ProjectState): string {
   <h2>Decisions</h2>
   ${md(state.decisions)}
   <h2>Every page and why</h2>
-  ${pagesTable(state.pages)}
+  ${pagesTable(pages, measured)}
 </section>
 
 <script>
@@ -180,6 +203,14 @@ export function renderDashboard(state: ProjectState): string {
   }
   filter.addEventListener("input", apply);
   onlyReview.addEventListener("change", apply);
+
+  // Sort by a numeric column, descending. Re-appends rows in place.
+  const tbody = document.querySelector("#pages tbody");
+  document.querySelectorAll("th.sortable").forEach((th) => th.addEventListener("click", () => {
+    const col = Number(th.dataset.col);
+    const num = (tr) => Number(tr.children[col].textContent.trim() || 0);
+    [...rows].sort((a, b) => num(b) - num(a)).forEach((tr) => tbody.appendChild(tr));
+  }));
 </script>
 </body></html>`;
 }

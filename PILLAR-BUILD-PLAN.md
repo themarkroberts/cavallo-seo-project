@@ -88,7 +88,7 @@ here. Superseded by `docs/superpowers/specs/2026-08-04-project-dashboard-design.
 ---
 
 ## Key facts / gotchas
-- **GSC is permission-blocked** for cavallo-inc.com → use Ahrefs for per-page organic. (Only ~72 of 1,154 pages get any organic traffic; 723 orphans w/ zero internal inbound links; 632 missing meta descriptions.)
+- **GSC is NOT blocked** (corrected 2026-08-04). The Google account in `../mrc-marketing/.env` holds siteOwner on `sc-domain:cavallo-inc.com`. Real measured data: **1,024 pages with clicks**, 4,651 with impressions, 52,453 clicks/12mo. The earlier "~72 pages get organic traffic" figure was an **Ahrefs estimate** and understated reality by ~14x. Every role in the disposition map was scored on that estimate. See `docs/superpowers/specs/2026-08-04-gsc-rescoring-design.md`. (Still true: 723 orphans w/ zero internal inbound links; 632 missing meta descriptions.)
 - **Products store content in ACF** flexible-content fields, not post_content (already handled in the audit CSV).
 - **Local site:** front-end was broken (b-carousel-block fatal); DB is reachable via the LocalWP MySQL socket. Audit pulls from the DB directly.
 - **Vercel plugin disabled** globally (`~/.claude/settings.json`) — the irrelevant "best practices" injections are off.

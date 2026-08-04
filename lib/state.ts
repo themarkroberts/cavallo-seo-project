@@ -1,7 +1,7 @@
 import { readFileSync, existsSync, readdirSync } from "node:fs";
 import { join, basename } from "node:path";
 import { readPages } from "./pages.ts";
-import type { LearnDoc, Metrics, ProjectState, TaskSnapshot } from "./types.ts";
+import type { GscSnapshot, LearnDoc, Metrics, ProjectState, TaskSnapshot } from "./types.ts";
 
 function readRequired(path: string): string {
   if (!existsSync(path)) {
@@ -36,6 +36,7 @@ export function readState(root: string = "."): ProjectState {
     pages: readPages(s("pages.csv")),
     metrics: readOptionalJson<Metrics>(s("metrics.json")),
     tasks: readOptionalJson<TaskSnapshot>(s("tasks.json")),
+    gsc: readOptionalJson<GscSnapshot>(s("gsc.json")),
     learn: readLearnDocs(join(root, "learn")),
   };
 }

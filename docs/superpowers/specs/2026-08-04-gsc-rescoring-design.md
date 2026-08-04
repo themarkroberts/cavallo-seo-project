@@ -110,7 +110,7 @@ decisions he deliberately made — the same class of error as re-running the cla
 1. `npm run refresh` writes `state/gsc.json` with measured clicks for ~4,651 pages.
 2. The dashboard shows real clicks and impressions per page, labelled as measured, alongside
    Ahrefs figures labelled as estimates.
-3. `scripts/flag-gsc-review.ts` reports 47 contradictions at the ≥10 threshold and flags them
+3. `scripts/flag-gsc-review.ts` reports 48 contradictions at the ≥10 threshold (47 was estimated from a slightly different date window) and flags them
    only when `--apply` is passed.
 4. No page's `role` changes as a result of this work.
 5. Re-running the flagging script without `--force` aborts.
