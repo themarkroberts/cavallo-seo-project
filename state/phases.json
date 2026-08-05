@@ -22,7 +22,19 @@
           "promised": "Commercial hub enriching the existing /product-category/hoof-boot/ category page. Guide copy wraps the product grid; every product page links back here.",
           "owner": "Mark",
           "status": "built",
-          "evidence": "Verified 2026-08-05. Renders on the preview site with 9 hub sections, 12 FAQs, valid FAQPage JSON-LD and a semantic comparison table. Absent from cavallo-inc.com. Render code is on the `seo` branch; the copy lives in ACF term fields in the WordPress DB and must be re-entered on live by hand."
+          "evidence": "Verified 2026-08-05. Renders on the preview site with 9 hub sections, 12 FAQs, valid FAQPage JSON-LD and a semantic comparison table. Absent from cavallo-inc.com. Render code is on the `seo` branch; the copy lives in ACF term fields in the WordPress DB and must be re-entered on live by hand.",
+          "links": [
+            {
+              "label": "Preview — hub renders here",
+              "url": "https://cavallo.seo.markroberts.io/product-category/hoof-boot/",
+              "note": "200"
+            },
+            {
+              "label": "Production — page exists, hub absent",
+              "url": "https://cavallo-inc.com/product-category/hoof-boot/",
+              "note": "200"
+            }
+          ]
         },
         {
           "id": "1.2",
@@ -36,6 +48,18 @@
             "Yoast title and meta description are unset, so the page serves the theme default 'Hoof Health & Conditions - Cavallo'.",
             "Links to /sensitive-thin-soled-horses-rejoice/, which returns 404 on production.",
             "Two H1s render — the theme's screen-reader H1 plus the pillar-header block's H1."
+          ],
+          "links": [
+            {
+              "label": "Preview",
+              "url": "https://cavallo.seo.markroberts.io/horse-hoof-care/",
+              "note": "200"
+            },
+            {
+              "label": "Production",
+              "url": "https://cavallo-inc.com/horse-hoof-care/",
+              "note": "404 — not published"
+            }
           ]
         },
         {
@@ -45,7 +69,19 @@
           "owner": "Mark",
           "status": "blocked",
           "blockedBy": "Two KD-0 spokes that two of its H2s point at do not exist: wild-horse hooves (how do wild horses maintain their hooves, 600 + how do wild horses trim their hooves, 700 + wild horse hooves, 500) and barefoot trimming (horse hoof trimming, 200). The build spec requires these first — the pillar page is gated on them.",
-          "evidence": "Verified 2026-08-05. Built on preview with 5 content sections, FAQ block, and Yoast title and meta correctly set. 404 on cavallo-inc.com. This is the one pillar with a hard documented publish gate."
+          "evidence": "Verified 2026-08-05. Built on preview with 5 content sections, FAQ block, and Yoast title and meta correctly set. 404 on cavallo-inc.com. This is the one pillar with a hard documented publish gate.",
+          "links": [
+            {
+              "label": "Preview",
+              "url": "https://cavallo.seo.markroberts.io/barefoot-horse-care/",
+              "note": "200"
+            },
+            {
+              "label": "Production",
+              "url": "https://cavallo-inc.com/barefoot-horse-care/",
+              "note": "404 — not published"
+            }
+          ]
         },
         {
           "id": "1.4",
@@ -93,7 +129,19 @@
           "promised": "Restructure and medical-depth expansion of /your-cavallo-laminitis-healing-plan/ so it owns laminitis (5,500) and laminitis in horses (4,500). Explicitly a rebuild, not a light optimize — the existing page is FAQ and product-framed.",
           "owner": "Mark",
           "status": "not-started",
-          "evidence": "Carole's draft is in hand but not built. Measured on production 2026-08-05: the page has no FAQPage schema, no MedicalWebPage schema, and only three H2s — so none of the AI-citation build standard is applied yet. It currently ranks #10 for 'laminitic hoof' and does not rank the head terms. Around ten MERGE+301 donors point into this URL, so optimizing it unblocks the largest merge cluster in the project."
+          "evidence": "Carole's draft is in hand but not built. Measured on production 2026-08-05: the page has no FAQPage schema, no MedicalWebPage schema, and only three H2s — so none of the AI-citation build standard is applied yet. It currently ranks #10 for 'laminitic hoof' and does not rank the head terms. Around ten MERGE+301 donors point into this URL, so optimizing it unblocks the largest merge cluster in the project.",
+          "links": [
+            {
+              "label": "Production — the page to rebuild",
+              "url": "https://cavallo-inc.com/your-cavallo-laminitis-healing-plan/",
+              "note": "200"
+            },
+            {
+              "label": "Preview",
+              "url": "https://cavallo.seo.markroberts.io/your-cavallo-laminitis-healing-plan/",
+              "note": "200"
+            }
+          ]
         },
         {
           "id": "2.3",
@@ -101,7 +149,19 @@
           "promised": "The optimized guide is wired into Pillar 2 as the laminitis canonical, with the commercial boots-for-laminitis intent kept off it.",
           "owner": "Mark",
           "status": "built",
-          "evidence": "Verified 2026-08-05: Pillar 2 already links /your-cavallo-laminitis-healing-plan/ on the preview site, and the commercial /faq/cavallo-hoof-boots-for-laminitis/ is correctly kept off the pillar. Neither page is on production, so the connection is not live."
+          "evidence": "Verified 2026-08-05: Pillar 2 already links /your-cavallo-laminitis-healing-plan/ on the preview site, and the commercial /faq/cavallo-hoof-boots-for-laminitis/ is correctly kept off the pillar. Neither page is on production, so the connection is not live.",
+          "links": [
+            {
+              "label": "Preview — Pillar 2 linking the laminitis canonical",
+              "url": "https://cavallo.seo.markroberts.io/horse-hoof-care/",
+              "note": "200"
+            },
+            {
+              "label": "Commercial counterpart — keep this intent off the pillar",
+              "url": "https://cavallo-inc.com/faq/cavallo-hoof-boots-for-laminitis/",
+              "note": "200"
+            }
+          ]
         },
         {
           "id": "2.4",
@@ -144,7 +204,14 @@
           "promised": "The existing /shop/ page 301s into the new need-based funnel.",
           "owner": "Mark",
           "status": "not-started",
-          "evidence": "Not started. /shop/ returns 200 on production as of 2026-08-05."
+          "evidence": "Not started. /shop/ returns 200 on production as of 2026-08-05.",
+          "links": [
+            {
+              "label": "Production — the shop page to redirect",
+              "url": "https://cavallo-inc.com/shop/",
+              "note": "200"
+            }
+          ]
         },
         {
           "id": "3.3",

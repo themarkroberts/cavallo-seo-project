@@ -134,6 +134,48 @@ test("phases come back sorted by number", () => {
   );
 });
 
+test("links parse, and default to an empty array when absent", () => {
+  const f = parsePhases(
+    withDeliverable({
+      id: "1.1",
+      title: "t",
+      promised: "p",
+      owner: "Mark",
+      status: "built",
+      evidence: "e",
+      links: [{ label: "Preview", url: "https://example.com/a/", note: "200" }],
+    })
+  );
+  assert.equal(f.phases[0].deliverables[0].links[0].label, "Preview");
+  assert.deepEqual(parsePhases(file()).phases[0].deliverables[0].links, []);
+});
+
+test("a relative link url fails loudly — it would 404 against the local dashboard file", () => {
+  const bad = withDeliverable({
+    id: "1.1",
+    title: "t",
+    promised: "p",
+    owner: "Mark",
+    status: "built",
+    evidence: "e",
+    links: [{ label: "Preview", url: "/horse-hoof-care/", note: "200" }],
+  });
+  assert.throws(() => parsePhases(bad), /url must be absolute http\(s\)/);
+});
+
+test("a link missing its note fails loudly — an unchecked link is not evidence", () => {
+  const bad = withDeliverable({
+    id: "1.1",
+    title: "t",
+    promised: "p",
+    owner: "Mark",
+    status: "built",
+    evidence: "e",
+    links: [{ label: "Preview", url: "https://example.com/" }],
+  });
+  assert.throws(() => parsePhases(bad), /missing or empty "note"/);
+});
+
 test("statusCounts counts every status, including zeroes", () => {
   const f = parsePhases(file());
   const counts = statusCounts(f.phases[0].deliverables);

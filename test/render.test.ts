@@ -26,6 +26,13 @@ function state(over: Partial<ProjectState> = {}): ProjectState {
               status: "built",
               evidence: "Renders on preview, absent from production.",
               defects: ["Yoast meta unset"],
+              links: [
+                {
+                  label: "Preview",
+                  url: "https://cavallo.seo.markroberts.io/product-category/hoof-boot/",
+                  note: "200",
+                },
+              ],
             },
             {
               id: "1.2",
@@ -36,6 +43,7 @@ function state(over: Partial<ProjectState> = {}): ProjectState {
               blockedBy: "Two KD-0 spokes do not exist.",
               evidence: "Built on preview.",
               defects: [],
+              links: [],
             },
           ],
         },
@@ -56,6 +64,7 @@ function state(over: Partial<ProjectState> = {}): ProjectState {
               status: "done",
               evidence: "Confirmed 2026-08-05.",
               defects: [],
+              links: [],
             },
           ],
         },

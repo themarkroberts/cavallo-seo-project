@@ -1,5 +1,11 @@
 import { existsSync, readFileSync } from "node:fs";
-import type { Deliverable, DeliverableStatus, Phase, PhasesFile } from "./types.ts";
+import type {
+  Deliverable,
+  DeliverableLink,
+  DeliverableStatus,
+  Phase,
+  PhasesFile,
+} from "./types.ts";
 
 const STATUSES: DeliverableStatus[] = [
   "done",
@@ -48,6 +54,26 @@ function parseDeliverable(raw: unknown, where: string): Deliverable {
     fail(where, `"blockedBy" is set but status is "${status}", not "blocked"`);
   }
 
+  const links: DeliverableLink[] = [];
+  if (d.links !== undefined) {
+    if (!Array.isArray(d.links)) fail(where, `"links" must be an array`);
+    for (const [i, raw] of (d.links as unknown[]).entries()) {
+      if (typeof raw !== "object" || raw === null) fail(where, `links[${i}] is not an object`);
+      const l = raw as Record<string, unknown>;
+      for (const key of ["label", "url", "note"]) {
+        if (typeof l[key] !== "string" || (l[key] as string).trim() === "") {
+          fail(where, `links[${i}] missing or empty "${key}"`);
+        }
+      }
+      // Only absolute http(s) URLs — a bare path would be resolved against the local
+      // dashboard file and silently 404 in the browser.
+      if (!/^https?:\/\//.test(l.url as string)) {
+        fail(where, `links[${i}] url must be absolute http(s), got "${String(l.url)}"`);
+      }
+      links.push({ label: l.label as string, url: l.url as string, note: l.note as string });
+    }
+  }
+
   if (d.defects !== undefined) {
     if (!Array.isArray(d.defects) || d.defects.some((x) => typeof x !== "string")) {
       fail(where, `"defects" must be an array of strings`);
@@ -63,6 +89,7 @@ function parseDeliverable(raw: unknown, where: string): Deliverable {
     evidence: d.evidence as string,
     blockedBy: d.blockedBy as string | undefined,
     defects: (d.defects as string[]) ?? [],
+    links,
   };
 }
 

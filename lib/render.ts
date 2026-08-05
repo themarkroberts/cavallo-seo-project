@@ -69,6 +69,19 @@ function deliverableCard(d: Deliverable): string {
              <ul>${d.defects.map((x) => `<li>${esc(x)}</li>`).join("")}</ul></div>`
           : ""
       }
+      ${
+        d.links.length > 0
+          ? `<ul class="deliv__links">${d.links
+              .map(
+                (l) =>
+                  `<li><a href="${esc(l.url)}" target="_blank" rel="noopener">${esc(
+                    l.label
+                  )}</a> <span class="qualifier">${esc(l.note)}</span><br>
+                   <span class="deliv__url">${esc(l.url)}</span></li>`
+              )
+              .join("")}</ul>`
+          : ""
+      }
       <p class="deliv__owner">Owner: <strong>${esc(d.owner)}</strong></p>
     </article>`;
 }
@@ -229,6 +242,12 @@ export function renderDashboard(state: ProjectState): string {
   .deliv__defects { padding: .6rem .8rem; background: #c9930f18; border-radius: 4px; margin: .45rem 0; }
   .deliv__defects ul { margin: .4rem 0 0; padding-left: 1.2rem; }
   .deliv__owner { font-size: .85rem; color: #8a8a8a; }
+  .deliv__links { list-style: none; padding: .6rem .8rem; margin: .6rem 0; background: #8881;
+                  border-radius: 4px; font-size: .88rem; }
+  .deliv__links li + li { margin-top: .5rem; }
+  .deliv__links a { font-weight: 600; }
+  .deliv__url { font-family: ui-monospace, monospace; font-size: .74rem; color: #8a8a8a;
+                word-break: break-all; }
   .badge { display: inline-block; font-size: .72rem; font-weight: 600; letter-spacing: .03em;
            padding: .2rem .55rem; border-radius: 99px; white-space: nowrap; border: 1px solid; }
   .badge--done { color: #3a8; border-color: #3a88; background: #33aa8818; }

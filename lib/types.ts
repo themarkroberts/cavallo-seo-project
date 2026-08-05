@@ -39,6 +39,14 @@ export type LearnDoc = { slug: string; title: string; body: string };
  *  this project kept losing track of, because "done" and "live" are not the same thing. */
 export type DeliverableStatus = "done" | "built" | "in-progress" | "blocked" | "not-started";
 
+/** A page this deliverable produced, on whichever host it currently exists. */
+export type DeliverableLink = {
+  label: string;
+  url: string;
+  /** What the URL returned when last checked, e.g. "200" or "404 — not published". */
+  note: string;
+};
+
 /** One promised deliverable from the client-facing roadmap. */
 export type Deliverable = {
   /** Stable dotted id, e.g. "1.2". Referenced from notes and decisions. */
@@ -55,6 +63,8 @@ export type Deliverable = {
   blockedBy?: string;
   /** Known defects that must be fixed before this ships. Empty when there are none. */
   defects: string[];
+  /** The actual pages, so the deliverable is one click from being checked. */
+  links: DeliverableLink[];
 };
 
 /** One month of the six-month engagement. */
