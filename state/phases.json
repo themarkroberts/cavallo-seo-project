@@ -25,14 +25,9 @@
           "evidence": "Verified 2026-08-05. Renders on the preview site with 9 hub sections, 12 FAQs, valid FAQPage JSON-LD and a semantic comparison table. Absent from cavallo-inc.com. Render code is on the `seo` branch; the copy lives in ACF term fields in the WordPress DB and must be re-entered on live by hand.",
           "links": [
             {
-              "label": "Preview — hub renders here",
+              "label": "Preview",
               "url": "https://cavallo.seo.markroberts.io/product-category/hoof-boot/",
-              "note": "200"
-            },
-            {
-              "label": "Production — page exists, hub absent",
-              "url": "https://cavallo-inc.com/product-category/hoof-boot/",
-              "note": "200"
+              "note": "hub renders here"
             }
           ]
         },
@@ -54,11 +49,6 @@
               "label": "Preview",
               "url": "https://cavallo.seo.markroberts.io/horse-hoof-care/",
               "note": "200"
-            },
-            {
-              "label": "Production",
-              "url": "https://cavallo-inc.com/horse-hoof-care/",
-              "note": "404 — not published"
             }
           ]
         },
@@ -75,11 +65,6 @@
               "label": "Preview",
               "url": "https://cavallo.seo.markroberts.io/barefoot-horse-care/",
               "note": "200"
-            },
-            {
-              "label": "Production",
-              "url": "https://cavallo-inc.com/barefoot-horse-care/",
-              "note": "404 — not published"
             }
           ]
         },
@@ -132,13 +117,8 @@
           "evidence": "Carole's draft is in hand but not built. Measured on production 2026-08-05: the page has no FAQPage schema, no MedicalWebPage schema, and only three H2s — so none of the AI-citation build standard is applied yet. It currently ranks #10 for 'laminitic hoof' and does not rank the head terms. Around ten MERGE+301 donors point into this URL, so optimizing it unblocks the largest merge cluster in the project.",
           "links": [
             {
-              "label": "Production — the page to rebuild",
+              "label": "The live page to rebuild",
               "url": "https://cavallo-inc.com/your-cavallo-laminitis-healing-plan/",
-              "note": "200"
-            },
-            {
-              "label": "Preview",
-              "url": "https://cavallo.seo.markroberts.io/your-cavallo-laminitis-healing-plan/",
               "note": "200"
             }
           ]
@@ -207,7 +187,7 @@
           "evidence": "Not started. /shop/ returns 200 on production as of 2026-08-05.",
           "links": [
             {
-              "label": "Production — the shop page to redirect",
+              "label": "The live shop page to redirect",
               "url": "https://cavallo-inc.com/shop/",
               "note": "200"
             }
