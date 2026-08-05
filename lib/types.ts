@@ -35,7 +35,54 @@ export type TaskSnapshot = { fetchedAt: string; tasks: Task[] };
 
 export type LearnDoc = { slug: string; title: string; body: string };
 
+/** Where a deliverable stands. `built` means finished but not on production — the state
+ *  this project kept losing track of, because "done" and "live" are not the same thing. */
+export type DeliverableStatus = "done" | "built" | "in-progress" | "blocked" | "not-started";
+
+/** One promised deliverable from the client-facing roadmap. */
+export type Deliverable = {
+  /** Stable dotted id, e.g. "1.2". Referenced from notes and decisions. */
+  id: string;
+  title: string;
+  /** What Cavallo was told they would get, in the roadmap's own terms. */
+  promised: string;
+  /** Who owes it: Mark, Carole, or the Cavallo team. */
+  owner: string;
+  status: DeliverableStatus;
+  /** Dated, verified justification for the status — or a plain statement that none exists. */
+  evidence: string;
+  /** Required when status is "blocked"; forbidden otherwise. Enforced by lib/phases.ts. */
+  blockedBy?: string;
+  /** Known defects that must be fixed before this ships. Empty when there are none. */
+  defects: string[];
+};
+
+/** One month of the six-month engagement. */
+export type Phase = {
+  number: number;
+  month: string;
+  title: string;
+  /** True for the phases actually being worked right now. */
+  active: boolean;
+  /** The outcome promised to the client for this phase. */
+  outcome: string;
+  note: string;
+  /** What the Cavallo team owes back during this phase. */
+  teamRole: string[];
+  deliverables: Deliverable[];
+};
+
+/** state/phases.json — the client-facing commitment record. */
+export type PhasesFile = {
+  /** Where these commitments came from, so provenance never gets lost again. */
+  source: string;
+  updated: string;
+  phases: Phase[];
+};
+
 export type ProjectState = {
+  /** The six-month engagement, deliverable by deliverable. */
+  phases: PhasesFile;
   whereWeAre: string;
   decisions: string;
   nextActions: string;

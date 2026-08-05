@@ -13,6 +13,33 @@ function fixture(): string {
   writeFileSync(join(root, "state", "decisions.md"), "# Decisions");
   writeFileSync(join(root, "state", "next-actions.md"), "# Next");
   writeFileSync(
+    join(root, "state", "phases.json"),
+    JSON.stringify({
+      source: "reference/01-roadmap.md",
+      updated: "2026-08-05",
+      phases: [
+        {
+          number: 1,
+          month: "June 2026",
+          title: "Foundation",
+          active: true,
+          outcome: "Site out of holding pattern.",
+          teamRole: [],
+          deliverables: [
+            {
+              id: "1.1",
+              title: "Pillar 1 live",
+              promised: "Commercial hub.",
+              owner: "Mark",
+              status: "built",
+              evidence: "Renders on preview.",
+            },
+          ],
+        },
+      ],
+    })
+  );
+  writeFileSync(
     join(root, "state", "pages.csv"),
     "url,pillar,role,destination_url,evidence,source,needs_review\n" +
       "https://x.com/a/,None,PRUNE,,e,Auto,No\n"
@@ -24,6 +51,15 @@ test("reads markdown and pages", () => {
   const state = readState(fixture());
   assert.match(state.whereWeAre, /Step 3 of 5/);
   assert.equal(state.pages.length, 1);
+});
+
+test("reads the phase deliverables", () => {
+  const state = readState(fixture());
+  assert.equal(state.phases.phases.length, 1);
+  assert.equal(state.phases.phases[0].deliverables[0].status, "built");
+  // Optional fields default rather than coming back undefined.
+  assert.deepEqual(state.phases.phases[0].deliverables[0].defects, []);
+  assert.equal(state.phases.phases[0].note, "");
 });
 
 test("metrics and tasks are null when their files are absent", () => {
@@ -66,5 +102,11 @@ test("learn doc without a heading falls back to its slug", () => {
 
 test("a missing state file fails loudly", () => {
   const root = mkdtempSync(join(tmpdir(), "cavallo-empty-"));
-  assert.throws(() => readState(root), /where-we-are\.md/);
+  assert.throws(() => readState(root), /Missing required state file/);
+});
+
+test("a missing phases.json fails loudly rather than yielding an empty roadmap", () => {
+  const root = mkdtempSync(join(tmpdir(), "cavallo-nophases-"));
+  mkdirSync(join(root, "state"));
+  assert.throws(() => readState(root), /phases\.json/);
 });

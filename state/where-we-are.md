@@ -11,29 +11,23 @@ site.
 This project is measured two different ways. Both are legitimate; they count different things, and
 conflating them is why the position has been unclear.
 
-**1. The engagement** — what Cavallo is owed, on a calendar. Six phases, June–November 2026, from
-`reference/01-roadmap.md`.
+**1. The engagement** — what Cavallo is owed, on a calendar. Six phases, June–November 2026.
+**The deliverable-by-deliverable record now lives in `state/phases.json`** and renders as the phase
+tabs on the dashboard. That file is authoritative; do not restate phase status here, because a second
+copy is how the two records drifted apart in the first place.
 
-| Phase | Month | Committed deliverable | Actual state |
-|---|---|---|---|
-| 1 | June | All three pillar pages live | ⚠️ **Partial.** Pillar 1 has 9 hub sections built in code (`intro, types, choose, uses, sizing, accessories, laminitis, credibility, faq`). Pillars 2 and 3 have **no commits at all** |
-| 2 | July | Laminitis guide optimised; shop categories locked | ⬜ Not evidenced |
-| 3 | **August — now** | Shop nav funnel, 5 category landing pages | ⬜ Not started |
-| 4 | September | Product page overhaul | ⬜ Not started |
-| 5 | October | Hoof-health condition spokes | ⬜ Not started |
-| 6 | November | Remaining spokes + measurement vs June baseline | ⬜ Not started |
-
-**On "built":** Pillar 1's *rendering code* exists on the `seo` branch. The actual copy lives in ACF
-fields in the WordPress database, which this repo cannot see, and per the build notes DB content is
-re-entered on live by hand. So "9 sections built" means the scaffolding is ready — **not** that the
-page is live and populated. That needs checking on the live site.
+**Corrected 2026-08-05.** This section previously claimed *"Pillars 2 and 3 have no commits at all."*
+That was wrong. All three pillar pages are built and render on cavallo.seo.markroberts.io; the `seo`
+branch carries a full pillar block library (pillar-header, spoke-links, hub-table, card-grid,
+guardrail, hoof-anatomy, display-quote, content-section, faq) plus ten new ACF field groups. What is
+true is that **none of it is on production** — Pillar 2 and Pillar 3 both 404 on cavallo-inc.com.
+Mark's call, 2026-08-05: they do not publish while they still carry coming-soon links.
 
 **2. The content pipeline** — the five steps below. This is what work has actually been happening,
 and it is a prerequisite for Phases 5 and 6, not a substitute for Phases 3 and 4.
 
 **Where they diverge:** the calendar says Phase 3. The pipeline says Step 3. Those are unrelated
-threes. On the calendar the engagement is roughly two phases behind; the shop-restructure half of
-the project (Phases 3 and 4) has not been started or tracked anywhere until now.
+threes.
 
 ## The five steps
 

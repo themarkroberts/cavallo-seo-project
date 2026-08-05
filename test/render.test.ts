@@ -5,6 +5,62 @@ import type { ProjectState } from "../lib/types.ts";
 
 function state(over: Partial<ProjectState> = {}): ProjectState {
   return {
+    phases: {
+      source: "reference/01-roadmap.md",
+      updated: "2026-08-05",
+      phases: [
+        {
+          number: 1,
+          month: "June 2026",
+          title: "Foundation",
+          active: true,
+          outcome: "Site out of holding pattern.",
+          note: "Built, not shipped.",
+          teamRole: ["Review pillar copy"],
+          deliverables: [
+            {
+              id: "1.1",
+              title: "Pillar 1 live",
+              promised: "Commercial hub.",
+              owner: "Mark",
+              status: "built",
+              evidence: "Renders on preview, absent from production.",
+              defects: ["Yoast meta unset"],
+            },
+            {
+              id: "1.2",
+              title: "Pillar 3 live",
+              promised: "Credibility pillar.",
+              owner: "Mark",
+              status: "blocked",
+              blockedBy: "Two KD-0 spokes do not exist.",
+              evidence: "Built on preview.",
+              defects: [],
+            },
+          ],
+        },
+        {
+          number: 2,
+          month: "July 2026",
+          title: "Laminitis Guide",
+          active: false,
+          outcome: "Guide live and ranking.",
+          note: "",
+          teamRole: [],
+          deliverables: [
+            {
+              id: "2.1",
+              title: "Draft delivered",
+              promised: "Carole supplies the draft.",
+              owner: "Carole",
+              status: "done",
+              evidence: "Confirmed 2026-08-05.",
+              defects: [],
+            },
+          ],
+        },
+      ],
+    },
     whereWeAre: "# Where we are\nStep 3 of 5.",
     decisions: "# Decisions\nDecided things.",
     nextActions: "# Next actions\nReview 47 rows.",
@@ -56,9 +112,9 @@ test("produces a standalone document with no external requests", () => {
   assert.doesNotMatch(html, /<link[^>]+stylesheet/);
 });
 
-test("renders all three tabs", () => {
+test("renders a tab and section per phase", () => {
   const html = renderDashboard(state());
-  for (const id of ["where-we-are", "whats-next", "why"]) {
+  for (const id of ["phase-1", "phase-2", "pages", "why", "strategy", "notes"]) {
     assert.match(html, new RegExp(`id="${id}"`));
   }
 });

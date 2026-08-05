@@ -1,0 +1,285 @@
+{
+  "_comment": "The six-month engagement, deliverable by deliverable. This is the client-facing commitment record. Deliverables come from reference/01-roadmap.md (the Notion roadmap Cavallo was shown); every status must carry dated evidence or say plainly that none exists. Status vocabulary is validated by lib/phases.ts — an unknown value throws.",
+  "source": "reference/01-roadmap.md — the client-facing Notion roadmap. No proposal, SOW or email record exists in this repo; see docs/HANDOFF-2026-08-04.md open question 4.",
+  "updated": "2026-08-05",
+  "phases": [
+    {
+      "number": 1,
+      "month": "June 2026",
+      "title": "Foundation",
+      "active": true,
+      "outcome": "Site out of holding pattern. Team can resume publishing into the new content architecture.",
+      "note": "All three pillar pages are built and render on cavallo.seo.markroberts.io. None are on production. Mark's call, 2026-08-05: they do not publish while they still carry coming-soon links. So the remaining Phase 1 work is not building — it is resolving the spoke gaps, then publishing.",
+      "teamRole": [
+        "Review pillar copy",
+        "Supply customer-service and FAQ themes",
+        "Prepare Carole's laminitis draft for Phase 2"
+      ],
+      "deliverables": [
+        {
+          "id": "1.1",
+          "title": "Pillar 1 live — The Hoof Boot Guide",
+          "promised": "Commercial hub enriching the existing /product-category/hoof-boot/ category page. Guide copy wraps the product grid; every product page links back here.",
+          "owner": "Mark",
+          "status": "built",
+          "evidence": "Verified 2026-08-05. Renders on the preview site with 9 hub sections, 12 FAQs, valid FAQPage JSON-LD and a semantic comparison table. Absent from cavallo-inc.com. Render code is on the `seo` branch; the copy lives in ACF term fields in the WordPress DB and must be re-entered on live by hand."
+        },
+        {
+          "id": "1.2",
+          "title": "Pillar 2 live — Hoof Health & Conditions",
+          "promised": "Net-new authority pillar at /horse-hoof-care/ targeting horse hoof anatomy (2,400/mo) and horse hoof care (600/mo). Overview hub linking one canonical per condition.",
+          "owner": "Mark",
+          "status": "built",
+          "evidence": "Verified 2026-08-05. Built on preview: anatomy figure, 'how these conditions relate' framing, vet guardrail panel, FAQPage + Article schema, ~6 H2s. 404 on cavallo-inc.com. Links only to spokes that already exist — navicular, thrush and DSLD are deliberately unlinked until Phases 2 and 5, so no coming-soon dependency blocks it.",
+          "defects": [
+            "H1 renders a mangled unicode escape — 'Hoof Health u0026 Conditions' instead of '&'. Eight occurrences on the page, including the H1 and one H2.",
+            "Yoast title and meta description are unset, so the page serves the theme default 'Hoof Health & Conditions - Cavallo'.",
+            "Links to /sensitive-thin-soled-horses-rejoice/, which returns 404 on production.",
+            "Two H1s render — the theme's screen-reader H1 plus the pillar-header block's H1."
+          ]
+        },
+        {
+          "id": "1.3",
+          "title": "Pillar 3 live — Barefoot Horse Care",
+          "promised": "Net-new credibility pillar at /barefoot-horse-care/, anchored on the wild-horse self-trimming model. Old /category/the-barefoot-horse/ archive 301s into it.",
+          "owner": "Mark",
+          "status": "blocked",
+          "blockedBy": "Two KD-0 spokes that two of its H2s point at do not exist: wild-horse hooves (how do wild horses maintain their hooves, 600 + how do wild horses trim their hooves, 700 + wild horse hooves, 500) and barefoot trimming (horse hoof trimming, 200). The build spec requires these first — the pillar page is gated on them.",
+          "evidence": "Verified 2026-08-05. Built on preview with 5 content sections, FAQ block, and Yoast title and meta correctly set. 404 on cavallo-inc.com. This is the one pillar with a hard documented publish gate."
+        },
+        {
+          "id": "1.4",
+          "title": "Internal linking framework",
+          "promised": "Every page on the site connects logically — a two-tier model where the pillar links one canonical per topic and each canonical carries its own spokes.",
+          "owner": "Mark",
+          "status": "in-progress",
+          "evidence": "The model is specified and both new pillar pages implement their half of it. Two gaps remain. The canonical spoke briefs — the layer that makes each canonical carry its onward spoke links — are called out in the strategy as the biggest missing piece and are not written; without them spokes orphan the moment a canonical ships. And still true from the June audit: 723 pages have zero internal inbound links, 632 have no meta description."
+        },
+        {
+          "id": "1.5",
+          "title": "Full content audit",
+          "promised": "Identify which of the 300+ existing pages can be repurposed vs. need to be created from scratch.",
+          "owner": "Mark",
+          "status": "in-progress",
+          "evidence": "Delivered as state/pages.csv — 1,155 rows, exactly one role per URL, which is what prevents cannibalization. Re-scored against measured Search Console data 2026-08-05: the map captures 90.1% of measured clicks, so it is structurally sound. But it was originally scored on Ahrefs estimates that undercounted traffic-bearing pages by roughly 14x, and 153 decisions are still outstanding: 87 destructive rows (44 PRUNE, 39 MERGE+301, 4 NOINDEX) that earn 10 or more measured clicks, plus 66 URLs earning 10 or more clicks that were never audited at all because Ahrefs could not see them."
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "month": "July 2026",
+      "title": "Laminitis Guide + Categories Locked",
+      "active": true,
+      "outcome": "Laminitis guide live and ranking. Shop categories locked and ready for the nav funnel build.",
+      "note": "The laminitis cluster is the highest-volume single topic in the project (~10,000 monthly US searches) and almost every SERP carries an AI Overview. Head terms are an aspirational page-1 and AI-citation play, not top-5: the top 5 is walled by Merck, ACVS, NIH and vet schools.",
+      "teamRole": [
+        "Review the optimized laminitis guide",
+        "Work category edge cases",
+        "Sign off acute-laminitis positioning",
+        "Draft category descriptions"
+      ],
+      "deliverables": [
+        {
+          "id": "2.1",
+          "title": "Carole's laminitis draft delivered",
+          "promised": "Carole supplies her existing laminitis draft for SEO optimization (carried over from the Phase 1 team commitments).",
+          "owner": "Carole",
+          "status": "done",
+          "evidence": "Mark confirmed 2026-08-05: Carole has completed the laminitis guide and it is ready to be built."
+        },
+        {
+          "id": "2.2",
+          "title": "Laminitis guide SEO-optimized and published",
+          "promised": "Restructure and medical-depth expansion of /your-cavallo-laminitis-healing-plan/ so it owns laminitis (5,500) and laminitis in horses (4,500). Explicitly a rebuild, not a light optimize — the existing page is FAQ and product-framed.",
+          "owner": "Mark",
+          "status": "not-started",
+          "evidence": "Carole's draft is in hand but not built. Measured on production 2026-08-05: the page has no FAQPage schema, no MedicalWebPage schema, and only three H2s — so none of the AI-citation build standard is applied yet. It currently ranks #10 for 'laminitic hoof' and does not rank the head terms. Around ten MERGE+301 donors point into this URL, so optimizing it unblocks the largest merge cluster in the project."
+        },
+        {
+          "id": "2.3",
+          "title": "Laminitis guide connected into the Hoof Health pillar",
+          "promised": "The optimized guide is wired into Pillar 2 as the laminitis canonical, with the commercial boots-for-laminitis intent kept off it.",
+          "owner": "Mark",
+          "status": "built",
+          "evidence": "Verified 2026-08-05: Pillar 2 already links /your-cavallo-laminitis-healing-plan/ on the preview site, and the commercial /faq/cavallo-hoof-boots-for-laminitis/ is correctly kept off the pillar. Neither page is on production, so the connection is not live."
+        },
+        {
+          "id": "2.4",
+          "title": "Shop category scheme finalized and locked",
+          "promised": "The five-category shop scheme is agreed and locked. This is the gate on the entire Phase 3 navigation rebuild.",
+          "owner": "Carole",
+          "status": "blocked",
+          "blockedBy": "Carole must lock the five-category scheme. Nothing in this repo or on the seo branch evidences it is done, and it gates all of Phase 3 — which is due this month.",
+          "evidence": "No evidence either way as of 2026-08-05. This is the highest-leverage unknown in the project: Phase 3 is the biggest single workstream at ~28 hours estimated and cannot start without it."
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "month": "August 2026",
+      "title": "Shop Nav Funnel Live",
+      "active": false,
+      "outcome": "Need-based shop entry live. Old shop page redirected. Mobile-optimized funnel tested.",
+      "note": "DUE THIS MONTH and not started. The biggest single workstream (~28 hours estimated) and the change most visible to customers. Gated on deliverable 2.4.",
+      "teamRole": [
+        "Finalize category descriptions",
+        "Confirm product-to-category mapping",
+        "Test the funnel",
+        "Plan the newsletter feature",
+        "Identify boot-to-accessory pairings"
+      ],
+      "deliverables": [
+        {
+          "id": "3.1",
+          "title": "Five category landing pages live with full SEO",
+          "promised": "Shop navigation rebuilt around how customers think — by animal type and by condition, not by product name.",
+          "owner": "Mark",
+          "status": "blocked",
+          "blockedBy": "Deliverable 2.4 — Carole has not locked the category scheme.",
+          "evidence": "Not started as of 2026-08-05."
+        },
+        {
+          "id": "3.2",
+          "title": "Old shop page redirected into the new structure",
+          "promised": "The existing /shop/ page 301s into the new need-based funnel.",
+          "owner": "Mark",
+          "status": "not-started",
+          "evidence": "Not started. /shop/ returns 200 on production as of 2026-08-05."
+        },
+        {
+          "id": "3.3",
+          "title": "Mobile-optimized funnel tested",
+          "promised": "The funnel is verified on mobile, where most of the traffic lands.",
+          "owner": "Mark",
+          "status": "not-started",
+          "evidence": "Not started as of 2026-08-05."
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "month": "September 2026",
+      "title": "Product Page Overhaul",
+      "active": false,
+      "outcome": "Product pages convert better. Cross-sell drives accessory revenue. Acute-laminitis boot properly positioned.",
+      "note": "Cannot be scoped properly until the product URLs are classified: 96 of 178 product URLs that earn Search Console traffic have no role in state/pages.csv, including the three differentiators the whole strategy leans on — the LEB long-ear donkey boot (293 measured clicks), the Big Foot draft boot (285) and Cute Little Boots minis (179).",
+      "teamRole": [
+        "Review product descriptions",
+        "Train customer service on updated copy",
+        "Refresh ad and affiliate creative",
+        "Supply FAQ themes"
+      ],
+      "deliverables": [
+        {
+          "id": "4.1",
+          "title": "Cross-sell flipped to companion accessories",
+          "promised": "Recommendations stop surfacing competing boots, which confuses buyers, and surface companion accessories instead.",
+          "owner": "Mark",
+          "status": "not-started",
+          "evidence": "Not started as of 2026-08-05."
+        },
+        {
+          "id": "4.2",
+          "title": "Functional copy corrected",
+          "promised": "Soles are identical across regular sizes; the pages do not currently say so. Correct the functional copy.",
+          "owner": "Mark",
+          "status": "not-started",
+          "evidence": "Not started as of 2026-08-05."
+        },
+        {
+          "id": "4.3",
+          "title": "Acute-laminitis boot differentiated",
+          "promised": "Position the acute-laminitis boot on its patented floating-toe design — the thing no competitor can match.",
+          "owner": "Mark",
+          "status": "not-started",
+          "evidence": "Not started. Team sign-off on acute-laminitis positioning was a Phase 2 commitment (see 2.4's phase) and is also outstanding."
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "month": "October 2026",
+      "title": "Hoof Health Spokes",
+      "active": false,
+      "outcome": "Hoof Health hub populated with authoritative spoke content. Mid-project metrics visible.",
+      "note": "This is the phase where the Cavallo team writes and Mark edits — the only phase whose critical path runs through the client. Thrush (800/KD12) and DSLD (3,900/KD1) are the two net-new spokes; DSLD is the easiest high-volume term in the project.",
+      "teamRole": [
+        "Write spoke articles at the usual cadence",
+        "Run content and social push around the hub"
+      ],
+      "deliverables": [
+        {
+          "id": "5.1",
+          "title": "5–6 hoof-health spoke articles written",
+          "promised": "The Cavallo team writes 5–6 spokes from keyword briefs Mark supplies. Each targets a specific condition and links back to the pillar and relevant products.",
+          "owner": "Cavallo team",
+          "status": "not-started",
+          "evidence": "Not started. The keyword briefs Mark owes the team are also not written — that is the upstream dependency."
+        },
+        {
+          "id": "5.2",
+          "title": "Mark's SEO pass on each spoke",
+          "promised": "Mark does an SEO-optimization pass on every spoke before publication.",
+          "owner": "Mark",
+          "status": "not-started",
+          "evidence": "Not started as of 2026-08-05."
+        },
+        {
+          "id": "5.3",
+          "title": "Mid-project measurement check",
+          "promised": "Compare metrics against the June 2026 baseline.",
+          "owner": "Mark",
+          "status": "blocked",
+          "blockedBy": "state/gsc.json has a null click count for every month, so there is no trend line to measure against. The monthly series needs fixing before any before/after comparison is possible.",
+          "evidence": "The June baseline itself is locked (DR 48, 236 organic keywords, ~3,069 monthly organic traffic, ~5,565 GA4 sessions, ~$31,981 monthly organic revenue). The problem is the current-period series, not the baseline."
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "month": "November 2026",
+      "title": "Remaining Spokes + Measurement",
+      "active": false,
+      "outcome": "All spoke content live. Full measurement report delivered. Team has documentation to maintain independently.",
+      "note": "The handover phase. Everything here is a client-facing deliverable with a date attached, so it is the phase most exposed if earlier slippage is not recovered.",
+      "teamRole": [
+        "Continue publishing at cadence",
+        "Review the measurement report with Mark"
+      ],
+      "deliverables": [
+        {
+          "id": "6.1",
+          "title": "Hoof Boot Guide + Barefoot Horse Care spoke sets published",
+          "promised": "The remaining two pillars' spoke sets go live.",
+          "owner": "Mark",
+          "status": "not-started",
+          "evidence": "Not started. Two of these spokes — wild-horse hooves and barefoot trimming — are the same ones currently blocking Pillar 3 in deliverable 1.3. Pulling them forward would unblock Phase 1."
+        },
+        {
+          "id": "6.2",
+          "title": "Full internal-linking pass across all content",
+          "promised": "A complete internal-linking pass over every page.",
+          "owner": "Mark",
+          "status": "not-started",
+          "evidence": "Not started. 723 pages currently have zero internal inbound links."
+        },
+        {
+          "id": "6.3",
+          "title": "Measurement report vs the June baseline",
+          "promised": "Deliver a report comparing final metrics against the June 2026 baseline.",
+          "owner": "Mark",
+          "status": "not-started",
+          "evidence": "Not started. Depends on the same monthly-series fix as deliverable 5.3. Measured and estimated traffic must stay in separate labelled lanes — conflating them is how a 14x error stayed invisible for months."
+        },
+        {
+          "id": "6.4",
+          "title": "Architecture and linking rules documented",
+          "promised": "Document the architecture and linking rules so the team can maintain the structure independently after the project ends.",
+          "owner": "Mark",
+          "status": "not-started",
+          "evidence": "Not started as of 2026-08-05."
+        }
+      ]
+    }
+  ]
+}

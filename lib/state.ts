@@ -1,6 +1,7 @@
 import { readFileSync, existsSync, readdirSync } from "node:fs";
 import { join, basename } from "node:path";
 import { readPages } from "./pages.ts";
+import { readPhases } from "./phases.ts";
 import type { GscSnapshot, LearnDoc, Metrics, ProjectState, TaskSnapshot } from "./types.ts";
 
 function readRequired(path: string): string {
@@ -30,6 +31,7 @@ export function readLearnDocs(dir: string): LearnDoc[] {
 export function readState(root: string = "."): ProjectState {
   const s = (f: string) => join(root, "state", f);
   return {
+    phases: readPhases(s("phases.json")),
     whereWeAre: readRequired(s("where-we-are.md")),
     decisions: readRequired(s("decisions.md")),
     nextActions: readRequired(s("next-actions.md")),
