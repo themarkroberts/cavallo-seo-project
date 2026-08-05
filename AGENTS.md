@@ -26,6 +26,17 @@ Read `docs/superpowers/specs/2026-08-04-project-dashboard-design.md` before chan
   aliases in `lib/env.ts`. Do not copy secrets into this repo.
 - **Never re-run `scripts/flag-gsc-review.ts --apply`** without `--force`. It aborts deliberately;
   re-flagging cleared rows destroys real decisions.
+- **SEO branch only. Never touch `dev` or `main` of the Cavallo site.** Mark's standing instruction,
+  2026-08-05: this project works on SEO only. Edit the WordPress site *exclusively* through the pinned
+  worktree at `.worktrees/seo` (`config.ts` `workRepo.worktree`, or the gitignored `wp-seo` symlink).
+  **Never run git commands or edit files in `app/public/wp-content`** — that checkout floats between
+  branches and moved from `dev` to `main` mid-session once already. To read another branch, use
+  `git -C <worktree> show <branch>:<path>`; never check one out.
+- **Push the site repo with `origin`, never `Cavallo`.** `Cavallo` is SSH and its auth is broken, so
+  its remote-tracking refs are frozen at 2026-07-09 — any ahead/behind count measured against it is
+  fiction. `git fetch origin` and compare against `origin/<branch>` before trusting git's counts.
+- **Pushing `seo` deploys to cavallo.seo.markroberts.io immediately.** `deploy-seo.yml` fires on push
+  with no staging step. Commit freely; **never push without explicit approval.**
 - **Know which source owns which truth.** Three records of this project exist and have contradicted
   each other. **Execution** (what is built) = the `seo` branch of `themarkroberts/cavallo`, read via
   the gitignored `wp-seo` symlink or `config.ts` `workRepo`; if a document disagrees with the branch,

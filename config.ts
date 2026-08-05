@@ -22,10 +22,22 @@ export const config = {
   workRepo: {
     repo: "themarkroberts/cavallo",
     branch: "seo",
-    /** The code repo root. The LocalWP site root above it is 39 GB and is NOT a git repo. */
+    /**
+     * ⚠️ NEVER WRITE HERE, AND NEVER RUN GIT COMMANDS HERE. This checkout floats between branches
+     * (observed on `dev` then `main` within one session), so committing risks landing SEO work on
+     * `dev` or `main`. Recorded for reference only. The LocalWP site root above it is 39 GB and is
+     * NOT a git repo at all.
+     */
     codeRoot: "/Users/markreaction/Local Sites/cavallo/app/public/wp-content",
-    /** Persistent worktree pinned to `seo`, so reading it never disturbs the working checkout. */
+    /**
+     * ✅ THE ONLY PLACE TO WRITE. Persistent worktree pinned to `seo`; it cannot alter any other
+     * branch. Also reachable as the gitignored `wp-seo` symlink in this repo's root.
+     */
     worktree: "/Users/markreaction/Local Sites/cavallo/.worktrees/seo",
+    /** Push with this remote. `Cavallo` is SSH and broken; its tracking refs are stale since 07-09. */
+    pushRemote: "origin",
+    /** Pushing `seo` triggers deploy-seo.yml -> cavallo.seo.markroberts.io. No staging. Ask first. */
+    deploysOnPush: "https://cavallo.seo.markroberts.io",
   },
 };
 

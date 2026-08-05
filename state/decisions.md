@@ -183,3 +183,29 @@ evidence the export lacks. Importing it would have reverted review flags. The **
 
 Two known gaps: 9 of 109 keyword rows were never exported because Notion's query quota was hit, and
 the Project Tasks database was excluded on purpose — tasks stay in Notion.
+
+## 2026-08-05 — SEO branch only: this project never touches the site's `dev` or `main`
+
+Mark's standing instruction. All WordPress work happens on the `seo` branch and nowhere else.
+
+The mechanism is the **pinned worktree** at `.worktrees/seo`, which is checked out on `seo` and cannot
+alter another branch. `app/public/wp-content` is off limits for both edits and git commands: during a
+single session it was observed on `dev` and then on `main`, so a commit there could silently land SEO
+work on the wrong branch. To read another branch, use `git -C <worktree> show <branch>:<path>`.
+
+Verified at the time of writing: the only commit this project has made to the site repo is `600c1d7c`
+(docs), and `git branch --contains` reports it on **`seo` only**. `dev` and `main` are both 0 commits
+ahead of `origin`.
+
+Two related traps, recorded because both cost real time:
+
+- **Push with `origin`, not `Cavallo`.** Three remotes point at the same GitHub repo. `Cavallo` is SSH
+  and its auth is broken, so its remote-tracking refs are frozen at 2026-07-09. Branches that still
+  track it (`main`, `performance`, `pr/84`, `pr/95`) report phantom "ahead" counts — `main` claimed 25
+  unpushed commits that were pushed weeks earlier. Always `git fetch origin` and compare against
+  `origin/<branch>`.
+- **Pushing `seo` deploys immediately.** `deploy-seo.yml` triggers on push and rsyncs to
+  cavallo.seo.markroberts.io with no staging step. Commit freely, but never push without approval.
+
+Recorded in `AGENTS.md`, in `config.ts` at the point of use, and in project memory as
+`cavallo-repo-boundaries`.
