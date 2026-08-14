@@ -26,9 +26,10 @@ row.** This is a deliberate fix, not a size gradient:
 - **Zone 2 — "Hoof Boot Accessories"** (its own small callout, not folded into Zone 1 or Zone 3): pads,
   straps, studs. Still hoof-boot-related, just not animal-specific — deserves a visible seam on
   either side of it.
-- **Zone 3 — "More from Cavallo"** (smallest, clearly secondary): Saddle Pads, Other Products, Canine,
-  Clothing, Pro-Flex Splint Boots. Genuinely different product lines, not part of the animal
-  decision at all.
+- **Zone 3 — "More from Cavallo"** (smallest, clearly secondary): Other Products, Canine, Clothing.
+  Genuinely different product lines, not part of the animal decision at all. **No Saddle Pads, no
+  Pro-Flex Splint Boots anywhere in the new nav — both lines are being discontinued** (Mark,
+  2026-08-14; Saddle Pads confirmed 2026-08-13).
 
 Move "Best Boot Warranty" out of this menu entirely — footer, or a link inside category pages.
 

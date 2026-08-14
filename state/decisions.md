@@ -209,3 +209,72 @@ Two related traps, recorded because both cost real time:
 
 Recorded in `AGENTS.md`, in `config.ts` at the point of use, and in project memory as
 `cavallo-repo-boundaries`.
+
+## 2026-08-11 — Query-level GSC shows the laminitis cluster cannibalizes itself commercially
+
+Search Console's `query` dimension was pulled for the laminitis cluster for the first time. It
+contradicts the premise behind the educational/commercial split recorded in
+`docs/seo/cavallo-seo-pillar-project.md`.
+
+| Page | 12mo clicks | Attributable | Commercial | Informational |
+|---|---|---|---|---|
+| `/your-cavallo-laminitis-healing-plan/` — the "educational" canonical | 597 | 112 | **105 (94%)** | **7** |
+| `/faq/cavallo-hoof-boots-for-laminitis/` — the commercial page | 484 | 154 | 143 | 11 |
+| `/cavallo-laminitis-guide/hoof-rehab-page/` — no role in `pages.csv` | 202 | 107 | **107 (100%)** | 0 |
+
+All three rank positions 2–15 on the *same* boot queries — "cavallo boots for laminitis", "horse
+boots for laminitis", "hoof boots for laminitis", "laminitis boots", "boots for laminitic horses".
+Google anonymises long-tail queries so only ~19–30% of clicks are attributable; the split within that
+share is unambiguous.
+
+Two consequences:
+
+1. **The educational cluster is owned by nobody** — 7 clicks across 3,290 impressions. The 8,841-word
+   guide built on `seo` targets genuinely uncontested ground. That is upside, not consolidation.
+2. **Keeping the commercial FAQ page separate still holds, but the earlier justification was wrong.**
+   It was recorded as "different search intent." The canonical is commercial in practice. The real
+   reason is that the FAQ page is the best-positioned home for the commercial cluster once the
+   canonical goes fully educational.
+
+Method note: `lib/gsc.ts` has no query dimension and `state/gsc.json` is page-level only, which is why
+this went unseen for months. Pulled with a throwaway read-only script. Worth promoting into
+`scripts/` — `state/next-actions.md` item 1 has an open question of exactly this kind (the
+`/how-to-measure/` pair).
+
+Full evidence: `docs/laminitis-task-audit-2026-08-11.md`.
+
+## 2026-08-11 — A commercial laminitis page will be built; slug and migration not yet locked
+
+Mark's direction, on the finding above: the cluster splits into two pages, one per intent, and the
+commercial page needs creating. The educational half already exists on `seo`.
+
+**Decided:** two pages, not one. `/your-cavallo-laminitis-healing-plan/` stays educational; a separate
+commercial page owns the "boots for laminitis" cluster.
+
+**Not yet locked, deliberately:** the commercial slug (`/hoof-boots-for-laminitis/` is the
+recommendation and is free on both production and staging), and whether the existing FAQ page is
+301'd into it or expanded in place. Recommended path is a new page with the FAQ page 301'd in once the
+new page is live — `/faq/…` is a custom post type and fights a product-grid template. The condition on
+that path: **leaving the FAQ page live alongside a new commercial page creates a fourth competitor and
+is worse than doing nothing.**
+
+`state/pages.csv` is unchanged. Re-roling `/faq/cavallo-hoof-boots-for-laminitis/` from KEEP-SPOKE to
+MERGE+301 is a Step 3 human-review decision, recorded in `next-actions.md` item 2 step 3, not written
+by a script.
+
+Also recorded on 2026-08-11, from Mark: folding merge-source copy into the guide does not matter for
+ranking signal, since a 301 passes equity regardless. If the fold-in is skipped, 23 MERGE+301 rows
+become de facto PRUNEs — noted here so the map and reality do not silently diverge.
+
+## 2026-08-13/14 — Saddle Pads and Pro-Flex Splint Boots are both being discontinued
+
+Two product lines are going away, confirmed by Mark on two different days during the Phase 3 shop-nav
+work: Saddle Pads (2026-08-13) and Pro-Flex Splint Boots (2026-08-14). Both are removed from every new
+nav/homepage/hub design — see `docs/superpowers/specs/2026-08-13-shop-nav-restructure-design.md` and
+the two companion docs in `docs/`.
+
+Neither line's live pages are touched by this decision yet. `/product-category/saddle-pads/` (12,403
+combined GA4 views/12mo) and `/product-category/pro-flex-splint-boots/` (1,056 GA4 views/12mo) still
+exist and still earn real traffic — each needs its own disposition-map treatment (PRUNE/301, handling
+support for prior buyers) once the actual catalog discontinuation executes, on its own timeline. That
+is a separate catalog decision, not scoped here.

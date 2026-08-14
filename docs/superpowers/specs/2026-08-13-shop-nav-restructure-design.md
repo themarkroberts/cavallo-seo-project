@@ -67,14 +67,16 @@ real independent search traffic (`hoof-boot-pads` alone: 434 clicks/12mo, more t
 models) from people who already know they want a pad, not an animal. It is *also* cross-sold
 contextually within each of the 5 category pages — both, not either/or.
 
-**Saddle Pads is removed entirely, not folded in** (Mark, 2026-08-13): Cavallo is discontinuing the
-product line. The Shop mega-menu's secondary strip (see Part 2) is Other Products · Canine ·
-Clothing · Pro-Flex Splint Boots — no Saddle Pads. The live `/product-category/saddle-pads/` tree
-(12,403 combined GA4 views/12mo — real traffic, not nothing) needs its own disposition-map treatment
-once the discontinuation actually executes (PRUNE/301, handling support for prior buyers) — that's a
-catalog decision on its own timeline, out of scope for this nav spec. Saddle Pad FAQ and Saddle Pad
-Technology (previously homed under Get Boot Smart) are dropped for the same reason — no new home
-needed for content about a line that's going away.
+**Saddle Pads and Pro-Flex Splint Boots are both removed entirely, not folded in** (Mark: Saddle Pads
+2026-08-13, Splint Boots 2026-08-14): Cavallo is discontinuing both product lines. The Shop
+mega-menu's secondary strip (see Part 2) is Other Products · Canine · Clothing — no Saddle Pads, no
+Pro-Flex Splint Boots. The live `/product-category/saddle-pads/` tree (12,403 combined GA4 views/12mo
+— real traffic, not nothing) and `/product-category/pro-flex-splint-boots/` (1,056 GA4 views/12mo)
+each need their own disposition-map treatment once their discontinuation actually executes
+(PRUNE/301, handling support for prior buyers) — that's a catalog decision on its own timeline, out
+of scope for this nav spec. Saddle Pad FAQ and Saddle Pad Technology (previously homed under Get Boot
+Smart) are dropped for the same reason — no new home needed for content about a line that's going
+away.
 
 ## `/shop-cavallo/` — corrected 2026-08-13
 
@@ -230,9 +232,9 @@ Today's dropdown is plain CSS `:hover` flyouts with no JS and no multi-column la
 real (contained) engineering, not a settings toggle. Recommended, scoped:
 
 - **Shop** — image-tile mega-menu: a primary row of Horse/Donkey/Mini/Draft/Acute Laminitis/
-  Accessories, a smaller secondary strip for Other Products/Canine/Clothing/Pro-Flex Splint Boots.
-  Mirrors `/shop-cavallo/`'s rebuilt content (see Part 1) and the homepage carousel — one visual
-  pattern, three surfaces.
+  Accessories, a smaller secondary strip for Other Products/Canine/Clothing (no Saddle Pads, no
+  Pro-Flex Splint Boots — both discontinued). Mirrors `/shop-cavallo/`'s rebuilt content (see Part 1)
+  and the homepage carousel — one visual pattern, three surfaces.
 - **Learn** — replaces Get Boot Smart's flat list with organized columns (below).
 - **About** — replaces three dying branches with one organized mega-menu (below).
 - **How to Measure** and **Contact Us** stay exactly as single standalone links — a genuine top

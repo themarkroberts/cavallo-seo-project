@@ -11,147 +11,138 @@ brief, not a visual-design brief.
 
 ---
 
-## What's being mocked up, in priority order
+## Four things to build, per Mark (2026-08-13)
 
-**Priority 1 — the actual Phase 3 deliverable, due this month, gated on Carole's sign-off:**
+1. **Homepage — redesigned to funnel people to the new categories, not the old hoof-boot category.**
+2. **Homepage — call out the new pillars** (Pillar 2 Hoof Health & Conditions, Pillar 3 Barefoot Horse
+   Care), which have zero homepage presence today.
+3. **The new navigation itself** (5-item top nav + mega-menu content).
+4. **The mega menu, mocked up AND prototyped — interactive, on both desktop and mobile** — not just
+   static frames. Wire up real click/hover states so it can be clicked through, not just looked at.
 
-1. Desktop "Shop" mega-menu, closed and open states
-2. Mobile "Shop" drawer, closed and open states
-3. `/shop-cavallo/` rebuilt as the shop landing page
-4. Homepage: updated "Shop by Style" carousel section + hero
-5. Hoof-boot hub page: updated "By Horse Type" section
-
-**Priority 2 — Mark's scope expansion, not on a deadline, not gated on Carole:**
-
-6. Full desktop top nav, closed state (5 items)
-7. Desktop "Learn" mega-menu, open state
-8. Desktop "About" mega-menu, open state
-9. Mobile drawer, full top-level list + one level expanded (any branch)
-
-If time is short, stop after Priority 1 — it's the thing that's actually due.
+Everything below is organized under these four, with the underlying screens each one requires.
 
 ---
 
-## Screen-by-screen content
+## 1. Homepage — funnel to the new categories, not the hoof-boot category
 
-### 1–2. Shop mega-menu (desktop) / Shop drawer (mobile)
+**What's wrong today:** the hero's only CTA is "Shop Hoof Boots," pointing straight at
+`/product-category/hoof-boot/` — the old, single, undifferentiated shop entry. The category carousel
+further down the page ("Shop by Style") is currently the *only* place animal/style choice appears, and
+it's several scrolls below the fold, showing the 8 old boot-model tiles (Trek/Simple/Sport/etc.), not
+animal types.
 
-**Trigger:** hovering "Shop" (desktop) opens the mega-menu. Mobile: tapping "Shop" expands one
-accordion level — no mega-menu treatment needed on mobile, it's still a simple list.
+**What needs to change:** the animal/condition choice — Horse, Donkey, Mini, Draft, Acute Laminitis,
+Accessories — needs to be the *primary* path out of the homepage, not a secondary carousel. Two
+layout directions worth mocking up and comparing, since this is a real visual/UX call, not something
+to settle in a doc:
 
-**Content, primary row (large tiles, one per animal/condition — these need real photography, not
-icons, per Mark's original complaint that plain text labels don't mean anything to first-time
-buyers):**
+- **Direction A — hero CTA repoints, carousel moves up.** Keep the hero as a single H1 + CTA button,
+  but change the button's label and destination from "Shop Hoof Boots" → hub, to something like "Find
+  Your Boot" → the rebuilt `/shop-cavallo/` (which is now the category-picker page, see section 3
+  below). Move the re-contented category carousel (Horse/Donkey/Mini/Draft/Accessories tiles) up to
+  be the *second* section on the page, immediately after the hero — first thing visible after one
+  scroll, not five.
+- **Direction B — hero *is* the category picker.** Merge hero and carousel into one section: H1 +
+  trust badges at top, the 5-6 category tiles directly embedded below it, no separate mid-page
+  carousel needed. More aggressive, but removes a scroll between "I arrived" and "here's how to find
+  my boot."
 
-| Tile | Links to |
+Mock up both, see which reads better with the real Cavallo photography and layout, rather than
+picking one now.
+
+**What stays:** Featured-Products' "Shop All" CTA continues to point at `/shop-cavallo/` (now more
+useful, since that page is being rebuilt as the real category picker rather than a thin orphaned page)
+— testimonials/brand/newsletter content below the fold is untouched.
+
+## 2. Homepage — call out the pillars
+
+**What's missing today:** Pillar 2 (`/horse-hoof-care/`) and Pillar 3 (`/barefoot-horse-care/`) have
+*zero* homepage presence. The existing "Featured Guides" block links to sizing/technology/reviews
+content, but nothing points at either pillar hub. This mockup assumes both are live on production
+(Mark's call — design for the post-publish state, not today's).
+
+**What to add:** a new homepage section — call it something plain like "Learn About Hoof Care" or
+"Guides & Resources" (not jargon) — sitting after the category section from item 1, before the
+brand/testimonial content. Tile or card layout, one entry per:
+
+- **Hoof Health & Conditions** (Pillar 2 hub) — the authority/condition pillar (laminitis, navicular,
+  etc.)
+- **Barefoot Horse Care** (Pillar 3 hub) — the wild-horse/trimming pillar
+- Optionally a third card for the buying guide / How to Measure, if a trio reads better visually than
+  a pair — designer's call.
+
+Pillar 1 doesn't need its own card here — it's already the shop hub, already getting primary
+placement via item 1's funnel. This section is specifically to give 2 and 3 a homepage entry point
+they currently don't have anywhere on the site.
+
+## 3. The new navigation
+
+**Top nav, closed state — five items:** Shop · How to Measure · Learn · About · Contact Us.
+
+Worth trying two visual treatments and comparing: all five equal weight, vs. Shop visually weighted
+heavier (button-style vs. plain link) given it alone carries roughly 80% of everything the current
+nav links to.
+
+**`/shop-cavallo/` rebuilt** — this is the page "Shop" links to when *clicked* (not hovered), and it's
+the category picker referenced in item 1. Full-page tile grid: Horse, Donkey, Mini, Draft, Acute
+Laminitis, Accessories as large tiles (need real photography, not icons or plain labels — that's the
+whole point, per Mark's original complaint that people don't know what "Trek" or "ELB" means).
+Secondary product lines (Other Products, Canine, Clothing) appear lower on the
+page, smaller. **No Saddle Pads and no Pro-Flex Splint Boots anywhere — both lines are being
+discontinued.**
+
+**Hoof-boot hub's "By Horse Type" section** — existing placeholder section on
+`/product-category/hoof-boot/` currently points at old boot-model subcategory links. Re-content its
+rows to the 4 animal categories + Acute Laminitis (5 tiles; Accessories isn't part of this specific
+section, it's cross-sold elsewhere on the same hub page already).
+
+## 4. The mega menu — mocked up AND prototyped, desktop and mobile
+
+This needs to be a working click-through prototype (Figma prototyping — linked frames with real
+interactions), not a set of disconnected static screens. Build every state below and wire the
+transitions between them.
+
+### Desktop — hover-triggered (or click; see open question below)
+
+| State | Shows |
 |---|---|
-| Horse | `/product-category/horse-boots/` (new) |
-| Donkey | `/product-category/donkey-boots/` (new) |
-| Mini | `/product-category/mini-boots/` (new) |
-| Draft | `/product-category/draft-boots/` (new) |
-| Acute Laminitis | `/hoof-boots-for-laminitis/` (in flight separately, `next-actions.md` item 2 — don't design this landing page here, just the tile linking to it) |
-| Accessories | `/product-category/hoof-boot-accessories/` (existing) |
+| Nav closed | The 5-item bar, nothing open |
+| Shop open | Primary row: Horse, Donkey, Mini, Draft, Acute Laminitis, Accessories (large photo tiles). Secondary row, smaller: Other Products, Canine, Clothing. No Saddle Pads, no Pro-Flex Splint Boots — both discontinued. |
+| Learn open | 3 columns — **Hoof Health & Conditions** (Laminitis Guide, Navicular, Hoof Rehab, "see all conditions" link to the Pillar 2 hub); **Barefoot Horse Care** (Why Barefoot?, "see all" link to the Pillar 3 hub); **Buying & Sizing Guides** (FAQ, How to Measure, Ask an Expert) |
+| About open | 3 sections — **Our Story** (About, Team, Cavallo Gives, Associate Sellers, Affiliate Program, Donations, Research Behind Cavallo Boots, Hoof Boot Technology); **Reviews** (plain label, not "social proof" — Real Stories, Experts, Celebrities, Submit a Review); **News & Updates** (Newsletters, Media, Video Library, Blog) |
 
-**Content, secondary row (smaller, less visual weight — real product lines, just not the main
-funnel):** Other Products · Canine · Clothing · Pro-Flex Splint Boots.
+Prototype the transitions between all four states (closed → each open state, and back), so it can
+actually be clicked through, hovered through, and demoed — not just viewed as flat frames.
 
-**Do not include:** Saddle Pads, anywhere. That line is being discontinued.
+### Mobile — accordion, one level deep (already enforced in code today)
 
-**Open design question for the mockup to resolve:** exact tile treatment (photo crop, hover state,
-whether Acute Laminitis gets a visually distinct treatment as a "condition" vs. the four "animal"
-tiles, given it's conceptually a different kind of category).
+| State | Shows |
+|---|---|
+| Drawer closed | Hamburger icon only |
+| Drawer open | 5 top-level items, flat list, nothing expanded |
+| One branch expanded (mock Shop, since it's the one that most needs checking) | Same one-level children as desktop's Shop mega-menu content, in an accordion list — no tile/photo treatment needed here, mobile stays a simple list per the existing code constraint |
 
-### 3. `/shop-cavallo/` rebuilt
-
-This is the page "Shop" links to when *clicked*, not just hovered — currently thin/orphaned, needs a
-real design. Content: the same 6 destinations as the mega-menu's primary row, as a full-page tile
-grid (bigger version of the mega-menu content, basically — think a landing page, not a dropdown).
-Secondary product lines (Other Products, Canine, Clothing, Pro-Flex) can appear lower on the page,
-smaller.
-
-### 4. Homepage carousel + hero
-
-Existing block: a "Shop by Style" carousel currently showing 8 old boot-model tiles. Re-content it to
-5 tiles: Horse, Donkey, Mini, Draft, Accessories (same photography direction as the Shop mega-menu).
-**Acute Laminitis does not fit this carousel** (it's a taxonomy-only component; Laminitis is a
-standalone page, not a category) — mock up a separate small callout for it near the hero instead,
-distinct from the carousel.
-
-Hero CTA stays "Shop Hoof Boots" → hub. Featured-Products CTA stays "Shop All" → the rebuilt
-`/shop-cavallo/`.
-
-### 5. Hoof-boot hub — "By Horse Type" section
-
-Existing section on `/product-category/hoof-boot/`, currently a placeholder pointing at old boot-model
-links. Re-content its rows to point at the 4 new animal categories + Acute Laminitis (5 rows/tiles,
-no Accessories here — this section is specifically the animal/condition breakdown, Accessories is
-cross-sold elsewhere on the same page already).
-
-### 6. Full top nav, closed state
-
-Five items, flat, no visual hierarchy needed between them except that Shop should probably read as
-the "primary" action given it's 80% of all nav-linked traffic — worth trying a version where it's
-visually weighted slightly heavier (button-style vs. plain text link) alongside a version where all
-five are equal weight, and comparing.
-
-**Shop · How to Measure · Learn · About · Contact Us**
-
-### 7. Learn mega-menu (desktop, open state)
-
-Three columns:
-
-**Column 1 — Hoof Health & Conditions**
-- Laminitis & Hoof Issue Guide
-- Navicular
-- Using Cavallos for Hoof Rehab
-- *(a "see all conditions" link to the Pillar 2 hub itself, rather than listing every spoke)*
-
-**Column 2 — Barefoot Horse Care**
-- Why Barefoot?
-- *(a "see all" link to the Pillar 3 hub)*
-
-**Column 3 — Buying & Sizing Guides**
-- Hoof Boots FAQ
-- How to Measure
-- Ask an Expert
-
-Clicking "Learn" itself (not hovering) → `/things-to-know/`, repurposed as the Learn landing page.
-
-### 8. About mega-menu (desktop, open state)
-
-Three sections:
-
-**Our Story** — About, Meet the Team, Cavallo Gives, Associate Sellers Program, Affiliate Program,
-Donations and Sponsorships, Research Behind Cavallo Boots, Hoof Boot Technology
-*(flag for whoever writes real copy later: these last two are near-duplicate "why Cavallo" content —
-worth merging into one page before or during this build, not two)*
-
-**Reviews** — Real Stories, Horse Industry Experts, Celebrities, Submit Your Review
-*(label it "Reviews," plainly — not "Social Proof" or similar marketing language)*
-
-**News & Updates** — Newsletters, Cavallo in the Media, Video Library, Notable Blogs
-
-### 9. Mobile drawer, full structure
-
-Mobile is already capped at one level of children in code — this mockup is mostly a content check,
-not a new interaction pattern. Show: the 5 top-level items, and one branch (Shop is the most
-important to check) with its accordion expanded to the new flat set of children.
+Prototype drawer open/close and at least one accordion expand/collapse, same reasoning as desktop —
+needs to be clickable, not just illustrated.
 
 ---
 
 ## Things this mockup does NOT need to solve
 
 - Individual condition-spoke pages (thrush, DSLD, white line, etc.) or their content — those link from
-  the Pillar 2 hub itself, not from the nav.
+  the Pillar 2 hub itself, not from the nav or homepage.
 - The Acute Laminitis landing page's own design — that's `next-actions.md` item 2's build, in flight
-  separately.
+  separately. Just needs a tile/link pointing at it.
 - Category page templates beyond the hub's existing pattern — Horse/Donkey/Mini/Draft reuse the same
   archive template the hub already has (product grid + buyer's guide copy blocks), just retitled.
 - Any saddle-pad content, anywhere.
 
-## Known open decisions for whoever builds the real interaction (not just the visual mock)
+## Known open decisions for whoever builds the real interaction (not just the prototype)
 
-- Hover-to-open vs. click-to-open for the mega-menus (today's nav is pure CSS `:hover`; a real
-  mega-menu on desktop should probably reconsider this for accessibility/touch-laptop reasons).
+- Hover-to-open vs. click-to-open for the desktop mega-menus (today's nav is pure CSS `:hover`; a real
+  mega-menu should probably reconsider this for accessibility/touch-laptop reasons — try both in the
+  prototype if easy, it'll make this decision more concrete for Mark to react to).
 - Whether How to Measure's nav target is `/how-to-measure/` or its larger untracked twin
   `/things-to-know/how-to-measure/` — pending `next-actions.md` item 1's review, not a design call.
+- Which homepage layout direction (A or B, item 1) actually reads better — resolve visually, not here.
